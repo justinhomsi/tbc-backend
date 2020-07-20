@@ -11,8 +11,16 @@ var connection = mysql.createConnection({
 
 var bluePosts;
 
-router.get('/', async function(req, res) {
-  res.send(bluePosts);
+router.get('/', function(req, res) {
+  var sortedPosts;
+  try {
+    connection.query('SELECT * FROM blue_posts ORDER BY created DESC', function (error, results, fields) {
+      if (error) throw error;
+      res.send(results)
+    })
+  } catch (err) {
+    console.error(err)
+  }
 });
 
 async function getBluePosts() {
