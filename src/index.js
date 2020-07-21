@@ -18,8 +18,14 @@ app.use('/npc', Creatures)
 app.use('/search', Search)
 app.use('/blue', Blue)
 
-app.get('*', (req, res) => {
-  res.sendFile(__dirname + '/index.html')
+const buildLocation = 'dist';
+
+app.use((req, res, next) => {
+  if (!req.originalUrl.includes(buildLocation)) {
+    res.sendFile(__dirname + '/index.html');
+  } else {
+    next();
+  }
 })
 
 const PORT = process.env.PORT || 3000
