@@ -18,7 +18,7 @@ app.use('/npc', Creatures)
 app.use('/search', Search)
 app.use('/blue', Blue)
 
-app.all('*', (req, res) => {
+app.get('*', (req, res) => {
   res.sendFile(__dirname + '/index.html')
 })
 
