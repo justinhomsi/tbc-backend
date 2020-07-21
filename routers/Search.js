@@ -13,6 +13,7 @@ router.get('', (req, res) => {
     res.sendStatus(404).end()
   } else {
     res.send({creatures: creatures, items: items, quests: quests})
+    res.sendFile(__dirname + '/index.html')
   }
 })
 
