@@ -1,0 +1,240 @@
+{
+	"table": "creature_ai_summons",
+	"rows":
+	[
+		{
+			"id": 1,
+			"position_x": 8074.84,
+			"position_y": -3840,
+			"position_z": 690.061,
+			"orientation": 4.6,
+			"spawntimesecs": 180000,
+			"comment": "10727"
+		},
+		{
+			"id": 2,
+			"position_x": -472.02,
+			"position_y": 105.823,
+			"position_z": -94.6299,
+			"orientation": 0.0301925,
+			"spawntimesecs": 300000,
+			"comment": "5721"
+		},
+		{
+			"id": 3,
+			"position_x": -467.099,
+			"position_y": 85.2944,
+			"position_z": -94.7318,
+			"orientation": 3.95326,
+			"spawntimesecs": 300000,
+			"comment": "5720"
+		},
+		{
+			"id": 4,
+			"position_x": -9967.55,
+			"position_y": -135.956,
+			"position_z": 24.5909,
+			"orientation": 0.170326,
+			"spawntimesecs": 180000,
+			"comment": "6846"
+		},
+		{
+			"id": 5,
+			"position_x": -9958.49,
+			"position_y": -140.526,
+			"position_z": 24.2409,
+			"orientation": 4.0015,
+			"spawntimesecs": 180000,
+			"comment": "6846"
+		},
+		{
+			"id": 6,
+			"position_x": -9964.59,
+			"position_y": -140.567,
+			"position_z": 24.5105,
+			"orientation": 0.741307,
+			"spawntimesecs": 180000,
+			"comment": "6846"
+		},
+		{
+			"id": 7,
+			"position_x": -9232.11,
+			"position_y": 342.473,
+			"position_z": 74.4399,
+			"orientation": 4.31658,
+			"spawntimesecs": 180000,
+			"comment": "5917"
+		},
+		{
+			"id": 8,
+			"position_x": -1209.65,
+			"position_y": -2738.38,
+			"position_z": 102.646,
+			"orientation": 4.99352,
+			"spawntimesecs": 300000,
+			"comment": "3395"
+		},
+		{
+			"id": 9,
+			"position_x": 274.415,
+			"position_y": -416.159,
+			"position_z": -119.962,
+			"orientation": 4.86179,
+			"spawntimesecs": 18000000,
+			"comment": "11460"
+		},
+		{
+			"id": 10,
+			"position_x": 272.422,
+			"position_y": -418.679,
+			"position_z": -119.962,
+			"orientation": 4.76048,
+			"spawntimesecs": 18000000,
+			"comment": "11460"
+		},
+		{
+			"id": 11,
+			"position_x": 268.91,
+			"position_y": -417.027,
+			"position_z": -119.962,
+			"orientation": 5.03693,
+			"spawntimesecs": 18000000,
+			"comment": "11460"
+		},
+		{
+			"id": 12,
+			"position_x": 1809.49,
+			"position_y": 750.594,
+			"position_z": 18.0475,
+			"orientation": 4.56791,
+			"spawntimesecs": 18000000,
+			"comment": "8138"
+		},
+		{
+			"id": 13,
+			"position_x": 1824.58,
+			"position_y": 747.281,
+			"position_z": 21.1486,
+			"orientation": 3.70162,
+			"spawntimesecs": 18000000,
+			"comment": "8138"
+		},
+		{
+			"id": 14,
+			"position_x": 1796.56,
+			"position_y": 758.122,
+			"position_z": 14.7124,
+			"orientation": 5.03836,
+			"spawntimesecs": 18000000,
+			"comment": "8138"
+		},
+		{
+			"id": 15,
+			"position_x": 1783.9,
+			"position_y": 745.005,
+			"position_z": 16.111,
+			"orientation": 6.03896,
+			"spawntimesecs": 18000000,
+			"comment": "8138"
+		},
+		{
+			"id": 16,
+			"position_x": -1229.44,
+			"position_y": 1476.47,
+			"position_z": 68.557,
+			"orientation": 3.40581,
+			"spawntimesecs": 18000000,
+			"comment": "17280"
+		},
+		{
+			"id": 17,
+			"position_x": -1230.98,
+			"position_y": 1479.24,
+			"position_z": 68.5544,
+			"orientation": 3.3524,
+			"spawntimesecs": 18000000,
+			"comment": "17280"
+		},
+		{
+			"id": 18,
+			"position_x": -1227.86,
+			"position_y": 1479.93,
+			"position_z": 68.5529,
+			"orientation": 3.54404,
+			"spawntimesecs": 18000000,
+			"comment": "17280"
+		},
+		{
+			"id": 19,
+			"position_x": -1226.47,
+			"position_y": 1476.96,
+			"position_z": 68.5558,
+			"orientation": 3.46079,
+			"spawntimesecs": 18000000,
+			"comment": "17280"
+		},
+		{
+			"id": 20,
+			"position_x": -169.839,
+			"position_y": -324.961,
+			"position_z": 64.4014,
+			"orientation": 3.12472,
+			"spawntimesecs": 300000,
+			"comment": "10268"
+		},
+		{
+			"id": 21,
+			"position_x": 28.067,
+			"position_y": 61.875,
+			"position_z": -123.405,
+			"orientation": 4.67,
+			"spawntimesecs": 600000,
+			"comment": "12238"
+		},
+		{
+			"id": 22,
+			"position_x": 2540.95,
+			"position_y": 4032.21,
+			"position_z": 136.18,
+			"orientation": 4.44,
+			"spawntimesecs": 60000,
+			"comment": "20287"
+		},
+		{
+			"id": 23,
+			"position_x": 2507.12,
+			"position_y": 4010.69,
+			"position_z": 133.87,
+			"orientation": 5.99,
+			"spawntimesecs": 60000,
+			"comment": "20287"
+		},
+		{
+			"id": 24,
+			"position_x": 2547.05,
+			"position_y": 3980.34,
+			"position_z": 131.04,
+			"orientation": 2.29,
+			"spawntimesecs": 60000,
+			"comment": "20287"
+		},
+		{
+			"id": 25,
+			"position_x": -4542.21,
+			"position_y": 1023.72,
+			"position_z": 9.669,
+			"orientation": 0.86,
+			"spawntimesecs": 32000,
+			"comment": "21867"
+		},
+		{
+			"id": 26,
+			"position_x": 726.106,
+			"position_y": 77.9764,
+			"position_z": -86.5913,
+			"orientation": 6.00393,
+			"spawntimesecs": 18000000,
+			"comment": "13716"
+		}
+	]
+}

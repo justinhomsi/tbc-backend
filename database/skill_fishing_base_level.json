@@ -1,0 +1,326 @@
+{
+	"table": "skill_fishing_base_level",
+	"rows":
+	[
+		{
+			"entry": 1,
+			"skill": -70
+		},
+		{
+			"entry": 12,
+			"skill": -70
+		},
+		{
+			"entry": 14,
+			"skill": -70
+		},
+		{
+			"entry": 85,
+			"skill": -70
+		},
+		{
+			"entry": 141,
+			"skill": -70
+		},
+		{
+			"entry": 215,
+			"skill": -70
+		},
+		{
+			"entry": 3524,
+			"skill": -70
+		},
+		{
+			"entry": 3430,
+			"skill": -70
+		},
+		{
+			"entry": 17,
+			"skill": -20
+		},
+		{
+			"entry": 38,
+			"skill": -20
+		},
+		{
+			"entry": 40,
+			"skill": -20
+		},
+		{
+			"entry": 130,
+			"skill": -20
+		},
+		{
+			"entry": 148,
+			"skill": -20
+		},
+		{
+			"entry": 718,
+			"skill": -20
+		},
+		{
+			"entry": 719,
+			"skill": -20
+		},
+		{
+			"entry": 1519,
+			"skill": -20
+		},
+		{
+			"entry": 1537,
+			"skill": -20
+		},
+		{
+			"entry": 1581,
+			"skill": -20
+		},
+		{
+			"entry": 1637,
+			"skill": -20
+		},
+		{
+			"entry": 1638,
+			"skill": -20
+		},
+		{
+			"entry": 1657,
+			"skill": -20
+		},
+		{
+			"entry": 3525,
+			"skill": -20
+		},
+		{
+			"entry": 3433,
+			"skill": -20
+		},
+		{
+			"entry": 10,
+			"skill": 55
+		},
+		{
+			"entry": 11,
+			"skill": 55
+		},
+		{
+			"entry": 44,
+			"skill": 55
+		},
+		{
+			"entry": 267,
+			"skill": 55
+		},
+		{
+			"entry": 331,
+			"skill": 55
+		},
+		{
+			"entry": 406,
+			"skill": 55
+		},
+		{
+			"entry": 8,
+			"skill": 130
+		},
+		{
+			"entry": 15,
+			"skill": 130
+		},
+		{
+			"entry": 33,
+			"skill": 130
+		},
+		{
+			"entry": 36,
+			"skill": 130
+		},
+		{
+			"entry": 45,
+			"skill": 130
+		},
+		{
+			"entry": 400,
+			"skill": 130
+		},
+		{
+			"entry": 405,
+			"skill": 130
+		},
+		{
+			"entry": 796,
+			"skill": 130
+		},
+		{
+			"entry": 16,
+			"skill": 205
+		},
+		{
+			"entry": 28,
+			"skill": 205
+		},
+		{
+			"entry": 47,
+			"skill": 205
+		},
+		{
+			"entry": 357,
+			"skill": 205
+		},
+		{
+			"entry": 361,
+			"skill": 205
+		},
+		{
+			"entry": 440,
+			"skill": 205
+		},
+		{
+			"entry": 490,
+			"skill": 205
+		},
+		{
+			"entry": 493,
+			"skill": 205
+		},
+		{
+			"entry": 1417,
+			"skill": 205
+		},
+		{
+			"entry": 2100,
+			"skill": 205
+		},
+		{
+			"entry": 3483,
+			"skill": 280
+		},
+		{
+			"entry": 3520,
+			"skill": 280
+		},
+		{
+			"entry": 3521,
+			"skill": 305
+		},
+		{
+			"entry": 41,
+			"skill": 330
+		},
+		{
+			"entry": 46,
+			"skill": 330
+		},
+		{
+			"entry": 139,
+			"skill": 330
+		},
+		{
+			"entry": 618,
+			"skill": 330
+		},
+		{
+			"entry": 1377,
+			"skill": 330
+		},
+		{
+			"entry": 1977,
+			"skill": 330
+		},
+		{
+			"entry": 2017,
+			"skill": 330
+		},
+		{
+			"entry": 2057,
+			"skill": 330
+		},
+		{
+			"entry": 3805,
+			"skill": 330
+		},
+		{
+			"entry": 3519,
+			"skill": 355
+		},
+		{
+			"entry": 4080,
+			"skill": 355
+		},
+		{
+			"entry": 3518,
+			"skill": 380
+		},
+		{
+			"entry": 3523,
+			"skill": 380
+		},
+		{
+			"entry": 297,
+			"skill": 205
+		},
+		{
+			"entry": 3625,
+			"skill": 280
+		},
+		{
+			"entry": 1112,
+			"skill": 330
+		},
+		{
+			"entry": 1222,
+			"skill": 330
+		},
+		{
+			"entry": 1227,
+			"skill": 330
+		},
+		{
+			"entry": 3140,
+			"skill": 330
+		},
+		{
+			"entry": 3653,
+			"skill": 355
+		},
+		{
+			"entry": 3656,
+			"skill": 355
+		},
+		{
+			"entry": 3658,
+			"skill": 355
+		},
+		{
+			"entry": 3614,
+			"skill": 395
+		},
+		{
+			"entry": 3621,
+			"skill": 395
+		},
+		{
+			"entry": 3690,
+			"skill": 405
+		},
+		{
+			"entry": 3691,
+			"skill": 405
+		},
+		{
+			"entry": 3692,
+			"skill": 405
+		},
+		{
+			"entry": 3859,
+			"skill": 405
+		},
+		{
+			"entry": 3607,
+			"skill": 300
+		},
+		{
+			"entry": 3479,
+			"skill": -20
+		}
+	]
+}

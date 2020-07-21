@@ -1,0 +1,18 @@
+{
+	"table": "world_template",
+	"rows":
+	[
+		{
+			"map": 1,
+			"ScriptName": "world_map_kalimdor"
+		},
+		{
+			"map": 0,
+			"ScriptName": "world_map_eastern_kingdoms"
+		},
+		{
+			"map": 530,
+			"ScriptName": "world_map_outland"
+		}
+	]
+}

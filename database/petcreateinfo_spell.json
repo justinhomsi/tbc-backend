@@ -1,0 +1,62 @@
+{
+	"table": "petcreateinfo_spell",
+	"rows":
+	[
+		{
+			"entry": 416,
+			"Spell1": 3110,
+			"Spell2": 0,
+			"Spell3": 0,
+			"Spell4": 0
+		},
+		{
+			"entry": 417,
+			"Spell1": 19505,
+			"Spell2": 0,
+			"Spell3": 0,
+			"Spell4": 0
+		},
+		{
+			"entry": 510,
+			"Spell1": 31707,
+			"Spell2": 33395,
+			"Spell3": 0,
+			"Spell4": 0
+		},
+		{
+			"entry": 1860,
+			"Spell1": 3716,
+			"Spell2": 0,
+			"Spell3": 0,
+			"Spell4": 0
+		},
+		{
+			"entry": 1863,
+			"Spell1": 7814,
+			"Spell2": 0,
+			"Spell3": 0,
+			"Spell4": 0
+		},
+		{
+			"entry": 5807,
+			"Spell1": 17254,
+			"Spell2": 0,
+			"Spell3": 0,
+			"Spell4": 0
+		},
+		{
+			"entry": 15429,
+			"Spell1": 25163,
+			"Spell2": 0,
+			"Spell3": 0,
+			"Spell4": 0
+		},
+		{
+			"entry": 15352,
+			"Spell1": 36213,
+			"Spell2": 0,
+			"Spell3": 0,
+			"Spell4": 0
+		}
+	]
+}

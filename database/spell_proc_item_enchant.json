@@ -1,0 +1,22 @@
+{
+	"table": "spell_proc_item_enchant",
+	"rows":
+	[
+		{
+			"entry": 8034,
+			"ppmRate": 9
+		},
+		{
+			"entry": 13897,
+			"ppmRate": 6
+		},
+		{
+			"entry": 20004,
+			"ppmRate": 6
+		},
+		{
+			"entry": 20005,
+			"ppmRate": 1.6
+		}
+	]
+}

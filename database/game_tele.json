@@ -1,0 +1,3795 @@
+{
+	"table": "game_tele",
+	"rows":
+	[
+		{
+			"id": 1,
+			"position_x": 1400.61,
+			"position_y": -1493.87,
+			"position_z": 54.7844,
+			"orientation": 4.08661,
+			"map": 0,
+			"name": "RuinsOfAndorhal"
+		},
+		{
+			"id": 2,
+			"position_x": 1728.65,
+			"position_y": -1602.25,
+			"position_z": 63.429,
+			"orientation": 1.6558,
+			"map": 0,
+			"name": "WesternPlaguelands"
+		},
+		{
+			"id": 3,
+			"position_x": 659.762,
+			"position_y": -959.316,
+			"position_z": 164.404,
+			"orientation": 0.433716,
+			"map": 0,
+			"name": "Strahnbrad"
+		},
+		{
+			"id": 4,
+			"position_x": 1269.64,
+			"position_y": -2556.21,
+			"position_z": 93.6088,
+			"orientation": 0.620623,
+			"map": 0,
+			"name": "Scholomance"
+		},
+		{
+			"id": 5,
+			"position_x": 1869.13,
+			"position_y": -3213.89,
+			"position_z": 124.624,
+			"orientation": 1.9126,
+			"map": 0,
+			"name": "TheMarrisStead"
+		},
+		{
+			"id": 6,
+			"position_x": -1256.99,
+			"position_y": -1189.47,
+			"position_z": 38.9804,
+			"orientation": 3.82979,
+			"map": 0,
+			"name": "DunGarok"
+		},
+		{
+			"id": 7,
+			"position_x": -483.455,
+			"position_y": -1426.23,
+			"position_z": 89.1916,
+			"orientation": 1.93697,
+			"map": 0,
+			"name": "DurnholdeKeep"
+		},
+		{
+			"id": 8,
+			"position_x": -34.1467,
+			"position_y": -923.366,
+			"position_z": 54.5576,
+			"orientation": 0.15019,
+			"map": 0,
+			"name": "TarrenMill"
+		},
+		{
+			"id": 9,
+			"position_x": -436.657,
+			"position_y": -581.254,
+			"position_z": 53.5944,
+			"orientation": 1.25917,
+			"map": 0,
+			"name": "HillsbradFoothills"
+		},
+		{
+			"id": 10,
+			"position_x": -853.221,
+			"position_y": -533.529,
+			"position_z": 9.98556,
+			"orientation": 0.242866,
+			"map": 0,
+			"name": "Southshore"
+		},
+		{
+			"id": 11,
+			"position_x": 629.684,
+			"position_y": -348.068,
+			"position_z": 151.105,
+			"orientation": 2.85588,
+			"map": 0,
+			"name": "RuinsOfAlterac"
+		},
+		{
+			"id": 12,
+			"position_x": 335.479,
+			"position_y": 204.771,
+			"position_z": 42.1124,
+			"orientation": 3.42294,
+			"map": 0,
+			"name": "Dalaran"
+		},
+		{
+			"id": 13,
+			"position_x": 370.763,
+			"position_y": -491.355,
+			"position_z": 175.361,
+			"orientation": 5.37858,
+			"map": 0,
+			"name": "AlteracMountains"
+		},
+		{
+			"id": 14,
+			"position_x": 7360.86,
+			"position_y": -6803.3,
+			"position_z": 44.2942,
+			"orientation": 5.83679,
+			"map": 530,
+			"name": "Ghostlands"
+		},
+		{
+			"id": 15,
+			"position_x": -1993.62,
+			"position_y": -11475.8,
+			"position_z": 63.9657,
+			"orientation": 5.29437,
+			"map": 530,
+			"name": "BloodmystIsle"
+		},
+		{
+			"id": 16,
+			"position_x": -2474.89,
+			"position_y": -11380.1,
+			"position_z": 37.3419,
+			"orientation": 1.59514,
+			"map": 530,
+			"name": "Nazzivian"
+		},
+		{
+			"id": 17,
+			"position_x": -1897.51,
+			"position_y": -10710.7,
+			"position_z": 110.708,
+			"orientation": 1.17888,
+			"map": 530,
+			"name": "TheVectorCoil"
+		},
+		{
+			"id": 18,
+			"position_x": -1944.5,
+			"position_y": -11873.7,
+			"position_z": 49.3983,
+			"orientation": 6.04835,
+			"map": 530,
+			"name": "BloodWatch"
+		},
+		{
+			"id": 19,
+			"position_x": -1512.97,
+			"position_y": -11378.7,
+			"position_z": 67.4006,
+			"orientation": 0.326728,
+			"map": 530,
+			"name": "Axxarien"
+		},
+		{
+			"id": 20,
+			"position_x": -1205.72,
+			"position_y": -12428.7,
+			"position_z": 94.8675,
+			"orientation": 6.23292,
+			"map": 530,
+			"name": "WyrmscarIsland"
+		},
+		{
+			"id": 21,
+			"position_x": -1933.1,
+			"position_y": -12871.3,
+			"position_z": 85.896,
+			"orientation": 5.32971,
+			"map": 530,
+			"name": "BloodcurseIsle"
+		},
+		{
+			"id": 22,
+			"position_x": -2676.89,
+			"position_y": -12141.3,
+			"position_z": 17.2281,
+			"orientation": 5.52763,
+			"map": 530,
+			"name": "Kessel'sCrossing"
+		},
+		{
+			"id": 23,
+			"position_x": -5094.34,
+			"position_y": -11129.6,
+			"position_z": 25.058,
+			"orientation": 2.78659,
+			"map": 530,
+			"name": "SilvermystIsle"
+		},
+		{
+			"id": 24,
+			"position_x": -4216.87,
+			"position_y": -12336.9,
+			"position_z": 4.34247,
+			"orientation": 6.02008,
+			"map": 530,
+			"name": "AzuremystIsle"
+		},
+		{
+			"id": 25,
+			"position_x": -3965.7,
+			"position_y": -11653.6,
+			"position_z": -138.844,
+			"orientation": 0.852154,
+			"map": 530,
+			"name": "TheExodar"
+		},
+		{
+			"id": 26,
+			"position_x": -3378.24,
+			"position_y": -12347.1,
+			"position_z": 22.5696,
+			"orientation": 0.068326,
+			"map": 530,
+			"name": "StillpineHold"
+		},
+		{
+			"id": 27,
+			"position_x": -4190.85,
+			"position_y": -12516.5,
+			"position_z": 44.5276,
+			"orientation": 1.34225,
+			"map": 530,
+			"name": "AzureWatch"
+		},
+		{
+			"id": 28,
+			"position_x": -1551.2,
+			"position_y": -1808.1,
+			"position_z": 67.5219,
+			"orientation": 3.119,
+			"map": 0,
+			"name": "StromgardeKeep"
+		},
+		{
+			"id": 29,
+			"position_x": -4021.4,
+			"position_y": -13582.1,
+			"position_z": 54.7153,
+			"orientation": 2.06953,
+			"map": 530,
+			"name": "AmmenVale"
+		},
+		{
+			"id": 30,
+			"position_x": -4042.22,
+			"position_y": -13779.5,
+			"position_z": 74.8069,
+			"orientation": 2.37976,
+			"map": 530,
+			"name": "CrashSite"
+		},
+		{
+			"id": 31,
+			"position_x": 6545.51,
+			"position_y": -6406.76,
+			"position_z": 32.4218,
+			"orientation": 2.39547,
+			"map": 530,
+			"name": "Deatholme"
+		},
+		{
+			"id": 32,
+			"position_x": 120.7,
+			"position_y": 1776,
+			"position_z": 43.46,
+			"orientation": 4.7713,
+			"map": 568,
+			"name": "za"
+		},
+		{
+			"id": 33,
+			"position_x": 6851.78,
+			"position_y": -7972.57,
+			"position_z": 179.242,
+			"orientation": 4.64691,
+			"map": 530,
+			"name": "Zul'Aman"
+		},
+		{
+			"id": 34,
+			"position_x": 7169.99,
+			"position_y": -7082.62,
+			"position_z": 56.1741,
+			"orientation": 5.68364,
+			"map": 530,
+			"name": "SanctumOfTheSun"
+		},
+		{
+			"id": 35,
+			"position_x": 7534.77,
+			"position_y": -6413.43,
+			"position_z": 13.0591,
+			"orientation": 2.45016,
+			"map": 530,
+			"name": "SanctumOfTheMoon"
+		},
+		{
+			"id": 36,
+			"position_x": 7895.49,
+			"position_y": -6188.39,
+			"position_z": 19.5624,
+			"orientation": 2.39911,
+			"map": 530,
+			"name": "GoldenmistVillage"
+		},
+		{
+			"id": 37,
+			"position_x": 7564.25,
+			"position_y": -6872.23,
+			"position_z": 96.0413,
+			"orientation": 4.3579,
+			"map": 530,
+			"name": "Tranquillien"
+		},
+		{
+			"id": 38,
+			"position_x": -4074.39,
+			"position_y": -3459.53,
+			"position_z": 281.388,
+			"orientation": 0.859539,
+			"map": 0,
+			"name": "GrimBatol"
+		},
+		{
+			"id": 39,
+			"position_x": -4086.41,
+			"position_y": -2604.38,
+			"position_z": 44.7943,
+			"orientation": 1.58996,
+			"map": 0,
+			"name": "DunAlgaz"
+		},
+		{
+			"id": 40,
+			"position_x": -2600.48,
+			"position_y": -2350.81,
+			"position_z": 82.9572,
+			"orientation": 0.914501,
+			"map": 0,
+			"name": "DunModr"
+		},
+		{
+			"id": 41,
+			"position_x": -1508.51,
+			"position_y": -2732.06,
+			"position_z": 32.4986,
+			"orientation": 3.35708,
+			"map": 0,
+			"name": "ArathiHighlands"
+		},
+		{
+			"id": 42,
+			"position_x": -941.007,
+			"position_y": -3526.66,
+			"position_z": 70.935,
+			"orientation": 3.48668,
+			"map": 0,
+			"name": "Hammerfall"
+		},
+		{
+			"id": 43,
+			"position_x": -1246.61,
+			"position_y": -2529.32,
+			"position_z": 20.6098,
+			"orientation": 0.741709,
+			"map": 0,
+			"name": "RefugePointe"
+		},
+		{
+			"id": 44,
+			"position_x": -3769.32,
+			"position_y": -744.26,
+			"position_z": 8.01027,
+			"orientation": 1.95752,
+			"map": 0,
+			"name": "MenethilHarbor"
+		},
+		{
+			"id": 45,
+			"position_x": -3242.81,
+			"position_y": -2469.04,
+			"position_z": 15.9226,
+			"orientation": 6.03924,
+			"map": 0,
+			"name": "Wetlands"
+		},
+		{
+			"id": 46,
+			"position_x": 1811.78,
+			"position_y": -4410.5,
+			"position_z": -18.4704,
+			"orientation": 5.20165,
+			"map": 1,
+			"name": "RagefireChasm"
+		},
+		{
+			"id": 47,
+			"position_x": 7960.27,
+			"position_y": -7257.01,
+			"position_z": 136.908,
+			"orientation": 0.234555,
+			"map": 530,
+			"name": "SuncrownVillage"
+		},
+		{
+			"id": 48,
+			"position_x": 8561.26,
+			"position_y": -7920.25,
+			"position_z": 154.912,
+			"orientation": 3.21279,
+			"map": 530,
+			"name": "Tor'Watha"
+		},
+		{
+			"id": 49,
+			"position_x": 9079.92,
+			"position_y": -7193.23,
+			"position_z": 55.6013,
+			"orientation": 5.94597,
+			"map": 530,
+			"name": "EversongWoods"
+		},
+		{
+			"id": 50,
+			"position_x": -1419.13,
+			"position_y": 2908.14,
+			"position_z": 137.464,
+			"orientation": 1.57366,
+			"map": 1,
+			"name": "Maraudon"
+		},
+		{
+			"id": 51,
+			"position_x": 8664.16,
+			"position_y": -6357.99,
+			"position_z": 55.1721,
+			"orientation": 2.0504,
+			"map": 530,
+			"name": "Saltheril'sHaven"
+		},
+		{
+			"id": 52,
+			"position_x": -4817.04,
+			"position_y": -2656.26,
+			"position_z": 327.12,
+			"orientation": 4.68835,
+			"map": 0,
+			"name": "AlgazStation"
+		},
+		{
+			"id": 53,
+			"position_x": -5163.54,
+			"position_y": 925.423,
+			"position_z": 257.181,
+			"orientation": 1.57423,
+			"map": 0,
+			"name": "Gnomeregan"
+		},
+		{
+			"id": 54,
+			"position_x": 8714.14,
+			"position_y": -6650.33,
+			"position_z": 72.7517,
+			"orientation": 2.39205,
+			"map": 530,
+			"name": "FairbreezeVillage"
+		},
+		{
+			"id": 55,
+			"position_x": 9144.45,
+			"position_y": -6273.75,
+			"position_z": 22.6069,
+			"orientation": 5.69229,
+			"map": 530,
+			"name": "WestSanctum"
+		},
+		{
+			"id": 56,
+			"position_x": 10331.1,
+			"position_y": -6235.42,
+			"position_z": 26.7759,
+			"orientation": 1.94594,
+			"map": 530,
+			"name": "SunstriderIsle"
+		},
+		{
+			"id": 57,
+			"position_x": 10353.4,
+			"position_y": -6395.35,
+			"position_z": 38.5292,
+			"orientation": 1.45664,
+			"map": 530,
+			"name": "TheSunspire"
+		},
+		{
+			"id": 58,
+			"position_x": 9738.47,
+			"position_y": -6678.72,
+			"position_z": 0.626843,
+			"orientation": 1.08358,
+			"map": 530,
+			"name": "RuinsOfSilvermoon"
+		},
+		{
+			"id": 59,
+			"position_x": 9514.33,
+			"position_y": -6822.1,
+			"position_z": 16.4907,
+			"orientation": 1.60979,
+			"map": 530,
+			"name": "FalconwingSquare"
+		},
+		{
+			"id": 60,
+			"position_x": 9013.29,
+			"position_y": -6930.75,
+			"position_z": 17.8158,
+			"orientation": 2.99131,
+			"map": 530,
+			"name": "TheDeadScar"
+		},
+		{
+			"id": 61,
+			"position_x": -6071.37,
+			"position_y": -2955.16,
+			"position_z": 209.782,
+			"orientation": 0.015708,
+			"map": 0,
+			"name": "Uldaman"
+		},
+		{
+			"id": 62,
+			"position_x": -5289.82,
+			"position_y": -3482.56,
+			"position_z": 297.605,
+			"orientation": 6.2238,
+			"map": 0,
+			"name": "TheLoch"
+		},
+		{
+			"id": 63,
+			"position_x": -5202.94,
+			"position_y": -2855.18,
+			"position_z": 336.822,
+			"orientation": 0.37651,
+			"map": 0,
+			"name": "LochModan"
+		},
+		{
+			"id": 64,
+			"position_x": -5352.54,
+			"position_y": -2948.53,
+			"position_z": 323.78,
+			"orientation": 5.34258,
+			"map": 0,
+			"name": "Thelsamar"
+		},
+		{
+			"id": 65,
+			"position_x": -4750.07,
+			"position_y": -3328.02,
+			"position_z": 310.257,
+			"orientation": 4.61609,
+			"map": 0,
+			"name": "StonewroughtDam"
+		},
+		{
+			"id": 66,
+			"position_x": -5451.55,
+			"position_y": -656.992,
+			"position_z": 392.675,
+			"orientation": 0.66789,
+			"map": 0,
+			"name": "DunMorogh"
+		},
+		{
+			"id": 67,
+			"position_x": -4918.88,
+			"position_y": -940.406,
+			"position_z": 501.564,
+			"orientation": 5.42347,
+			"map": 0,
+			"name": "Ironforge"
+		},
+		{
+			"id": 68,
+			"position_x": -5597.31,
+			"position_y": -483.398,
+			"position_z": 396.981,
+			"orientation": 3.17566,
+			"map": 0,
+			"name": "Kharanos"
+		},
+		{
+			"id": 69,
+			"position_x": -5385.04,
+			"position_y": 310.278,
+			"position_z": 394.151,
+			"orientation": 5.19649,
+			"map": 0,
+			"name": "BrewnallVillage"
+		},
+		{
+			"id": 70,
+			"position_x": -6231.77,
+			"position_y": 332.993,
+			"position_z": 383.171,
+			"orientation": 0.480178,
+			"map": 0,
+			"name": "ColdridgeValley"
+		},
+		{
+			"id": 71,
+			"position_x": 9317.38,
+			"position_y": -7856.4,
+			"position_z": 63.2953,
+			"orientation": 5.35693,
+			"map": 530,
+			"name": "DuskwitherSpire"
+		},
+		{
+			"id": 72,
+			"position_x": 9487.69,
+			"position_y": -7279.2,
+			"position_z": 14.2866,
+			"orientation": 6.16478,
+			"map": 530,
+			"name": "SilvermoonCity"
+		},
+		{
+			"id": 73,
+			"position_x": 4968.71,
+			"position_y": 2938,
+			"position_z": 122.667,
+			"orientation": 3.55118,
+			"map": 530,
+			"name": "Eco-DomeFarfield"
+		},
+		{
+			"id": 74,
+			"position_x": 4492.85,
+			"position_y": 3026.12,
+			"position_z": 133.597,
+			"orientation": 5.21622,
+			"map": 530,
+			"name": "Eco-DomeSutheron"
+		},
+		{
+			"id": 75,
+			"position_x": 4150.19,
+			"position_y": 3015.92,
+			"position_z": 339.188,
+			"orientation": 4.0499,
+			"map": 530,
+			"name": "TheStormspire"
+		},
+		{
+			"id": 76,
+			"position_x": 3830.23,
+			"position_y": 3426.5,
+			"position_z": 88.6145,
+			"orientation": 5.16677,
+			"map": 530,
+			"name": "Netherstorm"
+		},
+		{
+			"id": 77,
+			"position_x": -6398.46,
+			"position_y": -3166.67,
+			"position_z": 299.812,
+			"orientation": 0.769213,
+			"map": 0,
+			"name": "AngorFortress"
+		},
+		{
+			"id": 78,
+			"position_x": -6779.2,
+			"position_y": -3423.64,
+			"position_z": 241.667,
+			"orientation": 0.647481,
+			"map": 0,
+			"name": "Badlands"
+		},
+		{
+			"id": 79,
+			"position_x": -6692.48,
+			"position_y": -2175.31,
+			"position_z": 244.145,
+			"orientation": 0.427571,
+			"map": 0,
+			"name": "Kargath"
+		},
+		{
+			"id": 80,
+			"position_x": 3449.08,
+			"position_y": 2948.37,
+			"position_z": 144.564,
+			"orientation": 1.35366,
+			"map": 530,
+			"name": "Eco-DomeMidrealm"
+		},
+		{
+			"id": 81,
+			"position_x": 4035.83,
+			"position_y": 1435.5,
+			"position_z": -123.376,
+			"orientation": 5.73225,
+			"map": 530,
+			"name": "CelestialRidge"
+		},
+		{
+			"id": 82,
+			"position_x": -1.23165,
+			"position_y": 0.014346,
+			"position_z": -0.204293,
+			"orientation": 0.00984,
+			"map": 552,
+			"name": "arca"
+		},
+		{
+			"id": 83,
+			"position_x": 3308.92,
+			"position_y": 1340.72,
+			"position_z": 505.56,
+			"orientation": 4.94686,
+			"map": 530,
+			"name": "TheArcatraz"
+		},
+		{
+			"id": 84,
+			"position_x": 3407.11,
+			"position_y": 1488.48,
+			"position_z": 182.838,
+			"orientation": 5.59559,
+			"map": 530,
+			"name": "TheBotanica"
+		},
+		{
+			"id": 85,
+			"position_x": 40.0395,
+			"position_y": -28.613,
+			"position_z": -1.1189,
+			"orientation": 2.35856,
+			"map": 553,
+			"name": "bota"
+		},
+		{
+			"id": 86,
+			"position_x": 2867.12,
+			"position_y": 1549.42,
+			"position_z": 252.159,
+			"orientation": 3.82218,
+			"map": 530,
+			"name": "TheMechanar"
+		},
+		{
+			"id": 87,
+			"position_x": -28.906,
+			"position_y": 0.680314,
+			"position_z": -1.81282,
+			"orientation": 6.26827,
+			"map": 554,
+			"name": "mech"
+		},
+		{
+			"id": 88,
+			"position_x": 3088.49,
+			"position_y": 1381.57,
+			"position_z": 184.863,
+			"orientation": 4.61973,
+			"map": 530,
+			"name": "TheEye"
+		},
+		{
+			"id": 89,
+			"position_x": -4657.3,
+			"position_y": -2519.35,
+			"position_z": 81.0529,
+			"orientation": 4.54808,
+			"map": 1,
+			"name": "RazorfenDowns"
+		},
+		{
+			"id": 90,
+			"position_x": -10.8021,
+			"position_y": -1.15045,
+			"position_z": -2.42833,
+			"orientation": 6.22821,
+			"map": 550,
+			"name": "eye"
+		},
+		{
+			"id": 91,
+			"position_x": 2280.68,
+			"position_y": 2273.98,
+			"position_z": 94.6903,
+			"orientation": 4.34107,
+			"map": 530,
+			"name": "Kirin'VarVillage"
+		},
+		{
+			"id": 92,
+			"position_x": 3099.36,
+			"position_y": 1518.73,
+			"position_z": 190.3,
+			"orientation": 4.72592,
+			"map": 530,
+			"name": "TempestKeep"
+		},
+		{
+			"id": 93,
+			"position_x": 2498.92,
+			"position_y": 2368.74,
+			"position_z": 134.379,
+			"orientation": 4.71414,
+			"map": 530,
+			"name": "SunfuryHold"
+		},
+		{
+			"id": 94,
+			"position_x": 3043.33,
+			"position_y": 3681.33,
+			"position_z": 143.065,
+			"orientation": 5.07464,
+			"map": 530,
+			"name": "Area52"
+		},
+		{
+			"id": 95,
+			"position_x": 2210.93,
+			"position_y": 4763.72,
+			"position_z": 157.42,
+			"orientation": 4.60576,
+			"map": 530,
+			"name": "Mok'NathalVillage"
+		},
+		{
+			"id": 96,
+			"position_x": 1713.82,
+			"position_y": 4920.47,
+			"position_z": 169.989,
+			"orientation": 5.92915,
+			"map": 530,
+			"name": "VekhaarStand"
+		},
+		{
+			"id": 97,
+			"position_x": 2033.17,
+			"position_y": 5415.61,
+			"position_z": 144.698,
+			"orientation": 0.117995,
+			"map": 530,
+			"name": "Death'sDoor"
+		},
+		{
+			"id": 98,
+			"position_x": 1910.63,
+			"position_y": 5556.25,
+			"position_z": 263.017,
+			"orientation": 6.25981,
+			"map": 530,
+			"name": "Toshley'sStation"
+		},
+		{
+			"id": 99,
+			"position_x": 2830.32,
+			"position_y": 5252.84,
+			"position_z": 264.143,
+			"orientation": 5.26235,
+			"map": 530,
+			"name": "Razaan'sLanding"
+		},
+		{
+			"id": 100,
+			"position_x": 3815.16,
+			"position_y": 6110.93,
+			"position_z": 265.862,
+			"orientation": 1.15472,
+			"map": 530,
+			"name": "Bash'irLanding"
+		},
+		{
+			"id": 101,
+			"position_x": 3037.67,
+			"position_y": 5962.86,
+			"position_z": 130.774,
+			"orientation": 1.27253,
+			"map": 530,
+			"name": "Blade'sEdgeMountains"
+		},
+		{
+			"id": 102,
+			"position_x": 2976.85,
+			"position_y": 5511.01,
+			"position_z": 144.637,
+			"orientation": 3.86042,
+			"map": 530,
+			"name": "Evergrove"
+		},
+		{
+			"id": 103,
+			"position_x": 3253.49,
+			"position_y": 5333.48,
+			"position_z": 145.558,
+			"orientation": 5.27728,
+			"map": 530,
+			"name": "VeilRuuan"
+		},
+		{
+			"id": 104,
+			"position_x": 62.7842,
+			"position_y": 35.462,
+			"position_z": -3.9835,
+			"orientation": 1.41844,
+			"map": 565,
+			"name": "gruul"
+		},
+		{
+			"id": 105,
+			"position_x": 3530.06,
+			"position_y": 5104.08,
+			"position_z": 3.50861,
+			"orientation": 5.51117,
+			"map": 530,
+			"name": "Gruul'sLair"
+		},
+		{
+			"id": 106,
+			"position_x": 2839.44,
+			"position_y": 5930.17,
+			"position_z": 11.1002,
+			"orientation": 3.16284,
+			"map": 530,
+			"name": "CircleOfBloodArena"
+		},
+		{
+			"id": 107,
+			"position_x": 3616.06,
+			"position_y": 6635.92,
+			"position_z": 130.007,
+			"orientation": 4.95354,
+			"map": 530,
+			"name": "Grishnath"
+		},
+		{
+			"id": 108,
+			"position_x": 3565.61,
+			"position_y": 6890.04,
+			"position_z": 141.477,
+			"orientation": 4.50586,
+			"map": 530,
+			"name": "Raven'sWood"
+		},
+		{
+			"id": 109,
+			"position_x": -601.294,
+			"position_y": -4296.76,
+			"position_z": 37.8115,
+			"orientation": 1.65401,
+			"map": 1,
+			"name": "ValleyOfTrials"
+		},
+		{
+			"id": 110,
+			"position_x": 2297.68,
+			"position_y": 7293.12,
+			"position_z": 365.617,
+			"orientation": 1.28888,
+			"map": 530,
+			"name": "Ogri'la"
+		},
+		{
+			"id": 111,
+			"position_x": 2018.91,
+			"position_y": 6854.47,
+			"position_z": 171.409,
+			"orientation": 0.087216,
+			"map": 530,
+			"name": "Sylvanaar"
+		},
+		{
+			"id": 112,
+			"position_x": -8372.77,
+			"position_y": -2754.46,
+			"position_z": 186.622,
+			"orientation": 3.43486,
+			"map": 0,
+			"name": "Morgan'sVigil"
+		},
+		{
+			"id": 113,
+			"position_x": -6939.52,
+			"position_y": -1263.21,
+			"position_z": 179.709,
+			"orientation": 0.200595,
+			"map": 0,
+			"name": "TheCauldron"
+		},
+		{
+			"id": 114,
+			"position_x": -6506.47,
+			"position_y": -1149.95,
+			"position_z": 307.708,
+			"orientation": 4.18256,
+			"map": 0,
+			"name": "ThoriumPoint"
+		},
+		{
+			"id": 115,
+			"position_x": -813.097,
+			"position_y": -4880.08,
+			"position_z": 18.995,
+			"orientation": 4.42647,
+			"map": 1,
+			"name": "Sen'jinVillage"
+		},
+		{
+			"id": 116,
+			"position_x": -1041.59,
+			"position_y": -5346.67,
+			"position_z": 0.218679,
+			"orientation": 4.0102,
+			"map": 1,
+			"name": "EchoIsles"
+		},
+		{
+			"id": 117,
+			"position_x": 326.81,
+			"position_y": -4706.65,
+			"position_z": 15.3665,
+			"orientation": 4.16414,
+			"map": 1,
+			"name": "RazorHill"
+		},
+		{
+			"id": 118,
+			"position_x": 1629.36,
+			"position_y": -4373.39,
+			"position_z": 31.2564,
+			"orientation": 3.54839,
+			"map": 1,
+			"name": "Orgrimmar"
+		},
+		{
+			"id": 119,
+			"position_x": 1623.51,
+			"position_y": 6344.2,
+			"position_z": -2.54653,
+			"orientation": 3.86891,
+			"map": 530,
+			"name": "BloodmaulOutpost"
+		},
+		{
+			"id": 120,
+			"position_x": 1340.98,
+			"position_y": -4638.58,
+			"position_z": 53.5445,
+			"orientation": 5.0328,
+			"map": 1,
+			"name": "DurotarZeppelin"
+		},
+		{
+			"id": 121,
+			"position_x": -452.84,
+			"position_y": -2650.76,
+			"position_z": 95.5209,
+			"orientation": 0.241081,
+			"map": 1,
+			"name": "TheCrossroads"
+		},
+		{
+			"id": 122,
+			"position_x": 2639.37,
+			"position_y": 6526.93,
+			"position_z": 0.818903,
+			"orientation": 6.17248,
+			"map": 530,
+			"name": "BladespireHold"
+		},
+		{
+			"id": 123,
+			"position_x": 2314.75,
+			"position_y": 6041.96,
+			"position_z": 142.417,
+			"orientation": 6.24317,
+			"map": 530,
+			"name": "ThunderlordStronghold"
+		},
+		{
+			"id": 124,
+			"position_x": -4472.37,
+			"position_y": 1671.36,
+			"position_z": 162.888,
+			"orientation": 3.88687,
+			"map": 530,
+			"name": "EclipsePoint"
+		},
+		{
+			"id": 125,
+			"position_x": 48.9976,
+			"position_y": -2715.55,
+			"position_z": 91.6677,
+			"orientation": 0.158612,
+			"map": 1,
+			"name": "Barrens"
+		},
+		{
+			"id": 126,
+			"position_x": -7012.47,
+			"position_y": -1065.13,
+			"position_z": 241.786,
+			"orientation": 5.63162,
+			"map": 0,
+			"name": "SearingGorge"
+		},
+		{
+			"id": 127,
+			"position_x": 1007.78,
+			"position_y": -4446.22,
+			"position_z": 11.2022,
+			"orientation": 0.20797,
+			"map": 1,
+			"name": "Durotar"
+		},
+		{
+			"id": 128,
+			"position_x": -32.7738,
+			"position_y": 2123.59,
+			"position_z": 110.62,
+			"orientation": 0.264264,
+			"map": 530,
+			"name": "Reaver'sFall"
+		},
+		{
+			"id": 129,
+			"position_x": -247.29,
+			"position_y": 910.638,
+			"position_z": 84.3798,
+			"orientation": 1.49341,
+			"map": 530,
+			"name": "TheDarkPortalOutland"
+		},
+		{
+			"id": 130,
+			"position_x": -731.607,
+			"position_y": -2218.39,
+			"position_z": 17.0281,
+			"orientation": 2.78486,
+			"map": 1,
+			"name": "WailingCaverns"
+		},
+		{
+			"id": 131,
+			"position_x": -2363.11,
+			"position_y": -1913.78,
+			"position_z": 95.7829,
+			"orientation": 0.165556,
+			"map": 1,
+			"name": "CampTaurajo"
+		},
+		{
+			"id": 132,
+			"position_x": -248,
+			"position_y": 956,
+			"position_z": 84.3628,
+			"orientation": 1.58766,
+			"map": 530,
+			"name": "TheStairOfDestiny"
+		},
+		{
+			"id": 133,
+			"position_x": -818.155,
+			"position_y": -623.043,
+			"position_z": 54.0884,
+			"orientation": 2.15276,
+			"map": 30,
+			"name": "AlteracValleyHorde"
+		},
+		{
+			"id": 134,
+			"position_x": -215.738,
+			"position_y": -309.394,
+			"position_z": 6.66761,
+			"orientation": 3.07325,
+			"map": 30,
+			"name": "av"
+		},
+		{
+			"id": 135,
+			"position_x": -4470.28,
+			"position_y": -1677.77,
+			"position_z": 81.3925,
+			"orientation": 1.16302,
+			"map": 1,
+			"name": "RazorfenKraul"
+		},
+		{
+			"id": 136,
+			"position_x": -215.738,
+			"position_y": -309.394,
+			"position_z": 6.66761,
+			"orientation": 3.07325,
+			"map": 30,
+			"name": "AlteracValley"
+		},
+		{
+			"id": 137,
+			"position_x": -3707.79,
+			"position_y": -2530.37,
+			"position_z": 68.2635,
+			"orientation": 3.31945,
+			"map": 1,
+			"name": "ShadyRestInn"
+		},
+		{
+			"id": 138,
+			"position_x": 883.187,
+			"position_y": -489.375,
+			"position_z": 96.7618,
+			"orientation": 3.06932,
+			"map": 30,
+			"name": "AlteracValleyAlliance"
+		},
+		{
+			"id": 139,
+			"position_x": -4043.65,
+			"position_y": -2991.32,
+			"position_z": 36.3984,
+			"orientation": 3.37443,
+			"map": 1,
+			"name": "DustwallowMarsh"
+		},
+		{
+			"id": 140,
+			"position_x": -4573.79,
+			"position_y": -3173.15,
+			"position_z": 34.0877,
+			"orientation": 3.1231,
+			"map": 1,
+			"name": "Mudsprocket"
+		},
+		{
+			"id": 141,
+			"position_x": 1308.68,
+			"position_y": 1306.03,
+			"position_z": -9.0107,
+			"orientation": 3.91285,
+			"map": 529,
+			"name": "ArathiBasinAlliance"
+		},
+		{
+			"id": 142,
+			"position_x": 1054.94,
+			"position_y": 1055.23,
+			"position_z": -48.2358,
+			"orientation": 0.313367,
+			"map": 529,
+			"name": "ab"
+		},
+		{
+			"id": 143,
+			"position_x": -4708.27,
+			"position_y": -3727.64,
+			"position_z": 54.5589,
+			"orientation": 3.72786,
+			"map": 1,
+			"name": "Onyxia'sLair"
+		},
+		{
+			"id": 144,
+			"position_x": -7390.69,
+			"position_y": -941.553,
+			"position_z": 169.43,
+			"orientation": 3.90454,
+			"map": 0,
+			"name": "TheGrindingQuarry"
+		},
+		{
+			"id": 145,
+			"position_x": -3130.67,
+			"position_y": -2908.43,
+			"position_z": 34.0976,
+			"orientation": 1.42798,
+			"map": 1,
+			"name": "BrackenwallVillage"
+		},
+		{
+			"id": 146,
+			"position_x": -3641.3,
+			"position_y": -4358.93,
+			"position_z": 8.35467,
+			"orientation": 3.81559,
+			"map": 1,
+			"name": "Theramore"
+		},
+		{
+			"id": 147,
+			"position_x": -4969.02,
+			"position_y": -1726.89,
+			"position_z": -62.1269,
+			"orientation": 3.7933,
+			"map": 1,
+			"name": "ThousandNeedles"
+		},
+		{
+			"id": 148,
+			"position_x": 686.053,
+			"position_y": 683.165,
+			"position_z": -12.9149,
+			"orientation": 0.816022,
+			"map": 529,
+			"name": "ArathiBasinHorde"
+		},
+		{
+			"id": 149,
+			"position_x": -4525.63,
+			"position_y": -791.364,
+			"position_z": -42.3639,
+			"orientation": 1.09938,
+			"map": 1,
+			"name": "Thalanaar"
+		},
+		{
+			"id": 150,
+			"position_x": 1017.16,
+			"position_y": 1040.59,
+			"position_z": -44.9017,
+			"orientation": 0.325149,
+			"map": 529,
+			"name": "ArathiBasin"
+		},
+		{
+			"id": 151,
+			"position_x": -5431.78,
+			"position_y": -2449.38,
+			"position_z": 89.2848,
+			"orientation": 2.32854,
+			"map": 1,
+			"name": "FreewindPost"
+		},
+		{
+			"id": 152,
+			"position_x": -7179.34,
+			"position_y": -921.212,
+			"position_z": 165.821,
+			"orientation": 5.09599,
+			"map": 0,
+			"name": "BlackrockDepths"
+		},
+		{
+			"id": 153,
+			"position_x": -6221.35,
+			"position_y": -3927.64,
+			"position_z": -58.7495,
+			"orientation": 0.757735,
+			"map": 1,
+			"name": "MirageRaceway"
+		},
+		{
+			"id": 154,
+			"position_x": 1525.95,
+			"position_y": 1481.66,
+			"position_z": 352.001,
+			"orientation": 3.20756,
+			"map": 489,
+			"name": "WarsongGulchAlliance"
+		},
+		{
+			"id": 155,
+			"position_x": -7177.15,
+			"position_y": -3785.34,
+			"position_z": 8.36981,
+			"orientation": 6.10237,
+			"map": 1,
+			"name": "Gadgetzan"
+		},
+		{
+			"id": 156,
+			"position_x": 1304.63,
+			"position_y": 1455.89,
+			"position_z": 317.694,
+			"orientation": 0.08639,
+			"map": 489,
+			"name": "wsg"
+		},
+		{
+			"id": 157,
+			"position_x": -7931.2,
+			"position_y": -3414.28,
+			"position_z": 80.7365,
+			"orientation": 0.66522,
+			"map": 1,
+			"name": "Tanaris"
+		},
+		{
+			"id": 158,
+			"position_x": -6908.08,
+			"position_y": -4801.39,
+			"position_z": 8.15214,
+			"orientation": 5.07916,
+			"map": 1,
+			"name": "SteamwheedlePort"
+		},
+		{
+			"id": 159,
+			"position_x": 1235.54,
+			"position_y": 1427.1,
+			"position_z": 309.715,
+			"orientation": 0.557629,
+			"map": 489,
+			"name": "WarsongGulch"
+		},
+		{
+			"id": 160,
+			"position_x": -6801.19,
+			"position_y": -2893.02,
+			"position_z": 9.00388,
+			"orientation": 0.158639,
+			"map": 1,
+			"name": "Zul'Farrak"
+		},
+		{
+			"id": 161,
+			"position_x": -7943.22,
+			"position_y": -2119.09,
+			"position_z": -218.343,
+			"orientation": 6.0727,
+			"map": 1,
+			"name": "Un'GoroCrater"
+		},
+		{
+			"id": 162,
+			"position_x": -7512.38,
+			"position_y": -1043.39,
+			"position_z": 181.55,
+			"orientation": 0.909809,
+			"map": 0,
+			"name": "LothosRiftwaker"
+		},
+		{
+			"id": 163,
+			"position_x": -7538.51,
+			"position_y": -1063.45,
+			"position_z": 180.981,
+			"orientation": 0.03409,
+			"map": 0,
+			"name": "TheMoltenSpan"
+		},
+		{
+			"id": 164,
+			"position_x": 930.851,
+			"position_y": 1431.57,
+			"position_z": 345.537,
+			"orientation": 0.015704,
+			"map": 489,
+			"name": "WarsongGulchHorde"
+		},
+		{
+			"id": 165,
+			"position_x": -6152.25,
+			"position_y": -1087.6,
+			"position_z": -201.435,
+			"orientation": 0.707637,
+			"map": 1,
+			"name": "Marshal'sRefuge"
+		},
+		{
+			"id": 166,
+			"position_x": -11916.9,
+			"position_y": -1248.36,
+			"position_z": 92.5334,
+			"orientation": 4.72417,
+			"map": 309,
+			"name": "zg"
+		},
+		{
+			"id": 167,
+			"position_x": -319.24,
+			"position_y": 99.9,
+			"position_z": -131.85,
+			"orientation": 3.19,
+			"map": 109,
+			"name": "st"
+		},
+		{
+			"id": 168,
+			"position_x": -6382.67,
+			"position_y": -291.916,
+			"position_z": -3.07818,
+			"orientation": 4.47432,
+			"map": 1,
+			"name": "Valor'sRest"
+		},
+		{
+			"id": 169,
+			"position_x": -226.8,
+			"position_y": 49.09,
+			"position_z": -46.03,
+			"orientation": 1.39,
+			"map": 70,
+			"name": "ulda"
+		},
+		{
+			"id": 170,
+			"position_x": -229.135,
+			"position_y": 2109.18,
+			"position_z": 76.8898,
+			"orientation": 1.267,
+			"map": 33,
+			"name": "sfk"
+		},
+		{
+			"id": 171,
+			"position_x": -11091.2,
+			"position_y": -1992.38,
+			"position_z": 49.816,
+			"orientation": 0.95178,
+			"map": 532,
+			"name": "kara"
+		},
+		{
+			"id": 172,
+			"position_x": -6818.09,
+			"position_y": 733.814,
+			"position_z": 41.5661,
+			"orientation": 2.3082,
+			"map": 1,
+			"name": "CenarionHold"
+		},
+		{
+			"id": 173,
+			"position_x": -332.22,
+			"position_y": -2.28,
+			"position_z": -150.86,
+			"orientation": 2.77,
+			"map": 90,
+			"name": "gnome"
+		},
+		{
+			"id": 174,
+			"position_x": -16.4,
+			"position_y": -383.07,
+			"position_z": 61.78,
+			"orientation": 2.52637,
+			"map": 36,
+			"name": "deadmines"
+		},
+		{
+			"id": 175,
+			"position_x": -7663.74,
+			"position_y": -1217.4,
+			"position_z": 287.789,
+			"orientation": 5.33945,
+			"map": 0,
+			"name": "OrbOfCommand"
+		},
+		{
+			"id": 176,
+			"position_x": -7527.05,
+			"position_y": -1226.77,
+			"position_z": 285.732,
+			"orientation": 5.29626,
+			"map": 0,
+			"name": "BlackrockSpire"
+		},
+		{
+			"id": 177,
+			"position_x": -7426.87,
+			"position_y": 1005.31,
+			"position_z": 1.13359,
+			"orientation": 2.96086,
+			"map": 1,
+			"name": "Silithus"
+		},
+		{
+			"id": 178,
+			"position_x": -7664.76,
+			"position_y": -1100.87,
+			"position_z": 399.679,
+			"orientation": 0.561981,
+			"map": 469,
+			"name": "bwl"
+		},
+		{
+			"id": 179,
+			"position_x": 164.789,
+			"position_y": -475.305,
+			"position_z": 116.842,
+			"orientation": 0.022714,
+			"map": 229,
+			"name": "BlackwingLair"
+		},
+		{
+			"id": 180,
+			"position_x": 138.726,
+			"position_y": -318.182,
+			"position_z": 70.9562,
+			"orientation": 0.116645,
+			"map": 229,
+			"name": "ubrs"
+		},
+		{
+			"id": 181,
+			"position_x": -7494.94,
+			"position_y": -1123.49,
+			"position_z": 265.547,
+			"orientation": 3.3092,
+			"map": 0,
+			"name": "BlackrockMountain"
+		},
+		{
+			"id": 182,
+			"position_x": -8098.67,
+			"position_y": 1525.15,
+			"position_z": 2.77194,
+			"orientation": 3.01977,
+			"map": 1,
+			"name": "TheScarabWall"
+		},
+		{
+			"id": 183,
+			"position_x": 78.2437,
+			"position_y": -239.341,
+			"position_z": 55.3424,
+			"orientation": 4.77799,
+			"map": 229,
+			"name": "lbrs"
+		},
+		{
+			"id": 184,
+			"position_x": -7733.43,
+			"position_y": -1510.24,
+			"position_z": 132.792,
+			"orientation": 1.01584,
+			"map": 0,
+			"name": "BlackrockStronghold"
+		},
+		{
+			"id": 185,
+			"position_x": -8216.06,
+			"position_y": 1536.36,
+			"position_z": 1.30797,
+			"orientation": 3.0826,
+			"map": 1,
+			"name": "GatesOfAhn'Qiraj"
+		},
+		{
+			"id": 186,
+			"position_x": -8409.82,
+			"position_y": 1499.06,
+			"position_z": 27.7179,
+			"orientation": 2.51868,
+			"map": 1,
+			"name": "TheRuinsOfAhn'Qiraj"
+		},
+		{
+			"id": 187,
+			"position_x": -8240.09,
+			"position_y": 1991.32,
+			"position_z": 129.072,
+			"orientation": 0.941603,
+			"map": 1,
+			"name": "TheTempleOfAhn'Qiraj"
+		},
+		{
+			"id": 188,
+			"position_x": -8118.54,
+			"position_y": -1633.83,
+			"position_z": 132.996,
+			"orientation": 0.089067,
+			"map": 0,
+			"name": "BurningSteppes"
+		},
+		{
+			"id": 189,
+			"position_x": 1126.64,
+			"position_y": -459.94,
+			"position_z": -102.535,
+			"orientation": 3.46095,
+			"map": 230,
+			"name": "MoltenCore"
+		},
+		{
+			"id": 190,
+			"position_x": 1082.04,
+			"position_y": -474.596,
+			"position_z": -107.762,
+			"orientation": 5.02623,
+			"map": 409,
+			"name": "mc"
+		},
+		{
+			"id": 191,
+			"position_x": 458.32,
+			"position_y": 26.52,
+			"position_z": -70.67,
+			"orientation": 4.95,
+			"map": 230,
+			"name": "brd"
+		},
+		{
+			"id": 192,
+			"position_x": -8213.48,
+			"position_y": 2016,
+			"position_z": 129.072,
+			"orientation": 1.28414,
+			"map": 531,
+			"name": "aq40"
+		},
+		{
+			"id": 193,
+			"position_x": -8204.88,
+			"position_y": -4495.25,
+			"position_z": 9.0091,
+			"orientation": 4.72574,
+			"map": 1,
+			"name": "CavernsOfTime"
+		},
+		{
+			"id": 194,
+			"position_x": -8437.74,
+			"position_y": 1516.91,
+			"position_z": 31.9074,
+			"orientation": 2.73319,
+			"map": 509,
+			"name": "aq20"
+		},
+		{
+			"id": 195,
+			"position_x": 29.1607,
+			"position_y": -71.3372,
+			"position_z": -8.18032,
+			"orientation": 4.43584,
+			"map": 249,
+			"name": "onyxia"
+		},
+		{
+			"id": 196,
+			"position_x": 751.254,
+			"position_y": -606.421,
+			"position_z": -33.2458,
+			"orientation": 0.089788,
+			"map": 349,
+			"name": "marapurple"
+		},
+		{
+			"id": 197,
+			"position_x": -8404.3,
+			"position_y": -4070.62,
+			"position_z": -208.586,
+			"orientation": 0.237038,
+			"map": 1,
+			"name": "OldHillsbradFoothills"
+		},
+		{
+			"id": 198,
+			"position_x": 1019.69,
+			"position_y": -458.31,
+			"position_z": -43.43,
+			"orientation": 0.31,
+			"map": 349,
+			"name": "maraorange"
+		},
+		{
+			"id": 199,
+			"position_x": -67.3581,
+			"position_y": 163.341,
+			"position_z": -3.46468,
+			"orientation": 2.13943,
+			"map": 429,
+			"name": "dmwest"
+		},
+		{
+			"id": 200,
+			"position_x": 255.249,
+			"position_y": -16.0561,
+			"position_z": -2.58737,
+			"orientation": 4.7,
+			"map": 429,
+			"name": "dmnorth"
+		},
+		{
+			"id": 201,
+			"position_x": -201.11,
+			"position_y": -328.66,
+			"position_z": -2.72386,
+			"orientation": 5.22313,
+			"map": 429,
+			"name": "dmeast"
+		},
+		{
+			"id": 202,
+			"position_x": -151.89,
+			"position_y": 106.96,
+			"position_z": -39.87,
+			"orientation": 4.53,
+			"map": 48,
+			"name": "bfd"
+		},
+		{
+			"id": 203,
+			"position_x": 2592.55,
+			"position_y": 1107.5,
+			"position_z": 51.29,
+			"orientation": 4.74,
+			"map": 129,
+			"name": "rfd"
+		},
+		{
+			"id": 204,
+			"position_x": 1943,
+			"position_y": 1544.63,
+			"position_z": 82,
+			"orientation": 1.38,
+			"map": 47,
+			"name": "rfk"
+		},
+		{
+			"id": 205,
+			"position_x": -163.49,
+			"position_y": 132.9,
+			"position_z": -73.66,
+			"orientation": 5.83,
+			"map": 43,
+			"name": "wc"
+		},
+		{
+			"id": 206,
+			"position_x": -8177.89,
+			"position_y": -4181.23,
+			"position_z": -167.552,
+			"orientation": 0.913338,
+			"map": 1,
+			"name": "HyjalSummit"
+		},
+		{
+			"id": 207,
+			"position_x": -4396.7,
+			"position_y": 224.841,
+			"position_z": 25.4136,
+			"orientation": 4.93684,
+			"map": 1,
+			"name": "CampMojache"
+		},
+		{
+			"id": 208,
+			"position_x": -4841.19,
+			"position_y": 1309.44,
+			"position_z": 81.3937,
+			"orientation": 1.48501,
+			"map": 1,
+			"name": "Feralas"
+		},
+		{
+			"id": 209,
+			"position_x": 3.81,
+			"position_y": -14.82,
+			"position_z": -17.84,
+			"orientation": 4.23745,
+			"map": 389,
+			"name": "rfc"
+		},
+		{
+			"id": 210,
+			"position_x": 1610.83,
+			"position_y": -323.433,
+			"position_z": 18.6738,
+			"orientation": 6.28022,
+			"map": 189,
+			"name": "smarmory"
+		},
+		{
+			"id": 211,
+			"position_x": -3980.8,
+			"position_y": 789.005,
+			"position_z": 161.007,
+			"orientation": 4.71945,
+			"map": 1,
+			"name": "DireMaulEast"
+		},
+		{
+			"id": 212,
+			"position_x": 855.683,
+			"position_y": 1321.5,
+			"position_z": 18.6709,
+			"orientation": 0.001747,
+			"map": 189,
+			"name": "smcath"
+		},
+		{
+			"id": 213,
+			"position_x": 1702.01,
+			"position_y": 1053.5,
+			"position_z": 18.4922,
+			"orientation": 1.46594,
+			"map": 189,
+			"name": "smgy"
+		},
+		{
+			"id": 214,
+			"position_x": 255.346,
+			"position_y": -209.09,
+			"position_z": 18.6773,
+			"orientation": 6.26656,
+			"map": 189,
+			"name": "smlib"
+		},
+		{
+			"id": 215,
+			"position_x": 2872.6,
+			"position_y": -764.398,
+			"position_z": 160.332,
+			"orientation": 5.05735,
+			"map": 0,
+			"name": "ScarletMonastery"
+		},
+		{
+			"id": 216,
+			"position_x": -3828.01,
+			"position_y": 1250.22,
+			"position_z": 160.226,
+			"orientation": 3.20835,
+			"map": 1,
+			"name": "DireMaulWest"
+		},
+		{
+			"id": 217,
+			"position_x": -7501.51,
+			"position_y": -2183.08,
+			"position_z": 165.926,
+			"orientation": 6.07144,
+			"map": 0,
+			"name": "FlameCrest"
+		},
+		{
+			"id": 218,
+			"position_x": -3521.29,
+			"position_y": 1085.2,
+			"position_z": 161.097,
+			"orientation": 4.7281,
+			"map": 1,
+			"name": "DireMaulNorth"
+		},
+		{
+			"id": 219,
+			"position_x": -4347.46,
+			"position_y": 2415.11,
+			"position_z": 8.00515,
+			"orientation": 1.52603,
+			"map": 1,
+			"name": "TheForgottenCoast"
+		},
+		{
+			"id": 220,
+			"position_x": 1711.99,
+			"position_y": -719.761,
+			"position_z": 54.3351,
+			"orientation": 4.66387,
+			"map": 0,
+			"name": "TheBulwark"
+		},
+		{
+			"id": 221,
+			"position_x": 1843.5,
+			"position_y": 1590,
+			"position_z": 93.2971,
+			"orientation": 3.08757,
+			"map": 0,
+			"name": "Deathknell"
+		},
+		{
+			"id": 222,
+			"position_x": 2259.25,
+			"position_y": 290.43,
+			"position_z": 34.1137,
+			"orientation": 0.987414,
+			"map": 0,
+			"name": "Brill"
+		},
+		{
+			"id": 223,
+			"position_x": 2036.02,
+			"position_y": 161.331,
+			"position_z": 33.8674,
+			"orientation": 0.143896,
+			"map": 0,
+			"name": "TirisfalGlades"
+		},
+		{
+			"id": 224,
+			"position_x": 2063.35,
+			"position_y": 273.607,
+			"position_z": 94.1076,
+			"orientation": 5.30632,
+			"map": 0,
+			"name": "TirisfalGladesZeppelin"
+		},
+		{
+			"id": 225,
+			"position_x": 1584.07,
+			"position_y": 241.987,
+			"position_z": -52.1534,
+			"orientation": 0.049647,
+			"map": 0,
+			"name": "Undercity"
+		},
+		{
+			"id": 226,
+			"position_x": 878.74,
+			"position_y": 1359.33,
+			"position_z": 50.355,
+			"orientation": 5.89929,
+			"map": 0,
+			"name": "SilverpineForest"
+		},
+		{
+			"id": 227,
+			"position_x": -4317.47,
+			"position_y": 3287.35,
+			"position_z": 18.2864,
+			"orientation": 3.12825,
+			"map": 1,
+			"name": "FeathermoonStronghold"
+		},
+		{
+			"id": 228,
+			"position_x": -129.094,
+			"position_y": 835.621,
+			"position_z": 63.598,
+			"orientation": 4.83351,
+			"map": 0,
+			"name": "Ambermill"
+		},
+		{
+			"id": 229,
+			"position_x": -606.395,
+			"position_y": 2211.75,
+			"position_z": 92.9818,
+			"orientation": 0.809746,
+			"map": 1,
+			"name": "Desolace"
+		},
+		{
+			"id": 230,
+			"position_x": -1464.14,
+			"position_y": 2615.21,
+			"position_z": 76.7172,
+			"orientation": 3.21357,
+			"map": 1,
+			"name": "MaraudonOrange"
+		},
+		{
+			"id": 231,
+			"position_x": -234.675,
+			"position_y": 1561.63,
+			"position_z": 76.8921,
+			"orientation": 1.24031,
+			"map": 0,
+			"name": "ShadowFangKeep"
+		},
+		{
+			"id": 232,
+			"position_x": -1188.37,
+			"position_y": 2879.61,
+			"position_z": 85.7888,
+			"orientation": 5.07366,
+			"map": 1,
+			"name": "MaraudonPurple"
+		},
+		{
+			"id": 233,
+			"position_x": -388.146,
+			"position_y": 1543.67,
+			"position_z": 18.1592,
+			"orientation": 3.10171,
+			"map": 0,
+			"name": "PyrewoodVillage"
+		},
+		{
+			"id": 234,
+			"position_x": -1664.79,
+			"position_y": 3091.67,
+			"position_z": 30.5552,
+			"orientation": 6.07818,
+			"map": 1,
+			"name": "ShadowpreyVillage"
+		},
+		{
+			"id": 235,
+			"position_x": 504.534,
+			"position_y": 1539.08,
+			"position_z": 129.502,
+			"orientation": 1.35812,
+			"map": 0,
+			"name": "TheSepulcher"
+		},
+		{
+			"id": 236,
+			"position_x": -1224.46,
+			"position_y": 1728.53,
+			"position_z": 90.0592,
+			"orientation": 0.831707,
+			"map": 1,
+			"name": "GhostWalkerPost"
+		},
+		{
+			"id": 237,
+			"position_x": -7734.77,
+			"position_y": -2609.01,
+			"position_z": 165.137,
+			"orientation": 4.22183,
+			"map": 0,
+			"name": "DreadmaulRock"
+		},
+		{
+			"id": 238,
+			"position_x": 998.173,
+			"position_y": 736.541,
+			"position_z": 59.2738,
+			"orientation": 6.16398,
+			"map": 0,
+			"name": "FenrisIsle"
+		},
+		{
+			"id": 239,
+			"position_x": -9284.76,
+			"position_y": -3346.89,
+			"position_z": 109.759,
+			"orientation": 1.52871,
+			"map": 0,
+			"name": "TowerOfIlgalar"
+		},
+		{
+			"id": 240,
+			"position_x": -9323.5,
+			"position_y": -3030.84,
+			"position_z": 132.559,
+			"orientation": 2.94713,
+			"map": 0,
+			"name": "Stonewatch"
+		},
+		{
+			"id": 241,
+			"position_x": 176.426,
+			"position_y": 1309.76,
+			"position_z": 190.18,
+			"orientation": 0.556817,
+			"map": 1,
+			"name": "Nijel'sPoint"
+		},
+		{
+			"id": 242,
+			"position_x": -9266.59,
+			"position_y": -2188.77,
+			"position_z": 64.0892,
+			"orientation": 2.10205,
+			"map": 0,
+			"name": "Lakeshire"
+		},
+		{
+			"id": 243,
+			"position_x": -9551.81,
+			"position_y": -2204.73,
+			"position_z": 93.473,
+			"orientation": 5.47141,
+			"map": 0,
+			"name": "RedridgeMountains"
+		},
+		{
+			"id": 244,
+			"position_x": -8921.09,
+			"position_y": -119.135,
+			"position_z": 82.195,
+			"orientation": 5.82878,
+			"map": 0,
+			"name": "NorthshireValley"
+		},
+		{
+			"id": 245,
+			"position_x": -9448.55,
+			"position_y": 68.236,
+			"position_z": 56.3225,
+			"orientation": 2.1115,
+			"map": 0,
+			"name": "Goldshire"
+		},
+		{
+			"id": 246,
+			"position_x": -8833.38,
+			"position_y": 628.628,
+			"position_z": 94.0066,
+			"orientation": 1.06535,
+			"map": 0,
+			"name": "Stormwind"
+		},
+		{
+			"id": 247,
+			"position_x": 2678.38,
+			"position_y": 1497.46,
+			"position_z": 233.869,
+			"orientation": 6.26038,
+			"map": 1,
+			"name": "StonetalonPeak"
+		},
+		{
+			"id": 248,
+			"position_x": 1570.92,
+			"position_y": 1031.52,
+			"position_z": 137.959,
+			"orientation": 3.33006,
+			"map": 1,
+			"name": "StonetalonMountains"
+		},
+		{
+			"id": 249,
+			"position_x": 966.147,
+			"position_y": 926.499,
+			"position_z": 104.649,
+			"orientation": 1.27231,
+			"map": 1,
+			"name": "SunRockRetreat"
+		},
+		{
+			"id": 250,
+			"position_x": 799.721,
+			"position_y": -3995.68,
+			"position_z": 122.007,
+			"orientation": 3.77399,
+			"map": 0,
+			"name": "Seradane"
+		},
+		{
+			"id": 251,
+			"position_x": 369.856,
+			"position_y": -3802.84,
+			"position_z": 170.093,
+			"orientation": 3.58942,
+			"map": 0,
+			"name": "SkulkRock"
+		},
+		{
+			"id": 252,
+			"position_x": -44.6129,
+			"position_y": -505.122,
+			"position_z": -46.1274,
+			"orientation": 1.84172,
+			"map": 1,
+			"name": "CampAparaje"
+		},
+		{
+			"id": 253,
+			"position_x": 1035.62,
+			"position_y": -2106,
+			"position_z": 122.946,
+			"orientation": 1.60767,
+			"map": 1,
+			"name": "Mor'shanBaseCamp"
+		},
+		{
+			"id": 254,
+			"position_x": 1928.34,
+			"position_y": -2165.95,
+			"position_z": 93.7896,
+			"orientation": 0.205731,
+			"map": 1,
+			"name": "Ashenvale"
+		},
+		{
+			"id": 255,
+			"position_x": -557.226,
+			"position_y": -4581.27,
+			"position_z": 9.5884,
+			"orientation": 1.01724,
+			"map": 0,
+			"name": "RevantuskVillage"
+		},
+		{
+			"id": 256,
+			"position_x": -233.765,
+			"position_y": -4121.89,
+			"position_z": 117.635,
+			"orientation": 3.39306,
+			"map": 0,
+			"name": "Jintha'Alor"
+		},
+		{
+			"id": 257,
+			"position_x": -9617.06,
+			"position_y": -288.949,
+			"position_z": 57.3053,
+			"orientation": 4.72687,
+			"map": 0,
+			"name": "ElwynnForest"
+		},
+		{
+			"id": 258,
+			"position_x": -271.689,
+			"position_y": -3438.52,
+			"position_z": 187.18,
+			"orientation": 3.93027,
+			"map": 0,
+			"name": "TheAltarOfZul"
+		},
+		{
+			"id": 259,
+			"position_x": 2270.94,
+			"position_y": -2538.19,
+			"position_z": 93.9198,
+			"orientation": 0.060429,
+			"map": 1,
+			"name": "SplintertreePost"
+		},
+		{
+			"id": 260,
+			"position_x": 226.318,
+			"position_y": -2777.59,
+			"position_z": 123.356,
+			"orientation": 0.59469,
+			"map": 0,
+			"name": "Quel'DanilLodge"
+		},
+		{
+			"id": 261,
+			"position_x": -11892.7,
+			"position_y": -2647.08,
+			"position_z": -4.68415,
+			"orientation": 3.69096,
+			"map": 0,
+			"name": "TheTaintedScar"
+		},
+		{
+			"id": 262,
+			"position_x": -10999.8,
+			"position_y": -3380.08,
+			"position_z": 62.2525,
+			"orientation": 4.63501,
+			"map": 0,
+			"name": "NethergardeKeep"
+		},
+		{
+			"id": 263,
+			"position_x": -11840.1,
+			"position_y": -3196.63,
+			"position_z": -29.6059,
+			"orientation": 3.3391,
+			"map": 0,
+			"name": "TheDarkPortal"
+		},
+		{
+			"id": 264,
+			"position_x": 260.366,
+			"position_y": -2125.21,
+			"position_z": 119.565,
+			"orientation": 3.18494,
+			"map": 0,
+			"name": "AeriePeak"
+		},
+		{
+			"id": 265,
+			"position_x": 119.387,
+			"position_y": -3190.37,
+			"position_z": 117.331,
+			"orientation": 2.34064,
+			"map": 0,
+			"name": "TheHinterlands"
+		},
+		{
+			"id": 266,
+			"position_x": 2676.19,
+			"position_y": -422.905,
+			"position_z": 107.123,
+			"orientation": 0.648691,
+			"map": 1,
+			"name": "Astranaar"
+		},
+		{
+			"id": 267,
+			"position_x": 2957.87,
+			"position_y": -2794.79,
+			"position_z": 110.464,
+			"orientation": 1.19003,
+			"map": 0,
+			"name": "Terrordale"
+		},
+		{
+			"id": 268,
+			"position_x": 3352.92,
+			"position_y": -3379.03,
+			"position_z": 144.782,
+			"orientation": 6.25978,
+			"map": 0,
+			"name": "Stratholme"
+		},
+		{
+			"id": 269,
+			"position_x": 4249.99,
+			"position_y": 740.102,
+			"position_z": -25.671,
+			"orientation": 1.34062,
+			"map": 1,
+			"name": "BlackfathomDeeps"
+		},
+		{
+			"id": 270,
+			"position_x": 3120.16,
+			"position_y": -3724.93,
+			"position_z": 137.66,
+			"orientation": 5.83567,
+			"map": 0,
+			"name": "Naxxramas"
+		},
+		{
+			"id": 271,
+			"position_x": 3986.71,
+			"position_y": -1293.58,
+			"position_z": 250.144,
+			"orientation": 5.74591,
+			"map": 1,
+			"name": "EmeraldSanctuary"
+		},
+		{
+			"id": 272,
+			"position_x": 3065.36,
+			"position_y": -3704,
+			"position_z": 120.931,
+			"orientation": 1.21752,
+			"map": 0,
+			"name": "Plaguewood"
+		},
+		{
+			"id": 273,
+			"position_x": 3194.88,
+			"position_y": -4038.96,
+			"position_z": 107.991,
+			"orientation": 6.27156,
+			"map": 0,
+			"name": "EastwallGate"
+		},
+		{
+			"id": 274,
+			"position_x": 4102.25,
+			"position_y": -1006.79,
+			"position_z": 272.717,
+			"orientation": 0.790048,
+			"map": 1,
+			"name": "Felwood"
+		},
+		{
+			"id": 275,
+			"position_x": 3021.64,
+			"position_y": -3402.99,
+			"position_z": 298.22,
+			"orientation": 2.97352,
+			"map": 533,
+			"name": "nax"
+		},
+		{
+			"id": 276,
+			"position_x": -10895,
+			"position_y": -2933.24,
+			"position_z": 12.8408,
+			"orientation": 6.26628,
+			"map": 0,
+			"name": "DreadmaulHold"
+		},
+		{
+			"id": 277,
+			"position_x": 2279.65,
+			"position_y": -5310.01,
+			"position_z": 87.0759,
+			"orientation": 5.07618,
+			"map": 0,
+			"name": "Light'sHopeChapel"
+		},
+		{
+			"id": 278,
+			"position_x": 2300.97,
+			"position_y": -4613.36,
+			"position_z": 73.6231,
+			"orientation": 0.367722,
+			"map": 0,
+			"name": "EasternPlaguelands"
+		},
+		{
+			"id": 279,
+			"position_x": 6209.51,
+			"position_y": -1927.01,
+			"position_z": 569.393,
+			"orientation": 3.82137,
+			"map": 1,
+			"name": "TalonbranchGlade"
+		},
+		{
+			"id": 280,
+			"position_x": 6808.73,
+			"position_y": -2091.08,
+			"position_z": 624.962,
+			"orientation": 5.93802,
+			"map": 1,
+			"name": "TimbermawHold"
+		},
+		{
+			"id": 281,
+			"position_x": -11182.5,
+			"position_y": -3016.67,
+			"position_z": 7.42235,
+			"orientation": 4.0004,
+			"map": 0,
+			"name": "BlastedLands"
+		},
+		{
+			"id": 282,
+			"position_x": 1684.77,
+			"position_y": -5320.44,
+			"position_z": 73.6126,
+			"orientation": 4.52641,
+			"map": 0,
+			"name": "Tyr'sHand"
+		},
+		{
+			"id": 283,
+			"position_x": 2012.28,
+			"position_y": -4470.7,
+			"position_z": 73.6229,
+			"orientation": 5.15472,
+			"map": 0,
+			"name": "Corin'sCrossing"
+		},
+		{
+			"id": 284,
+			"position_x": 2448.89,
+			"position_y": -3708.71,
+			"position_z": 177.867,
+			"orientation": 5.66288,
+			"map": 0,
+			"name": "TheFungalVale"
+		},
+		{
+			"id": 285,
+			"position_x": 1248.8,
+			"position_y": -2604.13,
+			"position_z": 90.961,
+			"orientation": 0.255412,
+			"map": 0,
+			"name": "CaerDarrow"
+		},
+		{
+			"id": 286,
+			"position_x": 2793.09,
+			"position_y": -1621.4,
+			"position_z": 129.333,
+			"orientation": 1.98722,
+			"map": 0,
+			"name": "Hearthglen"
+		},
+		{
+			"id": 287,
+			"position_x": 5128.91,
+			"position_y": -343.506,
+			"position_z": 355.035,
+			"orientation": 3.39176,
+			"map": 1,
+			"name": "BloodvenomPost"
+		},
+		{
+			"id": 288,
+			"position_x": -11208.7,
+			"position_y": 1673.52,
+			"position_z": 24.6361,
+			"orientation": 1.51067,
+			"map": 0,
+			"name": "TheDeadmines"
+		},
+		{
+			"id": 289,
+			"position_x": 7486.41,
+			"position_y": -2124.22,
+			"position_z": 490.738,
+			"orientation": 3.11294,
+			"map": 1,
+			"name": "MoongladeHordeFlypoint"
+		},
+		{
+			"id": 290,
+			"position_x": 7654.3,
+			"position_y": -2232.87,
+			"position_z": 462.107,
+			"orientation": 5.96786,
+			"map": 1,
+			"name": "Moonglade"
+		},
+		{
+			"id": 291,
+			"position_x": 7966.85,
+			"position_y": -2491.04,
+			"position_z": 487.734,
+			"orientation": 3.20562,
+			"map": 1,
+			"name": "Nighthaven"
+		},
+		{
+			"id": 292,
+			"position_x": 6759.18,
+			"position_y": -4419.63,
+			"position_z": 763.214,
+			"orientation": 4.43476,
+			"map": 1,
+			"name": "Winterspring"
+		},
+		{
+			"id": 293,
+			"position_x": 6725.69,
+			"position_y": -4619.44,
+			"position_z": 720.909,
+			"orientation": 4.66802,
+			"map": 1,
+			"name": "Everlook"
+		},
+		{
+			"id": 294,
+			"position_x": 3608.59,
+			"position_y": -4414.43,
+			"position_z": 113.047,
+			"orientation": 1.62303,
+			"map": 1,
+			"name": "Valormok"
+		},
+		{
+			"id": 295,
+			"position_x": -12644.3,
+			"position_y": -377.411,
+			"position_z": 10.1021,
+			"orientation": 6.09978,
+			"map": 0,
+			"name": "StranglethornVale"
+		},
+		{
+			"id": 296,
+			"position_x": 3341.36,
+			"position_y": -4603.79,
+			"position_z": 92.5027,
+			"orientation": 5.28142,
+			"map": 1,
+			"name": "Azshara"
+		},
+		{
+			"id": 297,
+			"position_x": -10898.3,
+			"position_y": -364.784,
+			"position_z": 39.2681,
+			"orientation": 3.04614,
+			"map": 0,
+			"name": "Duskwood"
+		},
+		{
+			"id": 298,
+			"position_x": 2735.06,
+			"position_y": -3867.44,
+			"position_z": 98.6548,
+			"orientation": 3.56139,
+			"map": 1,
+			"name": "TalrendisPoint"
+		},
+		{
+			"id": 299,
+			"position_x": -2192.62,
+			"position_y": -736.317,
+			"position_z": -13.3274,
+			"orientation": 0.487569,
+			"map": 1,
+			"name": "Mulgore"
+		},
+		{
+			"id": 300,
+			"position_x": -10177.9,
+			"position_y": -3994.9,
+			"position_z": -111.239,
+			"orientation": 6.01885,
+			"map": 0,
+			"name": "TheSunkenTemple"
+		},
+		{
+			"id": 301,
+			"position_x": -2240.91,
+			"position_y": -399.174,
+			"position_z": -9.42446,
+			"orientation": 2.53353,
+			"map": 1,
+			"name": "BloodhoofVillage"
+		},
+		{
+			"id": 302,
+			"position_x": -10235.2,
+			"position_y": 1222.47,
+			"position_z": 43.6252,
+			"orientation": 6.2427,
+			"map": 0,
+			"name": "Westfall"
+		},
+		{
+			"id": 303,
+			"position_x": -2919.35,
+			"position_y": -264.535,
+			"position_z": 53.6197,
+			"orientation": 0.409027,
+			"map": 1,
+			"name": "CampNarache"
+		},
+		{
+			"id": 304,
+			"position_x": -10624.5,
+			"position_y": 1096.66,
+			"position_z": 33.7641,
+			"orientation": 1.31041,
+			"map": 0,
+			"name": "SentinelHill"
+		},
+		{
+			"id": 305,
+			"position_x": -10986.7,
+			"position_y": 1542.75,
+			"position_z": 44.7858,
+			"orientation": 2.62438,
+			"map": 0,
+			"name": "Moonbrook"
+		},
+		{
+			"id": 306,
+			"position_x": -10742.2,
+			"position_y": 330.574,
+			"position_z": 38.2503,
+			"orientation": 0.551712,
+			"map": 0,
+			"name": "RavenHill"
+		},
+		{
+			"id": 307,
+			"position_x": -10361.1,
+			"position_y": -1529.87,
+			"position_z": 91.4594,
+			"orientation": 5.96075,
+			"map": 0,
+			"name": "Beggar'sHaunt"
+		},
+		{
+			"id": 308,
+			"position_x": -10573,
+			"position_y": -1182.51,
+			"position_z": 28.0148,
+			"orientation": 0.309022,
+			"map": 0,
+			"name": "Darkshire"
+		},
+		{
+			"id": 309,
+			"position_x": -1277.37,
+			"position_y": 124.804,
+			"position_z": 131.287,
+			"orientation": 5.22274,
+			"map": 1,
+			"name": "ThunderBluff"
+		},
+		{
+			"id": 310,
+			"position_x": -10450.3,
+			"position_y": -3825.44,
+			"position_z": 18.0679,
+			"orientation": 6.03616,
+			"map": 0,
+			"name": "TempleOfAtal'Hakkar"
+		},
+		{
+			"id": 311,
+			"position_x": -10384.3,
+			"position_y": -421.588,
+			"position_z": 63.6179,
+			"orientation": 3.23856,
+			"map": 0,
+			"name": "TwilightGrove"
+		},
+		{
+			"id": 312,
+			"position_x": 5756.25,
+			"position_y": 298.505,
+			"position_z": 20.6049,
+			"orientation": 5.96504,
+			"map": 1,
+			"name": "Darkshore"
+		},
+		{
+			"id": 313,
+			"position_x": -10446.9,
+			"position_y": -3261.91,
+			"position_z": 20.1795,
+			"orientation": 5.02142,
+			"map": 0,
+			"name": "Stonard"
+		},
+		{
+			"id": 314,
+			"position_x": 6501.4,
+			"position_y": 481.607,
+			"position_z": 6.27062,
+			"orientation": 1.70033,
+			"map": 1,
+			"name": "Auberdine"
+		},
+		{
+			"id": 315,
+			"position_x": -11322.4,
+			"position_y": -202.492,
+			"position_z": 75.6362,
+			"orientation": 0.432339,
+			"map": 0,
+			"name": "RebelCamp"
+		},
+		{
+			"id": 316,
+			"position_x": 9848.37,
+			"position_y": 966.953,
+			"position_z": 1306.38,
+			"orientation": 3.77457,
+			"map": 1,
+			"name": "Dolanaar"
+		},
+		{
+			"id": 317,
+			"position_x": -11916.7,
+			"position_y": -1215.72,
+			"position_z": 92.289,
+			"orientation": 4.72454,
+			"map": 0,
+			"name": "Zul'Gurub"
+		},
+		{
+			"id": 318,
+			"position_x": -14297.2,
+			"position_y": 530.993,
+			"position_z": 8.77916,
+			"orientation": 3.98863,
+			"map": 0,
+			"name": "BootyBay"
+		},
+		{
+			"id": 319,
+			"position_x": 10334,
+			"position_y": 833.902,
+			"position_z": 1326.11,
+			"orientation": 3.62142,
+			"map": 1,
+			"name": "Shadowglen"
+		},
+		{
+			"id": 320,
+			"position_x": -10126,
+			"position_y": -2834.73,
+			"position_z": 22.2157,
+			"orientation": 0.674244,
+			"map": 0,
+			"name": "TheHarborage"
+		},
+		{
+			"id": 321,
+			"position_x": -13277.4,
+			"position_y": 127.372,
+			"position_z": 26.1418,
+			"orientation": 1.11878,
+			"map": 0,
+			"name": "GurubashiArena"
+		},
+		{
+			"id": 322,
+			"position_x": -12388.9,
+			"position_y": 172.578,
+			"position_z": 2.83358,
+			"orientation": 1.91753,
+			"map": 0,
+			"name": "Grom'golBaseCamp"
+		},
+		{
+			"id": 323,
+			"position_x": -5098.7,
+			"position_y": 505.358,
+			"position_z": 84.97,
+			"orientation": 3.41328,
+			"map": 530,
+			"name": "NetherwingLedge"
+		},
+		{
+			"id": 324,
+			"position_x": -4115.51,
+			"position_y": 1120.54,
+			"position_z": 44.5242,
+			"orientation": 2.6318,
+			"map": 530,
+			"name": "SanctumOfTheStars"
+		},
+		{
+			"id": 325,
+			"position_x": -3750.85,
+			"position_y": 1059.38,
+			"position_z": 70.921,
+			"orientation": 3.49973,
+			"map": 530,
+			"name": "Warden'sCage"
+		},
+		{
+			"id": 326,
+			"position_x": 96.4462,
+			"position_y": 1002.35,
+			"position_z": -86.9984,
+			"orientation": 6.26671,
+			"map": 564,
+			"name": "bt"
+		},
+		{
+			"id": 327,
+			"position_x": -3649.92,
+			"position_y": 317.469,
+			"position_z": 35.2827,
+			"orientation": 2.94285,
+			"map": 530,
+			"name": "BlackTemple"
+		},
+		{
+			"id": 328,
+			"position_x": -3053.96,
+			"position_y": 828.896,
+			"position_z": -10.4689,
+			"orientation": 5.53466,
+			"map": 530,
+			"name": "AltarOfSha'tar"
+		},
+		{
+			"id": 329,
+			"position_x": -3989.47,
+			"position_y": 2168.39,
+			"position_z": 105.35,
+			"orientation": 3.08422,
+			"map": 530,
+			"name": "WildhammerStronghold"
+		},
+		{
+			"id": 330,
+			"position_x": -2998.66,
+			"position_y": 2568.9,
+			"position_z": 76.6306,
+			"orientation": 0.551303,
+			"map": 530,
+			"name": "ShadowmoonVillage"
+		},
+		{
+			"id": 331,
+			"position_x": -2949.27,
+			"position_y": 3958.32,
+			"position_z": 0.285465,
+			"orientation": 1.37205,
+			"map": 530,
+			"name": "AllerianStronghold"
+		},
+		{
+			"id": 332,
+			"position_x": -2345.07,
+			"position_y": 3253.53,
+			"position_z": -3.37535,
+			"orientation": 4.84822,
+			"map": 530,
+			"name": "FirewingPoint"
+		},
+		{
+			"id": 333,
+			"position_x": -2640.08,
+			"position_y": 4404.38,
+			"position_z": 35.1,
+			"orientation": 4.14529,
+			"map": 530,
+			"name": "StonebreakerHold"
+		},
+		{
+			"id": 334,
+			"position_x": -2162.03,
+			"position_y": 4218.48,
+			"position_z": 6.33299,
+			"orientation": 5.20557,
+			"map": 530,
+			"name": "Tuurem"
+		},
+		{
+			"id": 335,
+			"position_x": -1838.16,
+			"position_y": 5301.79,
+			"position_z": -12.428,
+			"orientation": 5.9517,
+			"map": 530,
+			"name": "Shattrath"
+		},
+		{
+			"id": 336,
+			"position_x": -1816.67,
+			"position_y": 4691.8,
+			"position_z": 10.6813,
+			"orientation": 0.383229,
+			"map": 530,
+			"name": "CenarionThicket"
+		},
+		{
+			"id": 337,
+			"position_x": 10111.3,
+			"position_y": 1557.73,
+			"position_z": 1324.33,
+			"orientation": 4.04239,
+			"map": 1,
+			"name": "Teldrassil"
+		},
+		{
+			"id": 338,
+			"position_x": -2000.47,
+			"position_y": 4451.54,
+			"position_z": 8.37917,
+			"orientation": 4.40447,
+			"map": 530,
+			"name": "TerokkarForest"
+		},
+		{
+			"id": 339,
+			"position_x": -2458.16,
+			"position_y": 4935.8,
+			"position_z": 33.7396,
+			"orientation": 0.969919,
+			"map": 530,
+			"name": "Grangol'varVillage"
+		},
+		{
+			"id": 340,
+			"position_x": -2807.36,
+			"position_y": 5077.65,
+			"position_z": -12.2418,
+			"orientation": 3.23972,
+			"map": 530,
+			"name": "RefugeeCaravan"
+		},
+		{
+			"id": 341,
+			"position_x": -5.10147,
+			"position_y": 0.126865,
+			"position_z": -1.12788,
+			"orientation": 3.08034,
+			"map": 555,
+			"name": "sl"
+		},
+		{
+			"id": 342,
+			"position_x": -3627.9,
+			"position_y": 4941.98,
+			"position_z": -101.049,
+			"orientation": 3.16039,
+			"map": 530,
+			"name": "ShadowLabyrinth"
+		},
+		{
+			"id": 343,
+			"position_x": -11.1808,
+			"position_y": 0.991746,
+			"position_z": -0.9543,
+			"orientation": 3.13767,
+			"map": 557,
+			"name": "mt"
+		},
+		{
+			"id": 344,
+			"position_x": -3104.18,
+			"position_y": 4945.52,
+			"position_z": -101.507,
+			"orientation": 6.22344,
+			"map": 530,
+			"name": "ManaTombs"
+		},
+		{
+			"id": 345,
+			"position_x": -3362.2,
+			"position_y": 4664.12,
+			"position_z": -101.049,
+			"orientation": 4.6605,
+			"map": 530,
+			"name": "SethekkHalls"
+		},
+		{
+			"id": 346,
+			"position_x": -21.8975,
+			"position_y": 0.16,
+			"position_z": -0.1206,
+			"orientation": 6.28318,
+			"map": 558,
+			"name": "ac"
+		},
+		{
+			"id": 347,
+			"position_x": -3362.04,
+			"position_y": 5209.85,
+			"position_z": -101.05,
+			"orientation": 1.60924,
+			"map": 530,
+			"name": "AuchenaiCrypts"
+		},
+		{
+			"id": 348,
+			"position_x": -4.6811,
+			"position_y": -0.09308,
+			"position_z": 0.0062,
+			"orientation": 0.035342,
+			"map": 556,
+			"name": "sethekk"
+		},
+		{
+			"id": 349,
+			"position_x": -3324.49,
+			"position_y": 4943.45,
+			"position_z": -101.239,
+			"orientation": 4.63901,
+			"map": 530,
+			"name": "Auchindoun"
+		},
+		{
+			"id": 350,
+			"position_x": -2850.34,
+			"position_y": 6405.81,
+			"position_z": 77.0322,
+			"orientation": 3.64548,
+			"map": 530,
+			"name": "Kil'sorrowFortress"
+		},
+		{
+			"id": 351,
+			"position_x": -1999.94,
+			"position_y": 6581.71,
+			"position_z": 11.32,
+			"orientation": 2.36528,
+			"map": 530,
+			"name": "TheRingOfTrials"
+		},
+		{
+			"id": 352,
+			"position_x": -1446.49,
+			"position_y": 6346.65,
+			"position_z": 37.5461,
+			"orientation": 2.77876,
+			"map": 530,
+			"name": "NesingwarySafari"
+		},
+		{
+			"id": 353,
+			"position_x": -1321.34,
+			"position_y": 7239.12,
+			"position_z": 32.7371,
+			"orientation": 4.04169,
+			"map": 530,
+			"name": "Garadar"
+		},
+		{
+			"id": 354,
+			"position_x": -1520.44,
+			"position_y": 8552.38,
+			"position_z": 7.26028,
+			"orientation": 1.69728,
+			"map": 530,
+			"name": "SunspringPost"
+		},
+		{
+			"id": 355,
+			"position_x": -1145.95,
+			"position_y": 8182.35,
+			"position_z": 3.60249,
+			"orientation": 6.13478,
+			"map": 530,
+			"name": "Nagrand"
+		},
+		{
+			"id": 356,
+			"position_x": -1563.05,
+			"position_y": 7945.67,
+			"position_z": -22.5568,
+			"orientation": 1.13572,
+			"map": 530,
+			"name": "Halaa"
+		},
+		{
+			"id": 357,
+			"position_x": -2560.76,
+			"position_y": 7300.72,
+			"position_z": 13.9485,
+			"orientation": 2.18422,
+			"map": 530,
+			"name": "Telaar"
+		},
+		{
+			"id": 358,
+			"position_x": -2417.03,
+			"position_y": 8314.75,
+			"position_z": -37.5225,
+			"orientation": 3.13613,
+			"map": 530,
+			"name": "Oshu'gun"
+		},
+		{
+			"id": 359,
+			"position_x": -1376.82,
+			"position_y": 9616.71,
+			"position_z": 201.301,
+			"orientation": 2.64604,
+			"map": 530,
+			"name": "TheTwilightRidge"
+		},
+		{
+			"id": 360,
+			"position_x": 958.66,
+			"position_y": 7374.02,
+			"position_z": 27.9079,
+			"orientation": 6.12064,
+			"map": 530,
+			"name": "OreborHarborage"
+		},
+		{
+			"id": 361,
+			"position_x": 820.025,
+			"position_y": 6864.93,
+			"position_z": -66.7556,
+			"orientation": 6.28127,
+			"map": 530,
+			"name": "SerpentshrineCavern"
+		},
+		{
+			"id": 362,
+			"position_x": 717.282,
+			"position_y": 6979.87,
+			"position_z": -73.0281,
+			"orientation": 1.50287,
+			"map": 530,
+			"name": "TheSlavePens"
+		},
+		{
+			"id": 363,
+			"position_x": 130.446,
+			"position_y": -127.482,
+			"position_z": -1.59053,
+			"orientation": 1.86731,
+			"map": 547,
+			"name": "sp"
+		},
+		{
+			"id": 364,
+			"position_x": 794.537,
+			"position_y": 6927.81,
+			"position_z": -80.4757,
+			"orientation": 0.159089,
+			"map": 530,
+			"name": "TheSteamvault"
+		},
+		{
+			"id": 365,
+			"position_x": 1.60675,
+			"position_y": 8.07684,
+			"position_z": -4.12796,
+			"orientation": 4.467,
+			"map": 545,
+			"name": "sv"
+		},
+		{
+			"id": 366,
+			"position_x": 735.066,
+			"position_y": 6883.45,
+			"position_z": -66.2913,
+			"orientation": 5.89172,
+			"map": 530,
+			"name": "CoilfangReservoir"
+		},
+		{
+			"id": 367,
+			"position_x": 9.83957,
+			"position_y": 2.74496,
+			"position_z": 822.096,
+			"orientation": 0.106614,
+			"map": 548,
+			"name": "ssc"
+		},
+		{
+			"id": 368,
+			"position_x": 763.307,
+			"position_y": 6767.81,
+			"position_z": -67.7695,
+			"orientation": 5.99726,
+			"map": 530,
+			"name": "TheUnderbog"
+		},
+		{
+			"id": 369,
+			"position_x": 9.71391,
+			"position_y": -16.2008,
+			"position_z": -2.75334,
+			"orientation": 5.62187,
+			"map": 546,
+			"name": "underbog"
+		},
+		{
+			"id": 370,
+			"position_x": 260.28,
+			"position_y": 7860.4,
+			"position_z": 23.3231,
+			"orientation": 3.77545,
+			"map": 530,
+			"name": "Zabra'jin"
+		},
+		{
+			"id": 371,
+			"position_x": 209.095,
+			"position_y": 8547.4,
+			"position_z": 23.1083,
+			"orientation": 5.33054,
+			"map": 530,
+			"name": "Sporeggar"
+		},
+		{
+			"id": 372,
+			"position_x": -100.415,
+			"position_y": 8775,
+			"position_z": 18.7677,
+			"orientation": 0.508193,
+			"map": 530,
+			"name": "TheSpawningGlen"
+		},
+		{
+			"id": 373,
+			"position_x": 278.582,
+			"position_y": 6001.27,
+			"position_z": 144.73,
+			"orientation": 1.53156,
+			"map": 530,
+			"name": "Telredor"
+		},
+		{
+			"id": 374,
+			"position_x": 664.515,
+			"position_y": 5349.82,
+			"position_z": -23.1373,
+			"orientation": 0.875759,
+			"map": 530,
+			"name": "TheDeadMire"
+		},
+		{
+			"id": 375,
+			"position_x": 104.534,
+			"position_y": 5199.31,
+			"position_z": 21.1033,
+			"orientation": 4.22156,
+			"map": 530,
+			"name": "SwampratPost"
+		},
+		{
+			"id": 376,
+			"position_x": -54.8621,
+			"position_y": 5813.44,
+			"position_z": 20.9764,
+			"orientation": 0.081722,
+			"map": 530,
+			"name": "Zangarmarsh"
+		},
+		{
+			"id": 377,
+			"position_x": -223.541,
+			"position_y": 5487.99,
+			"position_z": 23.2281,
+			"orientation": 0.886755,
+			"map": 530,
+			"name": "CenarionRefuge"
+		},
+		{
+			"id": 378,
+			"position_x": -211.237,
+			"position_y": 4278.54,
+			"position_z": 86.5678,
+			"orientation": 4.59776,
+			"map": 530,
+			"name": "HellfirePeninsula"
+		},
+		{
+			"id": 379,
+			"position_x": 190.035,
+			"position_y": 3.38458,
+			"position_z": 67.9651,
+			"orientation": 3.15819,
+			"map": 544,
+			"name": "magtheridon"
+		},
+		{
+			"id": 380,
+			"position_x": -291.324,
+			"position_y": 3149.1,
+			"position_z": 31.5541,
+			"orientation": 2.27147,
+			"map": 530,
+			"name": "TheBloodFurnace"
+		},
+		{
+			"id": 381,
+			"position_x": -3.9967,
+			"position_y": 14.6363,
+			"position_z": -44.8009,
+			"orientation": 1.21574,
+			"map": 542,
+			"name": "bf"
+		},
+		{
+			"id": 382,
+			"position_x": -305.79,
+			"position_y": 3061.63,
+			"position_z": -2.53847,
+			"orientation": 1.88888,
+			"map": 530,
+			"name": "TheShatteredHalls"
+		},
+		{
+			"id": 383,
+			"position_x": -10345.4,
+			"position_y": -2773.42,
+			"position_z": 21.99,
+			"orientation": 5.08426,
+			"map": 0,
+			"name": "SwampOfSorrows"
+		},
+		{
+			"id": 384,
+			"position_x": -40.8716,
+			"position_y": -19.7538,
+			"position_z": -13.8065,
+			"orientation": 1.11133,
+			"map": 540,
+			"name": "sh"
+		},
+		{
+			"id": 385,
+			"position_x": -1346.58,
+			"position_y": 1653.44,
+			"position_z": 68.8313,
+			"orientation": 0.486942,
+			"map": 543,
+			"name": "ramp"
+		},
+		{
+			"id": 386,
+			"position_x": -11118.9,
+			"position_y": -2010.33,
+			"position_z": 47.0819,
+			"orientation": 0.649895,
+			"map": 0,
+			"name": "Karazhan"
+		},
+		{
+			"id": 387,
+			"position_x": -360.671,
+			"position_y": 3071.9,
+			"position_z": -15.0977,
+			"orientation": 1.89389,
+			"map": 530,
+			"name": "HellfireRamparts"
+		},
+		{
+			"id": 388,
+			"position_x": 512.08,
+			"position_y": 3879.32,
+			"position_z": 191.494,
+			"orientation": 0.027839,
+			"map": 530,
+			"name": "Mag'harPost"
+		},
+		{
+			"id": 389,
+			"position_x": -10879.6,
+			"position_y": -2206.99,
+			"position_z": 122.514,
+			"orientation": 3.74515,
+			"map": 0,
+			"name": "TheVice"
+		},
+		{
+			"id": 390,
+			"position_x": 78.9769,
+			"position_y": 4333.58,
+			"position_z": 101.553,
+			"orientation": 0.011347,
+			"map": 530,
+			"name": "TempleOfTelhamat"
+		},
+		{
+			"id": 391,
+			"position_x": 3376.86,
+			"position_y": 1013.05,
+			"position_z": 3.34387,
+			"orientation": 3.81699,
+			"map": 1,
+			"name": "Zoram'garOutpost"
+		},
+		{
+			"id": 392,
+			"position_x": -318.842,
+			"position_y": 4718.99,
+			"position_z": 18.4132,
+			"orientation": 6.21599,
+			"map": 530,
+			"name": "CenarionPost"
+		},
+		{
+			"id": 393,
+			"position_x": -600.782,
+			"position_y": 4100.1,
+			"position_z": 90.5571,
+			"orientation": 0.207697,
+			"map": 530,
+			"name": "FalconWatch"
+		},
+		{
+			"id": 394,
+			"position_x": 282.878,
+			"position_y": 3479.82,
+			"position_z": 63.4083,
+			"orientation": 0.305086,
+			"map": 530,
+			"name": "PoolsOfAggonar"
+		},
+		{
+			"id": 395,
+			"position_x": -312.7,
+			"position_y": 3087.26,
+			"position_z": -116.52,
+			"orientation": 5.19026,
+			"map": 530,
+			"name": "Magtheridon'sLair"
+		},
+		{
+			"id": 396,
+			"position_x": -390.863,
+			"position_y": 3130.64,
+			"position_z": 4.51327,
+			"orientation": 0.218692,
+			"map": 530,
+			"name": "HellfireCitadel"
+		},
+		{
+			"id": 397,
+			"position_x": -1088.38,
+			"position_y": 2998.27,
+			"position_z": 8.18949,
+			"orientation": 2.73983,
+			"map": 530,
+			"name": "ZeppelinCrash"
+		},
+		{
+			"id": 398,
+			"position_x": -1384.5,
+			"position_y": 2724.56,
+			"position_z": -28.568,
+			"orientation": 3.37207,
+			"map": 530,
+			"name": "ExpeditionArmory"
+		},
+		{
+			"id": 399,
+			"position_x": -748.211,
+			"position_y": 2681.52,
+			"position_z": 100.35,
+			"orientation": 5.7479,
+			"map": 530,
+			"name": "HonorHold"
+		},
+		{
+			"id": 400,
+			"position_x": -1326.36,
+			"position_y": 2371.99,
+			"position_z": 88.9503,
+			"orientation": 6.19165,
+			"map": 530,
+			"name": "SpinebreakerPost"
+		},
+		{
+			"id": 401,
+			"position_x": -1005.37,
+			"position_y": 2030.91,
+			"position_z": 67.873,
+			"orientation": 3.12703,
+			"map": 530,
+			"name": "Zeth'Gor"
+		},
+		{
+			"id": 402,
+			"position_x": 809.937,
+			"position_y": 2332.9,
+			"position_z": 281.37,
+			"orientation": 5.77383,
+			"map": 530,
+			"name": "ThroneOfKil'jaeden"
+		},
+		{
+			"id": 403,
+			"position_x": -10438.8,
+			"position_y": -1932.75,
+			"position_z": 104.617,
+			"orientation": 4.77402,
+			"map": 0,
+			"name": "DeadwindPass"
+		},
+		{
+			"id": 404,
+			"position_x": 9949.56,
+			"position_y": 2284.21,
+			"position_z": 1341.4,
+			"orientation": 1.59587,
+			"map": 1,
+			"name": "Darnassus"
+		},
+		{
+			"id": 405,
+			"position_x": 156.251,
+			"position_y": 2673.45,
+			"position_z": 85.1587,
+			"orientation": 0.382074,
+			"map": 530,
+			"name": "Thrallmar"
+		},
+		{
+			"id": 406,
+			"position_x": -8734.3,
+			"position_y": -4230.11,
+			"position_z": -209.5,
+			"orientation": 2.16212,
+			"map": 1,
+			"name": "TheBlackMorass"
+		},
+		{
+			"id": 407,
+			"position_x": 3387.95,
+			"position_y": -3380.34,
+			"position_z": 142.76,
+			"orientation": 0.005913,
+			"map": 329,
+			"name": "strat"
+		},
+		{
+			"id": 408,
+			"position_x": 2063.11,
+			"position_y": 1547.38,
+			"position_z": 1162.1,
+			"orientation": 1.87623,
+			"map": 566,
+			"name": "eots"
+		},
+		{
+			"id": 409,
+			"position_x": 2167.44,
+			"position_y": 1564.11,
+			"position_z": 1159.35,
+			"orientation": 0.254382,
+			"map": 566,
+			"name": "EyeOfTheStorm"
+		},
+		{
+			"id": 410,
+			"position_x": 1843.73,
+			"position_y": 1529.77,
+			"position_z": 1224.43,
+			"orientation": 0.297579,
+			"map": 566,
+			"name": "EyeOfTheStormHorde"
+		},
+		{
+			"id": 411,
+			"position_x": 2487.72,
+			"position_y": 1609.12,
+			"position_z": 1224.64,
+			"orientation": 3.35671,
+			"map": 566,
+			"name": "EyeOfTheStormAlliance"
+		},
+		{
+			"id": 412,
+			"position_x": 16226.2,
+			"position_y": 16257,
+			"position_z": 13.2022,
+			"orientation": 1.65007,
+			"map": 1,
+			"name": "GMIsland"
+		},
+		{
+			"id": 413,
+			"position_x": -0.310414,
+			"position_y": 0.107129,
+			"position_z": -100.538,
+			"orientation": 2.94612,
+			"map": 13,
+			"name": "ScottTest"
+		},
+		{
+			"id": 415,
+			"position_x": 128.205,
+			"position_y": 135.136,
+			"position_z": 236.11,
+			"orientation": 4.59132,
+			"map": 37,
+			"name": "AzsharaCrater"
+		},
+		{
+			"id": 416,
+			"position_x": -11052.9,
+			"position_y": -1568.93,
+			"position_z": 27.233,
+			"orientation": 4.64509,
+			"map": 0,
+			"name": "Crypt"
+		},
+		{
+			"id": 417,
+			"position_x": -956.664,
+			"position_y": -3754.71,
+			"position_z": 5.33239,
+			"orientation": 0.996637,
+			"map": 1,
+			"name": "Ratchet"
+		},
+		{
+			"id": 418,
+			"position_x": 12947.4,
+			"position_y": -6893.31,
+			"position_z": 5.68398,
+			"orientation": 3.09154,
+			"map": 530,
+			"name": "IsleOfQuel'Danas"
+		},
+		{
+			"id": 419,
+			"position_x": 12884.6,
+			"position_y": -7317.69,
+			"position_z": 65.5023,
+			"orientation": 4.799,
+			"map": 530,
+			"name": "Magisters'Terrace"
+		},
+		{
+			"id": 420,
+			"position_x": 12574.1,
+			"position_y": -6774.81,
+			"position_z": 15.0904,
+			"orientation": 3.13788,
+			"map": 530,
+			"name": "SunwellPlateau"
+		},
+		{
+			"id": 421,
+			"position_x": 15.2235,
+			"position_y": -0.221107,
+			"position_z": -2.79687,
+			"orientation": 0.007752,
+			"map": 585,
+			"name": "mgt"
+		},
+		{
+			"id": 422,
+			"position_x": 1784.23,
+			"position_y": 924.563,
+			"position_z": 15.581,
+			"orientation": 3.5177,
+			"map": 580,
+			"name": "swp"
+		}
+	]
+}

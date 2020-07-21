@@ -1,0 +1,1287 @@
+{
+	"table": "creature_linking_template",
+	"rows":
+	[
+		{
+			"entry": 14892,
+			"map": 1,
+			"master_entry": 14857,
+			"flag": 512,
+			"search_range": 0
+		},
+		{
+			"entry": 2532,
+			"map": 0,
+			"master_entry": 2533,
+			"flag": 656,
+			"search_range": 0
+		},
+		{
+			"entry": 12119,
+			"map": 409,
+			"master_entry": 12118,
+			"flag": 519,
+			"search_range": 0
+		},
+		{
+			"entry": 11673,
+			"map": 409,
+			"master_entry": 11982,
+			"flag": 1024,
+			"search_range": 0
+		},
+		{
+			"entry": 11661,
+			"map": 409,
+			"master_entry": 12259,
+			"flag": 7,
+			"search_range": 0
+		},
+		{
+			"entry": 12099,
+			"map": 409,
+			"master_entry": 12057,
+			"flag": 7,
+			"search_range": 0
+		},
+		{
+			"entry": 11672,
+			"map": 409,
+			"master_entry": 11988,
+			"flag": 39,
+			"search_range": 0
+		},
+		{
+			"entry": 11662,
+			"map": 409,
+			"master_entry": 12098,
+			"flag": 7,
+			"search_range": 0
+		},
+		{
+			"entry": 11663,
+			"map": 409,
+			"master_entry": 12018,
+			"flag": 7,
+			"search_range": 0
+		},
+		{
+			"entry": 11664,
+			"map": 409,
+			"master_entry": 12018,
+			"flag": 7,
+			"search_range": 0
+		},
+		{
+			"entry": 15984,
+			"map": 531,
+			"master_entry": 15516,
+			"flag": 519,
+			"search_range": 0
+		},
+		{
+			"entry": 10814,
+			"map": 229,
+			"master_entry": 10363,
+			"flag": 7,
+			"search_range": 0
+		},
+		{
+			"entry": 11373,
+			"map": 309,
+			"master_entry": 14507,
+			"flag": 7,
+			"search_range": 0
+		},
+		{
+			"entry": 8120,
+			"map": 209,
+			"master_entry": 7267,
+			"flag": 1,
+			"search_range": 0
+		},
+		{
+			"entry": 7268,
+			"map": 209,
+			"master_entry": 7267,
+			"flag": 1,
+			"search_range": 0
+		},
+		{
+			"entry": 8319,
+			"map": 109,
+			"master_entry": 5709,
+			"flag": 1,
+			"search_range": 0
+		},
+		{
+			"entry": 5280,
+			"map": 109,
+			"master_entry": 5709,
+			"flag": 1,
+			"search_range": 0
+		},
+		{
+			"entry": 5277,
+			"map": 109,
+			"master_entry": 5709,
+			"flag": 1,
+			"search_range": 0
+		},
+		{
+			"entry": 5283,
+			"map": 109,
+			"master_entry": 5709,
+			"flag": 1,
+			"search_range": 0
+		},
+		{
+			"entry": 5722,
+			"map": 109,
+			"master_entry": 5709,
+			"flag": 1,
+			"search_range": 0
+		},
+		{
+			"entry": 5719,
+			"map": 109,
+			"master_entry": 5709,
+			"flag": 1,
+			"search_range": 0
+		},
+		{
+			"entry": 16809,
+			"map": 540,
+			"master_entry": 16808,
+			"flag": 1,
+			"search_range": 0
+		},
+		{
+			"entry": 19224,
+			"map": 555,
+			"master_entry": 18732,
+			"flag": 4112,
+			"search_range": 0
+		},
+		{
+			"entry": 19226,
+			"map": 555,
+			"master_entry": 18732,
+			"flag": 4112,
+			"search_range": 0
+		},
+		{
+			"entry": 24240,
+			"map": 568,
+			"master_entry": 24239,
+			"flag": 3,
+			"search_range": 0
+		},
+		{
+			"entry": 24241,
+			"map": 568,
+			"master_entry": 24239,
+			"flag": 3,
+			"search_range": 0
+		},
+		{
+			"entry": 24242,
+			"map": 568,
+			"master_entry": 24239,
+			"flag": 3,
+			"search_range": 0
+		},
+		{
+			"entry": 24243,
+			"map": 568,
+			"master_entry": 24239,
+			"flag": 3,
+			"search_range": 0
+		},
+		{
+			"entry": 24244,
+			"map": 568,
+			"master_entry": 24239,
+			"flag": 3,
+			"search_range": 0
+		},
+		{
+			"entry": 24245,
+			"map": 568,
+			"master_entry": 24239,
+			"flag": 3,
+			"search_range": 0
+		},
+		{
+			"entry": 24246,
+			"map": 568,
+			"master_entry": 24239,
+			"flag": 3,
+			"search_range": 0
+		},
+		{
+			"entry": 24247,
+			"map": 568,
+			"master_entry": 24239,
+			"flag": 3,
+			"search_range": 0
+		},
+		{
+			"entry": 24553,
+			"map": 585,
+			"master_entry": 24560,
+			"flag": 11,
+			"search_range": 0
+		},
+		{
+			"entry": 24554,
+			"map": 585,
+			"master_entry": 24560,
+			"flag": 11,
+			"search_range": 0
+		},
+		{
+			"entry": 24555,
+			"map": 585,
+			"master_entry": 24560,
+			"flag": 11,
+			"search_range": 0
+		},
+		{
+			"entry": 24556,
+			"map": 585,
+			"master_entry": 24560,
+			"flag": 11,
+			"search_range": 0
+		},
+		{
+			"entry": 24557,
+			"map": 585,
+			"master_entry": 24560,
+			"flag": 11,
+			"search_range": 0
+		},
+		{
+			"entry": 24558,
+			"map": 585,
+			"master_entry": 24560,
+			"flag": 11,
+			"search_range": 0
+		},
+		{
+			"entry": 24559,
+			"map": 585,
+			"master_entry": 24560,
+			"flag": 11,
+			"search_range": 0
+		},
+		{
+			"entry": 24561,
+			"map": 585,
+			"master_entry": 24560,
+			"flag": 11,
+			"search_range": 0
+		},
+		{
+			"entry": 24722,
+			"map": 585,
+			"master_entry": 24723,
+			"flag": 36,
+			"search_range": 0
+		},
+		{
+			"entry": 18832,
+			"map": 565,
+			"master_entry": 18831,
+			"flag": 143,
+			"search_range": 0
+		},
+		{
+			"entry": 18834,
+			"map": 565,
+			"master_entry": 18831,
+			"flag": 143,
+			"search_range": 0
+		},
+		{
+			"entry": 18835,
+			"map": 565,
+			"master_entry": 18831,
+			"flag": 143,
+			"search_range": 0
+		},
+		{
+			"entry": 18836,
+			"map": 565,
+			"master_entry": 18831,
+			"flag": 143,
+			"search_range": 0
+		},
+		{
+			"entry": 15276,
+			"map": 531,
+			"master_entry": 15275,
+			"flag": 143,
+			"search_range": 0
+		},
+		{
+			"entry": 15316,
+			"map": 531,
+			"master_entry": 15276,
+			"flag": 132,
+			"search_range": 0
+		},
+		{
+			"entry": 15317,
+			"map": 531,
+			"master_entry": 15276,
+			"flag": 132,
+			"search_range": 0
+		},
+		{
+			"entry": 16063,
+			"map": 533,
+			"master_entry": 16062,
+			"flag": 143,
+			"search_range": 0
+		},
+		{
+			"entry": 16064,
+			"map": 533,
+			"master_entry": 16062,
+			"flag": 143,
+			"search_range": 0
+		},
+		{
+			"entry": 16065,
+			"map": 533,
+			"master_entry": 16062,
+			"flag": 143,
+			"search_range": 0
+		},
+		{
+			"entry": 16775,
+			"map": 533,
+			"master_entry": 16062,
+			"flag": 256,
+			"search_range": 0
+		},
+		{
+			"entry": 16776,
+			"map": 533,
+			"master_entry": 16065,
+			"flag": 256,
+			"search_range": 0
+		},
+		{
+			"entry": 16777,
+			"map": 533,
+			"master_entry": 16063,
+			"flag": 256,
+			"search_range": 0
+		},
+		{
+			"entry": 16778,
+			"map": 533,
+			"master_entry": 16064,
+			"flag": 256,
+			"search_range": 0
+		},
+		{
+			"entry": 18925,
+			"map": 550,
+			"master_entry": 18805,
+			"flag": 4112,
+			"search_range": 0
+		},
+		{
+			"entry": 18806,
+			"map": 550,
+			"master_entry": 18805,
+			"flag": 4112,
+			"search_range": 0
+		},
+		{
+			"entry": 17838,
+			"map": 269,
+			"master_entry": 15608,
+			"flag": 16,
+			"search_range": 0
+		},
+		{
+			"entry": 17879,
+			"map": 269,
+			"master_entry": 15608,
+			"flag": 16,
+			"search_range": 0
+		},
+		{
+			"entry": 17880,
+			"map": 269,
+			"master_entry": 15608,
+			"flag": 16,
+			"search_range": 0
+		},
+		{
+			"entry": 17881,
+			"map": 269,
+			"master_entry": 15608,
+			"flag": 16,
+			"search_range": 0
+		},
+		{
+			"entry": 21697,
+			"map": 269,
+			"master_entry": 15608,
+			"flag": 16,
+			"search_range": 0
+		},
+		{
+			"entry": 21698,
+			"map": 269,
+			"master_entry": 15608,
+			"flag": 16,
+			"search_range": 0
+		},
+		{
+			"entry": 21104,
+			"map": 269,
+			"master_entry": 15608,
+			"flag": 16,
+			"search_range": 0
+		},
+		{
+			"entry": 17839,
+			"map": 269,
+			"master_entry": 15608,
+			"flag": 16,
+			"search_range": 0
+		},
+		{
+			"entry": 17835,
+			"map": 269,
+			"master_entry": 15608,
+			"flag": 16,
+			"search_range": 0
+		},
+		{
+			"entry": 21818,
+			"map": 269,
+			"master_entry": 15608,
+			"flag": 16,
+			"search_range": 0
+		},
+		{
+			"entry": 17892,
+			"map": 269,
+			"master_entry": 15608,
+			"flag": 16,
+			"search_range": 0
+		},
+		{
+			"entry": 18994,
+			"map": 269,
+			"master_entry": 15608,
+			"flag": 16,
+			"search_range": 0
+		},
+		{
+			"entry": 18995,
+			"map": 269,
+			"master_entry": 15608,
+			"flag": 16,
+			"search_range": 0
+		},
+		{
+			"entry": 18553,
+			"map": 269,
+			"master_entry": 15608,
+			"flag": 16,
+			"search_range": 0
+		},
+		{
+			"entry": 14988,
+			"map": 309,
+			"master_entry": 11382,
+			"flag": 4096,
+			"search_range": 0
+		},
+		{
+			"entry": 15117,
+			"map": 309,
+			"master_entry": 11382,
+			"flag": 4096,
+			"search_range": 0
+		},
+		{
+			"entry": 10316,
+			"map": 229,
+			"master_entry": 10316,
+			"flag": 3,
+			"search_range": 0
+		},
+		{
+			"entry": 15544,
+			"map": 531,
+			"master_entry": 15511,
+			"flag": 143,
+			"search_range": 0
+		},
+		{
+			"entry": 15543,
+			"map": 531,
+			"master_entry": 15511,
+			"flag": 143,
+			"search_range": 0
+		},
+		{
+			"entry": 12557,
+			"map": 469,
+			"master_entry": 12435,
+			"flag": 135,
+			"search_range": 0
+		},
+		{
+			"entry": 14456,
+			"map": 469,
+			"master_entry": 12557,
+			"flag": 143,
+			"search_range": 0
+		},
+		{
+			"entry": 21686,
+			"map": 530,
+			"master_entry": 21685,
+			"flag": 3,
+			"search_range": 0
+		},
+		{
+			"entry": 21687,
+			"map": 530,
+			"master_entry": 21685,
+			"flag": 3,
+			"search_range": 0
+		},
+		{
+			"entry": 20481,
+			"map": 554,
+			"master_entry": 19221,
+			"flag": 4112,
+			"search_range": 0
+		},
+		{
+			"entry": 17911,
+			"map": 329,
+			"master_entry": 17910,
+			"flag": 143,
+			"search_range": 0
+		},
+		{
+			"entry": 17912,
+			"map": 329,
+			"master_entry": 17910,
+			"flag": 143,
+			"search_range": 0
+		},
+		{
+			"entry": 17913,
+			"map": 329,
+			"master_entry": 17910,
+			"flag": 143,
+			"search_range": 0
+		},
+		{
+			"entry": 17914,
+			"map": 329,
+			"master_entry": 17910,
+			"flag": 143,
+			"search_range": 0
+		},
+		{
+			"entry": 15546,
+			"map": 509,
+			"master_entry": 15369,
+			"flag": 4112,
+			"search_range": 0
+		},
+		{
+			"entry": 15934,
+			"map": 509,
+			"master_entry": 15369,
+			"flag": 4096,
+			"search_range": 0
+		},
+		{
+			"entry": 24143,
+			"map": 568,
+			"master_entry": 23577,
+			"flag": 4096,
+			"search_range": 0
+		},
+		{
+			"entry": 24858,
+			"map": 568,
+			"master_entry": 23574,
+			"flag": 4112,
+			"search_range": 0
+		},
+		{
+			"entry": 15334,
+			"map": 531,
+			"master_entry": 15727,
+			"flag": 4128,
+			"search_range": 0
+		},
+		{
+			"entry": 15589,
+			"map": 531,
+			"master_entry": 15727,
+			"flag": 4,
+			"search_range": 0
+		},
+		{
+			"entry": 15725,
+			"map": 531,
+			"master_entry": 15589,
+			"flag": 4096,
+			"search_range": 0
+		},
+		{
+			"entry": 15726,
+			"map": 531,
+			"master_entry": 15727,
+			"flag": 4128,
+			"search_range": 0
+		},
+		{
+			"entry": 15728,
+			"map": 531,
+			"master_entry": 15727,
+			"flag": 4128,
+			"search_range": 0
+		},
+		{
+			"entry": 15802,
+			"map": 531,
+			"master_entry": 15727,
+			"flag": 4128,
+			"search_range": 0
+		},
+		{
+			"entry": 15904,
+			"map": 531,
+			"master_entry": 15727,
+			"flag": 4128,
+			"search_range": 0
+		},
+		{
+			"entry": 15910,
+			"map": 531,
+			"master_entry": 15727,
+			"flag": 4128,
+			"search_range": 0
+		},
+		{
+			"entry": 18412,
+			"map": 532,
+			"master_entry": 18168,
+			"flag": 4112,
+			"search_range": 0
+		},
+		{
+			"entry": 17546,
+			"map": 532,
+			"master_entry": 17535,
+			"flag": 4096,
+			"search_range": 0
+		},
+		{
+			"entry": 17547,
+			"map": 532,
+			"master_entry": 17535,
+			"flag": 4096,
+			"search_range": 0
+		},
+		{
+			"entry": 17543,
+			"map": 532,
+			"master_entry": 17535,
+			"flag": 4096,
+			"search_range": 0
+		},
+		{
+			"entry": 15547,
+			"map": 532,
+			"master_entry": 16151,
+			"flag": 1,
+			"search_range": 0
+		},
+		{
+			"entry": 15548,
+			"map": 532,
+			"master_entry": 16151,
+			"flag": 1,
+			"search_range": 0
+		},
+		{
+			"entry": 17647,
+			"map": 0,
+			"master_entry": 17635,
+			"flag": 515,
+			"search_range": 0
+		},
+		{
+			"entry": 17996,
+			"map": 0,
+			"master_entry": 17995,
+			"flag": 515,
+			"search_range": 0
+		},
+		{
+			"entry": 17646,
+			"map": 532,
+			"master_entry": 15690,
+			"flag": 4112,
+			"search_range": 0
+		},
+		{
+			"entry": 17267,
+			"map": 532,
+			"master_entry": 15688,
+			"flag": 4112,
+			"search_range": 0
+		},
+		{
+			"entry": 17265,
+			"map": 532,
+			"master_entry": 15688,
+			"flag": 4112,
+			"search_range": 0
+		},
+		{
+			"entry": 17917,
+			"map": 545,
+			"master_entry": 17797,
+			"flag": 1031,
+			"search_range": 0
+		},
+		{
+			"entry": 17954,
+			"map": 545,
+			"master_entry": 17798,
+			"flag": 4,
+			"search_range": 0
+		},
+		{
+			"entry": 20859,
+			"map": 552,
+			"master_entry": 20857,
+			"flag": 1,
+			"search_range": 0
+		},
+		{
+			"entry": 21466,
+			"map": 552,
+			"master_entry": 20912,
+			"flag": 4112,
+			"search_range": 0
+		},
+		{
+			"entry": 21467,
+			"map": 552,
+			"master_entry": 20912,
+			"flag": 4112,
+			"search_range": 0
+		},
+		{
+			"entry": 21958,
+			"map": 548,
+			"master_entry": 21212,
+			"flag": 4096,
+			"search_range": 0
+		},
+		{
+			"entry": 22009,
+			"map": 548,
+			"master_entry": 21212,
+			"flag": 4096,
+			"search_range": 0
+		},
+		{
+			"entry": 22055,
+			"map": 548,
+			"master_entry": 21212,
+			"flag": 4096,
+			"search_range": 0
+		},
+		{
+			"entry": 22056,
+			"map": 548,
+			"master_entry": 21212,
+			"flag": 4096,
+			"search_range": 0
+		},
+		{
+			"entry": 22140,
+			"map": 548,
+			"master_entry": 21212,
+			"flag": 4096,
+			"search_range": 0
+		},
+		{
+			"entry": 21913,
+			"map": 548,
+			"master_entry": 21213,
+			"flag": 4112,
+			"search_range": 0
+		},
+		{
+			"entry": 21920,
+			"map": 548,
+			"master_entry": 21213,
+			"flag": 4112,
+			"search_range": 0
+		},
+		{
+			"entry": 22035,
+			"map": 548,
+			"master_entry": 21216,
+			"flag": 4112,
+			"search_range": 0
+		},
+		{
+			"entry": 22036,
+			"map": 548,
+			"master_entry": 21216,
+			"flag": 4112,
+			"search_range": 0
+		},
+		{
+			"entry": 26764,
+			"map": 230,
+			"master_entry": 23872,
+			"flag": 4112,
+			"search_range": 0
+		},
+		{
+			"entry": 26776,
+			"map": 230,
+			"master_entry": 23872,
+			"flag": 4112,
+			"search_range": 0
+		},
+		{
+			"entry": 26822,
+			"map": 230,
+			"master_entry": 23872,
+			"flag": 4112,
+			"search_range": 0
+		},
+		{
+			"entry": 21865,
+			"map": 548,
+			"master_entry": 21217,
+			"flag": 4096,
+			"search_range": 0
+		},
+		{
+			"entry": 21873,
+			"map": 548,
+			"master_entry": 21217,
+			"flag": 4096,
+			"search_range": 0
+		},
+		{
+			"entry": 21806,
+			"map": 548,
+			"master_entry": 21806,
+			"flag": 3,
+			"search_range": 0
+		},
+		{
+			"entry": 21964,
+			"map": 548,
+			"master_entry": 21214,
+			"flag": 7,
+			"search_range": 0
+		},
+		{
+			"entry": 21965,
+			"map": 548,
+			"master_entry": 21214,
+			"flag": 7,
+			"search_range": 0
+		},
+		{
+			"entry": 21966,
+			"map": 548,
+			"master_entry": 21214,
+			"flag": 7,
+			"search_range": 0
+		},
+		{
+			"entry": 21857,
+			"map": 548,
+			"master_entry": 21215,
+			"flag": 4112,
+			"search_range": 0
+		},
+		{
+			"entry": 21875,
+			"map": 548,
+			"master_entry": 21215,
+			"flag": 4112,
+			"search_range": 0
+		},
+		{
+			"entry": 23215,
+			"map": 564,
+			"master_entry": 22990,
+			"flag": 4112,
+			"search_range": 0
+		},
+		{
+			"entry": 23216,
+			"map": 564,
+			"master_entry": 22990,
+			"flag": 4112,
+			"search_range": 0
+		},
+		{
+			"entry": 23523,
+			"map": 564,
+			"master_entry": 22990,
+			"flag": 4112,
+			"search_range": 0
+		},
+		{
+			"entry": 23318,
+			"map": 564,
+			"master_entry": 22990,
+			"flag": 4112,
+			"search_range": 0
+		},
+		{
+			"entry": 23524,
+			"map": 564,
+			"master_entry": 22990,
+			"flag": 4112,
+			"search_range": 0
+		},
+		{
+			"entry": 22951,
+			"map": 564,
+			"master_entry": 22949,
+			"flag": 143,
+			"search_range": 0
+		},
+		{
+			"entry": 22950,
+			"map": 564,
+			"master_entry": 22949,
+			"flag": 143,
+			"search_range": 0
+		},
+		{
+			"entry": 22952,
+			"map": 564,
+			"master_entry": 22949,
+			"flag": 143,
+			"search_range": 0
+		},
+		{
+			"entry": 23089,
+			"map": 564,
+			"master_entry": 22917,
+			"flag": 4096,
+			"search_range": 0
+		},
+		{
+			"entry": 23197,
+			"map": 564,
+			"master_entry": 22917,
+			"flag": 4096,
+			"search_range": 0
+		},
+		{
+			"entry": 23226,
+			"map": 564,
+			"master_entry": 22917,
+			"flag": 4112,
+			"search_range": 0
+		},
+		{
+			"entry": 23498,
+			"map": 564,
+			"master_entry": 22917,
+			"flag": 4112,
+			"search_range": 0
+		},
+		{
+			"entry": 22996,
+			"map": 564,
+			"master_entry": 22917,
+			"flag": 4096,
+			"search_range": 0
+		},
+		{
+			"entry": 22997,
+			"map": 564,
+			"master_entry": 22917,
+			"flag": 4096,
+			"search_range": 0
+		},
+		{
+			"entry": 23375,
+			"map": 564,
+			"master_entry": 22917,
+			"flag": 4096,
+			"search_range": 0
+		},
+		{
+			"entry": 15514,
+			"map": 509,
+			"master_entry": 15370,
+			"flag": 1030,
+			"search_range": 0
+		},
+		{
+			"entry": 16573,
+			"map": 533,
+			"master_entry": 15956,
+			"flag": 1031,
+			"search_range": 0
+		},
+		{
+			"entry": 16360,
+			"map": 533,
+			"master_entry": 15932,
+			"flag": 4112,
+			"search_range": 0
+		},
+		{
+			"entry": 17007,
+			"map": 532,
+			"master_entry": 15687,
+			"flag": 3,
+			"search_range": 0
+		},
+		{
+			"entry": 19872,
+			"map": 532,
+			"master_entry": 15687,
+			"flag": 3,
+			"search_range": 0
+		},
+		{
+			"entry": 19873,
+			"map": 532,
+			"master_entry": 15687,
+			"flag": 3,
+			"search_range": 0
+		},
+		{
+			"entry": 19874,
+			"map": 532,
+			"master_entry": 15687,
+			"flag": 3,
+			"search_range": 0
+		},
+		{
+			"entry": 19875,
+			"map": 532,
+			"master_entry": 15687,
+			"flag": 3,
+			"search_range": 0
+		},
+		{
+			"entry": 19876,
+			"map": 532,
+			"master_entry": 15687,
+			"flag": 3,
+			"search_range": 0
+		},
+		{
+			"entry": 23818,
+			"map": 568,
+			"master_entry": 23578,
+			"flag": 4112,
+			"search_range": 0
+		},
+		{
+			"entry": 24504,
+			"map": 568,
+			"master_entry": 23578,
+			"flag": 4112,
+			"search_range": 0
+		},
+		{
+			"entry": 23598,
+			"map": 568,
+			"master_entry": 23578,
+			"flag": 4096,
+			"search_range": 0
+		},
+		{
+			"entry": 23817,
+			"map": 568,
+			"master_entry": 23578,
+			"flag": 4,
+			"search_range": 0
+		},
+		{
+			"entry": 17454,
+			"map": 544,
+			"master_entry": 17256,
+			"flag": 4112,
+			"search_range": 0
+		},
+		{
+			"entry": 17256,
+			"map": 544,
+			"master_entry": 17256,
+			"flag": 15,
+			"search_range": 0
+		},
+		{
+			"entry": 26046,
+			"map": 580,
+			"master_entry": 25315,
+			"flag": 4,
+			"search_range": 0
+		},
+		{
+			"entry": 25319,
+			"map": 580,
+			"master_entry": 25315,
+			"flag": 4096,
+			"search_range": 0
+		},
+		{
+			"entry": 25502,
+			"map": 580,
+			"master_entry": 25315,
+			"flag": 4112,
+			"search_range": 0
+		},
+		{
+			"entry": 25708,
+			"map": 580,
+			"master_entry": 25315,
+			"flag": 4112,
+			"search_range": 0
+		},
+		{
+			"entry": 25735,
+			"map": 580,
+			"master_entry": 25315,
+			"flag": 4112,
+			"search_range": 0
+		},
+		{
+			"entry": 25588,
+			"map": 580,
+			"master_entry": 25588,
+			"flag": 15,
+			"search_range": 0
+		},
+		{
+			"entry": 15428,
+			"map": 509,
+			"master_entry": 15339,
+			"flag": 4112,
+			"search_range": 0
+		},
+		{
+			"entry": 7309,
+			"map": 70,
+			"master_entry": 2748,
+			"flag": 20,
+			"search_range": 0
+		},
+		{
+			"entry": 10120,
+			"map": 70,
+			"master_entry": 2748,
+			"flag": 20,
+			"search_range": 0
+		},
+		{
+			"entry": 7076,
+			"map": 70,
+			"master_entry": 2748,
+			"flag": 20,
+			"search_range": 0
+		},
+		{
+			"entry": 7077,
+			"map": 70,
+			"master_entry": 2748,
+			"flag": 20,
+			"search_range": 0
+		},
+		{
+			"entry": 25865,
+			"map": 547,
+			"master_entry": 25740,
+			"flag": 4112,
+			"search_range": 0
+		},
+		{
+			"entry": 25755,
+			"map": 547,
+			"master_entry": 25740,
+			"flag": 4112,
+			"search_range": 0
+		},
+		{
+			"entry": 25756,
+			"map": 547,
+			"master_entry": 25740,
+			"flag": 4112,
+			"search_range": 0
+		},
+		{
+			"entry": 25757,
+			"map": 547,
+			"master_entry": 25740,
+			"flag": 4112,
+			"search_range": 0
+		},
+		{
+			"entry": 21876,
+			"map": 530,
+			"master_entry": 21877,
+			"flag": 8208,
+			"search_range": 100
+		},
+		{
+			"entry": 5668,
+			"map": 0,
+			"master_entry": 5670,
+			"flag": 518,
+			"search_range": 20
+		},
+		{
+			"entry": 5707,
+			"map": 0,
+			"master_entry": 5706,
+			"flag": 518,
+			"search_range": 20
+		},
+		{
+			"entry": 5701,
+			"map": 0,
+			"master_entry": 5706,
+			"flag": 518,
+			"search_range": 20
+		},
+		{
+			"entry": 390,
+			"map": 0,
+			"master_entry": 330,
+			"flag": 518,
+			"search_range": 20
+		}
+	]
+}

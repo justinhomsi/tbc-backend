@@ -1,0 +1,91 @@
+{
+	"table": "spell_learn_spell",
+	"rows":
+	[
+		{
+			"entry": 2842,
+			"SpellID": 8681,
+			"Active": 1
+		},
+		{
+			"entry": 5149,
+			"SpellID": 1853,
+			"Active": 1
+		},
+		{
+			"entry": 5149,
+			"SpellID": 14922,
+			"Active": 1
+		},
+		{
+			"entry": 5784,
+			"SpellID": 33388,
+			"Active": 1
+		},
+		{
+			"entry": 13819,
+			"SpellID": 33388,
+			"Active": 1
+		},
+		{
+			"entry": 33873,
+			"SpellID": 47180,
+			"Active": 0
+		},
+		{
+			"entry": 23161,
+			"SpellID": 33391,
+			"Active": 1
+		},
+		{
+			"entry": 23214,
+			"SpellID": 33391,
+			"Active": 1
+		},
+		{
+			"entry": 33872,
+			"SpellID": 47179,
+			"Active": 0
+		},
+		{
+			"entry": 24866,
+			"SpellID": 24864,
+			"Active": 0
+		},
+		{
+			"entry": 17002,
+			"SpellID": 24867,
+			"Active": 0
+		},
+		{
+			"entry": 33943,
+			"SpellID": 34090,
+			"Active": 1
+		},
+		{
+			"entry": 34767,
+			"SpellID": 33391,
+			"Active": 1
+		},
+		{
+			"entry": 34769,
+			"SpellID": 33388,
+			"Active": 1
+		},
+		{
+			"entry": 12303,
+			"SpellID": 45471,
+			"Active": 0
+		},
+		{
+			"entry": 12788,
+			"SpellID": 45471,
+			"Active": 0
+		},
+		{
+			"entry": 12789,
+			"SpellID": 45471,
+			"Active": 0
+		}
+	]
+}

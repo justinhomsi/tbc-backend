@@ -1,0 +1,102 @@
+{
+	"table": "battleground_template",
+	"rows":
+	[
+		{
+			"id": 1,
+			"MinPlayersPerTeam": 20,
+			"MaxPlayersPerTeam": 40,
+			"MinLvl": 51,
+			"MaxLvl": 70,
+			"AllianceStartLoc": 611,
+			"AllianceStartO": 2.72532,
+			"HordeStartLoc": 610,
+			"HordeStartO": 2.27452,
+			"StartMaxDist": 100
+		},
+		{
+			"id": 2,
+			"MinPlayersPerTeam": 5,
+			"MaxPlayersPerTeam": 10,
+			"MinLvl": 10,
+			"MaxLvl": 70,
+			"AllianceStartLoc": 769,
+			"AllianceStartO": 3.14159,
+			"HordeStartLoc": 770,
+			"HordeStartO": 3.14159,
+			"StartMaxDist": 75
+		},
+		{
+			"id": 3,
+			"MinPlayersPerTeam": 8,
+			"MaxPlayersPerTeam": 15,
+			"MinLvl": 20,
+			"MaxLvl": 70,
+			"AllianceStartLoc": 890,
+			"AllianceStartO": 3.40156,
+			"HordeStartLoc": 889,
+			"HordeStartO": 0.263892,
+			"StartMaxDist": 75
+		},
+		{
+			"id": 7,
+			"MinPlayersPerTeam": 8,
+			"MaxPlayersPerTeam": 15,
+			"MinLvl": 61,
+			"MaxLvl": 70,
+			"AllianceStartLoc": 1103,
+			"AllianceStartO": 3.40156,
+			"HordeStartLoc": 1104,
+			"HordeStartO": 0.263892,
+			"StartMaxDist": 75
+		},
+		{
+			"id": 4,
+			"MinPlayersPerTeam": 0,
+			"MaxPlayersPerTeam": 2,
+			"MinLvl": 10,
+			"MaxLvl": 70,
+			"AllianceStartLoc": 929,
+			"AllianceStartO": 0,
+			"HordeStartLoc": 936,
+			"HordeStartO": 3.14159,
+			"StartMaxDist": 0
+		},
+		{
+			"id": 5,
+			"MinPlayersPerTeam": 0,
+			"MaxPlayersPerTeam": 2,
+			"MinLvl": 10,
+			"MaxLvl": 70,
+			"AllianceStartLoc": 939,
+			"AllianceStartO": 0,
+			"HordeStartLoc": 940,
+			"HordeStartO": 3.14159,
+			"StartMaxDist": 0
+		},
+		{
+			"id": 6,
+			"MinPlayersPerTeam": 0,
+			"MaxPlayersPerTeam": 2,
+			"MinLvl": 10,
+			"MaxLvl": 70,
+			"AllianceStartLoc": 0,
+			"AllianceStartO": 0,
+			"HordeStartLoc": 0,
+			"HordeStartO": 0,
+			"StartMaxDist": 0
+		},
+		{
+			"id": 8,
+			"MinPlayersPerTeam": 0,
+			"MaxPlayersPerTeam": 2,
+			"MinLvl": 10,
+			"MaxLvl": 70,
+			"AllianceStartLoc": 1258,
+			"AllianceStartO": 0,
+			"HordeStartLoc": 1259,
+			"HordeStartO": 3.14159,
+			"StartMaxDist": 0
+		}
+	]
+}

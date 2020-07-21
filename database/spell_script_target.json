@@ -1,0 +1,10482 @@
+{
+	"table": "spell_script_target",
+	"rows":
+	[
+		{
+			"entry": 802,
+			"type": 1,
+			"targetEntry": 15316,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 802,
+			"type": 1,
+			"targetEntry": 15317,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 804,
+			"type": 1,
+			"targetEntry": 15316,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 804,
+			"type": 1,
+			"targetEntry": 15317,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 3730,
+			"type": 1,
+			"targetEntry": 15263,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 7035,
+			"type": 1,
+			"targetEntry": 4251,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 7036,
+			"type": 1,
+			"targetEntry": 4252,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 7393,
+			"type": 1,
+			"targetEntry": 15275,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 7393,
+			"type": 1,
+			"targetEntry": 15276,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 7728,
+			"type": 0,
+			"targetEntry": 92015,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 8283,
+			"type": 1,
+			"targetEntry": 4781,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 8593,
+			"type": 2,
+			"targetEntry": 6172,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 8593,
+			"type": 2,
+			"targetEntry": 6177,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 8593,
+			"type": 2,
+			"targetEntry": 17542,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 8596,
+			"type": 1,
+			"targetEntry": 6173,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 8674,
+			"type": 0,
+			"targetEntry": 92015,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 8898,
+			"type": 0,
+			"targetEntry": 101748,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 8913,
+			"type": 1,
+			"targetEntry": 1200,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 9002,
+			"type": 1,
+			"targetEntry": 1051,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 9012,
+			"type": 1,
+			"targetEntry": 6492,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 9082,
+			"type": 1,
+			"targetEntry": 6492,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 9095,
+			"type": 1,
+			"targetEntry": 6492,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 9232,
+			"type": 1,
+			"targetEntry": 3976,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 9257,
+			"type": 1,
+			"targetEntry": 3977,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 9455,
+			"type": 1,
+			"targetEntry": 2163,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 9712,
+			"type": 1,
+			"targetEntry": 2726,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 9976,
+			"type": 1,
+			"targetEntry": 7167,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 9976,
+			"type": 1,
+			"targetEntry": 7168,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 9976,
+			"type": 1,
+			"targetEntry": 8391,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 10113,
+			"type": 1,
+			"targetEntry": 7233,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 10137,
+			"type": 1,
+			"targetEntry": 7233,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 10259,
+			"type": 1,
+			"targetEntry": 7077,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 10259,
+			"type": 1,
+			"targetEntry": 7309,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 10260,
+			"type": 1,
+			"targetEntry": 2748,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 10345,
+			"type": 1,
+			"targetEntry": 25,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 10345,
+			"type": 1,
+			"targetEntry": 2678,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 10348,
+			"type": 1,
+			"targetEntry": 6225,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 10348,
+			"type": 1,
+			"targetEntry": 6226,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 10348,
+			"type": 1,
+			"targetEntry": 6227,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 10732,
+			"type": 1,
+			"targetEntry": 25,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 10732,
+			"type": 1,
+			"targetEntry": 2678,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 10747,
+			"type": 1,
+			"targetEntry": 7271,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 10860,
+			"type": 1,
+			"targetEntry": 7732,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 11195,
+			"type": 0,
+			"targetEntry": 146084,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 11402,
+			"type": 1,
+			"targetEntry": 7774,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 11513,
+			"type": 1,
+			"targetEntry": 6213,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 11513,
+			"type": 1,
+			"targetEntry": 6329,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 11637,
+			"type": 1,
+			"targetEntry": 6218,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 11637,
+			"type": 1,
+			"targetEntry": 6219,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 11637,
+			"type": 1,
+			"targetEntry": 6220,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 11757,
+			"type": 0,
+			"targetEntry": 144050,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 11792,
+			"type": 0,
+			"targetEntry": 144070,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 11893,
+			"type": 1,
+			"targetEntry": 8156,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 12134,
+			"type": 1,
+			"targetEntry": 5267,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 12134,
+			"type": 1,
+			"targetEntry": 5270,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 12139,
+			"type": 1,
+			"targetEntry": 5270,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 12151,
+			"type": 1,
+			"targetEntry": 5273,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 12347,
+			"type": 1,
+			"targetEntry": 8442,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 12512,
+			"type": 0,
+			"targetEntry": 149047,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 12623,
+			"type": 1,
+			"targetEntry": 8440,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 12699,
+			"type": 2,
+			"targetEntry": 5307,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 12699,
+			"type": 2,
+			"targetEntry": 5308,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 12709,
+			"type": 1,
+			"targetEntry": 6218,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 12709,
+			"type": 1,
+			"targetEntry": 6219,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 12709,
+			"type": 1,
+			"targetEntry": 6220,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 12774,
+			"type": 1,
+			"targetEntry": 8662,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 12938,
+			"type": 1,
+			"targetEntry": 7664,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 12938,
+			"type": 1,
+			"targetEntry": 7668,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 13461,
+			"type": 1,
+			"targetEntry": 7664,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 13489,
+			"type": 1,
+			"targetEntry": 9156,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 13489,
+			"type": 1,
+			"targetEntry": 9178,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 13727,
+			"type": 0,
+			"targetEntry": 162024,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 13951,
+			"type": 1,
+			"targetEntry": 2520,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 13982,
+			"type": 2,
+			"targetEntry": 9016,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 14247,
+			"type": 1,
+			"targetEntry": 9376,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 14250,
+			"type": 1,
+			"targetEntry": 9520,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 14806,
+			"type": 1,
+			"targetEntry": 9157,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 14813,
+			"type": 1,
+			"targetEntry": 14878,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 14928,
+			"type": 1,
+			"targetEntry": 9503,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 15281,
+			"type": 1,
+			"targetEntry": 9816,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 15591,
+			"type": 1,
+			"targetEntry": 9999,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 15658,
+			"type": 1,
+			"targetEntry": 8929,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 15746,
+			"type": 0,
+			"targetEntry": 175124,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 15958,
+			"type": 0,
+			"targetEntry": 175124,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 15998,
+			"type": 1,
+			"targetEntry": 10221,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 16007,
+			"type": 1,
+			"targetEntry": 7047,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 16007,
+			"type": 1,
+			"targetEntry": 7048,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 16053,
+			"type": 0,
+			"targetEntry": 175321,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 16337,
+			"type": 1,
+			"targetEntry": 10339,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 16378,
+			"type": 1,
+			"targetEntry": 10541,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 16447,
+			"type": 0,
+			"targetEntry": 175621,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 16452,
+			"type": 1,
+			"targetEntry": 10601,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 16452,
+			"type": 1,
+			"targetEntry": 10602,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 16556,
+			"type": 0,
+			"targetEntry": 175124,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 16629,
+			"type": 1,
+			"targetEntry": 1852,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17016,
+			"type": 0,
+			"targetEntry": 176094,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17016,
+			"type": 0,
+			"targetEntry": 176095,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17016,
+			"type": 0,
+			"targetEntry": 176096,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17016,
+			"type": 0,
+			"targetEntry": 176097,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17048,
+			"type": 2,
+			"targetEntry": 10899,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17166,
+			"type": 1,
+			"targetEntry": 7583,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17166,
+			"type": 1,
+			"targetEntry": 10977,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17166,
+			"type": 1,
+			"targetEntry": 10978,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17179,
+			"type": 1,
+			"targetEntry": 10508,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17190,
+			"type": 1,
+			"targetEntry": 10508,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17471,
+			"type": 1,
+			"targetEntry": 11197,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17536,
+			"type": 1,
+			"targetEntry": 11218,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17616,
+			"type": 1,
+			"targetEntry": 10469,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17616,
+			"type": 1,
+			"targetEntry": 10477,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17618,
+			"type": 1,
+			"targetEntry": 11258,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17698,
+			"type": 1,
+			"targetEntry": 11197,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176513,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176514,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176515,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176809,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176810,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176811,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176812,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176813,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176814,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176815,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176816,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176817,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176818,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176819,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176820,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176821,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176822,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176823,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176824,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176825,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176826,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176827,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176828,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176829,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176830,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176831,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176832,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176833,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176834,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176835,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176836,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176837,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176838,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176839,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176840,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176841,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176842,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176908,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176909,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176910,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176911,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176912,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176913,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176914,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176915,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176916,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176917,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176918,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176919,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176920,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176921,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 17731,
+			"type": 0,
+			"targetEntry": 176922,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176513,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176514,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176515,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176809,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176810,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176811,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176812,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176813,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176814,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176815,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176816,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176817,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176818,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176819,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176820,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176821,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176822,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176823,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176824,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176825,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176826,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176827,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176828,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176829,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176830,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176831,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176832,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176833,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176834,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176835,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176836,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176837,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176838,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176839,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176840,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176841,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176842,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176908,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176909,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176910,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176911,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176912,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176913,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176914,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176915,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176916,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176917,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176918,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176919,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176920,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176921,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18431,
+			"type": 0,
+			"targetEntry": 176922,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 18666,
+			"type": 1,
+			"targetEntry": 10937,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 19032,
+			"type": 1,
+			"targetEntry": 12202,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 19250,
+			"type": 0,
+			"targetEntry": 177668,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 19773,
+			"type": 1,
+			"targetEntry": 12018,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 19832,
+			"type": 1,
+			"targetEntry": 12435,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 19873,
+			"type": 0,
+			"targetEntry": 177807,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 19952,
+			"type": 1,
+			"targetEntry": 11502,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 20358,
+			"type": 1,
+			"targetEntry": 1749,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 20465,
+			"type": 1,
+			"targetEntry": 12580,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 20553,
+			"type": 1,
+			"targetEntry": 11672,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 20619,
+			"type": 1,
+			"targetEntry": 11663,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 20619,
+			"type": 1,
+			"targetEntry": 11664,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 21075,
+			"type": 1,
+			"targetEntry": 11663,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 21075,
+			"type": 1,
+			"targetEntry": 11664,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 21086,
+			"type": 1,
+			"targetEntry": 11663,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 21086,
+			"type": 1,
+			"targetEntry": 11664,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 21794,
+			"type": 1,
+			"targetEntry": 10981,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 21866,
+			"type": 1,
+			"targetEntry": 10990,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 21885,
+			"type": 0,
+			"targetEntry": 178905,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 22393,
+			"type": 1,
+			"targetEntry": 14081,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 22710,
+			"type": 1,
+			"targetEntry": 14349,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 22906,
+			"type": 2,
+			"targetEntry": 10184,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 23014,
+			"type": 1,
+			"targetEntry": 12435,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 23015,
+			"type": 1,
+			"targetEntry": 12396,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 23019,
+			"type": 1,
+			"targetEntry": 12396,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 23359,
+			"type": 1,
+			"targetEntry": 5357,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 23359,
+			"type": 1,
+			"targetEntry": 5358,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 23359,
+			"type": 1,
+			"targetEntry": 5359,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 23359,
+			"type": 1,
+			"targetEntry": 5360,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 23359,
+			"type": 1,
+			"targetEntry": 5361,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 23394,
+			"type": 1,
+			"targetEntry": 14601,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 23642,
+			"type": 1,
+			"targetEntry": 13020,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 23974,
+			"type": 1,
+			"targetEntry": 14758,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 24062,
+			"type": 1,
+			"targetEntry": 15010,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 24083,
+			"type": 0,
+			"targetEntry": 179985,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 24172,
+			"type": 1,
+			"targetEntry": 11347,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 24172,
+			"type": 1,
+			"targetEntry": 11348,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 24322,
+			"type": 1,
+			"targetEntry": 14834,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 24721,
+			"type": 1,
+			"targetEntry": 15335,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 24721,
+			"type": 1,
+			"targetEntry": 15370,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 24721,
+			"type": 1,
+			"targetEntry": 15514,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 24731,
+			"type": 0,
+			"targetEntry": 180452,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 24731,
+			"type": 1,
+			"targetEntry": 15218,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 24804,
+			"type": 1,
+			"targetEntry": 14888,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 25790,
+			"type": 1,
+			"targetEntry": 15511,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 25790,
+			"type": 1,
+			"targetEntry": 15543,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26063,
+			"type": 0,
+			"targetEntry": 180795,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26235,
+			"type": 1,
+			"targetEntry": 15727,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26286,
+			"type": 0,
+			"targetEntry": 180771,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26286,
+			"type": 0,
+			"targetEntry": 180850,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26286,
+			"type": 0,
+			"targetEntry": 180868,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26291,
+			"type": 0,
+			"targetEntry": 180771,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26291,
+			"type": 0,
+			"targetEntry": 180850,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26291,
+			"type": 0,
+			"targetEntry": 180868,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26292,
+			"type": 0,
+			"targetEntry": 180771,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26292,
+			"type": 0,
+			"targetEntry": 180850,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26292,
+			"type": 0,
+			"targetEntry": 180868,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26293,
+			"type": 0,
+			"targetEntry": 180771,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26293,
+			"type": 0,
+			"targetEntry": 180850,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26293,
+			"type": 0,
+			"targetEntry": 180868,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26294,
+			"type": 0,
+			"targetEntry": 180771,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26294,
+			"type": 0,
+			"targetEntry": 180850,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26294,
+			"type": 0,
+			"targetEntry": 180868,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26295,
+			"type": 0,
+			"targetEntry": 180771,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26295,
+			"type": 0,
+			"targetEntry": 180850,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26295,
+			"type": 0,
+			"targetEntry": 180868,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26304,
+			"type": 0,
+			"targetEntry": 180772,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26304,
+			"type": 0,
+			"targetEntry": 180859,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26304,
+			"type": 0,
+			"targetEntry": 180869,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26325,
+			"type": 0,
+			"targetEntry": 180772,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26325,
+			"type": 0,
+			"targetEntry": 180859,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26325,
+			"type": 0,
+			"targetEntry": 180869,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26326,
+			"type": 0,
+			"targetEntry": 180772,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26326,
+			"type": 0,
+			"targetEntry": 180859,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26326,
+			"type": 0,
+			"targetEntry": 180869,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26327,
+			"type": 0,
+			"targetEntry": 180772,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26327,
+			"type": 0,
+			"targetEntry": 180859,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26327,
+			"type": 0,
+			"targetEntry": 180869,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26328,
+			"type": 0,
+			"targetEntry": 180772,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26328,
+			"type": 0,
+			"targetEntry": 180859,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26328,
+			"type": 0,
+			"targetEntry": 180869,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26329,
+			"type": 0,
+			"targetEntry": 180772,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26329,
+			"type": 0,
+			"targetEntry": 180859,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26329,
+			"type": 0,
+			"targetEntry": 180869,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26333,
+			"type": 0,
+			"targetEntry": 180771,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26333,
+			"type": 0,
+			"targetEntry": 180850,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26333,
+			"type": 0,
+			"targetEntry": 180868,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26334,
+			"type": 0,
+			"targetEntry": 180771,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26334,
+			"type": 0,
+			"targetEntry": 180850,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26334,
+			"type": 0,
+			"targetEntry": 180868,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26335,
+			"type": 0,
+			"targetEntry": 180771,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26335,
+			"type": 0,
+			"targetEntry": 180850,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26335,
+			"type": 0,
+			"targetEntry": 180868,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26336,
+			"type": 0,
+			"targetEntry": 180771,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26336,
+			"type": 0,
+			"targetEntry": 180850,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26336,
+			"type": 0,
+			"targetEntry": 180868,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26337,
+			"type": 0,
+			"targetEntry": 180771,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26337,
+			"type": 0,
+			"targetEntry": 180850,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26337,
+			"type": 0,
+			"targetEntry": 180868,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26338,
+			"type": 0,
+			"targetEntry": 180771,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26338,
+			"type": 0,
+			"targetEntry": 180850,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26338,
+			"type": 0,
+			"targetEntry": 180868,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26344,
+			"type": 1,
+			"targetEntry": 15879,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26345,
+			"type": 1,
+			"targetEntry": 15880,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26346,
+			"type": 1,
+			"targetEntry": 15881,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26347,
+			"type": 1,
+			"targetEntry": 15882,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26348,
+			"type": 1,
+			"targetEntry": 15884,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26349,
+			"type": 1,
+			"targetEntry": 15883,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26351,
+			"type": 1,
+			"targetEntry": 15885,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26352,
+			"type": 1,
+			"targetEntry": 15886,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26353,
+			"type": 1,
+			"targetEntry": 15887,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26354,
+			"type": 1,
+			"targetEntry": 15888,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26355,
+			"type": 1,
+			"targetEntry": 15889,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26356,
+			"type": 1,
+			"targetEntry": 15890,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26488,
+			"type": 0,
+			"targetEntry": 180772,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26488,
+			"type": 0,
+			"targetEntry": 180859,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26488,
+			"type": 0,
+			"targetEntry": 180869,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26490,
+			"type": 0,
+			"targetEntry": 180772,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26490,
+			"type": 0,
+			"targetEntry": 180859,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26490,
+			"type": 0,
+			"targetEntry": 180869,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26516,
+			"type": 0,
+			"targetEntry": 180772,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26516,
+			"type": 0,
+			"targetEntry": 180859,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26516,
+			"type": 0,
+			"targetEntry": 180869,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26517,
+			"type": 0,
+			"targetEntry": 180772,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26517,
+			"type": 0,
+			"targetEntry": 180859,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26517,
+			"type": 0,
+			"targetEntry": 180869,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26518,
+			"type": 0,
+			"targetEntry": 180772,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26518,
+			"type": 0,
+			"targetEntry": 180859,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26518,
+			"type": 0,
+			"targetEntry": 180869,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26519,
+			"type": 0,
+			"targetEntry": 180772,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26519,
+			"type": 0,
+			"targetEntry": 180859,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26519,
+			"type": 0,
+			"targetEntry": 180869,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26521,
+			"type": 0,
+			"targetEntry": 180772,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26521,
+			"type": 0,
+			"targetEntry": 180859,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26521,
+			"type": 0,
+			"targetEntry": 180869,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 26608,
+			"type": 1,
+			"targetEntry": 15667,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 27184,
+			"type": 1,
+			"targetEntry": 16044,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 27190,
+			"type": 1,
+			"targetEntry": 16045,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 27191,
+			"type": 1,
+			"targetEntry": 16046,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 27201,
+			"type": 1,
+			"targetEntry": 16047,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 27202,
+			"type": 1,
+			"targetEntry": 16048,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 27203,
+			"type": 1,
+			"targetEntry": 16044,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 27203,
+			"type": 1,
+			"targetEntry": 16045,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 27203,
+			"type": 1,
+			"targetEntry": 16046,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 27203,
+			"type": 1,
+			"targetEntry": 16047,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 27203,
+			"type": 1,
+			"targetEntry": 16048,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 27517,
+			"type": 1,
+			"targetEntry": 16079,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 27892,
+			"type": 1,
+			"targetEntry": 16137,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 27893,
+			"type": 1,
+			"targetEntry": 16137,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 27928,
+			"type": 1,
+			"targetEntry": 16137,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 27929,
+			"type": 1,
+			"targetEntry": 16137,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 27935,
+			"type": 1,
+			"targetEntry": 16137,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 27936,
+			"type": 1,
+			"targetEntry": 16137,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 28392,
+			"type": 1,
+			"targetEntry": 16420,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 28731,
+			"type": 1,
+			"targetEntry": 10415,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 28806,
+			"type": 0,
+			"targetEntry": 181288,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 28806,
+			"type": 1,
+			"targetEntry": 16592,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 29120,
+			"type": 1,
+			"targetEntry": 16899,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 29121,
+			"type": 1,
+			"targetEntry": 16897,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 29122,
+			"type": 1,
+			"targetEntry": 16898,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 29339,
+			"type": 1,
+			"targetEntry": 15547,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 29339,
+			"type": 1,
+			"targetEntry": 15548,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 29340,
+			"type": 1,
+			"targetEntry": 15547,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 29340,
+			"type": 1,
+			"targetEntry": 15548,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 29364,
+			"type": 1,
+			"targetEntry": 16975,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 29435,
+			"type": 1,
+			"targetEntry": 17034,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 29456,
+			"type": 1,
+			"targetEntry": 17059,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 29457,
+			"type": 1,
+			"targetEntry": 17059,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 29459,
+			"type": 1,
+			"targetEntry": 17059,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 29534,
+			"type": 0,
+			"targetEntry": 181597,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 29612,
+			"type": 1,
+			"targetEntry": 16468,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 29769,
+			"type": 1,
+			"targetEntry": 16151,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 29770,
+			"type": 1,
+			"targetEntry": 15550,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 29866,
+			"type": 0,
+			"targetEntry": 181616,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 29962,
+			"type": 1,
+			"targetEntry": 17172,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 29967,
+			"type": 1,
+			"targetEntry": 16524,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 29969,
+			"type": 1,
+			"targetEntry": 17161,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 29970,
+			"type": 1,
+			"targetEntry": 17161,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 29989,
+			"type": 1,
+			"targetEntry": 17178,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 30065,
+			"type": 1,
+			"targetEntry": 15688,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 30098,
+			"type": 1,
+			"targetEntry": 17253,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 30166,
+			"type": 1,
+			"targetEntry": 17257,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 30207,
+			"type": 1,
+			"targetEntry": 17257,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 30221,
+			"type": 1,
+			"targetEntry": 620,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 30410,
+			"type": 1,
+			"targetEntry": 17257,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 30425,
+			"type": 1,
+			"targetEntry": 17367,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 30425,
+			"type": 1,
+			"targetEntry": 17368,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 30425,
+			"type": 1,
+			"targetEntry": 17369,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 30427,
+			"type": 1,
+			"targetEntry": 17378,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 30427,
+			"type": 1,
+			"targetEntry": 17407,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 30427,
+			"type": 1,
+			"targetEntry": 17408,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 30427,
+			"type": 1,
+			"targetEntry": 24222,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 30460,
+			"type": 1,
+			"targetEntry": 17404,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 30462,
+			"type": 1,
+			"targetEntry": 17404,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 30745,
+			"type": 1,
+			"targetEntry": 17083,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 30834,
+			"type": 1,
+			"targetEntry": 17646,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 30835,
+			"type": 1,
+			"targetEntry": 17644,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 30875,
+			"type": 1,
+			"targetEntry": 17326,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 30876,
+			"type": 1,
+			"targetEntry": 17326,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 30877,
+			"type": 1,
+			"targetEntry": 17326,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 30951,
+			"type": 1,
+			"targetEntry": 17533,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 30988,
+			"type": 2,
+			"targetEntry": 17701,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 31225,
+			"type": 2,
+			"targetEntry": 17768,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 31324,
+			"type": 1,
+			"targetEntry": 17845,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 31326,
+			"type": 1,
+			"targetEntry": 15608,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 31333,
+			"type": 1,
+			"targetEntry": 17664,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 31411,
+			"type": 1,
+			"targetEntry": 17889,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 31412,
+			"type": 1,
+			"targetEntry": 17889,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 31413,
+			"type": 1,
+			"targetEntry": 17889,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 31414,
+			"type": 1,
+			"targetEntry": 17889,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 31515,
+			"type": 1,
+			"targetEntry": 17947,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 31532,
+			"type": 1,
+			"targetEntry": 17796,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 31537,
+			"type": 2,
+			"targetEntry": 17895,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 31543,
+			"type": 1,
+			"targetEntry": 17798,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 31550,
+			"type": 1,
+			"targetEntry": 17918,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 31736,
+			"type": 1,
+			"targetEntry": 17998,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 31736,
+			"type": 1,
+			"targetEntry": 17999,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 31736,
+			"type": 1,
+			"targetEntry": 18000,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 31736,
+			"type": 1,
+			"targetEntry": 18002,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 31902,
+			"type": 1,
+			"targetEntry": 19656,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 31927,
+			"type": 1,
+			"targetEntry": 18110,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 31927,
+			"type": 1,
+			"targetEntry": 18142,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 31927,
+			"type": 1,
+			"targetEntry": 18143,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 31927,
+			"type": 1,
+			"targetEntry": 18144,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 32042,
+			"type": 1,
+			"targetEntry": 18161,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 32042,
+			"type": 1,
+			"targetEntry": 18162,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 32045,
+			"type": 1,
+			"targetEntry": 17968,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 32051,
+			"type": 1,
+			"targetEntry": 17968,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 32052,
+			"type": 1,
+			"targetEntry": 17968,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 32146,
+			"type": 1,
+			"targetEntry": 18240,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 32163,
+			"type": 1,
+			"targetEntry": 18247,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 32164,
+			"type": 1,
+			"targetEntry": 18246,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 32205,
+			"type": 1,
+			"targetEntry": 18305,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 32205,
+			"type": 1,
+			"targetEntry": 18306,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 32205,
+			"type": 1,
+			"targetEntry": 18307,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 32260,
+			"type": 1,
+			"targetEntry": 17305,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 32260,
+			"type": 1,
+			"targetEntry": 17208,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 32301,
+			"type": 1,
+			"targetEntry": 18371,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 32307,
+			"type": 2,
+			"targetEntry": 17146,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 32307,
+			"type": 2,
+			"targetEntry": 17147,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 32307,
+			"type": 2,
+			"targetEntry": 17148,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 32307,
+			"type": 2,
+			"targetEntry": 18397,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 32307,
+			"type": 2,
+			"targetEntry": 18658,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 32314,
+			"type": 1,
+			"targetEntry": 18393,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 32314,
+			"type": 2,
+			"targetEntry": 17138,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 32314,
+			"type": 2,
+			"targetEntry": 18064,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 32373,
+			"type": 1,
+			"targetEntry": 18437,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 32396,
+			"type": 1,
+			"targetEntry": 18358,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 32560,
+			"type": 1,
+			"targetEntry": 17893,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 32573,
+			"type": 1,
+			"targetEntry": 18560,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 32622,
+			"type": 1,
+			"targetEntry": 17545,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 32623,
+			"type": 1,
+			"targetEntry": 18660,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 32838,
+			"type": 1,
+			"targetEntry": 16899,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 32890,
+			"type": 1,
+			"targetEntry": 18764,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 32930,
+			"type": 1,
+			"targetEntry": 18493,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 32930,
+			"type": 1,
+			"targetEntry": 18495,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 32930,
+			"type": 1,
+			"targetEntry": 18778,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 32958,
+			"type": 1,
+			"targetEntry": 18793,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 32979,
+			"type": 1,
+			"targetEntry": 18818,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 32979,
+			"type": 1,
+			"targetEntry": 19009,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 32979,
+			"type": 1,
+			"targetEntry": 21236,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 32979,
+			"type": 1,
+			"targetEntry": 21237,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 33067,
+			"type": 1,
+			"targetEntry": 18849,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 33067,
+			"type": 1,
+			"targetEntry": 19008,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 33111,
+			"type": 1,
+			"targetEntry": 18894,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 33329,
+			"type": 1,
+			"targetEntry": 18632,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 33329,
+			"type": 1,
+			"targetEntry": 18634,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 33329,
+			"type": 1,
+			"targetEntry": 18638,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 33329,
+			"type": 1,
+			"targetEntry": 18639,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 33332,
+			"type": 1,
+			"targetEntry": 18632,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 33332,
+			"type": 1,
+			"targetEntry": 18634,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 33332,
+			"type": 1,
+			"targetEntry": 18638,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 33336,
+			"type": 1,
+			"targetEntry": 17876,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 33336,
+			"type": 1,
+			"targetEntry": 18887,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 33337,
+			"type": 1,
+			"targetEntry": 17876,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 33337,
+			"type": 1,
+			"targetEntry": 18887,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 33423,
+			"type": 1,
+			"targetEntry": 19139,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 33424,
+			"type": 1,
+			"targetEntry": 19139,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 33425,
+			"type": 1,
+			"targetEntry": 19139,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 33531,
+			"type": 1,
+			"targetEntry": 19067,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 33532,
+			"type": 1,
+			"targetEntry": 19210,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 33655,
+			"type": 1,
+			"targetEntry": 19291,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 33655,
+			"type": 1,
+			"targetEntry": 19292,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 33669,
+			"type": 1,
+			"targetEntry": 16938,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 33744,
+			"type": 1,
+			"targetEntry": 19291,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 33744,
+			"type": 1,
+			"targetEntry": 19292,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 33783,
+			"type": 1,
+			"targetEntry": 18732,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 33796,
+			"type": 1,
+			"targetEntry": 16898,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 33796,
+			"type": 1,
+			"targetEntry": 19727,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 33805,
+			"type": 1,
+			"targetEntry": 19387,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 33806,
+			"type": 1,
+			"targetEntry": 19388,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 33822,
+			"type": 1,
+			"targetEntry": 19394,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 33838,
+			"type": 1,
+			"targetEntry": 5202,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 33918,
+			"type": 1,
+			"targetEntry": 18855,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 33918,
+			"type": 1,
+			"targetEntry": 19421,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 33918,
+			"type": 1,
+			"targetEntry": 20134,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 33918,
+			"type": 1,
+			"targetEntry": 20139,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 33924,
+			"type": 1,
+			"targetEntry": 19424,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 34062,
+			"type": 1,
+			"targetEntry": 19484,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 34063,
+			"type": 1,
+			"targetEntry": 18688,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 34119,
+			"type": 1,
+			"targetEntry": 19501,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 34187,
+			"type": 1,
+			"targetEntry": 19511,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 34200,
+			"type": 1,
+			"targetEntry": 19511,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 34221,
+			"type": 1,
+			"targetEntry": 19505,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 34221,
+			"type": 1,
+			"targetEntry": 19555,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 34239,
+			"type": 1,
+			"targetEntry": 19599,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 34254,
+			"type": 1,
+			"targetEntry": 19557,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 34254,
+			"type": 1,
+			"targetEntry": 19608,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 34254,
+			"type": 1,
+			"targetEntry": 19920,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 34254,
+			"type": 1,
+			"targetEntry": 19958,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 34254,
+			"type": 1,
+			"targetEntry": 19962,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 34254,
+			"type": 1,
+			"targetEntry": 19964,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 34254,
+			"type": 1,
+			"targetEntry": 19969,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 34367,
+			"type": 1,
+			"targetEntry": 19421,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 34387,
+			"type": 0,
+			"targetEntry": 184289,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 34387,
+			"type": 0,
+			"targetEntry": 184290,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 34387,
+			"type": 0,
+			"targetEntry": 184414,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 34387,
+			"type": 0,
+			"targetEntry": 184415,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 34397,
+			"type": 1,
+			"targetEntry": 20139,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 34526,
+			"type": 1,
+			"targetEntry": 19723,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 34526,
+			"type": 1,
+			"targetEntry": 19724,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 34630,
+			"type": 1,
+			"targetEntry": 19849,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 34646,
+			"type": 1,
+			"targetEntry": 19866,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 34646,
+			"type": 1,
+			"targetEntry": 19867,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 34646,
+			"type": 1,
+			"targetEntry": 19868,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 34665,
+			"type": 1,
+			"targetEntry": 16880,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35016,
+			"type": 1,
+			"targetEntry": 20209,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35016,
+			"type": 1,
+			"targetEntry": 20417,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35016,
+			"type": 1,
+			"targetEntry": 20418,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35063,
+			"type": 1,
+			"targetEntry": 20251,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35097,
+			"type": 1,
+			"targetEntry": 20251,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35113,
+			"type": 1,
+			"targetEntry": 20333,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35113,
+			"type": 1,
+			"targetEntry": 20336,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35113,
+			"type": 1,
+			"targetEntry": 20337,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35113,
+			"type": 1,
+			"targetEntry": 20338,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35137,
+			"type": 1,
+			"targetEntry": 20396,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35155,
+			"type": 1,
+			"targetEntry": 20391,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35160,
+			"type": 1,
+			"targetEntry": 20391,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35162,
+			"type": 1,
+			"targetEntry": 20391,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35170,
+			"type": 1,
+			"targetEntry": 20391,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35176,
+			"type": 1,
+			"targetEntry": 20440,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35190,
+			"type": 1,
+			"targetEntry": 19796,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35190,
+			"type": 1,
+			"targetEntry": 20431,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35190,
+			"type": 1,
+			"targetEntry": 22017,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35246,
+			"type": 1,
+			"targetEntry": 20473,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35246,
+			"type": 1,
+			"targetEntry": 20475,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35246,
+			"type": 1,
+			"targetEntry": 20476,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35282,
+			"type": 1,
+			"targetEntry": 20243,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35289,
+			"type": 1,
+			"targetEntry": 21062,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35289,
+			"type": 1,
+			"targetEntry": 22963,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35301,
+			"type": 1,
+			"targetEntry": 21062,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35372,
+			"type": 1,
+			"targetEntry": 20561,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35413,
+			"type": 1,
+			"targetEntry": 20781,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35427,
+			"type": 1,
+			"targetEntry": 20668,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35515,
+			"type": 1,
+			"targetEntry": 20454,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35683,
+			"type": 1,
+			"targetEntry": 20769,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35724,
+			"type": 1,
+			"targetEntry": 20813,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35724,
+			"type": 1,
+			"targetEntry": 20814,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35724,
+			"type": 1,
+			"targetEntry": 20815,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35724,
+			"type": 1,
+			"targetEntry": 20816,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35734,
+			"type": 1,
+			"targetEntry": 20899,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35746,
+			"type": 1,
+			"targetEntry": 20922,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35754,
+			"type": 1,
+			"targetEntry": 20978,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35754,
+			"type": 1,
+			"targetEntry": 21030,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35770,
+			"type": 1,
+			"targetEntry": 20978,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35771,
+			"type": 1,
+			"targetEntry": 20610,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35771,
+			"type": 1,
+			"targetEntry": 20777,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35772,
+			"type": 1,
+			"targetEntry": 20774,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 35782,
+			"type": 1,
+			"targetEntry": 20809,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 36325,
+			"type": 1,
+			"targetEntry": 21182,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 36325,
+			"type": 1,
+			"targetEntry": 22401,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 36325,
+			"type": 1,
+			"targetEntry": 22402,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 36325,
+			"type": 1,
+			"targetEntry": 22403,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 36374,
+			"type": 1,
+			"targetEntry": 21182,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 36374,
+			"type": 1,
+			"targetEntry": 22401,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 36374,
+			"type": 1,
+			"targetEntry": 22402,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 36374,
+			"type": 1,
+			"targetEntry": 22403,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 36384,
+			"type": 1,
+			"targetEntry": 21211,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 36450,
+			"type": 1,
+			"targetEntry": 20060,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 36450,
+			"type": 1,
+			"targetEntry": 20062,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 36450,
+			"type": 1,
+			"targetEntry": 20063,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 36450,
+			"type": 1,
+			"targetEntry": 20064,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 36456,
+			"type": 1,
+			"targetEntry": 21254,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 36460,
+			"type": 0,
+			"targetEntry": 183805,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 36460,
+			"type": 0,
+			"targetEntry": 183806,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 36460,
+			"type": 0,
+			"targetEntry": 183807,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 36460,
+			"type": 0,
+			"targetEntry": 183808,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 36709,
+			"type": 1,
+			"targetEntry": 19622,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 36802,
+			"type": 1,
+			"targetEntry": 18504,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 36803,
+			"type": 1,
+			"targetEntry": 18504,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 36804,
+			"type": 1,
+			"targetEntry": 21404,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 36852,
+			"type": 1,
+			"targetEntry": 21440,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 36854,
+			"type": 1,
+			"targetEntry": 21437,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 36856,
+			"type": 1,
+			"targetEntry": 21436,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 36857,
+			"type": 1,
+			"targetEntry": 21438,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 36858,
+			"type": 1,
+			"targetEntry": 21439,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 36859,
+			"type": 1,
+			"targetEntry": 20904,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 36896,
+			"type": 1,
+			"targetEntry": 21445,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37017,
+			"type": 1,
+			"targetEntry": 15687,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37051,
+			"type": 1,
+			"targetEntry": 17175,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37052,
+			"type": 1,
+			"targetEntry": 17174,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37053,
+			"type": 1,
+			"targetEntry": 17173,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37055,
+			"type": 1,
+			"targetEntry": 21512,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37071,
+			"type": 1,
+			"targetEntry": 21424,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37071,
+			"type": 1,
+			"targetEntry": 21638,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37076,
+			"type": 1,
+			"targetEntry": 17798,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37204,
+			"type": 1,
+			"targetEntry": 21709,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37226,
+			"type": 1,
+			"targetEntry": 21638,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37465,
+			"type": 1,
+			"targetEntry": 21748,
+			"inverseEffectMask": 1
+		},
+		{
+			"entry": 37465,
+			"type": 1,
+			"targetEntry": 17469,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37469,
+			"type": 1,
+			"targetEntry": 21160,
+			"inverseEffectMask": 1
+		},
+		{
+			"entry": 37469,
+			"type": 1,
+			"targetEntry": 21682,
+			"inverseEffectMask": 1
+		},
+		{
+			"entry": 37489,
+			"type": 1,
+			"targetEntry": 21419,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37573,
+			"type": 1,
+			"targetEntry": 20021,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37573,
+			"type": 1,
+			"targetEntry": 21817,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37573,
+			"type": 1,
+			"targetEntry": 21820,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37573,
+			"type": 1,
+			"targetEntry": 21821,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37573,
+			"type": 1,
+			"targetEntry": 21823,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37626,
+			"type": 1,
+			"targetEntry": 21215,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37645,
+			"type": 1,
+			"targetEntry": 21417,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37689,
+			"type": 1,
+			"targetEntry": 21847,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37748,
+			"type": 1,
+			"targetEntry": 21867,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37755,
+			"type": 1,
+			"targetEntry": 21846,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37755,
+			"type": 1,
+			"targetEntry": 21859,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37469,
+			"type": 1,
+			"targetEntry": 21683,
+			"inverseEffectMask": 1
+		},
+		{
+			"entry": 37469,
+			"type": 1,
+			"targetEntry": 21664,
+			"inverseEffectMask": 1
+		},
+		{
+			"entry": 37469,
+			"type": 1,
+			"targetEntry": 17211,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37784,
+			"type": 1,
+			"targetEntry": 21867,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37842,
+			"type": 1,
+			"targetEntry": 21869,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37842,
+			"type": 1,
+			"targetEntry": 21870,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37843,
+			"type": 1,
+			"targetEntry": 21899,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37848,
+			"type": 1,
+			"targetEntry": 21870,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37853,
+			"type": 1,
+			"targetEntry": 15608,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37936,
+			"type": 1,
+			"targetEntry": 17796,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37984,
+			"type": 1,
+			"targetEntry": 21940,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 38014,
+			"type": 1,
+			"targetEntry": 21902,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 38014,
+			"type": 1,
+			"targetEntry": 21963,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 38015,
+			"type": 1,
+			"targetEntry": 21216,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 38020,
+			"type": 1,
+			"targetEntry": 21949,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 38044,
+			"type": 1,
+			"targetEntry": 21212,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 38112,
+			"type": 1,
+			"targetEntry": 21212,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 38173,
+			"type": 1,
+			"targetEntry": 22160,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 38173,
+			"type": 1,
+			"targetEntry": 22384,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 38202,
+			"type": 2,
+			"targetEntry": 18733,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 38360,
+			"type": 1,
+			"targetEntry": 20216,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 38439,
+			"type": 1,
+			"targetEntry": 21648,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 38444,
+			"type": 1,
+			"targetEntry": 17008,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 38449,
+			"type": 1,
+			"targetEntry": 21214,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 38451,
+			"type": 1,
+			"targetEntry": 21214,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 38452,
+			"type": 1,
+			"targetEntry": 21214,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 38455,
+			"type": 1,
+			"targetEntry": 21214,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 38469,
+			"type": 1,
+			"targetEntry": 22137,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 38469,
+			"type": 1,
+			"targetEntry": 22139,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 38482,
+			"type": 1,
+			"targetEntry": 22137,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 38484,
+			"type": 1,
+			"targetEntry": 21246,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 38530,
+			"type": 1,
+			"targetEntry": 22177,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 38729,
+			"type": 0,
+			"targetEntry": 185191,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 38729,
+			"type": 1,
+			"targetEntry": 22288,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 38736,
+			"type": 1,
+			"targetEntry": 22288,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 38738,
+			"type": 1,
+			"targetEntry": 22422,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 38762,
+			"type": 1,
+			"targetEntry": 21722,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 38782,
+			"type": 1,
+			"targetEntry": 22423,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39010,
+			"type": 2,
+			"targetEntry": 19264,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39011,
+			"type": 1,
+			"targetEntry": 20885,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39043,
+			"type": 1,
+			"targetEntry": 22377,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39094,
+			"type": 1,
+			"targetEntry": 22395,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39124,
+			"type": 1,
+			"targetEntry": 22395,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39140,
+			"type": 1,
+			"targetEntry": 22418,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39141,
+			"type": 1,
+			"targetEntry": 17968,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39189,
+			"type": 1,
+			"targetEntry": 21846,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39189,
+			"type": 1,
+			"targetEntry": 21859,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39190,
+			"type": 1,
+			"targetEntry": 22444,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39219,
+			"type": 1,
+			"targetEntry": 22443,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39246,
+			"type": 2,
+			"targetEntry": 22105,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39357,
+			"type": 1,
+			"targetEntry": 22519,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39356,
+			"type": 1,
+			"targetEntry": 22519,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39355,
+			"type": 1,
+			"targetEntry": 22519,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39354,
+			"type": 1,
+			"targetEntry": 22519,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39353,
+			"type": 1,
+			"targetEntry": 22519,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39352,
+			"type": 1,
+			"targetEntry": 22519,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39350,
+			"type": 1,
+			"targetEntry": 22519,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39364,
+			"type": 1,
+			"targetEntry": 18732,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39601,
+			"type": 1,
+			"targetEntry": 22916,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39635,
+			"type": 1,
+			"targetEntry": 23448,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39844,
+			"type": 0,
+			"targetEntry": 185549,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39844,
+			"type": 1,
+			"targetEntry": 22991,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39849,
+			"type": 1,
+			"targetEntry": 23448,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39873,
+			"type": 1,
+			"targetEntry": 22917,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39978,
+			"type": 1,
+			"targetEntry": 23057,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40076,
+			"type": 1,
+			"targetEntry": 22884,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40085,
+			"type": 1,
+			"targetEntry": 22885,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40094,
+			"type": 1,
+			"targetEntry": 22953,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40156,
+			"type": 1,
+			"targetEntry": 23094,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40160,
+			"type": 1,
+			"targetEntry": 23118,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40187,
+			"type": 1,
+			"targetEntry": 23094,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40189,
+			"type": 1,
+			"targetEntry": 23094,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40190,
+			"type": 1,
+			"targetEntry": 23094,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40268,
+			"type": 1,
+			"targetEntry": 23109,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40309,
+			"type": 1,
+			"targetEntry": 23055,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40328,
+			"type": 1,
+			"targetEntry": 23037,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40401,
+			"type": 1,
+			"targetEntry": 22841,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40447,
+			"type": 1,
+			"targetEntry": 22841,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40468,
+			"type": 1,
+			"targetEntry": 22252,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40520,
+			"type": 1,
+			"targetEntry": 22841,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40603,
+			"type": 1,
+			"targetEntry": 22948,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40607,
+			"type": 1,
+			"targetEntry": 22841,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40693,
+			"type": 1,
+			"targetEntry": 23197,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40704,
+			"type": 1,
+			"targetEntry": 23292,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40707,
+			"type": 1,
+			"targetEntry": 23293,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40708,
+			"type": 1,
+			"targetEntry": 23294,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40709,
+			"type": 1,
+			"targetEntry": 23295,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40710,
+			"type": 1,
+			"targetEntry": 23296,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40711,
+			"type": 1,
+			"targetEntry": 23297,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40712,
+			"type": 1,
+			"targetEntry": 23298,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40713,
+			"type": 1,
+			"targetEntry": 23299,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40874,
+			"type": 1,
+			"targetEntry": 22841,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40902,
+			"type": 1,
+			"targetEntry": 22841,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40902,
+			"type": 1,
+			"targetEntry": 23191,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40902,
+			"type": 1,
+			"targetEntry": 23351,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41073,
+			"type": 1,
+			"targetEntry": 23147,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41077,
+			"type": 1,
+			"targetEntry": 23089,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41221,
+			"type": 1,
+			"targetEntry": 23197,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41268,
+			"type": 1,
+			"targetEntry": 23412,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41269,
+			"type": 1,
+			"targetEntry": 23412,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41271,
+			"type": 1,
+			"targetEntry": 23412,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41295,
+			"type": 1,
+			"targetEntry": 23418,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41333,
+			"type": 1,
+			"targetEntry": 22949,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41333,
+			"type": 1,
+			"targetEntry": 22950,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41333,
+			"type": 1,
+			"targetEntry": 22951,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41333,
+			"type": 1,
+			"targetEntry": 22952,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41342,
+			"type": 1,
+			"targetEntry": 23426,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41343,
+			"type": 1,
+			"targetEntry": 23426,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41362,
+			"type": 1,
+			"targetEntry": 22956,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41362,
+			"type": 1,
+			"targetEntry": 22964,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41455,
+			"type": 1,
+			"targetEntry": 22949,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41455,
+			"type": 1,
+			"targetEntry": 22950,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41455,
+			"type": 1,
+			"targetEntry": 22951,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41455,
+			"type": 1,
+			"targetEntry": 22952,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41499,
+			"type": 1,
+			"targetEntry": 22949,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41499,
+			"type": 1,
+			"targetEntry": 22950,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41499,
+			"type": 1,
+			"targetEntry": 22951,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41499,
+			"type": 1,
+			"targetEntry": 22952,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41537,
+			"type": 1,
+			"targetEntry": 23472,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41602,
+			"type": 1,
+			"targetEntry": 23191,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42219,
+			"type": 1,
+			"targetEntry": 23602,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42220,
+			"type": 1,
+			"targetEntry": 23597,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42222,
+			"type": 1,
+			"targetEntry": 23616,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42287,
+			"type": 0,
+			"targetEntry": 186283,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42289,
+			"type": 0,
+			"targetEntry": 186283,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42317,
+			"type": 1,
+			"targetEntry": 22844,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42317,
+			"type": 1,
+			"targetEntry": 22845,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42317,
+			"type": 1,
+			"targetEntry": 22846,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42317,
+			"type": 1,
+			"targetEntry": 22847,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42317,
+			"type": 1,
+			"targetEntry": 22849,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42317,
+			"type": 1,
+			"targetEntry": 23215,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42317,
+			"type": 1,
+			"targetEntry": 23216,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42317,
+			"type": 1,
+			"targetEntry": 23318,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42317,
+			"type": 1,
+			"targetEntry": 23319,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42317,
+			"type": 1,
+			"targetEntry": 23374,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42317,
+			"type": 1,
+			"targetEntry": 23421,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42317,
+			"type": 1,
+			"targetEntry": 23523,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42317,
+			"type": 1,
+			"targetEntry": 23524,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42318,
+			"type": 1,
+			"targetEntry": 22844,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42318,
+			"type": 1,
+			"targetEntry": 22845,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42318,
+			"type": 1,
+			"targetEntry": 22846,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42318,
+			"type": 1,
+			"targetEntry": 22847,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42318,
+			"type": 1,
+			"targetEntry": 22849,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42318,
+			"type": 1,
+			"targetEntry": 23215,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42318,
+			"type": 1,
+			"targetEntry": 23216,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42318,
+			"type": 1,
+			"targetEntry": 23318,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42318,
+			"type": 1,
+			"targetEntry": 23319,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42318,
+			"type": 1,
+			"targetEntry": 23374,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42318,
+			"type": 1,
+			"targetEntry": 23421,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42318,
+			"type": 1,
+			"targetEntry": 23523,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42318,
+			"type": 1,
+			"targetEntry": 23524,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42323,
+			"type": 1,
+			"targetEntry": 23720,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42325,
+			"type": 1,
+			"targetEntry": 4351,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42325,
+			"type": 1,
+			"targetEntry": 4352,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42356,
+			"type": 1,
+			"targetEntry": 23751,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42356,
+			"type": 1,
+			"targetEntry": 23752,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42356,
+			"type": 1,
+			"targetEntry": 23753,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42411,
+			"type": 2,
+			"targetEntry": 4328,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42411,
+			"type": 2,
+			"targetEntry": 4329,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42411,
+			"type": 2,
+			"targetEntry": 4331,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42415,
+			"type": 1,
+			"targetEntry": 22923,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42415,
+			"type": 1,
+			"targetEntry": 23378,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42433,
+			"type": 0,
+			"targetEntry": 186335,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42471,
+			"type": 1,
+			"targetEntry": 23817,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42515,
+			"type": 1,
+			"targetEntry": 23868,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42517,
+			"type": 1,
+			"targetEntry": 23869,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42536,
+			"type": 1,
+			"targetEntry": 23685,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42536,
+			"type": 1,
+			"targetEntry": 24492,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42542,
+			"type": 1,
+			"targetEntry": 23863,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42570,
+			"type": 1,
+			"targetEntry": 23746,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42576,
+			"type": 1,
+			"targetEntry": 23899,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42577,
+			"type": 1,
+			"targetEntry": 24136,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42578,
+			"type": 1,
+			"targetEntry": 23907,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42720,
+			"type": 1,
+			"targetEntry": 23559,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42734,
+			"type": 1,
+			"targetEntry": 4979,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 43144,
+			"type": 1,
+			"targetEntry": 23817,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 43255,
+			"type": 1,
+			"targetEntry": 23746,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 43515,
+			"type": 1,
+			"targetEntry": 23746,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 43520,
+			"type": 1,
+			"targetEntry": 23746,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 43615,
+			"type": 1,
+			"targetEntry": 23577,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 43647,
+			"type": 1,
+			"targetEntry": 24358,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 43662,
+			"type": 1,
+			"targetEntry": 24468,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 43662,
+			"type": 1,
+			"targetEntry": 24510,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 43685,
+			"type": 1,
+			"targetEntry": 24412,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 43691,
+			"type": 1,
+			"targetEntry": 24412,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 44132,
+			"type": 1,
+			"targetEntry": 24239,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 44320,
+			"type": 1,
+			"targetEntry": 24722,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 44321,
+			"type": 1,
+			"targetEntry": 24723,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 44355,
+			"type": 1,
+			"targetEntry": 24723,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 44362,
+			"type": 1,
+			"targetEntry": 24766,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 44374,
+			"type": 1,
+			"targetEntry": 24722,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 44574,
+			"type": 1,
+			"targetEntry": 24808,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 44864,
+			"type": 1,
+			"targetEntry": 24933,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 44872,
+			"type": 1,
+			"targetEntry": 25158,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 44969,
+			"type": 1,
+			"targetEntry": 24980,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 44981,
+			"type": 1,
+			"targetEntry": 24980,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45030,
+			"type": 2,
+			"targetEntry": 25003,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45076,
+			"type": 1,
+			"targetEntry": 25047,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45109,
+			"type": 1,
+			"targetEntry": 25084,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45115,
+			"type": 1,
+			"targetEntry": 25090,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45115,
+			"type": 1,
+			"targetEntry": 25091,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45115,
+			"type": 1,
+			"targetEntry": 25092,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45119,
+			"type": 0,
+			"targetEntry": 187267,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45191,
+			"type": 1,
+			"targetEntry": 25154,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45191,
+			"type": 1,
+			"targetEntry": 25156,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45191,
+			"type": 1,
+			"targetEntry": 25157,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45203,
+			"type": 1,
+			"targetEntry": 24882,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45223,
+			"type": 1,
+			"targetEntry": 25192,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45226,
+			"type": 0,
+			"targetEntry": 187359,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45259,
+			"type": 1,
+			"targetEntry": 25213,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45351,
+			"type": 1,
+			"targetEntry": 17845,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45368,
+			"type": 0,
+			"targetEntry": 187428,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45371,
+			"type": 0,
+			"targetEntry": 187431,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45389,
+			"type": 1,
+			"targetEntry": 25265,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187559,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187564,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187914,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187916,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187920,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187923,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187924,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187925,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187926,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187927,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187928,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187929,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187930,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187931,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187932,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187934,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187936,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187938,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187940,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187943,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187944,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187945,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187946,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187947,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187948,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187950,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187951,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187952,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187953,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187954,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187956,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187957,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187959,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187961,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187963,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187964,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187965,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187966,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187968,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187969,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187970,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187971,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187972,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187973,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45437,
+			"type": 0,
+			"targetEntry": 187975,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45839,
+			"type": 1,
+			"targetEntry": 25653,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45941,
+			"type": 1,
+			"targetEntry": 25746,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45976,
+			"type": 1,
+			"targetEntry": 25770,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 46177,
+			"type": 1,
+			"targetEntry": 25770,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 46178,
+			"type": 1,
+			"targetEntry": 25741,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 46208,
+			"type": 1,
+			"targetEntry": 25741,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 46281,
+			"type": 1,
+			"targetEntry": 25882,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 46474,
+			"type": 1,
+			"targetEntry": 25315,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 46475,
+			"type": 1,
+			"targetEntry": 25507,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 46593,
+			"type": 1,
+			"targetEntry": 26120,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 46603,
+			"type": 1,
+			"targetEntry": 26121,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 46809,
+			"type": 1,
+			"targetEntry": 26239,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 46936,
+			"type": 0,
+			"targetEntry": 179785,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 46936,
+			"type": 0,
+			"targetEntry": 179830,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 46937,
+			"type": 0,
+			"targetEntry": 179786,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 46964,
+			"type": 1,
+			"targetEntry": 26391,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 47129,
+			"type": 1,
+			"targetEntry": 26258,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 47129,
+			"type": 1,
+			"targetEntry": 26355,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 47344,
+			"type": 1,
+			"targetEntry": 26764,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 49858,
+			"type": 1,
+			"targetEntry": 27890,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 52850,
+			"type": 1,
+			"targetEntry": 23872,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 34874,
+			"type": 1,
+			"targetEntry": 17990,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 34742,
+			"type": 1,
+			"targetEntry": 19949,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 32111,
+			"type": 1,
+			"targetEntry": 17946,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42631,
+			"type": 1,
+			"targetEntry": 23920,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 43962,
+			"type": 1,
+			"targetEntry": 22515,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45340,
+			"type": 1,
+			"targetEntry": 22515,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 43734,
+			"type": 1,
+			"targetEntry": 23817,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 30541,
+			"type": 1,
+			"targetEntry": 17474,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 30531,
+			"type": 1,
+			"targetEntry": 17256,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 30657,
+			"type": 1,
+			"targetEntry": 17474,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 30572,
+			"type": 1,
+			"targetEntry": 17474,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 30207,
+			"type": 1,
+			"targetEntry": 21174,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 36035,
+			"type": 1,
+			"targetEntry": 21071,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 44884,
+			"type": 1,
+			"targetEntry": 24895,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 44844,
+			"type": 1,
+			"targetEntry": 24895,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 21052,
+			"type": 1,
+			"targetEntry": 13017,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 44883,
+			"type": 1,
+			"targetEntry": 24882,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 46609,
+			"type": 1,
+			"targetEntry": 19871,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41344,
+			"type": 1,
+			"targetEntry": 23426,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 10258,
+			"type": 1,
+			"targetEntry": 10120,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 10252,
+			"type": 1,
+			"targetEntry": 7076,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 20037,
+			"type": 1,
+			"targetEntry": 16604,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 44941,
+			"type": 0,
+			"targetEntry": 187073,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 36904,
+			"type": 0,
+			"targetEntry": 300106,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45388,
+			"type": 1,
+			"targetEntry": 25038,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45714,
+			"type": 1,
+			"targetEntry": 25038,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 36652,
+			"type": 1,
+			"targetEntry": 21347,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45930,
+			"type": 1,
+			"targetEntry": 25971,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45930,
+			"type": 1,
+			"targetEntry": 25972,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 45930,
+			"type": 1,
+			"targetEntry": 25973,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 46398,
+			"type": 1,
+			"targetEntry": 25971,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 46398,
+			"type": 1,
+			"targetEntry": 25972,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 46398,
+			"type": 1,
+			"targetEntry": 25973,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 46623,
+			"type": 1,
+			"targetEntry": 25746,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39993,
+			"type": 1,
+			"targetEntry": 22923,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40055,
+			"type": 1,
+			"targetEntry": 22923,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40165,
+			"type": 1,
+			"targetEntry": 22923,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40166,
+			"type": 1,
+			"targetEntry": 22923,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40167,
+			"type": 1,
+			"targetEntry": 22923,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40512,
+			"type": 0,
+			"targetEntry": 185894,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40499,
+			"type": 0,
+			"targetEntry": 185894,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40512,
+			"type": 0,
+			"targetEntry": 185945,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40499,
+			"type": 0,
+			"targetEntry": 185945,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41124,
+			"type": 0,
+			"targetEntry": 185945,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40437,
+			"type": 0,
+			"targetEntry": 185894,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40437,
+			"type": 0,
+			"targetEntry": 185945,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40494,
+			"type": 0,
+			"targetEntry": 185890,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40495,
+			"type": 0,
+			"targetEntry": 185894,
+			"inverseEffectMask": 2
+		},
+		{
+			"entry": 40495,
+			"type": 0,
+			"targetEntry": 185890,
+			"inverseEffectMask": 1
+		},
+		{
+			"entry": 40494,
+			"type": 0,
+			"targetEntry": 185944,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40495,
+			"type": 0,
+			"targetEntry": 185945,
+			"inverseEffectMask": 2
+		},
+		{
+			"entry": 40495,
+			"type": 0,
+			"targetEntry": 185944,
+			"inverseEffectMask": 1
+		},
+		{
+			"entry": 40172,
+			"type": 0,
+			"targetEntry": 185875,
+			"inverseEffectMask": 3
+		},
+		{
+			"entry": 40171,
+			"type": 0,
+			"targetEntry": 185873,
+			"inverseEffectMask": 3
+		},
+		{
+			"entry": 40170,
+			"type": 0,
+			"targetEntry": 185872,
+			"inverseEffectMask": 3
+		},
+		{
+			"entry": 40169,
+			"type": 0,
+			"targetEntry": 185874,
+			"inverseEffectMask": 3
+		},
+		{
+			"entry": 40172,
+			"type": 0,
+			"targetEntry": 185951,
+			"inverseEffectMask": 3
+		},
+		{
+			"entry": 40171,
+			"type": 0,
+			"targetEntry": 185949,
+			"inverseEffectMask": 3
+		},
+		{
+			"entry": 40170,
+			"type": 0,
+			"targetEntry": 185948,
+			"inverseEffectMask": 3
+		},
+		{
+			"entry": 40169,
+			"type": 0,
+			"targetEntry": 185950,
+			"inverseEffectMask": 3
+		},
+		{
+			"entry": 40176,
+			"type": 0,
+			"targetEntry": 185836,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40177,
+			"type": 0,
+			"targetEntry": 185838,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40178,
+			"type": 0,
+			"targetEntry": 185839,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40179,
+			"type": 0,
+			"targetEntry": 185837,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40281,
+			"type": 0,
+			"targetEntry": 185836,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40287,
+			"type": 0,
+			"targetEntry": 185838,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40288,
+			"type": 0,
+			"targetEntry": 185839,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40289,
+			"type": 0,
+			"targetEntry": 185837,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40244,
+			"type": 0,
+			"targetEntry": 185836,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40245,
+			"type": 0,
+			"targetEntry": 185838,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40246,
+			"type": 0,
+			"targetEntry": 185839,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40247,
+			"type": 0,
+			"targetEntry": 185837,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40172,
+			"type": 0,
+			"targetEntry": 185837,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40171,
+			"type": 0,
+			"targetEntry": 185838,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40170,
+			"type": 0,
+			"targetEntry": 185836,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40169,
+			"type": 0,
+			"targetEntry": 185839,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40286,
+			"type": 0,
+			"targetEntry": 185837,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40284,
+			"type": 0,
+			"targetEntry": 185838,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40283,
+			"type": 0,
+			"targetEntry": 185836,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40285,
+			"type": 0,
+			"targetEntry": 185839,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40176,
+			"type": 0,
+			"targetEntry": 185832,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40177,
+			"type": 0,
+			"targetEntry": 185834,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40178,
+			"type": 0,
+			"targetEntry": 185835,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40179,
+			"type": 0,
+			"targetEntry": 185833,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40281,
+			"type": 0,
+			"targetEntry": 185832,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40287,
+			"type": 0,
+			"targetEntry": 185834,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40288,
+			"type": 0,
+			"targetEntry": 185835,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40289,
+			"type": 0,
+			"targetEntry": 185833,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40244,
+			"type": 0,
+			"targetEntry": 185832,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40245,
+			"type": 0,
+			"targetEntry": 185834,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40246,
+			"type": 0,
+			"targetEntry": 185835,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40247,
+			"type": 0,
+			"targetEntry": 185833,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40172,
+			"type": 0,
+			"targetEntry": 185833,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40171,
+			"type": 0,
+			"targetEntry": 185834,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40170,
+			"type": 0,
+			"targetEntry": 185832,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40169,
+			"type": 0,
+			"targetEntry": 185835,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40286,
+			"type": 0,
+			"targetEntry": 185833,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40284,
+			"type": 0,
+			"targetEntry": 185834,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40283,
+			"type": 0,
+			"targetEntry": 185832,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40285,
+			"type": 0,
+			"targetEntry": 185835,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41113,
+			"type": 0,
+			"targetEntry": 185844,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41112,
+			"type": 0,
+			"targetEntry": 185846,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41111,
+			"type": 0,
+			"targetEntry": 185845,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41110,
+			"type": 0,
+			"targetEntry": 185847,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40244,
+			"type": 0,
+			"targetEntry": 185844,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40245,
+			"type": 0,
+			"targetEntry": 185846,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40246,
+			"type": 0,
+			"targetEntry": 185845,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40247,
+			"type": 0,
+			"targetEntry": 185847,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40172,
+			"type": 0,
+			"targetEntry": 185847,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40171,
+			"type": 0,
+			"targetEntry": 185846,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40170,
+			"type": 0,
+			"targetEntry": 185844,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40169,
+			"type": 0,
+			"targetEntry": 185845,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40286,
+			"type": 0,
+			"targetEntry": 185847,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40284,
+			"type": 0,
+			"targetEntry": 185846,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40283,
+			"type": 0,
+			"targetEntry": 185844,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40285,
+			"type": 0,
+			"targetEntry": 185845,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40176,
+			"type": 0,
+			"targetEntry": 185609,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40176,
+			"type": 0,
+			"targetEntry": 185617,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40176,
+			"type": 0,
+			"targetEntry": 185625,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40176,
+			"type": 0,
+			"targetEntry": 185637,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40176,
+			"type": 0,
+			"targetEntry": 185647,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40176,
+			"type": 0,
+			"targetEntry": 185649,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40176,
+			"type": 0,
+			"targetEntry": 185652,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40176,
+			"type": 0,
+			"targetEntry": 185791,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40176,
+			"type": 0,
+			"targetEntry": 185796,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40176,
+			"type": 0,
+			"targetEntry": 185807,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40176,
+			"type": 0,
+			"targetEntry": 185808,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40176,
+			"type": 0,
+			"targetEntry": 185812,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40176,
+			"type": 0,
+			"targetEntry": 185820,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40176,
+			"type": 0,
+			"targetEntry": 185824,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40176,
+			"type": 0,
+			"targetEntry": 185828,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40176,
+			"type": 0,
+			"targetEntry": 185853,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40176,
+			"type": 0,
+			"targetEntry": 185770,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40176,
+			"type": 0,
+			"targetEntry": 185772,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40176,
+			"type": 0,
+			"targetEntry": 185780,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40176,
+			"type": 0,
+			"targetEntry": 185784,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40176,
+			"type": 0,
+			"targetEntry": 185848,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40176,
+			"type": 0,
+			"targetEntry": 185673,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40176,
+			"type": 0,
+			"targetEntry": 185665,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40176,
+			"type": 0,
+			"targetEntry": 185840,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40176,
+			"type": 0,
+			"targetEntry": 185659,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40176,
+			"type": 0,
+			"targetEntry": 185669,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40281,
+			"type": 0,
+			"targetEntry": 185609,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40281,
+			"type": 0,
+			"targetEntry": 185617,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40281,
+			"type": 0,
+			"targetEntry": 185625,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40281,
+			"type": 0,
+			"targetEntry": 185637,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40281,
+			"type": 0,
+			"targetEntry": 185647,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40281,
+			"type": 0,
+			"targetEntry": 185649,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40281,
+			"type": 0,
+			"targetEntry": 185652,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40281,
+			"type": 0,
+			"targetEntry": 185791,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40281,
+			"type": 0,
+			"targetEntry": 185796,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40281,
+			"type": 0,
+			"targetEntry": 185807,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40281,
+			"type": 0,
+			"targetEntry": 185808,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40281,
+			"type": 0,
+			"targetEntry": 185812,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40281,
+			"type": 0,
+			"targetEntry": 185820,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40281,
+			"type": 0,
+			"targetEntry": 185824,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40281,
+			"type": 0,
+			"targetEntry": 185828,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40281,
+			"type": 0,
+			"targetEntry": 185853,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40281,
+			"type": 0,
+			"targetEntry": 185770,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40281,
+			"type": 0,
+			"targetEntry": 185772,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40281,
+			"type": 0,
+			"targetEntry": 185780,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40281,
+			"type": 0,
+			"targetEntry": 185784,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40281,
+			"type": 0,
+			"targetEntry": 185848,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40281,
+			"type": 0,
+			"targetEntry": 185673,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40281,
+			"type": 0,
+			"targetEntry": 185665,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40281,
+			"type": 0,
+			"targetEntry": 185840,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40281,
+			"type": 0,
+			"targetEntry": 185659,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40281,
+			"type": 0,
+			"targetEntry": 185669,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40244,
+			"type": 0,
+			"targetEntry": 185609,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40244,
+			"type": 0,
+			"targetEntry": 185617,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40244,
+			"type": 0,
+			"targetEntry": 185625,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40244,
+			"type": 0,
+			"targetEntry": 185637,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40244,
+			"type": 0,
+			"targetEntry": 185647,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40244,
+			"type": 0,
+			"targetEntry": 185649,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40244,
+			"type": 0,
+			"targetEntry": 185652,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40244,
+			"type": 0,
+			"targetEntry": 185791,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40244,
+			"type": 0,
+			"targetEntry": 185796,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40244,
+			"type": 0,
+			"targetEntry": 185807,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40244,
+			"type": 0,
+			"targetEntry": 185808,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40244,
+			"type": 0,
+			"targetEntry": 185812,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40244,
+			"type": 0,
+			"targetEntry": 185820,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40244,
+			"type": 0,
+			"targetEntry": 185824,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40244,
+			"type": 0,
+			"targetEntry": 185828,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40244,
+			"type": 0,
+			"targetEntry": 185853,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40244,
+			"type": 0,
+			"targetEntry": 185770,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40244,
+			"type": 0,
+			"targetEntry": 185772,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40244,
+			"type": 0,
+			"targetEntry": 185780,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40244,
+			"type": 0,
+			"targetEntry": 185784,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40244,
+			"type": 0,
+			"targetEntry": 185848,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40244,
+			"type": 0,
+			"targetEntry": 185673,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40244,
+			"type": 0,
+			"targetEntry": 185665,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40244,
+			"type": 0,
+			"targetEntry": 185840,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40244,
+			"type": 0,
+			"targetEntry": 185659,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40244,
+			"type": 0,
+			"targetEntry": 185669,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40170,
+			"type": 0,
+			"targetEntry": 185609,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40170,
+			"type": 0,
+			"targetEntry": 185617,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40170,
+			"type": 0,
+			"targetEntry": 185625,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40170,
+			"type": 0,
+			"targetEntry": 185637,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40170,
+			"type": 0,
+			"targetEntry": 185647,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40170,
+			"type": 0,
+			"targetEntry": 185649,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40170,
+			"type": 0,
+			"targetEntry": 185652,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40170,
+			"type": 0,
+			"targetEntry": 185791,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40170,
+			"type": 0,
+			"targetEntry": 185796,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40170,
+			"type": 0,
+			"targetEntry": 185807,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40170,
+			"type": 0,
+			"targetEntry": 185808,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40170,
+			"type": 0,
+			"targetEntry": 185812,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40170,
+			"type": 0,
+			"targetEntry": 185820,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40170,
+			"type": 0,
+			"targetEntry": 185824,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40170,
+			"type": 0,
+			"targetEntry": 185828,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40170,
+			"type": 0,
+			"targetEntry": 185853,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40170,
+			"type": 0,
+			"targetEntry": 185770,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40170,
+			"type": 0,
+			"targetEntry": 185772,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40170,
+			"type": 0,
+			"targetEntry": 185780,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40170,
+			"type": 0,
+			"targetEntry": 185784,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40170,
+			"type": 0,
+			"targetEntry": 185848,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40170,
+			"type": 0,
+			"targetEntry": 185673,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40170,
+			"type": 0,
+			"targetEntry": 185665,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40170,
+			"type": 0,
+			"targetEntry": 185840,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40170,
+			"type": 0,
+			"targetEntry": 185659,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40170,
+			"type": 0,
+			"targetEntry": 185669,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40283,
+			"type": 0,
+			"targetEntry": 185609,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40283,
+			"type": 0,
+			"targetEntry": 185617,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40283,
+			"type": 0,
+			"targetEntry": 185625,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40283,
+			"type": 0,
+			"targetEntry": 185637,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40283,
+			"type": 0,
+			"targetEntry": 185647,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40283,
+			"type": 0,
+			"targetEntry": 185649,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40283,
+			"type": 0,
+			"targetEntry": 185652,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40283,
+			"type": 0,
+			"targetEntry": 185791,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40283,
+			"type": 0,
+			"targetEntry": 185796,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40283,
+			"type": 0,
+			"targetEntry": 185807,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40283,
+			"type": 0,
+			"targetEntry": 185808,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40283,
+			"type": 0,
+			"targetEntry": 185812,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40283,
+			"type": 0,
+			"targetEntry": 185820,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40283,
+			"type": 0,
+			"targetEntry": 185824,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40283,
+			"type": 0,
+			"targetEntry": 185828,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40283,
+			"type": 0,
+			"targetEntry": 185853,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40283,
+			"type": 0,
+			"targetEntry": 185770,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40283,
+			"type": 0,
+			"targetEntry": 185772,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40283,
+			"type": 0,
+			"targetEntry": 185780,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40283,
+			"type": 0,
+			"targetEntry": 185784,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40283,
+			"type": 0,
+			"targetEntry": 185848,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40283,
+			"type": 0,
+			"targetEntry": 185673,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40283,
+			"type": 0,
+			"targetEntry": 185665,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40283,
+			"type": 0,
+			"targetEntry": 185840,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40283,
+			"type": 0,
+			"targetEntry": 185659,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40283,
+			"type": 0,
+			"targetEntry": 185669,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40177,
+			"type": 0,
+			"targetEntry": 185611,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40177,
+			"type": 0,
+			"targetEntry": 185619,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40177,
+			"type": 0,
+			"targetEntry": 185627,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40177,
+			"type": 0,
+			"targetEntry": 185639,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40177,
+			"type": 0,
+			"targetEntry": 185646,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40177,
+			"type": 0,
+			"targetEntry": 185651,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40177,
+			"type": 0,
+			"targetEntry": 185654,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40177,
+			"type": 0,
+			"targetEntry": 185658,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40177,
+			"type": 0,
+			"targetEntry": 185671,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40177,
+			"type": 0,
+			"targetEntry": 185789,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40177,
+			"type": 0,
+			"targetEntry": 185798,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40177,
+			"type": 0,
+			"targetEntry": 185805,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40177,
+			"type": 0,
+			"targetEntry": 185810,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40177,
+			"type": 0,
+			"targetEntry": 185814,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40177,
+			"type": 0,
+			"targetEntry": 185822,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40177,
+			"type": 0,
+			"targetEntry": 185826,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40177,
+			"type": 0,
+			"targetEntry": 185830,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40177,
+			"type": 0,
+			"targetEntry": 185855,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40177,
+			"type": 0,
+			"targetEntry": 185768,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40177,
+			"type": 0,
+			"targetEntry": 185774,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40177,
+			"type": 0,
+			"targetEntry": 185781,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40177,
+			"type": 0,
+			"targetEntry": 185786,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40177,
+			"type": 0,
+			"targetEntry": 185850,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40177,
+			"type": 0,
+			"targetEntry": 185842,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40177,
+			"type": 0,
+			"targetEntry": 185675,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40177,
+			"type": 0,
+			"targetEntry": 185667,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40287,
+			"type": 0,
+			"targetEntry": 185611,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40287,
+			"type": 0,
+			"targetEntry": 185619,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40287,
+			"type": 0,
+			"targetEntry": 185627,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40287,
+			"type": 0,
+			"targetEntry": 185639,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40287,
+			"type": 0,
+			"targetEntry": 185646,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40287,
+			"type": 0,
+			"targetEntry": 185651,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40287,
+			"type": 0,
+			"targetEntry": 185654,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40287,
+			"type": 0,
+			"targetEntry": 185658,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40287,
+			"type": 0,
+			"targetEntry": 185671,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40287,
+			"type": 0,
+			"targetEntry": 185789,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40287,
+			"type": 0,
+			"targetEntry": 185798,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40287,
+			"type": 0,
+			"targetEntry": 185805,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40287,
+			"type": 0,
+			"targetEntry": 185810,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40287,
+			"type": 0,
+			"targetEntry": 185814,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40287,
+			"type": 0,
+			"targetEntry": 185822,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40287,
+			"type": 0,
+			"targetEntry": 185826,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40287,
+			"type": 0,
+			"targetEntry": 185830,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40287,
+			"type": 0,
+			"targetEntry": 185855,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40287,
+			"type": 0,
+			"targetEntry": 185768,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40287,
+			"type": 0,
+			"targetEntry": 185774,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40287,
+			"type": 0,
+			"targetEntry": 185781,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40287,
+			"type": 0,
+			"targetEntry": 185786,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40287,
+			"type": 0,
+			"targetEntry": 185850,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40287,
+			"type": 0,
+			"targetEntry": 185842,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40287,
+			"type": 0,
+			"targetEntry": 185675,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40287,
+			"type": 0,
+			"targetEntry": 185667,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40245,
+			"type": 0,
+			"targetEntry": 185611,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40245,
+			"type": 0,
+			"targetEntry": 185619,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40245,
+			"type": 0,
+			"targetEntry": 185627,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40245,
+			"type": 0,
+			"targetEntry": 185639,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40245,
+			"type": 0,
+			"targetEntry": 185646,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40245,
+			"type": 0,
+			"targetEntry": 185651,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40245,
+			"type": 0,
+			"targetEntry": 185654,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40245,
+			"type": 0,
+			"targetEntry": 185658,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40245,
+			"type": 0,
+			"targetEntry": 185671,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40245,
+			"type": 0,
+			"targetEntry": 185789,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40245,
+			"type": 0,
+			"targetEntry": 185798,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40245,
+			"type": 0,
+			"targetEntry": 185805,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40245,
+			"type": 0,
+			"targetEntry": 185810,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40245,
+			"type": 0,
+			"targetEntry": 185814,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40245,
+			"type": 0,
+			"targetEntry": 185822,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40245,
+			"type": 0,
+			"targetEntry": 185826,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40245,
+			"type": 0,
+			"targetEntry": 185830,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40245,
+			"type": 0,
+			"targetEntry": 185855,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40245,
+			"type": 0,
+			"targetEntry": 185768,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40245,
+			"type": 0,
+			"targetEntry": 185774,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40245,
+			"type": 0,
+			"targetEntry": 185781,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40245,
+			"type": 0,
+			"targetEntry": 185786,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40245,
+			"type": 0,
+			"targetEntry": 185850,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40245,
+			"type": 0,
+			"targetEntry": 185842,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40245,
+			"type": 0,
+			"targetEntry": 185675,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40245,
+			"type": 0,
+			"targetEntry": 185667,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40171,
+			"type": 0,
+			"targetEntry": 185611,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40171,
+			"type": 0,
+			"targetEntry": 185619,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40171,
+			"type": 0,
+			"targetEntry": 185627,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40171,
+			"type": 0,
+			"targetEntry": 185639,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40171,
+			"type": 0,
+			"targetEntry": 185646,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40171,
+			"type": 0,
+			"targetEntry": 185651,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40171,
+			"type": 0,
+			"targetEntry": 185654,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40171,
+			"type": 0,
+			"targetEntry": 185658,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40171,
+			"type": 0,
+			"targetEntry": 185671,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40171,
+			"type": 0,
+			"targetEntry": 185789,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40171,
+			"type": 0,
+			"targetEntry": 185798,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40171,
+			"type": 0,
+			"targetEntry": 185805,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40171,
+			"type": 0,
+			"targetEntry": 185810,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40171,
+			"type": 0,
+			"targetEntry": 185814,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40171,
+			"type": 0,
+			"targetEntry": 185822,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40171,
+			"type": 0,
+			"targetEntry": 185826,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40171,
+			"type": 0,
+			"targetEntry": 185830,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40171,
+			"type": 0,
+			"targetEntry": 185855,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40171,
+			"type": 0,
+			"targetEntry": 185768,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40171,
+			"type": 0,
+			"targetEntry": 185774,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40171,
+			"type": 0,
+			"targetEntry": 185781,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40171,
+			"type": 0,
+			"targetEntry": 185786,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40171,
+			"type": 0,
+			"targetEntry": 185850,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40171,
+			"type": 0,
+			"targetEntry": 185842,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40171,
+			"type": 0,
+			"targetEntry": 185675,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40171,
+			"type": 0,
+			"targetEntry": 185667,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40284,
+			"type": 0,
+			"targetEntry": 185611,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40284,
+			"type": 0,
+			"targetEntry": 185619,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40284,
+			"type": 0,
+			"targetEntry": 185627,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40284,
+			"type": 0,
+			"targetEntry": 185639,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40284,
+			"type": 0,
+			"targetEntry": 185646,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40284,
+			"type": 0,
+			"targetEntry": 185651,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40284,
+			"type": 0,
+			"targetEntry": 185654,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40284,
+			"type": 0,
+			"targetEntry": 185658,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40284,
+			"type": 0,
+			"targetEntry": 185671,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40284,
+			"type": 0,
+			"targetEntry": 185789,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40284,
+			"type": 0,
+			"targetEntry": 185798,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40284,
+			"type": 0,
+			"targetEntry": 185805,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40284,
+			"type": 0,
+			"targetEntry": 185810,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40284,
+			"type": 0,
+			"targetEntry": 185814,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40284,
+			"type": 0,
+			"targetEntry": 185822,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40284,
+			"type": 0,
+			"targetEntry": 185826,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40284,
+			"type": 0,
+			"targetEntry": 185830,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40284,
+			"type": 0,
+			"targetEntry": 185855,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40284,
+			"type": 0,
+			"targetEntry": 185768,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40284,
+			"type": 0,
+			"targetEntry": 185774,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40284,
+			"type": 0,
+			"targetEntry": 185781,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40284,
+			"type": 0,
+			"targetEntry": 185786,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40284,
+			"type": 0,
+			"targetEntry": 185850,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40284,
+			"type": 0,
+			"targetEntry": 185842,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40284,
+			"type": 0,
+			"targetEntry": 185675,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40284,
+			"type": 0,
+			"targetEntry": 185667,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40178,
+			"type": 0,
+			"targetEntry": 185613,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40178,
+			"type": 0,
+			"targetEntry": 185621,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40178,
+			"type": 0,
+			"targetEntry": 185626,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40178,
+			"type": 0,
+			"targetEntry": 185638,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40178,
+			"type": 0,
+			"targetEntry": 185645,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40178,
+			"type": 0,
+			"targetEntry": 185650,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40178,
+			"type": 0,
+			"targetEntry": 185655,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40178,
+			"type": 0,
+			"targetEntry": 185670,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40178,
+			"type": 0,
+			"targetEntry": 185788,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40178,
+			"type": 0,
+			"targetEntry": 185797,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40178,
+			"type": 0,
+			"targetEntry": 185804,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40178,
+			"type": 0,
+			"targetEntry": 185809,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40178,
+			"type": 0,
+			"targetEntry": 185815,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40178,
+			"type": 0,
+			"targetEntry": 185823,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40178,
+			"type": 0,
+			"targetEntry": 185827,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40178,
+			"type": 0,
+			"targetEntry": 185831,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40178,
+			"type": 0,
+			"targetEntry": 185854,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40178,
+			"type": 0,
+			"targetEntry": 185771,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40178,
+			"type": 0,
+			"targetEntry": 185773,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40178,
+			"type": 0,
+			"targetEntry": 185782,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40178,
+			"type": 0,
+			"targetEntry": 185785,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40178,
+			"type": 0,
+			"targetEntry": 185851,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40178,
+			"type": 0,
+			"targetEntry": 185666,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40178,
+			"type": 0,
+			"targetEntry": 185674,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40178,
+			"type": 0,
+			"targetEntry": 185843,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40178,
+			"type": 0,
+			"targetEntry": 185657,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40288,
+			"type": 0,
+			"targetEntry": 185613,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40288,
+			"type": 0,
+			"targetEntry": 185621,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40288,
+			"type": 0,
+			"targetEntry": 185626,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40288,
+			"type": 0,
+			"targetEntry": 185638,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40288,
+			"type": 0,
+			"targetEntry": 185645,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40288,
+			"type": 0,
+			"targetEntry": 185650,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40288,
+			"type": 0,
+			"targetEntry": 185655,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40288,
+			"type": 0,
+			"targetEntry": 185670,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40288,
+			"type": 0,
+			"targetEntry": 185788,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40288,
+			"type": 0,
+			"targetEntry": 185797,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40288,
+			"type": 0,
+			"targetEntry": 185804,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40288,
+			"type": 0,
+			"targetEntry": 185809,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40288,
+			"type": 0,
+			"targetEntry": 185815,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40288,
+			"type": 0,
+			"targetEntry": 185823,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40288,
+			"type": 0,
+			"targetEntry": 185827,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40288,
+			"type": 0,
+			"targetEntry": 185831,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40288,
+			"type": 0,
+			"targetEntry": 185854,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40288,
+			"type": 0,
+			"targetEntry": 185771,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40288,
+			"type": 0,
+			"targetEntry": 185773,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40288,
+			"type": 0,
+			"targetEntry": 185782,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40288,
+			"type": 0,
+			"targetEntry": 185785,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40288,
+			"type": 0,
+			"targetEntry": 185851,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40288,
+			"type": 0,
+			"targetEntry": 185666,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40288,
+			"type": 0,
+			"targetEntry": 185674,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40288,
+			"type": 0,
+			"targetEntry": 185843,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40288,
+			"type": 0,
+			"targetEntry": 185657,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40246,
+			"type": 0,
+			"targetEntry": 185613,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40246,
+			"type": 0,
+			"targetEntry": 185621,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40246,
+			"type": 0,
+			"targetEntry": 185626,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40246,
+			"type": 0,
+			"targetEntry": 185638,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40246,
+			"type": 0,
+			"targetEntry": 185645,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40246,
+			"type": 0,
+			"targetEntry": 185650,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40246,
+			"type": 0,
+			"targetEntry": 185655,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40246,
+			"type": 0,
+			"targetEntry": 185670,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40246,
+			"type": 0,
+			"targetEntry": 185788,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40246,
+			"type": 0,
+			"targetEntry": 185797,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40246,
+			"type": 0,
+			"targetEntry": 185804,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40246,
+			"type": 0,
+			"targetEntry": 185809,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40246,
+			"type": 0,
+			"targetEntry": 185815,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40246,
+			"type": 0,
+			"targetEntry": 185823,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40246,
+			"type": 0,
+			"targetEntry": 185827,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40246,
+			"type": 0,
+			"targetEntry": 185831,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40246,
+			"type": 0,
+			"targetEntry": 185854,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40246,
+			"type": 0,
+			"targetEntry": 185771,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40246,
+			"type": 0,
+			"targetEntry": 185773,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40246,
+			"type": 0,
+			"targetEntry": 185782,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40246,
+			"type": 0,
+			"targetEntry": 185785,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40246,
+			"type": 0,
+			"targetEntry": 185851,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40246,
+			"type": 0,
+			"targetEntry": 185666,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40246,
+			"type": 0,
+			"targetEntry": 185674,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40246,
+			"type": 0,
+			"targetEntry": 185843,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40246,
+			"type": 0,
+			"targetEntry": 185657,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40169,
+			"type": 0,
+			"targetEntry": 185613,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40169,
+			"type": 0,
+			"targetEntry": 185621,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40169,
+			"type": 0,
+			"targetEntry": 185626,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40169,
+			"type": 0,
+			"targetEntry": 185638,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40169,
+			"type": 0,
+			"targetEntry": 185645,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40169,
+			"type": 0,
+			"targetEntry": 185650,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40169,
+			"type": 0,
+			"targetEntry": 185655,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40169,
+			"type": 0,
+			"targetEntry": 185670,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40169,
+			"type": 0,
+			"targetEntry": 185788,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40169,
+			"type": 0,
+			"targetEntry": 185797,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40169,
+			"type": 0,
+			"targetEntry": 185804,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40169,
+			"type": 0,
+			"targetEntry": 185809,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40169,
+			"type": 0,
+			"targetEntry": 185815,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40169,
+			"type": 0,
+			"targetEntry": 185823,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40169,
+			"type": 0,
+			"targetEntry": 185827,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40169,
+			"type": 0,
+			"targetEntry": 185831,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40169,
+			"type": 0,
+			"targetEntry": 185854,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40169,
+			"type": 0,
+			"targetEntry": 185771,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40169,
+			"type": 0,
+			"targetEntry": 185773,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40169,
+			"type": 0,
+			"targetEntry": 185782,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40169,
+			"type": 0,
+			"targetEntry": 185785,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40169,
+			"type": 0,
+			"targetEntry": 185851,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40169,
+			"type": 0,
+			"targetEntry": 185666,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40169,
+			"type": 0,
+			"targetEntry": 185674,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40169,
+			"type": 0,
+			"targetEntry": 185843,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40169,
+			"type": 0,
+			"targetEntry": 185657,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40285,
+			"type": 0,
+			"targetEntry": 185613,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40285,
+			"type": 0,
+			"targetEntry": 185621,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40285,
+			"type": 0,
+			"targetEntry": 185626,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40285,
+			"type": 0,
+			"targetEntry": 185638,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40285,
+			"type": 0,
+			"targetEntry": 185645,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40285,
+			"type": 0,
+			"targetEntry": 185650,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40285,
+			"type": 0,
+			"targetEntry": 185655,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40285,
+			"type": 0,
+			"targetEntry": 185670,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40285,
+			"type": 0,
+			"targetEntry": 185788,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40285,
+			"type": 0,
+			"targetEntry": 185797,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40285,
+			"type": 0,
+			"targetEntry": 185804,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40285,
+			"type": 0,
+			"targetEntry": 185809,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40285,
+			"type": 0,
+			"targetEntry": 185815,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40285,
+			"type": 0,
+			"targetEntry": 185823,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40285,
+			"type": 0,
+			"targetEntry": 185827,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40285,
+			"type": 0,
+			"targetEntry": 185831,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40285,
+			"type": 0,
+			"targetEntry": 185854,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40285,
+			"type": 0,
+			"targetEntry": 185771,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40285,
+			"type": 0,
+			"targetEntry": 185773,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40285,
+			"type": 0,
+			"targetEntry": 185782,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40285,
+			"type": 0,
+			"targetEntry": 185785,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40285,
+			"type": 0,
+			"targetEntry": 185851,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40285,
+			"type": 0,
+			"targetEntry": 185666,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40285,
+			"type": 0,
+			"targetEntry": 185674,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40285,
+			"type": 0,
+			"targetEntry": 185843,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40285,
+			"type": 0,
+			"targetEntry": 185657,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40179,
+			"type": 0,
+			"targetEntry": 185615,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40179,
+			"type": 0,
+			"targetEntry": 185623,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40179,
+			"type": 0,
+			"targetEntry": 185624,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40179,
+			"type": 0,
+			"targetEntry": 185636,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40179,
+			"type": 0,
+			"targetEntry": 185644,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40179,
+			"type": 0,
+			"targetEntry": 185648,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40179,
+			"type": 0,
+			"targetEntry": 185653,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40179,
+			"type": 0,
+			"targetEntry": 185668,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40179,
+			"type": 0,
+			"targetEntry": 185790,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40179,
+			"type": 0,
+			"targetEntry": 185803,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40179,
+			"type": 0,
+			"targetEntry": 185806,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40179,
+			"type": 0,
+			"targetEntry": 185811,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40179,
+			"type": 0,
+			"targetEntry": 185813,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40179,
+			"type": 0,
+			"targetEntry": 185821,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40179,
+			"type": 0,
+			"targetEntry": 185825,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40179,
+			"type": 0,
+			"targetEntry": 185829,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40179,
+			"type": 0,
+			"targetEntry": 185852,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40179,
+			"type": 0,
+			"targetEntry": 185769,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40179,
+			"type": 0,
+			"targetEntry": 185775,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40179,
+			"type": 0,
+			"targetEntry": 185783,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40179,
+			"type": 0,
+			"targetEntry": 185787,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40179,
+			"type": 0,
+			"targetEntry": 185849,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40179,
+			"type": 0,
+			"targetEntry": 185672,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40179,
+			"type": 0,
+			"targetEntry": 185841,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40179,
+			"type": 0,
+			"targetEntry": 185656,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40179,
+			"type": 0,
+			"targetEntry": 185664,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40289,
+			"type": 0,
+			"targetEntry": 185615,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40289,
+			"type": 0,
+			"targetEntry": 185623,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40289,
+			"type": 0,
+			"targetEntry": 185624,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40289,
+			"type": 0,
+			"targetEntry": 185636,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40289,
+			"type": 0,
+			"targetEntry": 185644,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40289,
+			"type": 0,
+			"targetEntry": 185648,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40289,
+			"type": 0,
+			"targetEntry": 185653,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40289,
+			"type": 0,
+			"targetEntry": 185668,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40289,
+			"type": 0,
+			"targetEntry": 185790,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40289,
+			"type": 0,
+			"targetEntry": 185803,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40289,
+			"type": 0,
+			"targetEntry": 185806,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40289,
+			"type": 0,
+			"targetEntry": 185811,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40289,
+			"type": 0,
+			"targetEntry": 185813,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40289,
+			"type": 0,
+			"targetEntry": 185821,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40289,
+			"type": 0,
+			"targetEntry": 185825,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40289,
+			"type": 0,
+			"targetEntry": 185829,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40289,
+			"type": 0,
+			"targetEntry": 185852,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40289,
+			"type": 0,
+			"targetEntry": 185769,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40289,
+			"type": 0,
+			"targetEntry": 185775,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40289,
+			"type": 0,
+			"targetEntry": 185783,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40289,
+			"type": 0,
+			"targetEntry": 185787,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40289,
+			"type": 0,
+			"targetEntry": 185849,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40289,
+			"type": 0,
+			"targetEntry": 185672,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40289,
+			"type": 0,
+			"targetEntry": 185841,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40289,
+			"type": 0,
+			"targetEntry": 185656,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40289,
+			"type": 0,
+			"targetEntry": 185664,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40247,
+			"type": 0,
+			"targetEntry": 185615,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40247,
+			"type": 0,
+			"targetEntry": 185623,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40247,
+			"type": 0,
+			"targetEntry": 185624,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40247,
+			"type": 0,
+			"targetEntry": 185636,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40247,
+			"type": 0,
+			"targetEntry": 185644,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40247,
+			"type": 0,
+			"targetEntry": 185648,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40247,
+			"type": 0,
+			"targetEntry": 185653,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40247,
+			"type": 0,
+			"targetEntry": 185668,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40247,
+			"type": 0,
+			"targetEntry": 185790,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40247,
+			"type": 0,
+			"targetEntry": 185803,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40247,
+			"type": 0,
+			"targetEntry": 185806,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40247,
+			"type": 0,
+			"targetEntry": 185811,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40247,
+			"type": 0,
+			"targetEntry": 185813,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40247,
+			"type": 0,
+			"targetEntry": 185821,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40247,
+			"type": 0,
+			"targetEntry": 185825,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40247,
+			"type": 0,
+			"targetEntry": 185829,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40247,
+			"type": 0,
+			"targetEntry": 185852,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40247,
+			"type": 0,
+			"targetEntry": 185769,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40247,
+			"type": 0,
+			"targetEntry": 185775,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40247,
+			"type": 0,
+			"targetEntry": 185783,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40247,
+			"type": 0,
+			"targetEntry": 185787,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40247,
+			"type": 0,
+			"targetEntry": 185849,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40247,
+			"type": 0,
+			"targetEntry": 185672,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40247,
+			"type": 0,
+			"targetEntry": 185841,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40247,
+			"type": 0,
+			"targetEntry": 185656,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40247,
+			"type": 0,
+			"targetEntry": 185664,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40172,
+			"type": 0,
+			"targetEntry": 185615,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40172,
+			"type": 0,
+			"targetEntry": 185623,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40172,
+			"type": 0,
+			"targetEntry": 185624,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40172,
+			"type": 0,
+			"targetEntry": 185636,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40172,
+			"type": 0,
+			"targetEntry": 185644,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40172,
+			"type": 0,
+			"targetEntry": 185648,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40172,
+			"type": 0,
+			"targetEntry": 185653,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40172,
+			"type": 0,
+			"targetEntry": 185668,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40172,
+			"type": 0,
+			"targetEntry": 185790,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40172,
+			"type": 0,
+			"targetEntry": 185803,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40172,
+			"type": 0,
+			"targetEntry": 185806,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40172,
+			"type": 0,
+			"targetEntry": 185811,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40172,
+			"type": 0,
+			"targetEntry": 185813,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40172,
+			"type": 0,
+			"targetEntry": 185821,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40172,
+			"type": 0,
+			"targetEntry": 185825,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40172,
+			"type": 0,
+			"targetEntry": 185829,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40172,
+			"type": 0,
+			"targetEntry": 185852,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40172,
+			"type": 0,
+			"targetEntry": 185769,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40172,
+			"type": 0,
+			"targetEntry": 185775,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40172,
+			"type": 0,
+			"targetEntry": 185783,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40172,
+			"type": 0,
+			"targetEntry": 185787,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40172,
+			"type": 0,
+			"targetEntry": 185849,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40172,
+			"type": 0,
+			"targetEntry": 185672,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40172,
+			"type": 0,
+			"targetEntry": 185841,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40172,
+			"type": 0,
+			"targetEntry": 185656,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40172,
+			"type": 0,
+			"targetEntry": 185664,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40286,
+			"type": 0,
+			"targetEntry": 185615,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40286,
+			"type": 0,
+			"targetEntry": 185623,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40286,
+			"type": 0,
+			"targetEntry": 185624,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40286,
+			"type": 0,
+			"targetEntry": 185636,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40286,
+			"type": 0,
+			"targetEntry": 185644,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40286,
+			"type": 0,
+			"targetEntry": 185648,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40286,
+			"type": 0,
+			"targetEntry": 185653,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40286,
+			"type": 0,
+			"targetEntry": 185668,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40286,
+			"type": 0,
+			"targetEntry": 185790,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40286,
+			"type": 0,
+			"targetEntry": 185803,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40286,
+			"type": 0,
+			"targetEntry": 185806,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40286,
+			"type": 0,
+			"targetEntry": 185811,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40286,
+			"type": 0,
+			"targetEntry": 185813,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40286,
+			"type": 0,
+			"targetEntry": 185821,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40286,
+			"type": 0,
+			"targetEntry": 185825,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40286,
+			"type": 0,
+			"targetEntry": 185829,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40286,
+			"type": 0,
+			"targetEntry": 185852,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40286,
+			"type": 0,
+			"targetEntry": 185769,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40286,
+			"type": 0,
+			"targetEntry": 185775,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40286,
+			"type": 0,
+			"targetEntry": 185783,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40286,
+			"type": 0,
+			"targetEntry": 185787,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40286,
+			"type": 0,
+			"targetEntry": 185849,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40286,
+			"type": 0,
+			"targetEntry": 185672,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40286,
+			"type": 0,
+			"targetEntry": 185841,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40286,
+			"type": 0,
+			"targetEntry": 185656,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40286,
+			"type": 0,
+			"targetEntry": 185664,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41113,
+			"type": 0,
+			"targetEntry": 185604,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41113,
+			"type": 0,
+			"targetEntry": 185640,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41113,
+			"type": 0,
+			"targetEntry": 185795,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41113,
+			"type": 0,
+			"targetEntry": 185816,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41113,
+			"type": 0,
+			"targetEntry": 185776,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41113,
+			"type": 0,
+			"targetEntry": 185660,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40283,
+			"type": 0,
+			"targetEntry": 185604,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40283,
+			"type": 0,
+			"targetEntry": 185640,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40283,
+			"type": 0,
+			"targetEntry": 185795,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40283,
+			"type": 0,
+			"targetEntry": 185816,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40283,
+			"type": 0,
+			"targetEntry": 185776,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40283,
+			"type": 0,
+			"targetEntry": 185660,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40244,
+			"type": 0,
+			"targetEntry": 185604,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40244,
+			"type": 0,
+			"targetEntry": 185640,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40244,
+			"type": 0,
+			"targetEntry": 185795,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40244,
+			"type": 0,
+			"targetEntry": 185816,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40244,
+			"type": 0,
+			"targetEntry": 185776,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40244,
+			"type": 0,
+			"targetEntry": 185660,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40170,
+			"type": 0,
+			"targetEntry": 185604,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40170,
+			"type": 0,
+			"targetEntry": 185640,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40170,
+			"type": 0,
+			"targetEntry": 185795,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40170,
+			"type": 0,
+			"targetEntry": 185816,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40170,
+			"type": 0,
+			"targetEntry": 185776,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40170,
+			"type": 0,
+			"targetEntry": 185660,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 41112,
+			"type": 0,
+			"targetEntry": 185605,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41112,
+			"type": 0,
+			"targetEntry": 185641,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41112,
+			"type": 0,
+			"targetEntry": 185793,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41112,
+			"type": 0,
+			"targetEntry": 185818,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41112,
+			"type": 0,
+			"targetEntry": 185777,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41112,
+			"type": 0,
+			"targetEntry": 185661,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40284,
+			"type": 0,
+			"targetEntry": 185605,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40284,
+			"type": 0,
+			"targetEntry": 185641,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40284,
+			"type": 0,
+			"targetEntry": 185793,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40284,
+			"type": 0,
+			"targetEntry": 185818,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40284,
+			"type": 0,
+			"targetEntry": 185777,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40284,
+			"type": 0,
+			"targetEntry": 185661,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40245,
+			"type": 0,
+			"targetEntry": 185605,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40245,
+			"type": 0,
+			"targetEntry": 185641,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40245,
+			"type": 0,
+			"targetEntry": 185793,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40245,
+			"type": 0,
+			"targetEntry": 185818,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40245,
+			"type": 0,
+			"targetEntry": 185777,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40245,
+			"type": 0,
+			"targetEntry": 185661,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40171,
+			"type": 0,
+			"targetEntry": 185605,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40171,
+			"type": 0,
+			"targetEntry": 185641,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40171,
+			"type": 0,
+			"targetEntry": 185793,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40171,
+			"type": 0,
+			"targetEntry": 185818,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40171,
+			"type": 0,
+			"targetEntry": 185777,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40171,
+			"type": 0,
+			"targetEntry": 185661,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 41111,
+			"type": 0,
+			"targetEntry": 185606,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41111,
+			"type": 0,
+			"targetEntry": 185642,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41111,
+			"type": 0,
+			"targetEntry": 185794,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41111,
+			"type": 0,
+			"targetEntry": 185817,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41111,
+			"type": 0,
+			"targetEntry": 185778,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41111,
+			"type": 0,
+			"targetEntry": 185662,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40285,
+			"type": 0,
+			"targetEntry": 185606,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40285,
+			"type": 0,
+			"targetEntry": 185642,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40285,
+			"type": 0,
+			"targetEntry": 185794,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40285,
+			"type": 0,
+			"targetEntry": 185817,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40285,
+			"type": 0,
+			"targetEntry": 185778,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40285,
+			"type": 0,
+			"targetEntry": 185662,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40246,
+			"type": 0,
+			"targetEntry": 185606,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40246,
+			"type": 0,
+			"targetEntry": 185642,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40246,
+			"type": 0,
+			"targetEntry": 185794,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40246,
+			"type": 0,
+			"targetEntry": 185817,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40246,
+			"type": 0,
+			"targetEntry": 185778,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40246,
+			"type": 0,
+			"targetEntry": 185662,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40169,
+			"type": 0,
+			"targetEntry": 185606,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40169,
+			"type": 0,
+			"targetEntry": 185642,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40169,
+			"type": 0,
+			"targetEntry": 185794,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40169,
+			"type": 0,
+			"targetEntry": 185817,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40169,
+			"type": 0,
+			"targetEntry": 185778,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40169,
+			"type": 0,
+			"targetEntry": 185662,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 41110,
+			"type": 0,
+			"targetEntry": 185607,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41110,
+			"type": 0,
+			"targetEntry": 185643,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41110,
+			"type": 0,
+			"targetEntry": 185792,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41110,
+			"type": 0,
+			"targetEntry": 185819,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41110,
+			"type": 0,
+			"targetEntry": 185779,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 41110,
+			"type": 0,
+			"targetEntry": 185663,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40286,
+			"type": 0,
+			"targetEntry": 185607,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40286,
+			"type": 0,
+			"targetEntry": 185643,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40286,
+			"type": 0,
+			"targetEntry": 185792,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40286,
+			"type": 0,
+			"targetEntry": 185819,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40286,
+			"type": 0,
+			"targetEntry": 185779,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40286,
+			"type": 0,
+			"targetEntry": 185663,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40247,
+			"type": 0,
+			"targetEntry": 185607,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40247,
+			"type": 0,
+			"targetEntry": 185643,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40247,
+			"type": 0,
+			"targetEntry": 185792,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40247,
+			"type": 0,
+			"targetEntry": 185819,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40247,
+			"type": 0,
+			"targetEntry": 185779,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40247,
+			"type": 0,
+			"targetEntry": 185663,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 40172,
+			"type": 0,
+			"targetEntry": 185607,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40172,
+			"type": 0,
+			"targetEntry": 185643,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40172,
+			"type": 0,
+			"targetEntry": 185792,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40172,
+			"type": 0,
+			"targetEntry": 185819,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40172,
+			"type": 0,
+			"targetEntry": 185779,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 40172,
+			"type": 0,
+			"targetEntry": 185663,
+			"inverseEffectMask": 4
+		},
+		{
+			"entry": 30532,
+			"type": 1,
+			"targetEntry": 17459,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39338,
+			"type": 1,
+			"targetEntry": 17469,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39338,
+			"type": 1,
+			"targetEntry": 21748,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39338,
+			"type": 1,
+			"targetEntry": 21750,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39338,
+			"type": 1,
+			"targetEntry": 21747,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39338,
+			"type": 1,
+			"targetEntry": 21726,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39338,
+			"type": 1,
+			"targetEntry": 21752,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39342,
+			"type": 1,
+			"targetEntry": 17211,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39342,
+			"type": 1,
+			"targetEntry": 21664,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39342,
+			"type": 1,
+			"targetEntry": 21683,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39342,
+			"type": 1,
+			"targetEntry": 21682,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39342,
+			"type": 1,
+			"targetEntry": 21160,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39342,
+			"type": 1,
+			"targetEntry": 21684,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39341,
+			"type": 1,
+			"targetEntry": 17469,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39341,
+			"type": 1,
+			"targetEntry": 21748,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39341,
+			"type": 1,
+			"targetEntry": 21750,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39341,
+			"type": 1,
+			"targetEntry": 21747,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39341,
+			"type": 1,
+			"targetEntry": 21726,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39341,
+			"type": 1,
+			"targetEntry": 21752,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39344,
+			"type": 1,
+			"targetEntry": 17211,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39344,
+			"type": 1,
+			"targetEntry": 21664,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39344,
+			"type": 1,
+			"targetEntry": 21683,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39344,
+			"type": 1,
+			"targetEntry": 21682,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39344,
+			"type": 1,
+			"targetEntry": 21160,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39344,
+			"type": 1,
+			"targetEntry": 21684,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 32312,
+			"type": 1,
+			"targetEntry": 17208,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 32312,
+			"type": 1,
+			"targetEntry": 17305,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37388,
+			"type": 1,
+			"targetEntry": 17208,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37388,
+			"type": 1,
+			"targetEntry": 17305,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 30012,
+			"type": 1,
+			"targetEntry": 17208,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 30012,
+			"type": 1,
+			"targetEntry": 17305,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 30284,
+			"type": 1,
+			"targetEntry": 17208,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 30284,
+			"type": 1,
+			"targetEntry": 17305,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 30284,
+			"type": 1,
+			"targetEntry": 17316,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 30284,
+			"type": 1,
+			"targetEntry": 17317,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37144,
+			"type": 1,
+			"targetEntry": 17208,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37144,
+			"type": 1,
+			"targetEntry": 17305,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37146,
+			"type": 1,
+			"targetEntry": 17208,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37146,
+			"type": 1,
+			"targetEntry": 17305,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37148,
+			"type": 1,
+			"targetEntry": 17208,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37148,
+			"type": 1,
+			"targetEntry": 17305,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37151,
+			"type": 1,
+			"targetEntry": 17208,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37151,
+			"type": 1,
+			"targetEntry": 17305,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37152,
+			"type": 1,
+			"targetEntry": 17208,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37152,
+			"type": 1,
+			"targetEntry": 17305,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37153,
+			"type": 1,
+			"targetEntry": 17208,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37153,
+			"type": 1,
+			"targetEntry": 17305,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39358,
+			"type": 1,
+			"targetEntry": 22519,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39359,
+			"type": 1,
+			"targetEntry": 22519,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39360,
+			"type": 1,
+			"targetEntry": 22519,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39361,
+			"type": 1,
+			"targetEntry": 22519,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39362,
+			"type": 1,
+			"targetEntry": 22519,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39398,
+			"type": 1,
+			"targetEntry": 22521,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39398,
+			"type": 1,
+			"targetEntry": 22519,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37366,
+			"type": 1,
+			"targetEntry": 17469,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37366,
+			"type": 1,
+			"targetEntry": 17211,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37366,
+			"type": 1,
+			"targetEntry": 21748,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37366,
+			"type": 1,
+			"targetEntry": 21750,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37366,
+			"type": 1,
+			"targetEntry": 21747,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37366,
+			"type": 1,
+			"targetEntry": 21726,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37366,
+			"type": 1,
+			"targetEntry": 21752,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37366,
+			"type": 1,
+			"targetEntry": 21664,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37366,
+			"type": 1,
+			"targetEntry": 21683,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37366,
+			"type": 1,
+			"targetEntry": 21682,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37366,
+			"type": 1,
+			"targetEntry": 21160,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37366,
+			"type": 1,
+			"targetEntry": 21684,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39401,
+			"type": 1,
+			"targetEntry": 17469,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39401,
+			"type": 1,
+			"targetEntry": 17211,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39401,
+			"type": 1,
+			"targetEntry": 21748,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39401,
+			"type": 1,
+			"targetEntry": 21750,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39401,
+			"type": 1,
+			"targetEntry": 21747,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39401,
+			"type": 1,
+			"targetEntry": 21726,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39401,
+			"type": 1,
+			"targetEntry": 21752,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39401,
+			"type": 1,
+			"targetEntry": 21664,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39401,
+			"type": 1,
+			"targetEntry": 21683,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39401,
+			"type": 1,
+			"targetEntry": 21682,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39401,
+			"type": 1,
+			"targetEntry": 21160,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39401,
+			"type": 1,
+			"targetEntry": 21684,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39395,
+			"type": 1,
+			"targetEntry": 22523,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37469,
+			"type": 1,
+			"targetEntry": 21684,
+			"inverseEffectMask": 1
+		},
+		{
+			"entry": 37775,
+			"type": 1,
+			"targetEntry": 17211,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 37775,
+			"type": 1,
+			"targetEntry": 21664,
+			"inverseEffectMask": 1
+		},
+		{
+			"entry": 37775,
+			"type": 1,
+			"targetEntry": 21683,
+			"inverseEffectMask": 1
+		},
+		{
+			"entry": 37775,
+			"type": 1,
+			"targetEntry": 21682,
+			"inverseEffectMask": 1
+		},
+		{
+			"entry": 37775,
+			"type": 1,
+			"targetEntry": 21160,
+			"inverseEffectMask": 1
+		},
+		{
+			"entry": 37775,
+			"type": 1,
+			"targetEntry": 21684,
+			"inverseEffectMask": 1
+		},
+		{
+			"entry": 37465,
+			"type": 1,
+			"targetEntry": 21750,
+			"inverseEffectMask": 1
+		},
+		{
+			"entry": 37465,
+			"type": 1,
+			"targetEntry": 21747,
+			"inverseEffectMask": 1
+		},
+		{
+			"entry": 37465,
+			"type": 1,
+			"targetEntry": 21726,
+			"inverseEffectMask": 1
+		},
+		{
+			"entry": 37465,
+			"type": 1,
+			"targetEntry": 21752,
+			"inverseEffectMask": 1
+		},
+		{
+			"entry": 39184,
+			"type": 1,
+			"targetEntry": 16878,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 39206,
+			"type": 1,
+			"targetEntry": 16878,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 36327,
+			"type": 1,
+			"targetEntry": 21186,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 38966,
+			"type": 1,
+			"targetEntry": 22358,
+			"inverseEffectMask": 0
+		},
+		{
+			"entry": 42436,
+			"type": 1,
+			"targetEntry": 24108,
+			"inverseEffectMask": 0
+		}
+	]
+}

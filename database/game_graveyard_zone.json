@@ -1,0 +1,2631 @@
+{
+	"table": "game_graveyard_zone",
+	"rows":
+	[
+		{
+			"id": 100,
+			"ghost_zone": 1,
+			"faction": 469
+		},
+		{
+			"id": 101,
+			"ghost_zone": 1,
+			"faction": 469
+		},
+		{
+			"id": 103,
+			"ghost_zone": 3,
+			"faction": 67
+		},
+		{
+			"id": 104,
+			"ghost_zone": 10,
+			"faction": 67
+		},
+		{
+			"id": 854,
+			"ghost_zone": 1519,
+			"faction": 67
+		},
+		{
+			"id": 104,
+			"ghost_zone": 44,
+			"faction": 0
+		},
+		{
+			"id": 105,
+			"ghost_zone": 12,
+			"faction": 469
+		},
+		{
+			"id": 106,
+			"ghost_zone": 12,
+			"faction": 469
+		},
+		{
+			"id": 569,
+			"ghost_zone": 28,
+			"faction": 67
+		},
+		{
+			"id": 107,
+			"ghost_zone": 1519,
+			"faction": 469
+		},
+		{
+			"id": 108,
+			"ghost_zone": 8,
+			"faction": 67
+		},
+		{
+			"id": 109,
+			"ghost_zone": 33,
+			"faction": 0
+		},
+		{
+			"id": 149,
+			"ghost_zone": 130,
+			"faction": 469
+		},
+		{
+			"id": 149,
+			"ghost_zone": 267,
+			"faction": 469
+		},
+		{
+			"id": 149,
+			"ghost_zone": 36,
+			"faction": 469
+		},
+		{
+			"id": 39,
+			"ghost_zone": 722,
+			"faction": 0
+		},
+		{
+			"id": 189,
+			"ghost_zone": 15,
+			"faction": 469
+		},
+		{
+			"id": 909,
+			"ghost_zone": 3456,
+			"faction": 0
+		},
+		{
+			"id": 97,
+			"ghost_zone": 209,
+			"faction": 0
+		},
+		{
+			"id": 909,
+			"ghost_zone": 139,
+			"faction": 0
+		},
+		{
+			"id": 209,
+			"ghost_zone": 440,
+			"faction": 0
+		},
+		{
+			"id": 209,
+			"ghost_zone": 1941,
+			"faction": 0
+		},
+		{
+			"id": 229,
+			"ghost_zone": 17,
+			"faction": 0
+		},
+		{
+			"id": 429,
+			"ghost_zone": 796,
+			"faction": 0
+		},
+		{
+			"id": 869,
+			"ghost_zone": 2057,
+			"faction": 0
+		},
+		{
+			"id": 249,
+			"ghost_zone": 1638,
+			"faction": 469
+		},
+		{
+			"id": 249,
+			"ghost_zone": 17,
+			"faction": 67
+		},
+		{
+			"id": 249,
+			"ghost_zone": 215,
+			"faction": 469
+		},
+		{
+			"id": 289,
+			"ghost_zone": 85,
+			"faction": 67
+		},
+		{
+			"id": 3,
+			"ghost_zone": 10,
+			"faction": 469
+		},
+		{
+			"id": 309,
+			"ghost_zone": 357,
+			"faction": 469
+		},
+		{
+			"id": 189,
+			"ghost_zone": 2159,
+			"faction": 469
+		},
+		{
+			"id": 310,
+			"ghost_zone": 357,
+			"faction": 67
+		},
+		{
+			"id": 32,
+			"ghost_zone": 14,
+			"faction": 0
+		},
+		{
+			"id": 329,
+			"ghost_zone": 400,
+			"faction": 0
+		},
+		{
+			"id": 850,
+			"ghost_zone": 2917,
+			"faction": 67
+		},
+		{
+			"id": 34,
+			"ghost_zone": 215,
+			"faction": 67
+		},
+		{
+			"id": 349,
+			"ghost_zone": 47,
+			"faction": 469
+		},
+		{
+			"id": 35,
+			"ghost_zone": 148,
+			"faction": 469
+		},
+		{
+			"id": 36,
+			"ghost_zone": 41,
+			"faction": 0
+		},
+		{
+			"id": 369,
+			"ghost_zone": 16,
+			"faction": 0
+		},
+		{
+			"id": 370,
+			"ghost_zone": 4,
+			"faction": 0
+		},
+		{
+			"id": 370,
+			"ghost_zone": 8,
+			"faction": 469
+		},
+		{
+			"id": 389,
+			"ghost_zone": 33,
+			"faction": 0
+		},
+		{
+			"id": 92,
+			"ghost_zone": 719,
+			"faction": 0
+		},
+		{
+			"id": 850,
+			"ghost_zone": 2437,
+			"faction": 0
+		},
+		{
+			"id": 39,
+			"ghost_zone": 400,
+			"faction": 0
+		},
+		{
+			"id": 4,
+			"ghost_zone": 40,
+			"faction": 0
+		},
+		{
+			"id": 512,
+			"ghost_zone": 719,
+			"faction": 0
+		},
+		{
+			"id": 409,
+			"ghost_zone": 406,
+			"faction": 0
+		},
+		{
+			"id": 429,
+			"ghost_zone": 2057,
+			"faction": 0
+		},
+		{
+			"id": 449,
+			"ghost_zone": 361,
+			"faction": 0
+		},
+		{
+			"id": 450,
+			"ghost_zone": 490,
+			"faction": 0
+		},
+		{
+			"id": 469,
+			"ghost_zone": 141,
+			"faction": 67
+		},
+		{
+			"id": 469,
+			"ghost_zone": 148,
+			"faction": 469
+		},
+		{
+			"id": 469,
+			"ghost_zone": 1657,
+			"faction": 67
+		},
+		{
+			"id": 489,
+			"ghost_zone": 11,
+			"faction": 0
+		},
+		{
+			"id": 510,
+			"ghost_zone": 139,
+			"faction": 0
+		},
+		{
+			"id": 511,
+			"ghost_zone": 618,
+			"faction": 0
+		},
+		{
+			"id": 512,
+			"ghost_zone": 148,
+			"faction": 67
+		},
+		{
+			"id": 850,
+			"ghost_zone": 1637,
+			"faction": 67
+		},
+		{
+			"id": 512,
+			"ghost_zone": 17,
+			"faction": 469
+		},
+		{
+			"id": 512,
+			"ghost_zone": 331,
+			"faction": 0
+		},
+		{
+			"id": 569,
+			"ghost_zone": 85,
+			"faction": 67
+		},
+		{
+			"id": 6,
+			"ghost_zone": 38,
+			"faction": 469
+		},
+		{
+			"id": 609,
+			"ghost_zone": 16,
+			"faction": 0
+		},
+		{
+			"id": 509,
+			"ghost_zone": 28,
+			"faction": 469
+		},
+		{
+			"id": 629,
+			"ghost_zone": 85,
+			"faction": 469
+		},
+		{
+			"id": 629,
+			"ghost_zone": 2057,
+			"faction": 0
+		},
+		{
+			"id": 630,
+			"ghost_zone": 16,
+			"faction": 0
+		},
+		{
+			"id": 631,
+			"ghost_zone": 15,
+			"faction": 67
+		},
+		{
+			"id": 632,
+			"ghost_zone": 46,
+			"faction": 0
+		},
+		{
+			"id": 633,
+			"ghost_zone": 493,
+			"faction": 0
+		},
+		{
+			"id": 635,
+			"ghost_zone": 361,
+			"faction": 0
+		},
+		{
+			"id": 649,
+			"ghost_zone": 14,
+			"faction": 67
+		},
+		{
+			"id": 7,
+			"ghost_zone": 1,
+			"faction": 67
+		},
+		{
+			"id": 7,
+			"ghost_zone": 11,
+			"faction": 0
+		},
+		{
+			"id": 7,
+			"ghost_zone": 38,
+			"faction": 67
+		},
+		{
+			"id": 789,
+			"ghost_zone": 47,
+			"faction": 67
+		},
+		{
+			"id": 8,
+			"ghost_zone": 3,
+			"faction": 0
+		},
+		{
+			"id": 8,
+			"ghost_zone": 38,
+			"faction": 67
+		},
+		{
+			"id": 829,
+			"ghost_zone": 28,
+			"faction": 0
+		},
+		{
+			"id": 849,
+			"ghost_zone": 357,
+			"faction": 0
+		},
+		{
+			"id": 92,
+			"ghost_zone": 331,
+			"faction": 0
+		},
+		{
+			"id": 850,
+			"ghost_zone": 14,
+			"faction": 67
+		},
+		{
+			"id": 851,
+			"ghost_zone": 1638,
+			"faction": 67
+		},
+		{
+			"id": 851,
+			"ghost_zone": 215,
+			"faction": 67
+		},
+		{
+			"id": 852,
+			"ghost_zone": 1,
+			"faction": 469
+		},
+		{
+			"id": 631,
+			"ghost_zone": 2159,
+			"faction": 67
+		},
+		{
+			"id": 89,
+			"ghost_zone": 215,
+			"faction": 67
+		},
+		{
+			"id": 90,
+			"ghost_zone": 1657,
+			"faction": 469
+		},
+		{
+			"id": 91,
+			"ghost_zone": 141,
+			"faction": 469
+		},
+		{
+			"id": 910,
+			"ghost_zone": 3429,
+			"faction": 0
+		},
+		{
+			"id": 911,
+			"ghost_zone": 10,
+			"faction": 0
+		},
+		{
+			"id": 927,
+			"ghost_zone": 139,
+			"faction": 0
+		},
+		{
+			"id": 93,
+			"ghost_zone": 141,
+			"faction": 469
+		},
+		{
+			"id": 94,
+			"ghost_zone": 85,
+			"faction": 67
+		},
+		{
+			"id": 96,
+			"ghost_zone": 85,
+			"faction": 67
+		},
+		{
+			"id": 97,
+			"ghost_zone": 130,
+			"faction": 67
+		},
+		{
+			"id": 39,
+			"ghost_zone": 491,
+			"faction": 0
+		},
+		{
+			"id": 98,
+			"ghost_zone": 267,
+			"faction": 67
+		},
+		{
+			"id": 98,
+			"ghost_zone": 36,
+			"faction": 67
+		},
+		{
+			"id": 99,
+			"ghost_zone": 45,
+			"faction": 0
+		},
+		{
+			"id": 669,
+			"ghost_zone": 22,
+			"faction": 0
+		},
+		{
+			"id": 670,
+			"ghost_zone": 22,
+			"faction": 0
+		},
+		{
+			"id": 671,
+			"ghost_zone": 22,
+			"faction": 0
+		},
+		{
+			"id": 529,
+			"ghost_zone": 22,
+			"faction": 0
+		},
+		{
+			"id": 751,
+			"ghost_zone": 2597,
+			"faction": 469
+		},
+		{
+			"id": 749,
+			"ghost_zone": 2597,
+			"faction": 67
+		},
+		{
+			"id": 750,
+			"ghost_zone": 2597,
+			"faction": 67
+		},
+		{
+			"id": 610,
+			"ghost_zone": 2597,
+			"faction": 67
+		},
+		{
+			"id": 611,
+			"ghost_zone": 2597,
+			"faction": 469
+		},
+		{
+			"id": 689,
+			"ghost_zone": 2597,
+			"faction": 0
+		},
+		{
+			"id": 729,
+			"ghost_zone": 2597,
+			"faction": 469
+		},
+		{
+			"id": 829,
+			"ghost_zone": 2597,
+			"faction": 0
+		},
+		{
+			"id": 830,
+			"ghost_zone": 2597,
+			"faction": 0
+		},
+		{
+			"id": 169,
+			"ghost_zone": 2597,
+			"faction": 0
+		},
+		{
+			"id": 769,
+			"ghost_zone": 3277,
+			"faction": 469
+		},
+		{
+			"id": 770,
+			"ghost_zone": 3277,
+			"faction": 67
+		},
+		{
+			"id": 771,
+			"ghost_zone": 3277,
+			"faction": 469
+		},
+		{
+			"id": 772,
+			"ghost_zone": 3277,
+			"faction": 67
+		},
+		{
+			"id": 809,
+			"ghost_zone": 3277,
+			"faction": 0
+		},
+		{
+			"id": 810,
+			"ghost_zone": 3277,
+			"faction": 0
+		},
+		{
+			"id": 889,
+			"ghost_zone": 3358,
+			"faction": 67
+		},
+		{
+			"id": 890,
+			"ghost_zone": 3358,
+			"faction": 469
+		},
+		{
+			"id": 891,
+			"ghost_zone": 3358,
+			"faction": 0
+		},
+		{
+			"id": 892,
+			"ghost_zone": 3358,
+			"faction": 0
+		},
+		{
+			"id": 893,
+			"ghost_zone": 3358,
+			"faction": 67
+		},
+		{
+			"id": 894,
+			"ghost_zone": 3358,
+			"faction": 0
+		},
+		{
+			"id": 895,
+			"ghost_zone": 3358,
+			"faction": 469
+		},
+		{
+			"id": 896,
+			"ghost_zone": 3358,
+			"faction": 0
+		},
+		{
+			"id": 897,
+			"ghost_zone": 3358,
+			"faction": 0
+		},
+		{
+			"id": 898,
+			"ghost_zone": 3358,
+			"faction": 469
+		},
+		{
+			"id": 899,
+			"ghost_zone": 3358,
+			"faction": 67
+		},
+		{
+			"id": 10,
+			"ghost_zone": 718,
+			"faction": 0
+		},
+		{
+			"id": 709,
+			"ghost_zone": 14,
+			"faction": 67
+		},
+		{
+			"id": 926,
+			"ghost_zone": 3525,
+			"faction": 0
+		},
+		{
+			"id": 922,
+			"ghost_zone": 3430,
+			"faction": 0
+		},
+		{
+			"id": 915,
+			"ghost_zone": 3433,
+			"faction": 0
+		},
+		{
+			"id": 923,
+			"ghost_zone": 3524,
+			"faction": 0
+		},
+		{
+			"id": 919,
+			"ghost_zone": 3483,
+			"faction": 67
+		},
+		{
+			"id": 928,
+			"ghost_zone": 3521,
+			"faction": 469
+		},
+		{
+			"id": 926,
+			"ghost_zone": 3557,
+			"faction": 0
+		},
+		{
+			"id": 1047,
+			"ghost_zone": 3520,
+			"faction": 67
+		},
+		{
+			"id": 1049,
+			"ghost_zone": 3522,
+			"faction": 469
+		},
+		{
+			"id": 925,
+			"ghost_zone": 3525,
+			"faction": 0
+		},
+		{
+			"id": 992,
+			"ghost_zone": 3518,
+			"faction": 0
+		},
+		{
+			"id": 995,
+			"ghost_zone": 3519,
+			"faction": 0
+		},
+		{
+			"id": 1045,
+			"ghost_zone": 3523,
+			"faction": 0
+		},
+		{
+			"id": 921,
+			"ghost_zone": 3487,
+			"faction": 0
+		},
+		{
+			"id": 994,
+			"ghost_zone": 3703,
+			"faction": 0
+		},
+		{
+			"id": 106,
+			"ghost_zone": 717,
+			"faction": 0
+		},
+		{
+			"id": 1048,
+			"ghost_zone": 3520,
+			"faction": 469
+		},
+		{
+			"id": 994,
+			"ghost_zone": 3519,
+			"faction": 0
+		},
+		{
+			"id": 1042,
+			"ghost_zone": 3519,
+			"faction": 0
+		},
+		{
+			"id": 1051,
+			"ghost_zone": 3519,
+			"faction": 0
+		},
+		{
+			"id": 920,
+			"ghost_zone": 3483,
+			"faction": 469
+		},
+		{
+			"id": 933,
+			"ghost_zone": 3483,
+			"faction": 469
+		},
+		{
+			"id": 934,
+			"ghost_zone": 3483,
+			"faction": 67
+		},
+		{
+			"id": 1040,
+			"ghost_zone": 3483,
+			"faction": 0
+		},
+		{
+			"id": 1240,
+			"ghost_zone": 3483,
+			"faction": 469
+		},
+		{
+			"id": 1248,
+			"ghost_zone": 3483,
+			"faction": 67
+		},
+		{
+			"id": 930,
+			"ghost_zone": 3518,
+			"faction": 0
+		},
+		{
+			"id": 993,
+			"ghost_zone": 3518,
+			"faction": 0
+		},
+		{
+			"id": 1037,
+			"ghost_zone": 3518,
+			"faction": 0
+		},
+		{
+			"id": 1038,
+			"ghost_zone": 3518,
+			"faction": 0
+		},
+		{
+			"id": 1039,
+			"ghost_zone": 3518,
+			"faction": 0
+		},
+		{
+			"id": 969,
+			"ghost_zone": 3521,
+			"faction": 0
+		},
+		{
+			"id": 970,
+			"ghost_zone": 3521,
+			"faction": 67
+		},
+		{
+			"id": 973,
+			"ghost_zone": 3521,
+			"faction": 0
+		},
+		{
+			"id": 1043,
+			"ghost_zone": 3521,
+			"faction": 469
+		},
+		{
+			"id": 1044,
+			"ghost_zone": 3521,
+			"faction": 0
+		},
+		{
+			"id": 1050,
+			"ghost_zone": 3522,
+			"faction": 67
+		},
+		{
+			"id": 1241,
+			"ghost_zone": 3522,
+			"faction": 0
+		},
+		{
+			"id": 1242,
+			"ghost_zone": 3522,
+			"faction": 0
+		},
+		{
+			"id": 1243,
+			"ghost_zone": 3522,
+			"faction": 0
+		},
+		{
+			"id": 1244,
+			"ghost_zone": 3522,
+			"faction": 0
+		},
+		{
+			"id": 1046,
+			"ghost_zone": 3523,
+			"faction": 0
+		},
+		{
+			"id": 1247,
+			"ghost_zone": 3523,
+			"faction": 0
+		},
+		{
+			"id": 918,
+			"ghost_zone": 3524,
+			"faction": 0
+		},
+		{
+			"id": 924,
+			"ghost_zone": 3524,
+			"faction": 0
+		},
+		{
+			"id": 912,
+			"ghost_zone": 3430,
+			"faction": 0
+		},
+		{
+			"id": 914,
+			"ghost_zone": 3430,
+			"faction": 0
+		},
+		{
+			"id": 921,
+			"ghost_zone": 3430,
+			"faction": 0
+		},
+		{
+			"id": 916,
+			"ghost_zone": 3433,
+			"faction": 0
+		},
+		{
+			"id": 917,
+			"ghost_zone": 3433,
+			"faction": 0
+		},
+		{
+			"id": 10,
+			"ghost_zone": 17,
+			"faction": 67
+		},
+		{
+			"id": 209,
+			"ghost_zone": 1176,
+			"faction": 0
+		},
+		{
+			"id": 918,
+			"ghost_zone": 3557,
+			"faction": 0
+		},
+		{
+			"id": 924,
+			"ghost_zone": 3557,
+			"faction": 0
+		},
+		{
+			"id": 8,
+			"ghost_zone": 1337,
+			"faction": 0
+		},
+		{
+			"id": 913,
+			"ghost_zone": 3478,
+			"faction": 0
+		},
+		{
+			"id": 70,
+			"ghost_zone": 1377,
+			"faction": 0
+		},
+		{
+			"id": 910,
+			"ghost_zone": 1377,
+			"faction": 0
+		},
+		{
+			"id": 149,
+			"ghost_zone": 209,
+			"faction": 0
+		},
+		{
+			"id": 108,
+			"ghost_zone": 1417,
+			"faction": 0
+		},
+		{
+			"id": 632,
+			"ghost_zone": 1584,
+			"faction": 0
+		},
+		{
+			"id": 849,
+			"ghost_zone": 2557,
+			"faction": 0
+		},
+		{
+			"id": 31,
+			"ghost_zone": 405,
+			"faction": 0
+		},
+		{
+			"id": 31,
+			"ghost_zone": 2100,
+			"faction": 0
+		},
+		{
+			"id": 632,
+			"ghost_zone": 1583,
+			"faction": 0
+		},
+		{
+			"id": 970,
+			"ghost_zone": 3717,
+			"faction": 469
+		},
+		{
+			"id": 928,
+			"ghost_zone": 3717,
+			"faction": 67
+		},
+		{
+			"id": 970,
+			"ghost_zone": 3716,
+			"faction": 469
+		},
+		{
+			"id": 928,
+			"ghost_zone": 3716,
+			"faction": 67
+		},
+		{
+			"id": 970,
+			"ghost_zone": 3715,
+			"faction": 469
+		},
+		{
+			"id": 928,
+			"ghost_zone": 3715,
+			"faction": 67
+		},
+		{
+			"id": 970,
+			"ghost_zone": 3607,
+			"faction": 469
+		},
+		{
+			"id": 928,
+			"ghost_zone": 3607,
+			"faction": 67
+		},
+		{
+			"id": 1042,
+			"ghost_zone": 3789,
+			"faction": 0
+		},
+		{
+			"id": 1042,
+			"ghost_zone": 3791,
+			"faction": 0
+		},
+		{
+			"id": 1042,
+			"ghost_zone": 3792,
+			"faction": 0
+		},
+		{
+			"id": 1042,
+			"ghost_zone": 3790,
+			"faction": 0
+		},
+		{
+			"id": 1247,
+			"ghost_zone": 3847,
+			"faction": 0
+		},
+		{
+			"id": 1247,
+			"ghost_zone": 3848,
+			"faction": 0
+		},
+		{
+			"id": 1247,
+			"ghost_zone": 3845,
+			"faction": 0
+		},
+		{
+			"id": 1247,
+			"ghost_zone": 3849,
+			"faction": 0
+		},
+		{
+			"id": 920,
+			"ghost_zone": 3713,
+			"faction": 469
+		},
+		{
+			"id": 919,
+			"ghost_zone": 3713,
+			"faction": 67
+		},
+		{
+			"id": 920,
+			"ghost_zone": 3562,
+			"faction": 469
+		},
+		{
+			"id": 919,
+			"ghost_zone": 3562,
+			"faction": 67
+		},
+		{
+			"id": 920,
+			"ghost_zone": 3535,
+			"faction": 469
+		},
+		{
+			"id": 919,
+			"ghost_zone": 3535,
+			"faction": 67
+		},
+		{
+			"id": 920,
+			"ghost_zone": 3836,
+			"faction": 469
+		},
+		{
+			"id": 919,
+			"ghost_zone": 3836,
+			"faction": 67
+		},
+		{
+			"id": 1049,
+			"ghost_zone": 3923,
+			"faction": 0
+		},
+		{
+			"id": 1050,
+			"ghost_zone": 3923,
+			"faction": 0
+		},
+		{
+			"id": 913,
+			"ghost_zone": 3429,
+			"faction": 0
+		},
+		{
+			"id": 913,
+			"ghost_zone": 3428,
+			"faction": 0
+		},
+		{
+			"id": 632,
+			"ghost_zone": 2717,
+			"faction": 0
+		},
+		{
+			"id": 632,
+			"ghost_zone": 2677,
+			"faction": 0
+		},
+		{
+			"id": 634,
+			"ghost_zone": 139,
+			"faction": 0
+		},
+		{
+			"id": 108,
+			"ghost_zone": 1477,
+			"faction": 0
+		},
+		{
+			"id": 309,
+			"ghost_zone": 1477,
+			"faction": 0
+		},
+		{
+			"id": 36,
+			"ghost_zone": 3457,
+			"faction": 0
+		},
+		{
+			"id": 4,
+			"ghost_zone": 1581,
+			"faction": 0
+		},
+		{
+			"id": 389,
+			"ghost_zone": 1581,
+			"faction": 0
+		},
+		{
+			"id": 389,
+			"ghost_zone": 1977,
+			"faction": 0
+		},
+		{
+			"id": 636,
+			"ghost_zone": 51,
+			"faction": 0
+		},
+		{
+			"id": 909,
+			"ghost_zone": 2017,
+			"faction": 0
+		},
+		{
+			"id": 107,
+			"ghost_zone": 2918,
+			"faction": 0
+		},
+		{
+			"id": 1249,
+			"ghost_zone": 3606,
+			"faction": 0
+		},
+		{
+			"id": 1249,
+			"ghost_zone": 2366,
+			"faction": 0
+		},
+		{
+			"id": 969,
+			"ghost_zone": 3459,
+			"faction": 0
+		},
+		{
+			"id": 1261,
+			"ghost_zone": 3959,
+			"faction": 469
+		},
+		{
+			"id": 1262,
+			"ghost_zone": 3959,
+			"faction": 67
+		},
+		{
+			"id": 917,
+			"ghost_zone": 3805,
+			"faction": 0
+		},
+		{
+			"id": 854,
+			"ghost_zone": 12,
+			"faction": 0
+		},
+		{
+			"id": 1041,
+			"ghost_zone": 3483,
+			"faction": 0
+		},
+		{
+			"id": 1249,
+			"ghost_zone": 2367,
+			"faction": 0
+		},
+		{
+			"id": 1250,
+			"ghost_zone": 3520,
+			"faction": 0
+		},
+		{
+			"id": 1251,
+			"ghost_zone": 3520,
+			"faction": 0
+		},
+		{
+			"id": 1252,
+			"ghost_zone": 3523,
+			"faction": 0
+		},
+		{
+			"id": 1253,
+			"ghost_zone": 3522,
+			"faction": 469
+		},
+		{
+			"id": 1254,
+			"ghost_zone": 3522,
+			"faction": 0
+		},
+		{
+			"id": 1255,
+			"ghost_zone": 3522,
+			"faction": 0
+		},
+		{
+			"id": 1264,
+			"ghost_zone": 15,
+			"faction": 0
+		},
+		{
+			"id": 1265,
+			"ghost_zone": 15,
+			"faction": 0
+		},
+		{
+			"id": 1277,
+			"ghost_zone": 490,
+			"faction": 0
+		},
+		{
+			"id": 1278,
+			"ghost_zone": 490,
+			"faction": 0
+		},
+		{
+			"id": 1279,
+			"ghost_zone": 406,
+			"faction": 0
+		},
+		{
+			"id": 1280,
+			"ghost_zone": 406,
+			"faction": 0
+		},
+		{
+			"id": 1281,
+			"ghost_zone": 440,
+			"faction": 0
+		},
+		{
+			"id": 1282,
+			"ghost_zone": 440,
+			"faction": 0
+		},
+		{
+			"id": 1283,
+			"ghost_zone": 618,
+			"faction": 0
+		},
+		{
+			"id": 1284,
+			"ghost_zone": 618,
+			"faction": 0
+		},
+		{
+			"id": 1285,
+			"ghost_zone": 36,
+			"faction": 0
+		},
+		{
+			"id": 1286,
+			"ghost_zone": 28,
+			"faction": 0
+		},
+		{
+			"id": 1287,
+			"ghost_zone": 51,
+			"faction": 0
+		},
+		{
+			"id": 1288,
+			"ghost_zone": 3,
+			"faction": 0
+		},
+		{
+			"id": 1289,
+			"ghost_zone": 17,
+			"faction": 67
+		},
+		{
+			"id": 101,
+			"ghost_zone": 721,
+			"faction": 0
+		},
+		{
+			"id": 1291,
+			"ghost_zone": 3519,
+			"faction": 0
+		},
+		{
+			"id": 1292,
+			"ghost_zone": 4080,
+			"faction": 0
+		},
+		{
+			"id": 1293,
+			"ghost_zone": 4131,
+			"faction": 0
+		},
+		{
+			"id": 1293,
+			"ghost_zone": 4075,
+			"faction": 0
+		},
+		{
+			"id": 1298,
+			"ghost_zone": 3519,
+			"faction": 0
+		},
+		{
+			"id": 90,
+			"ghost_zone": 141,
+			"faction": 469
+		},
+		{
+			"id": 942,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 943,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 944,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 945,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 946,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 947,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 948,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 949,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 950,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 951,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 952,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 953,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 954,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 955,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 956,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 957,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 958,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 959,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 960,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 961,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 962,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 963,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 964,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 965,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 966,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 967,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 968,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 972,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 974,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 975,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 976,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 977,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 978,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 979,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 980,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 981,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 982,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 983,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 984,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 985,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 986,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 987,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 988,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 989,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 990,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 991,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 999,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1000,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1001,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1002,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1003,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1004,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1005,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1006,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1007,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1008,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1009,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1010,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1011,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1012,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1013,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1014,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1015,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1016,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1017,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1018,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1019,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1020,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1021,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1022,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1023,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1028,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1029,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1030,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1031,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1032,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1033,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1034,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1035,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1024,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1025,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1026,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1027,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1052,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1053,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1054,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1055,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1056,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1057,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1058,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1059,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1060,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1061,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1062,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1063,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1064,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1065,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1066,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1067,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1068,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1069,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1070,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1072,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1073,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1074,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1075,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1076,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1077,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1078,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1079,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1080,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1081,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1082,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1083,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1084,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1085,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1086,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1087,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1088,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1089,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1090,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1091,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1092,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1093,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1094,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1095,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1096,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1097,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1098,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1099,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1100,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1101,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1102,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1134,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1135,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1136,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1137,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1138,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1139,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1140,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1141,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1142,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1143,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1144,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1145,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1146,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1147,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1148,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1149,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1150,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1151,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1152,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1153,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1154,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1155,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1156,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1157,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1158,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1159,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1160,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1161,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1162,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1163,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1164,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1165,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1166,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1167,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1168,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1169,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1170,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1171,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1172,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1173,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1174,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1175,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1176,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1177,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1178,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1179,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1180,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1181,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1182,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1183,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1184,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1185,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1186,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1187,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1188,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1189,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1190,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1191,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1192,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1193,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1194,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1195,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1196,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1197,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1198,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1199,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1200,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1201,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1202,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1203,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1204,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1205,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1206,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1207,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1208,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1209,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1210,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1211,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1212,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1213,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1214,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1215,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1216,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1217,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1218,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1219,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1220,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1221,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1222,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1223,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1224,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1225,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1226,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1227,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1228,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1229,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1230,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1231,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1232,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1233,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1234,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1235,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1236,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1237,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1238,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1239,
+			"ghost_zone": 3540,
+			"faction": 0
+		},
+		{
+			"id": 1258,
+			"ghost_zone": 3968,
+			"faction": 0
+		},
+		{
+			"id": 1259,
+			"ghost_zone": 3968,
+			"faction": 0
+		},
+		{
+			"id": 1260,
+			"ghost_zone": 3968,
+			"faction": 0
+		},
+		{
+			"id": 920,
+			"ghost_zone": 3714,
+			"faction": 469
+		},
+		{
+			"id": 919,
+			"ghost_zone": 3714,
+			"faction": 67
+		},
+		{
+			"id": 939,
+			"ghost_zone": 3702,
+			"faction": 0
+		},
+		{
+			"id": 940,
+			"ghost_zone": 3702,
+			"faction": 0
+		},
+		{
+			"id": 971,
+			"ghost_zone": 3702,
+			"faction": 0
+		}
+	]
+}

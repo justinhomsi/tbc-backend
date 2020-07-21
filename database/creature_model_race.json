@@ -1,0 +1,36 @@
+{
+	"table": "creature_model_race",
+	"rows":
+	[
+		{
+			"modelid": 892,
+			"racemask": 690,
+			"creature_entry": 0,
+			"modelid_racial": 8571
+		},
+		{
+			"modelid": 2281,
+			"racemask": 690,
+			"creature_entry": 0,
+			"modelid_racial": 2289
+		},
+		{
+			"modelid": 15374,
+			"racemask": 690,
+			"creature_entry": 0,
+			"modelid_racial": 15375
+		},
+		{
+			"modelid": 21243,
+			"racemask": 690,
+			"creature_entry": 0,
+			"modelid_racial": 21244
+		},
+		{
+			"modelid": 20857,
+			"racemask": 690,
+			"creature_entry": 0,
+			"modelid_racial": 20872
+		}
+	]
+}

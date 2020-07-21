@@ -1,0 +1,282 @@
+{
+	"table": "player_xp_for_level",
+	"rows":
+	[
+		{
+			"lvl": 1,
+			"xp_for_next_level": 400
+		},
+		{
+			"lvl": 2,
+			"xp_for_next_level": 900
+		},
+		{
+			"lvl": 3,
+			"xp_for_next_level": 1400
+		},
+		{
+			"lvl": 4,
+			"xp_for_next_level": 2100
+		},
+		{
+			"lvl": 5,
+			"xp_for_next_level": 2800
+		},
+		{
+			"lvl": 6,
+			"xp_for_next_level": 3600
+		},
+		{
+			"lvl": 7,
+			"xp_for_next_level": 4500
+		},
+		{
+			"lvl": 8,
+			"xp_for_next_level": 5400
+		},
+		{
+			"lvl": 9,
+			"xp_for_next_level": 6500
+		},
+		{
+			"lvl": 10,
+			"xp_for_next_level": 7600
+		},
+		{
+			"lvl": 11,
+			"xp_for_next_level": 8700
+		},
+		{
+			"lvl": 12,
+			"xp_for_next_level": 9800
+		},
+		{
+			"lvl": 13,
+			"xp_for_next_level": 11000
+		},
+		{
+			"lvl": 14,
+			"xp_for_next_level": 12300
+		},
+		{
+			"lvl": 15,
+			"xp_for_next_level": 13600
+		},
+		{
+			"lvl": 16,
+			"xp_for_next_level": 15000
+		},
+		{
+			"lvl": 17,
+			"xp_for_next_level": 16400
+		},
+		{
+			"lvl": 18,
+			"xp_for_next_level": 17800
+		},
+		{
+			"lvl": 19,
+			"xp_for_next_level": 19300
+		},
+		{
+			"lvl": 20,
+			"xp_for_next_level": 20800
+		},
+		{
+			"lvl": 21,
+			"xp_for_next_level": 22400
+		},
+		{
+			"lvl": 22,
+			"xp_for_next_level": 24000
+		},
+		{
+			"lvl": 23,
+			"xp_for_next_level": 25500
+		},
+		{
+			"lvl": 24,
+			"xp_for_next_level": 27200
+		},
+		{
+			"lvl": 25,
+			"xp_for_next_level": 28900
+		},
+		{
+			"lvl": 26,
+			"xp_for_next_level": 30500
+		},
+		{
+			"lvl": 27,
+			"xp_for_next_level": 32200
+		},
+		{
+			"lvl": 28,
+			"xp_for_next_level": 33900
+		},
+		{
+			"lvl": 29,
+			"xp_for_next_level": 36300
+		},
+		{
+			"lvl": 30,
+			"xp_for_next_level": 38800
+		},
+		{
+			"lvl": 31,
+			"xp_for_next_level": 41600
+		},
+		{
+			"lvl": 32,
+			"xp_for_next_level": 44600
+		},
+		{
+			"lvl": 33,
+			"xp_for_next_level": 48000
+		},
+		{
+			"lvl": 34,
+			"xp_for_next_level": 51400
+		},
+		{
+			"lvl": 35,
+			"xp_for_next_level": 55000
+		},
+		{
+			"lvl": 36,
+			"xp_for_next_level": 58700
+		},
+		{
+			"lvl": 37,
+			"xp_for_next_level": 62400
+		},
+		{
+			"lvl": 38,
+			"xp_for_next_level": 66200
+		},
+		{
+			"lvl": 39,
+			"xp_for_next_level": 70200
+		},
+		{
+			"lvl": 40,
+			"xp_for_next_level": 74300
+		},
+		{
+			"lvl": 41,
+			"xp_for_next_level": 78500
+		},
+		{
+			"lvl": 42,
+			"xp_for_next_level": 82800
+		},
+		{
+			"lvl": 43,
+			"xp_for_next_level": 87100
+		},
+		{
+			"lvl": 44,
+			"xp_for_next_level": 91600
+		},
+		{
+			"lvl": 45,
+			"xp_for_next_level": 96300
+		},
+		{
+			"lvl": 46,
+			"xp_for_next_level": 101000
+		},
+		{
+			"lvl": 47,
+			"xp_for_next_level": 105800
+		},
+		{
+			"lvl": 48,
+			"xp_for_next_level": 110700
+		},
+		{
+			"lvl": 49,
+			"xp_for_next_level": 115700
+		},
+		{
+			"lvl": 50,
+			"xp_for_next_level": 120900
+		},
+		{
+			"lvl": 51,
+			"xp_for_next_level": 126100
+		},
+		{
+			"lvl": 52,
+			"xp_for_next_level": 131500
+		},
+		{
+			"lvl": 53,
+			"xp_for_next_level": 137000
+		},
+		{
+			"lvl": 54,
+			"xp_for_next_level": 142500
+		},
+		{
+			"lvl": 55,
+			"xp_for_next_level": 148200
+		},
+		{
+			"lvl": 56,
+			"xp_for_next_level": 154000
+		},
+		{
+			"lvl": 57,
+			"xp_for_next_level": 159900
+		},
+		{
+			"lvl": 58,
+			"xp_for_next_level": 165800
+		},
+		{
+			"lvl": 59,
+			"xp_for_next_level": 172000
+		},
+		{
+			"lvl": 60,
+			"xp_for_next_level": 494000
+		},
+		{
+			"lvl": 61,
+			"xp_for_next_level": 574700
+		},
+		{
+			"lvl": 62,
+			"xp_for_next_level": 614400
+		},
+		{
+			"lvl": 63,
+			"xp_for_next_level": 650300
+		},
+		{
+			"lvl": 64,
+			"xp_for_next_level": 682300
+		},
+		{
+			"lvl": 65,
+			"xp_for_next_level": 710200
+		},
+		{
+			"lvl": 66,
+			"xp_for_next_level": 734100
+		},
+		{
+			"lvl": 67,
+			"xp_for_next_level": 753700
+		},
+		{
+			"lvl": 68,
+			"xp_for_next_level": 768900
+		},
+		{
+			"lvl": 69,
+			"xp_for_next_level": 779700
+		}
+	]
+}

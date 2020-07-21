@@ -1,0 +1,174 @@
+{
+	"table": "game_event_mail",
+	"rows":
+	[
+		{
+			"event": 45,
+			"raceMask": 1101,
+			"quest": 12278,
+			"mailTemplateId": 197,
+			"senderEntry": 27487
+		},
+		{
+			"event": 46,
+			"raceMask": 1101,
+			"quest": 12278,
+			"mailTemplateId": 198,
+			"senderEntry": 27487
+		},
+		{
+			"event": 47,
+			"raceMask": 1101,
+			"quest": 12278,
+			"mailTemplateId": 199,
+			"senderEntry": 27487
+		},
+		{
+			"event": 48,
+			"raceMask": 1101,
+			"quest": 12278,
+			"mailTemplateId": 200,
+			"senderEntry": 27487
+		},
+		{
+			"event": 49,
+			"raceMask": 1101,
+			"quest": 12278,
+			"mailTemplateId": 201,
+			"senderEntry": 27487
+		},
+		{
+			"event": 50,
+			"raceMask": 1101,
+			"quest": 12278,
+			"mailTemplateId": 202,
+			"senderEntry": 27487
+		},
+		{
+			"event": 51,
+			"raceMask": 1101,
+			"quest": 12278,
+			"mailTemplateId": 203,
+			"senderEntry": 27487
+		},
+		{
+			"event": 52,
+			"raceMask": 1101,
+			"quest": 12278,
+			"mailTemplateId": 204,
+			"senderEntry": 27487
+		},
+		{
+			"event": 53,
+			"raceMask": 1101,
+			"quest": 12278,
+			"mailTemplateId": 205,
+			"senderEntry": 27487
+		},
+		{
+			"event": 54,
+			"raceMask": 1101,
+			"quest": 12278,
+			"mailTemplateId": 206,
+			"senderEntry": 27487
+		},
+		{
+			"event": 55,
+			"raceMask": 1101,
+			"quest": 12278,
+			"mailTemplateId": 207,
+			"senderEntry": 27487
+		},
+		{
+			"event": 56,
+			"raceMask": 1101,
+			"quest": 12278,
+			"mailTemplateId": 208,
+			"senderEntry": 27487
+		},
+		{
+			"event": 45,
+			"raceMask": 690,
+			"quest": 12306,
+			"mailTemplateId": 197,
+			"senderEntry": 27487
+		},
+		{
+			"event": 46,
+			"raceMask": 690,
+			"quest": 12306,
+			"mailTemplateId": 198,
+			"senderEntry": 27487
+		},
+		{
+			"event": 47,
+			"raceMask": 690,
+			"quest": 12306,
+			"mailTemplateId": 199,
+			"senderEntry": 27487
+		},
+		{
+			"event": 48,
+			"raceMask": 690,
+			"quest": 12306,
+			"mailTemplateId": 200,
+			"senderEntry": 27487
+		},
+		{
+			"event": 49,
+			"raceMask": 690,
+			"quest": 12306,
+			"mailTemplateId": 201,
+			"senderEntry": 27487
+		},
+		{
+			"event": 50,
+			"raceMask": 690,
+			"quest": 12306,
+			"mailTemplateId": 202,
+			"senderEntry": 27487
+		},
+		{
+			"event": 51,
+			"raceMask": 690,
+			"quest": 12306,
+			"mailTemplateId": 203,
+			"senderEntry": 27487
+		},
+		{
+			"event": 52,
+			"raceMask": 690,
+			"quest": 12306,
+			"mailTemplateId": 204,
+			"senderEntry": 27487
+		},
+		{
+			"event": 53,
+			"raceMask": 690,
+			"quest": 12306,
+			"mailTemplateId": 205,
+			"senderEntry": 27487
+		},
+		{
+			"event": 54,
+			"raceMask": 690,
+			"quest": 12306,
+			"mailTemplateId": 206,
+			"senderEntry": 27487
+		},
+		{
+			"event": 55,
+			"raceMask": 690,
+			"quest": 12306,
+			"mailTemplateId": 207,
+			"senderEntry": 27487
+		},
+		{
+			"event": 56,
+			"raceMask": 690,
+			"quest": 12306,
+			"mailTemplateId": 208,
+			"senderEntry": 27487
+		}
+	]
+}

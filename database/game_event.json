@@ -1,0 +1,519 @@
+{
+	"table": "game_event",
+	"rows":
+	[
+		{
+			"entry": 53,
+			"start_time": "2011-09-01 14:00:00",
+			"end_time": "2020-12-31 14:00:00",
+			"occurence": 525600,
+			"length": 43200,
+			"holiday": 0,
+			"description": "Brew of the Month - September"
+		},
+		{
+			"entry": 52,
+			"start_time": "2011-08-01 14:00:00",
+			"end_time": "2020-12-31 14:00:00",
+			"occurence": 525600,
+			"length": 44640,
+			"holiday": 0,
+			"description": "Brew of the Month - August"
+		},
+		{
+			"entry": 51,
+			"start_time": "2011-07-01 14:00:00",
+			"end_time": "2020-12-31 14:00:00",
+			"occurence": 525600,
+			"length": 44640,
+			"holiday": 0,
+			"description": "Brew of the Month - July"
+		},
+		{
+			"entry": 50,
+			"start_time": "2011-06-01 14:00:00",
+			"end_time": "2020-12-31 14:00:00",
+			"occurence": 525600,
+			"length": 43200,
+			"holiday": 0,
+			"description": "Brew of the Month - June"
+		},
+		{
+			"entry": 49,
+			"start_time": "2011-05-01 14:00:00",
+			"end_time": "2020-12-31 14:00:00",
+			"occurence": 525600,
+			"length": 44640,
+			"holiday": 0,
+			"description": "Brew of the Month - May"
+		},
+		{
+			"entry": 47,
+			"start_time": "2011-03-01 15:00:00",
+			"end_time": "2020-12-31 14:00:00",
+			"occurence": 525600,
+			"length": 44640,
+			"holiday": 0,
+			"description": "Brew of the Month - March"
+		},
+		{
+			"entry": 48,
+			"start_time": "2011-04-01 14:00:00",
+			"end_time": "2020-12-31 14:00:00",
+			"occurence": 525600,
+			"length": 43200,
+			"holiday": 0,
+			"description": "Brew of the Month - April"
+		},
+		{
+			"entry": 46,
+			"start_time": "2011-02-01 15:00:00",
+			"end_time": "2020-12-31 14:00:00",
+			"occurence": 525600,
+			"length": 40320,
+			"holiday": 0,
+			"description": "Brew of the Month - February"
+		},
+		{
+			"entry": 45,
+			"start_time": "2011-01-01 15:00:00",
+			"end_time": "2020-12-31 14:00:00",
+			"occurence": 525600,
+			"length": 44640,
+			"holiday": 0,
+			"description": "Brew of the Month - January"
+		},
+		{
+			"entry": 44,
+			"start_time": "2011-02-04 15:01:00",
+			"end_time": "2020-12-31 14:00:00",
+			"occurence": 131040,
+			"length": 2880,
+			"holiday": 0,
+			"description": "Darkmoon Faire (Terokkar Forest) - Building Stage 2"
+		},
+		{
+			"entry": 43,
+			"start_time": "2011-02-03 15:01:00",
+			"end_time": "2020-12-31 14:00:00",
+			"occurence": 131040,
+			"length": 4320,
+			"holiday": 0,
+			"description": "Darkmoon Faire (Terokkar Forest) - Building Stage 1"
+		},
+		{
+			"entry": 42,
+			"start_time": "2011-03-04 15:01:00",
+			"end_time": "2020-12-31 15:00:00",
+			"occurence": 131040,
+			"length": 2880,
+			"holiday": 0,
+			"description": "Darkmoon Faire (Elwynn Forest) - Building Stage 2"
+		},
+		{
+			"entry": 41,
+			"start_time": "2011-03-03 15:01:00",
+			"end_time": "2020-12-31 15:00:00",
+			"occurence": 131040,
+			"length": 4320,
+			"holiday": 0,
+			"description": "Darkmoon Faire (Elwynn Forest) - Building Stage 1"
+		},
+		{
+			"entry": 36,
+			"start_time": "2009-01-05 05:00:00",
+			"end_time": "2020-12-31 15:00:00",
+			"occurence": 10080,
+			"length": 180,
+			"holiday": 0,
+			"description": "Stranglethorn Fishing Extravaganza - Turn-in"
+		},
+		{
+			"entry": 34,
+			"start_time": "2011-10-22 14:00:00",
+			"end_time": "2011-10-24 14:00:00",
+			"occurence": 60,
+			"length": 5,
+			"holiday": 0,
+			"description": "L70ETC Concert - Terrokar Forest (Blizzcon Event)"
+		},
+		{
+			"entry": 33,
+			"start_time": "0000-00-00 00:00:00",
+			"end_time": "0000-00-00 00:00:00",
+			"occurence": 5184000,
+			"length": 2592000,
+			"holiday": 0,
+			"description": "Arena Tournament"
+		},
+		{
+			"entry": 32,
+			"start_time": "2010-12-14 12:00:00",
+			"end_time": "2020-12-31 15:00:00",
+			"occurence": 86400,
+			"length": 21600,
+			"holiday": 0,
+			"description": "Edge of Madness, Wushoolay"
+		},
+		{
+			"entry": 31,
+			"start_time": "2011-01-25 12:00:00",
+			"end_time": "2020-12-31 15:00:00",
+			"occurence": 86400,
+			"length": 21600,
+			"holiday": 0,
+			"description": "Edge of Madness, Renataki"
+		},
+		{
+			"entry": 30,
+			"start_time": "2011-01-11 12:00:00",
+			"end_time": "2020-12-31 15:00:00",
+			"occurence": 86400,
+			"length": 21600,
+			"holiday": 0,
+			"description": "Edge of Madness, Hazza'rah"
+		},
+		{
+			"entry": 29,
+			"start_time": "2010-12-28 12:00:00",
+			"end_time": "2020-12-31 15:00:00",
+			"occurence": 86400,
+			"length": 21600,
+			"holiday": 0,
+			"description": "Edge of Madness, Gri'lek"
+		},
+		{
+			"entry": 28,
+			"start_time": "2012-04-08 16:00:00",
+			"end_time": "2020-12-31 15:00:00",
+			"occurence": 525600,
+			"length": 10080,
+			"holiday": 181,
+			"description": "Noblegarden"
+		},
+		{
+			"entry": 27,
+			"start_time": "2011-01-02 12:00:00",
+			"end_time": "2020-12-31 15:00:00",
+			"occurence": 1440,
+			"length": 510,
+			"holiday": 0,
+			"description": "Nights"
+		},
+		{
+			"entry": 26,
+			"start_time": "2012-09-20 16:00:00",
+			"end_time": "2020-12-31 15:00:00",
+			"occurence": 525600,
+			"length": 23040,
+			"holiday": 372,
+			"description": "Brewfest"
+		},
+		{
+			"entry": 22,
+			"start_time": "0000-00-00 00:00:00",
+			"end_time": "0000-00-00 00:00:00",
+			"occurence": 525600,
+			"length": 1,
+			"holiday": 0,
+			"description": "AQ War Effort"
+		},
+		{
+			"entry": 21,
+			"start_time": "2010-01-07 17:00:00",
+			"end_time": "2020-12-31 15:00:00",
+			"occurence": 40320,
+			"length": 5760,
+			"holiday": 353,
+			"description": "Call to Arms: Eye of the Storm!"
+		},
+		{
+			"entry": 20,
+			"start_time": "2011-01-28 17:00:00",
+			"end_time": "2020-12-31 15:00:00",
+			"occurence": 40320,
+			"length": 5760,
+			"holiday": 285,
+			"description": "Call to Arms: Arathi Basin!"
+		},
+		{
+			"entry": 19,
+			"start_time": "2011-01-21 17:00:00",
+			"end_time": "2020-12-31 15:00:00",
+			"occurence": 40320,
+			"length": 5760,
+			"holiday": 284,
+			"description": "Call to Arms: Warsong Gulch!"
+		},
+		{
+			"entry": 18,
+			"start_time": "2011-01-14 17:00:00",
+			"end_time": "2020-12-31 15:00:00",
+			"occurence": 40320,
+			"length": 5760,
+			"holiday": 283,
+			"description": "Call to Arms: Alterac Valley!"
+		},
+		{
+			"entry": 17,
+			"start_time": "0000-00-00 00:00:00",
+			"end_time": "0000-00-00 00:00:00",
+			"occurence": 525600,
+			"length": 1,
+			"holiday": 0,
+			"description": "Scourge Invasion"
+		},
+		{
+			"entry": 16,
+			"start_time": "2007-08-05 04:00:00",
+			"end_time": "2020-12-31 15:00:00",
+			"occurence": 180,
+			"length": 120,
+			"holiday": 0,
+			"description": "Gurubashi Arena Booty Run"
+		},
+		{
+			"entry": 15,
+			"start_time": "2009-01-05 05:00:00",
+			"end_time": "2020-12-31 15:00:00",
+			"occurence": 10080,
+			"length": 120,
+			"holiday": 301,
+			"description": "Stranglethorn Fishing Extravaganza"
+		},
+		{
+			"entry": 14,
+			"start_time": "2009-01-05 01:00:00",
+			"end_time": "2020-12-31 15:00:00",
+			"occurence": 10080,
+			"length": 240,
+			"holiday": 0,
+			"description": "Stranglethorn Fishing Extravaganza - Announce"
+		},
+		{
+			"entry": 13,
+			"start_time": "0000-00-00 00:00:00",
+			"end_time": "0000-00-00 00:00:00",
+			"occurence": 525600,
+			"length": 1,
+			"holiday": 0,
+			"description": "Elemental Invasions"
+		},
+		{
+			"entry": 12,
+			"start_time": "2012-10-18 16:00:00",
+			"end_time": "2020-12-31 15:00:00",
+			"occurence": 525600,
+			"length": 20160,
+			"holiday": 324,
+			"description": "Hallow's End"
+		},
+		{
+			"entry": 11,
+			"start_time": "2012-09-24 16:00:00",
+			"end_time": "2020-12-31 15:00:00",
+			"occurence": 525600,
+			"length": 10080,
+			"holiday": 321,
+			"description": "Harvest Festival"
+		},
+		{
+			"entry": 10,
+			"start_time": "2012-04-29 16:00:00",
+			"end_time": "2020-12-31 15:00:00",
+			"occurence": 525600,
+			"length": 10080,
+			"holiday": 201,
+			"description": "Children's Week "
+		},
+		{
+			"entry": 9,
+			"start_time": "2010-12-25 23:00:00",
+			"end_time": "2020-12-31 23:00:00",
+			"occurence": 525600,
+			"length": 11520,
+			"holiday": 0,
+			"description": "Feast of Winter Veil - Presents Event"
+		},
+		{
+			"entry": 8,
+			"start_time": "2012-02-05 17:00:00",
+			"end_time": "2020-12-31 15:00:00",
+			"occurence": 525600,
+			"length": 20160,
+			"holiday": 335,
+			"description": "Love is in the Air"
+		},
+		{
+			"entry": 7,
+			"start_time": "2012-01-22 17:00:00",
+			"end_time": "2020-12-31 15:00:00",
+			"occurence": 525600,
+			"length": 30240,
+			"holiday": 327,
+			"description": "Lunar Festival"
+		},
+		{
+			"entry": 6,
+			"start_time": "2011-01-01 03:00:00",
+			"end_time": "2020-12-31 15:00:00",
+			"occurence": 525600,
+			"length": 1080,
+			"holiday": 0,
+			"description": "New Year's Eve"
+		},
+		{
+			"entry": 5,
+			"start_time": "2011-01-02 15:01:00",
+			"end_time": "2020-12-31 15:00:00",
+			"occurence": 131040,
+			"length": 8638,
+			"holiday": 375,
+			"description": "Darkmoon Faire (Mulgore)"
+		},
+		{
+			"entry": 4,
+			"start_time": "2011-03-06 15:01:00",
+			"end_time": "2020-12-31 15:00:00",
+			"occurence": 131040,
+			"length": 8638,
+			"holiday": 374,
+			"description": "Darkmoon Faire (Elwynn Forest)"
+		},
+		{
+			"entry": 3,
+			"start_time": "2011-02-06 15:01:00",
+			"end_time": "2020-12-31 15:00:00",
+			"occurence": 131040,
+			"length": 8638,
+			"holiday": 376,
+			"description": "Darkmoon Faire (Terokkar Forest)"
+		},
+		{
+			"entry": 2,
+			"start_time": "2012-12-15 23:00:00",
+			"end_time": "2020-12-31 15:00:00",
+			"occurence": 525600,
+			"length": 25920,
+			"holiday": 141,
+			"description": "Feast of Winter Veil - Main Event"
+		},
+		{
+			"entry": 1,
+			"start_time": "2012-06-21 16:00:00",
+			"end_time": "2020-12-31 15:00:00",
+			"occurence": 525600,
+			"length": 20160,
+			"holiday": 341,
+			"description": "Midsummer Fire Festival"
+		},
+		{
+			"entry": 54,
+			"start_time": "2011-10-01 14:00:00",
+			"end_time": "2020-12-31 14:00:00",
+			"occurence": 525600,
+			"length": 44640,
+			"holiday": 0,
+			"description": "Brew of the Month - October"
+		},
+		{
+			"entry": 55,
+			"start_time": "2011-11-01 14:00:00",
+			"end_time": "2020-12-31 14:00:00",
+			"occurence": 525600,
+			"length": 43200,
+			"holiday": 0,
+			"description": "Brew of the Month - November"
+		},
+		{
+			"entry": 56,
+			"start_time": "2011-12-01 15:00:00",
+			"end_time": "2020-12-31 14:00:00",
+			"occurence": 525600,
+			"length": 44640,
+			"holiday": 0,
+			"description": "Brew of the Month - December"
+		},
+		{
+			"entry": 57,
+			"start_time": "2011-01-01 17:48:00",
+			"end_time": "2020-12-31 15:00:00",
+			"occurence": 180,
+			"length": 24,
+			"holiday": 0,
+			"description": "World's End Tavern - Perry Gatner Announce"
+		},
+		{
+			"entry": 58,
+			"start_time": "2011-01-01 18:00:00",
+			"end_time": "2020-12-31 15:00:00",
+			"occurence": 180,
+			"length": 5,
+			"holiday": 0,
+			"description": "World's End Tavern - Perry Gatner Standup Comedy"
+		},
+		{
+			"entry": 59,
+			"start_time": "2011-01-01 18:48:00",
+			"end_time": "2020-12-31 15:00:00",
+			"occurence": 180,
+			"length": 24,
+			"holiday": 0,
+			"description": "World's End Tavern - L70ETC Concert Announce"
+		},
+		{
+			"entry": 60,
+			"start_time": "2011-01-01 16:00:00",
+			"end_time": "2020-12-31 15:00:00",
+			"occurence": 180,
+			"length": 5,
+			"holiday": 0,
+			"description": "World's End Tavern - L70ETC Concert"
+		},
+		{
+			"entry": 61,
+			"start_time": "2011-01-01 15:58:00",
+			"end_time": "2020-12-31 15:00:00",
+			"occurence": 30,
+			"length": 10,
+			"holiday": 0,
+			"description": "Stormwind City - Stockades Jail Break"
+		},
+		{
+			"entry": 62,
+			"start_time": "2010-12-30 15:01:00",
+			"end_time": "2020-12-31 14:00:00",
+			"occurence": 131040,
+			"length": 4320,
+			"holiday": 0,
+			"description": "Darkmoon Faire (Mulgore) - Building Stage 1"
+		},
+		{
+			"entry": 63,
+			"start_time": "2010-12-31 15:01:00",
+			"end_time": "2020-12-31 14:00:00",
+			"occurence": 131040,
+			"length": 2880,
+			"holiday": 0,
+			"description": "Darkmoon Faire (Mulgore) - Building Stage 2"
+		},
+		{
+			"entry": 64,
+			"start_time": "2011-01-02 10:48:00",
+			"end_time": "2020-12-31 15:00:00",
+			"occurence": 1440,
+			"length": 24,
+			"holiday": 0,
+			"description": "Grim Guzzler - L70ETC Pre-Concert"
+		},
+		{
+			"entry": 65,
+			"start_time": "2011-01-02 11:00:00",
+			"end_time": "2020-12-31 15:00:00",
+			"occurence": 1440,
+			"length": 5,
+			"holiday": 0,
+			"description": "Grim Guzzler - L70ETC Concert"
+		}
+	]
+}

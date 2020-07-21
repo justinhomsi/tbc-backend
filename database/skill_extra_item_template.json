@@ -1,0 +1,966 @@
+{
+	"table": "skill_extra_item_template",
+	"rows":
+	[
+		{
+			"spellId": 26751,
+			"requiredSpecialization": 26798,
+			"additionalCreateChance": 100,
+			"additionalMaxNum": 1
+		},
+		{
+			"spellId": 36686,
+			"requiredSpecialization": 26801,
+			"additionalCreateChance": 100,
+			"additionalMaxNum": 1
+		},
+		{
+			"spellId": 31373,
+			"requiredSpecialization": 26797,
+			"additionalCreateChance": 100,
+			"additionalMaxNum": 1
+		},
+		{
+			"spellId": 32765,
+			"requiredSpecialization": 28672,
+			"additionalCreateChance": 16,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 29688,
+			"requiredSpecialization": 28672,
+			"additionalCreateChance": 16,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 32766,
+			"requiredSpecialization": 28672,
+			"additionalCreateChance": 16,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 17559,
+			"requiredSpecialization": 28672,
+			"additionalCreateChance": 16,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 17187,
+			"requiredSpecialization": 28672,
+			"additionalCreateChance": 16,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 17566,
+			"requiredSpecialization": 28672,
+			"additionalCreateChance": 16,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 17561,
+			"requiredSpecialization": 28672,
+			"additionalCreateChance": 16,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 17560,
+			"requiredSpecialization": 28672,
+			"additionalCreateChance": 16,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 11479,
+			"requiredSpecialization": 28672,
+			"additionalCreateChance": 16,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 17565,
+			"requiredSpecialization": 28672,
+			"additionalCreateChance": 16,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 11480,
+			"requiredSpecialization": 28672,
+			"additionalCreateChance": 16,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28566,
+			"requiredSpecialization": 28672,
+			"additionalCreateChance": 16,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28585,
+			"requiredSpecialization": 28672,
+			"additionalCreateChance": 16,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28567,
+			"requiredSpecialization": 28672,
+			"additionalCreateChance": 16,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28568,
+			"requiredSpecialization": 28672,
+			"additionalCreateChance": 16,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28583,
+			"requiredSpecialization": 28672,
+			"additionalCreateChance": 16,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28584,
+			"requiredSpecialization": 28672,
+			"additionalCreateChance": 16,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28582,
+			"requiredSpecialization": 28672,
+			"additionalCreateChance": 16,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28580,
+			"requiredSpecialization": 28672,
+			"additionalCreateChance": 16,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28569,
+			"requiredSpecialization": 28672,
+			"additionalCreateChance": 16,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28581,
+			"requiredSpecialization": 28672,
+			"additionalCreateChance": 16,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 17563,
+			"requiredSpecialization": 28672,
+			"additionalCreateChance": 16,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 17562,
+			"requiredSpecialization": 28672,
+			"additionalCreateChance": 16,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 17564,
+			"requiredSpecialization": 28672,
+			"additionalCreateChance": 16,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 25146,
+			"requiredSpecialization": 28672,
+			"additionalCreateChance": 16,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 42736,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28578,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28590,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28587,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28588,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28591,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28589,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28570,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28558,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28557,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28556,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 38960,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 39639,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28553,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28552,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 39637,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 39638,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28549,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 33741,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28545,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 39636,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28543,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28544,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 33740,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 17638,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 17636,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 17634,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 17637,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 17635,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 33738,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 24368,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 17573,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 17571,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 17557,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 24365,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 17555,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 17554,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 11477,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 11478,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 26277,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 11476,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 11472,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 11468,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 11467,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 11466,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 11461,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 11465,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 11460,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 22808,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 12609,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 3453,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 11450,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 21923,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 11449,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 3451,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 3450,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 3188,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 7845,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 2333,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 3177,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 3176,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 8240,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 7179,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 3171,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 3230,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 2334,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 3170,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 2329,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 7183,
+			"requiredSpecialization": 28677,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28579,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 38961,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28575,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28571,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28572,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28577,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28573,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28576,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28586,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28565,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28564,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28563,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28562,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 38962,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28555,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28554,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 45061,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28550,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 28546,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 33733,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 22732,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 33732,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 17580,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 17577,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 17574,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 17575,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 17576,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 17578,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 24367,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 17572,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 11452,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 17570,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 24366,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 17552,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 3175,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 11464,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 15833,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 11458,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 4942,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 11457,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 11453,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 11448,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 7258,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 7259,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 6618,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 7257,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 3448,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 3452,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 7181,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 6624,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 7256,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 3173,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 3174,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 3447,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 3172,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 7255,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 7841,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 6617,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 2335,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 2337,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 4508,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 2332,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		},
+		{
+			"spellId": 2331,
+			"requiredSpecialization": 28675,
+			"additionalCreateChance": 14,
+			"additionalMaxNum": 4
+		}
+	]
+}

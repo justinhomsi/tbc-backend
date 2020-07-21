@@ -1,0 +1,322 @@
+{
+	"table": "areatrigger_tavern",
+	"rows":
+	[
+		{
+			"id": 71,
+			"name": "Westfall - Sentinel Hill Inn"
+		},
+		{
+			"id": 562,
+			"name": "Elwynn Forest - Goldshire - Lion's Pride Inn"
+		},
+		{
+			"id": 682,
+			"name": "Redridge Mountains - Lakeshire Inn"
+		},
+		{
+			"id": 707,
+			"name": "Duskwood - Darkshire - Scarlet Raven Inn"
+		},
+		{
+			"id": 708,
+			"name": "Hillsbrad Foothills - Southshore Inn"
+		},
+		{
+			"id": 709,
+			"name": "Dustwallow Marsh - Theramore Isle"
+		},
+		{
+			"id": 710,
+			"name": "Dun Morogh - Kharanos - Thunderbrew Distillery"
+		},
+		{
+			"id": 712,
+			"name": "Loch Modan - Thelsamar - Stoutlager Inn"
+		},
+		{
+			"id": 713,
+			"name": "Wetlands - Menethil Harbor - Deepwater Tavern"
+		},
+		{
+			"id": 715,
+			"name": "Teldrassil - Dolanaar"
+		},
+		{
+			"id": 716,
+			"name": "Darkshore - Auberdine"
+		},
+		{
+			"id": 717,
+			"name": "Ashenvale - Astranaar"
+		},
+		{
+			"id": 719,
+			"name": "Tirisfal Glades - Brill - Gallows' End Tavern"
+		},
+		{
+			"id": 720,
+			"name": "Silverpine Forest "
+		},
+		{
+			"id": 721,
+			"name": "Hillsbrad Foothills "
+		},
+		{
+			"id": 722,
+			"name": "Mulgore "
+		},
+		{
+			"id": 742,
+			"name": "The Barrens "
+		},
+		{
+			"id": 743,
+			"name": "The Barrens "
+		},
+		{
+			"id": 843,
+			"name": "Durotar "
+		},
+		{
+			"id": 844,
+			"name": "Swamp of Sorrows "
+		},
+		{
+			"id": 862,
+			"name": "Stranglethorn Vale "
+		},
+		{
+			"id": 982,
+			"name": "The Barrens "
+		},
+		{
+			"id": 4241,
+			"name": "Bloodmyst Isle Blood Watch Inn"
+		},
+		{
+			"id": 1022,
+			"name": "Stonetalon Mountains "
+		},
+		{
+			"id": 1023,
+			"name": "Tanaris "
+		},
+		{
+			"id": 1024,
+			"name": "Feralas "
+		},
+		{
+			"id": 1025,
+			"name": "Feralas "
+		},
+		{
+			"id": 1606,
+			"name": "Badlands "
+		},
+		{
+			"id": 1646,
+			"name": "Arathi Highlands "
+		},
+		{
+			"id": 2266,
+			"name": "Desolace "
+		},
+		{
+			"id": 2267,
+			"name": "Desolace "
+		},
+		{
+			"id": 2286,
+			"name": "Thousand Needles "
+		},
+		{
+			"id": 2287,
+			"name": "Winterspring "
+		},
+		{
+			"id": 2610,
+			"name": "Ashenvale "
+		},
+		{
+			"id": 2786,
+			"name": "Stormwind backup rest"
+		},
+		{
+			"id": 4108,
+			"name": "Tranquillien Inn"
+		},
+		{
+			"id": 4240,
+			"name": "Auzre Watch Inn"
+		},
+		{
+			"id": 4336,
+			"name": "Thrallmar Inn"
+		},
+		{
+			"id": 4337,
+			"name": "Honor Hold Inn"
+		},
+		{
+			"id": 4373,
+			"name": "Zabra jin Inn"
+		},
+		{
+			"id": 4375,
+			"name": "Garadar Inn"
+		},
+		{
+			"id": 4376,
+			"name": "Telaar Inn"
+		},
+		{
+			"id": 4377,
+			"name": "Allerian Stronghold Inn"
+		},
+		{
+			"id": 4382,
+			"name": "Cenarion Refuge"
+		},
+		{
+			"id": 4486,
+			"name": "Falconwing Square Inn"
+		},
+		{
+			"id": 4526,
+			"name": "Shadowmoon Village Inn"
+		},
+		{
+			"id": 4528,
+			"name": "Wildhammer Stronghold Inn"
+		},
+		{
+			"id": 4595,
+			"name": "Mok'Nathal Village Inn"
+		},
+		{
+			"id": 4607,
+			"name": "Sanctum of the Stars Inn"
+		},
+		{
+			"id": 4374,
+			"name": "Telredor Inn"
+		},
+		{
+			"id": 4383,
+			"name": "Orebor Harborage Inn"
+		},
+		{
+			"id": 4381,
+			"name": "Temple Of Thelamat Inn"
+		},
+		{
+			"id": 4499,
+			"name": "Sylvanaar Inn"
+		},
+		{
+			"id": 4558,
+			"name": "Toshlay's Station Inn"
+		},
+		{
+			"id": 4494,
+			"name": "Thunderlord Stronghold Inn"
+		},
+		{
+			"id": 4640,
+			"name": "Evergrove Inn"
+		},
+		{
+			"id": 4521,
+			"name": "Area 52 Inn"
+		},
+		{
+			"id": 4555,
+			"name": "The Stormspire Inn"
+		},
+		{
+			"id": 4577,
+			"name": "Altar of Sha'tar Inn"
+		},
+		{
+			"id": 178,
+			"name": "Strahnbrad"
+		},
+		{
+			"id": 1042,
+			"name": "Wildhammer Keep"
+		},
+		{
+			"id": 3690,
+			"name": "Revantusk Village"
+		},
+		{
+			"id": 3886,
+			"name": "Grom'gol Base Camp"
+		},
+		{
+			"id": 4058,
+			"name": "Light's Hope Chapel"
+		},
+		{
+			"id": 3985,
+			"name": "Cenarion Hold"
+		},
+		{
+			"id": 4090,
+			"name": "Stonetalon Peak"
+		},
+		{
+			"id": 3547,
+			"name": "The Undercity"
+		},
+		{
+			"id": 4769,
+			"name": "The City of Ironforge"
+		},
+		{
+			"id": 4714,
+			"name": "Mudsprocket Inn"
+		},
+		{
+			"id": 4775,
+			"name": "Brackenwall Village Inn"
+		},
+		{
+			"id": 4847,
+			"name": "Isle of Quel'Danas, Sun's Reach Harbor Inn"
+		},
+		{
+			"id": 98,
+			"name": "Nesingwary's Expedition"
+		},
+		{
+			"id": 4109,
+			"name": "Tranquillen - Upper level Inn"
+		},
+		{
+			"id": 4300,
+			"name": "Cenarion Refugee - Outside Inn"
+		},
+		{
+			"id": 4378,
+			"name": "Stonebreaker Hold Inn"
+		},
+		{
+			"id": 4380,
+			"name": "Falcon Watch Inn"
+		},
+		{
+			"id": 4498,
+			"name": "Old Hillsbrad Foothills Inn"
+		},
+		{
+			"id": 4608,
+			"name": "Sanctum Of The Stars - Upper level Inn"
+		},
+		{
+			"id": 4265,
+			"name": "Fairbreeze Village Inn"
+		}
+	]
+}

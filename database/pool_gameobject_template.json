@@ -1,0 +1,18 @@
+{
+	"table": "pool_gameobject_template",
+	"rows":
+	[
+		{
+			"id": 185939,
+			"pool_entry": 1800,
+			"chance": 0,
+			"description": "Nethermine Cargo (185939)"
+		},
+		{
+			"id": 180654,
+			"pool_entry": 1801,
+			"chance": 0,
+			"description": "Hardpacked Snowdrift (180654)"
+		}
+	]
+}

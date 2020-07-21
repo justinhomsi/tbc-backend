@@ -1,0 +1,6011 @@
+{
+	"table": "spell_affect",
+	"rows":
+	[
+		{
+			"entry": 12341,
+			"effectId": 0,
+			"SpellFamilyMask": 1
+		},
+		{
+			"entry": 16766,
+			"effectId": 0,
+			"SpellFamilyMask": 32
+		},
+		{
+			"entry": 12351,
+			"effectId": 0,
+			"SpellFamilyMask": 12714007
+		},
+		{
+			"entry": 12400,
+			"effectId": 0,
+			"SpellFamilyMask": 146931735
+		},
+		{
+			"entry": 12957,
+			"effectId": 0,
+			"SpellFamilyMask": 131808
+		},
+		{
+			"entry": 12519,
+			"effectId": 0,
+			"SpellFamilyMask": 4328653792
+		},
+		{
+			"entry": 11175,
+			"effectId": 1,
+			"SpellFamilyMask": 1048576
+		},
+		{
+			"entry": 15053,
+			"effectId": 0,
+			"SpellFamilyMask": 131808
+		},
+		{
+			"entry": 12842,
+			"effectId": 0,
+			"SpellFamilyMask": 536877056
+		},
+		{
+			"entry": 12469,
+			"effectId": 0,
+			"SpellFamilyMask": 536875008
+		},
+		{
+			"entry": 11247,
+			"effectId": 0,
+			"SpellFamilyMask": 8192
+		},
+		{
+			"entry": 12042,
+			"effectId": 2,
+			"SpellFamilyMask": 551557879
+		},
+		{
+			"entry": 12042,
+			"effectId": 1,
+			"SpellFamilyMask": 551557879
+		},
+		{
+			"entry": 12042,
+			"effectId": 0,
+			"SpellFamilyMask": 551557879
+		},
+		{
+			"entry": 29976,
+			"effectId": 0,
+			"SpellFamilyMask": 557842485
+		},
+		{
+			"entry": 12285,
+			"effectId": 0,
+			"SpellFamilyMask": 1
+		},
+		{
+			"entry": 12286,
+			"effectId": 0,
+			"SpellFamilyMask": 32
+		},
+		{
+			"entry": 12287,
+			"effectId": 1,
+			"SpellFamilyMask": 128
+		},
+		{
+			"entry": 12301,
+			"effectId": 0,
+			"SpellFamilyMask": 256
+		},
+		{
+			"entry": 12318,
+			"effectId": 0,
+			"SpellFamilyMask": 549755879424
+		},
+		{
+			"entry": 12321,
+			"effectId": 0,
+			"SpellFamilyMask": 549756010496
+		},
+		{
+			"entry": 12321,
+			"effectId": 1,
+			"SpellFamilyMask": 549756010496
+		},
+		{
+			"entry": 12330,
+			"effectId": 0,
+			"SpellFamilyMask": 2097152
+		},
+		{
+			"entry": 12340,
+			"effectId": 0,
+			"SpellFamilyMask": 1
+		},
+		{
+			"entry": 12339,
+			"effectId": 0,
+			"SpellFamilyMask": 1
+		},
+		{
+			"entry": 12338,
+			"effectId": 0,
+			"SpellFamilyMask": 1
+		},
+		{
+			"entry": 11069,
+			"effectId": 0,
+			"SpellFamilyMask": 1
+		},
+		{
+			"entry": 11083,
+			"effectId": 0,
+			"SpellFamilyMask": 12714007
+		},
+		{
+			"entry": 12399,
+			"effectId": 0,
+			"SpellFamilyMask": 146931735
+		},
+		{
+			"entry": 12398,
+			"effectId": 0,
+			"SpellFamilyMask": 146931735
+		},
+		{
+			"entry": 12378,
+			"effectId": 0,
+			"SpellFamilyMask": 146931735
+		},
+		{
+			"entry": 11124,
+			"effectId": 0,
+			"SpellFamilyMask": 146931735
+		},
+		{
+			"entry": 12467,
+			"effectId": 0,
+			"SpellFamilyMask": 536875008
+		},
+		{
+			"entry": 11242,
+			"effectId": 0,
+			"SpellFamilyMask": 536875008
+		},
+		{
+			"entry": 16765,
+			"effectId": 0,
+			"SpellFamilyMask": 32
+		},
+		{
+			"entry": 12497,
+			"effectId": 0,
+			"SpellFamilyMask": 1048576
+		},
+		{
+			"entry": 12518,
+			"effectId": 0,
+			"SpellFamilyMask": 4328653792
+		},
+		{
+			"entry": 11160,
+			"effectId": 0,
+			"SpellFamilyMask": 4328653792
+		},
+		{
+			"entry": 12536,
+			"effectId": 0,
+			"SpellFamilyMask": 549460727
+		},
+		{
+			"entry": 12569,
+			"effectId": 1,
+			"SpellFamilyMask": 1048576
+		},
+		{
+			"entry": 12571,
+			"effectId": 1,
+			"SpellFamilyMask": 1048576
+		},
+		{
+			"entry": 12658,
+			"effectId": 0,
+			"SpellFamilyMask": 32
+		},
+		{
+			"entry": 12659,
+			"effectId": 0,
+			"SpellFamilyMask": 32
+		},
+		{
+			"entry": 12665,
+			"effectId": 1,
+			"SpellFamilyMask": 128
+		},
+		{
+			"entry": 12666,
+			"effectId": 1,
+			"SpellFamilyMask": 128
+		},
+		{
+			"entry": 15052,
+			"effectId": 0,
+			"SpellFamilyMask": 131808
+		},
+		{
+			"entry": 12697,
+			"effectId": 0,
+			"SpellFamilyMask": 1
+		},
+		{
+			"entry": 12818,
+			"effectId": 0,
+			"SpellFamilyMask": 256
+		},
+		{
+			"entry": 12835,
+			"effectId": 0,
+			"SpellFamilyMask": 549756010496
+		},
+		{
+			"entry": 12835,
+			"effectId": 1,
+			"SpellFamilyMask": 549756010496
+		},
+		{
+			"entry": 12836,
+			"effectId": 0,
+			"SpellFamilyMask": 549756010496
+		},
+		{
+			"entry": 12836,
+			"effectId": 1,
+			"SpellFamilyMask": 549756010496
+		},
+		{
+			"entry": 12837,
+			"effectId": 0,
+			"SpellFamilyMask": 549756010496
+		},
+		{
+			"entry": 12837,
+			"effectId": 1,
+			"SpellFamilyMask": 549756010496
+		},
+		{
+			"entry": 12838,
+			"effectId": 0,
+			"SpellFamilyMask": 549756010496
+		},
+		{
+			"entry": 12838,
+			"effectId": 1,
+			"SpellFamilyMask": 549756010496
+		},
+		{
+			"entry": 12841,
+			"effectId": 0,
+			"SpellFamilyMask": 536877056
+		},
+		{
+			"entry": 12840,
+			"effectId": 0,
+			"SpellFamilyMask": 536877056
+		},
+		{
+			"entry": 12839,
+			"effectId": 0,
+			"SpellFamilyMask": 536877056
+		},
+		{
+			"entry": 11222,
+			"effectId": 0,
+			"SpellFamilyMask": 536877056
+		},
+		{
+			"entry": 12857,
+			"effectId": 0,
+			"SpellFamilyMask": 549755879424
+		},
+		{
+			"entry": 12858,
+			"effectId": 0,
+			"SpellFamilyMask": 549755879424
+		},
+		{
+			"entry": 12860,
+			"effectId": 0,
+			"SpellFamilyMask": 549755879424
+		},
+		{
+			"entry": 12861,
+			"effectId": 0,
+			"SpellFamilyMask": 549755879424
+		},
+		{
+			"entry": 12862,
+			"effectId": 0,
+			"SpellFamilyMask": 2097152
+		},
+		{
+			"entry": 12954,
+			"effectId": 0,
+			"SpellFamilyMask": 131808
+		},
+		{
+			"entry": 12953,
+			"effectId": 0,
+			"SpellFamilyMask": 131808
+		},
+		{
+			"entry": 12952,
+			"effectId": 0,
+			"SpellFamilyMask": 131808
+		},
+		{
+			"entry": 11151,
+			"effectId": 0,
+			"SpellFamilyMask": 131808
+		},
+		{
+			"entry": 13742,
+			"effectId": 0,
+			"SpellFamilyMask": 96
+		},
+		{
+			"entry": 13743,
+			"effectId": 0,
+			"SpellFamilyMask": 64
+		},
+		{
+			"entry": 13872,
+			"effectId": 0,
+			"SpellFamilyMask": 96
+		},
+		{
+			"entry": 13875,
+			"effectId": 0,
+			"SpellFamilyMask": 64
+		},
+		{
+			"entry": 13975,
+			"effectId": 0,
+			"SpellFamilyMask": 4194304
+		},
+		{
+			"entry": 13975,
+			"effectId": 1,
+			"SpellFamilyMask": 4194304
+		},
+		{
+			"entry": 13976,
+			"effectId": 0,
+			"SpellFamilyMask": 1792
+		},
+		{
+			"entry": 13979,
+			"effectId": 0,
+			"SpellFamilyMask": 1792
+		},
+		{
+			"entry": 13980,
+			"effectId": 0,
+			"SpellFamilyMask": 1792
+		},
+		{
+			"entry": 13981,
+			"effectId": 1,
+			"SpellFamilyMask": 2048
+		},
+		{
+			"entry": 14073,
+			"effectId": 0,
+			"SpellFamilyMask": 25769804548
+		},
+		{
+			"entry": 14062,
+			"effectId": 0,
+			"SpellFamilyMask": 4194304
+		},
+		{
+			"entry": 14062,
+			"effectId": 1,
+			"SpellFamilyMask": 4194304
+		},
+		{
+			"entry": 14063,
+			"effectId": 0,
+			"SpellFamilyMask": 4194304
+		},
+		{
+			"entry": 14063,
+			"effectId": 1,
+			"SpellFamilyMask": 4194304
+		},
+		{
+			"entry": 14064,
+			"effectId": 0,
+			"SpellFamilyMask": 4194304
+		},
+		{
+			"entry": 14064,
+			"effectId": 1,
+			"SpellFamilyMask": 4194304
+		},
+		{
+			"entry": 14065,
+			"effectId": 0,
+			"SpellFamilyMask": 4194304
+		},
+		{
+			"entry": 14065,
+			"effectId": 1,
+			"SpellFamilyMask": 4194304
+		},
+		{
+			"entry": 13981,
+			"effectId": 0,
+			"SpellFamilyMask": 16777216
+		},
+		{
+			"entry": 14072,
+			"effectId": 0,
+			"SpellFamilyMask": 25769804548
+		},
+		{
+			"entry": 14057,
+			"effectId": 0,
+			"SpellFamilyMask": 25769804548
+		},
+		{
+			"entry": 14083,
+			"effectId": 0,
+			"SpellFamilyMask": 1280
+		},
+		{
+			"entry": 14082,
+			"effectId": 0,
+			"SpellFamilyMask": 1280
+		},
+		{
+			"entry": 14113,
+			"effectId": 0,
+			"SpellFamilyMask": 122880
+		},
+		{
+			"entry": 14114,
+			"effectId": 0,
+			"SpellFamilyMask": 122880
+		},
+		{
+			"entry": 14115,
+			"effectId": 0,
+			"SpellFamilyMask": 122880
+		},
+		{
+			"entry": 14116,
+			"effectId": 0,
+			"SpellFamilyMask": 122880
+		},
+		{
+			"entry": 14117,
+			"effectId": 0,
+			"SpellFamilyMask": 122880
+		},
+		{
+			"entry": 14137,
+			"effectId": 0,
+			"SpellFamilyMask": 26407337998
+		},
+		{
+			"entry": 14136,
+			"effectId": 0,
+			"SpellFamilyMask": 26407337998
+		},
+		{
+			"entry": 14135,
+			"effectId": 0,
+			"SpellFamilyMask": 26407337998
+		},
+		{
+			"entry": 14132,
+			"effectId": 0,
+			"SpellFamilyMask": 26407337998
+		},
+		{
+			"entry": 14128,
+			"effectId": 0,
+			"SpellFamilyMask": 26407337998
+		},
+		{
+			"entry": 14162,
+			"effectId": 0,
+			"SpellFamilyMask": 131072
+		},
+		{
+			"entry": 14163,
+			"effectId": 0,
+			"SpellFamilyMask": 131072
+		},
+		{
+			"entry": 14164,
+			"effectId": 0,
+			"SpellFamilyMask": 131072
+		},
+		{
+			"entry": 14168,
+			"effectId": 0,
+			"SpellFamilyMask": 524288
+		},
+		{
+			"entry": 14169,
+			"effectId": 0,
+			"SpellFamilyMask": 524288
+		},
+		{
+			"entry": 14174,
+			"effectId": 0,
+			"SpellFamilyMask": 2097152
+		},
+		{
+			"entry": 14175,
+			"effectId": 0,
+			"SpellFamilyMask": 2097152
+		},
+		{
+			"entry": 14176,
+			"effectId": 0,
+			"SpellFamilyMask": 2097152
+		},
+		{
+			"entry": 14177,
+			"effectId": 0,
+			"SpellFamilyMask": 53151400734
+		},
+		{
+			"entry": 14179,
+			"effectId": 0,
+			"SpellFamilyMask": 38658768896
+		},
+		{
+			"entry": 14785,
+			"effectId": 1,
+			"SpellFamilyMask": 139589583211
+		},
+		{
+			"entry": 14743,
+			"effectId": 0,
+			"SpellFamilyMask": 5034785259152
+		},
+		{
+			"entry": 14750,
+			"effectId": 0,
+			"SpellFamilyMask": 16
+		},
+		{
+			"entry": 14751,
+			"effectId": 1,
+			"SpellFamilyMask": 18446744073709551615
+		},
+		{
+			"entry": 14751,
+			"effectId": 0,
+			"SpellFamilyMask": 18446744073709551615
+		},
+		{
+			"entry": 14772,
+			"effectId": 0,
+			"SpellFamilyMask": 16
+		},
+		{
+			"entry": 14784,
+			"effectId": 2,
+			"SpellFamilyMask": 139589583211
+		},
+		{
+			"entry": 14784,
+			"effectId": 1,
+			"SpellFamilyMask": 139589583211
+		},
+		{
+			"entry": 14523,
+			"effectId": 2,
+			"SpellFamilyMask": 139589583211
+		},
+		{
+			"entry": 14523,
+			"effectId": 1,
+			"SpellFamilyMask": 139589583211
+		},
+		{
+			"entry": 14908,
+			"effectId": 0,
+			"SpellFamilyMask": 64
+		},
+		{
+			"entry": 14909,
+			"effectId": 1,
+			"SpellFamilyMask": 1048704
+		},
+		{
+			"entry": 14911,
+			"effectId": 0,
+			"SpellFamilyMask": 137438953984
+		},
+		{
+			"entry": 15017,
+			"effectId": 1,
+			"SpellFamilyMask": 1048704
+		},
+		{
+			"entry": 15018,
+			"effectId": 0,
+			"SpellFamilyMask": 137438953984
+		},
+		{
+			"entry": 15020,
+			"effectId": 0,
+			"SpellFamilyMask": 64
+		},
+		{
+			"entry": 15047,
+			"effectId": 0,
+			"SpellFamilyMask": 131808
+		},
+		{
+			"entry": 12672,
+			"effectId": 0,
+			"SpellFamilyMask": 131808
+		},
+		{
+			"entry": 11207,
+			"effectId": 0,
+			"SpellFamilyMask": 131808
+		},
+		{
+			"entry": 15257,
+			"effectId": 0,
+			"SpellFamilyMask": 4406678954000
+		},
+		{
+			"entry": 15259,
+			"effectId": 1,
+			"SpellFamilyMask": 4398054932480
+		},
+		{
+			"entry": 15259,
+			"effectId": 0,
+			"SpellFamilyMask": 8623497216
+		},
+		{
+			"entry": 15260,
+			"effectId": 0,
+			"SpellFamilyMask": 4681624166400
+		},
+		{
+			"entry": 15272,
+			"effectId": 0,
+			"SpellFamilyMask": 14611588571396
+		},
+		{
+			"entry": 15307,
+			"effectId": 1,
+			"SpellFamilyMask": 4398054932480
+		},
+		{
+			"entry": 15307,
+			"effectId": 0,
+			"SpellFamilyMask": 8623497216
+		},
+		{
+			"entry": 15308,
+			"effectId": 1,
+			"SpellFamilyMask": 4398054932480
+		},
+		{
+			"entry": 15308,
+			"effectId": 0,
+			"SpellFamilyMask": 8623497216
+		},
+		{
+			"entry": 15309,
+			"effectId": 1,
+			"SpellFamilyMask": 4398054932480
+		},
+		{
+			"entry": 15309,
+			"effectId": 0,
+			"SpellFamilyMask": 8623497216
+		},
+		{
+			"entry": 15310,
+			"effectId": 1,
+			"SpellFamilyMask": 4398054932480
+		},
+		{
+			"entry": 15310,
+			"effectId": 0,
+			"SpellFamilyMask": 8623497216
+		},
+		{
+			"entry": 15318,
+			"effectId": 0,
+			"SpellFamilyMask": 14611588571396
+		},
+		{
+			"entry": 15320,
+			"effectId": 0,
+			"SpellFamilyMask": 14611588571396
+		},
+		{
+			"entry": 15327,
+			"effectId": 0,
+			"SpellFamilyMask": 4681624166400
+		},
+		{
+			"entry": 15328,
+			"effectId": 0,
+			"SpellFamilyMask": 4681624166400
+		},
+		{
+			"entry": 15329,
+			"effectId": 0,
+			"SpellFamilyMask": 4681624166400
+		},
+		{
+			"entry": 15330,
+			"effectId": 0,
+			"SpellFamilyMask": 4681624166400
+		},
+		{
+			"entry": 15331,
+			"effectId": 0,
+			"SpellFamilyMask": 4406678954000
+		},
+		{
+			"entry": 15332,
+			"effectId": 0,
+			"SpellFamilyMask": 4406678954000
+		},
+		{
+			"entry": 15333,
+			"effectId": 0,
+			"SpellFamilyMask": 4406678954000
+		},
+		{
+			"entry": 15334,
+			"effectId": 0,
+			"SpellFamilyMask": 4406678954000
+		},
+		{
+			"entry": 16035,
+			"effectId": 0,
+			"SpellFamilyMask": 2416967683
+		},
+		{
+			"entry": 16038,
+			"effectId": 0,
+			"SpellFamilyMask": 1073741824
+		},
+		{
+			"entry": 16039,
+			"effectId": 0,
+			"SpellFamilyMask": 2416967683
+		},
+		{
+			"entry": 16041,
+			"effectId": 0,
+			"SpellFamilyMask": 3
+		},
+		{
+			"entry": 16043,
+			"effectId": 0,
+			"SpellFamilyMask": 8
+		},
+		{
+			"entry": 16043,
+			"effectId": 1,
+			"SpellFamilyMask": 4294967296
+		},
+		{
+			"entry": 16086,
+			"effectId": 0,
+			"SpellFamilyMask": 32
+		},
+		{
+			"entry": 16544,
+			"effectId": 2,
+			"SpellFamilyMask": 4
+		},
+		{
+			"entry": 14149,
+			"effectId": 0,
+			"SpellFamilyMask": 67109382
+		},
+		{
+			"entry": 16089,
+			"effectId": 0,
+			"SpellFamilyMask": 20723008519
+		},
+		{
+			"entry": 16105,
+			"effectId": 0,
+			"SpellFamilyMask": 2416967683
+		},
+		{
+			"entry": 16106,
+			"effectId": 0,
+			"SpellFamilyMask": 2416967683
+		},
+		{
+			"entry": 16106,
+			"effectId": 1,
+			"SpellFamilyMask": 2416967683
+		},
+		{
+			"entry": 16107,
+			"effectId": 0,
+			"SpellFamilyMask": 2416967683
+		},
+		{
+			"entry": 16108,
+			"effectId": 0,
+			"SpellFamilyMask": 2416967683
+		},
+		{
+			"entry": 16109,
+			"effectId": 0,
+			"SpellFamilyMask": 2416967683
+		},
+		{
+			"entry": 16110,
+			"effectId": 0,
+			"SpellFamilyMask": 2416967683
+		},
+		{
+			"entry": 16111,
+			"effectId": 0,
+			"SpellFamilyMask": 2416967683
+		},
+		{
+			"entry": 16112,
+			"effectId": 0,
+			"SpellFamilyMask": 2416967683
+		},
+		{
+			"entry": 16117,
+			"effectId": 0,
+			"SpellFamilyMask": 3
+		},
+		{
+			"entry": 16118,
+			"effectId": 0,
+			"SpellFamilyMask": 3
+		},
+		{
+			"entry": 16119,
+			"effectId": 0,
+			"SpellFamilyMask": 3
+		},
+		{
+			"entry": 16120,
+			"effectId": 0,
+			"SpellFamilyMask": 3
+		},
+		{
+			"entry": 16130,
+			"effectId": 0,
+			"SpellFamilyMask": 8
+		},
+		{
+			"entry": 16130,
+			"effectId": 1,
+			"SpellFamilyMask": 4294967296
+		},
+		{
+			"entry": 16160,
+			"effectId": 0,
+			"SpellFamilyMask": 1073741824
+		},
+		{
+			"entry": 16161,
+			"effectId": 0,
+			"SpellFamilyMask": 1073741824
+		},
+		{
+			"entry": 16166,
+			"effectId": 0,
+			"SpellFamilyMask": 2416967683
+		},
+		{
+			"entry": 16166,
+			"effectId": 1,
+			"SpellFamilyMask": 2416967683
+		},
+		{
+			"entry": 16225,
+			"effectId": 0,
+			"SpellFamilyMask": 537399320
+		},
+		{
+			"entry": 16181,
+			"effectId": 0,
+			"SpellFamilyMask": 448
+		},
+		{
+			"entry": 16184,
+			"effectId": 0,
+			"SpellFamilyMask": 512
+		},
+		{
+			"entry": 16184,
+			"effectId": 1,
+			"SpellFamilyMask": 512
+		},
+		{
+			"entry": 16187,
+			"effectId": 0,
+			"SpellFamilyMask": 24576
+		},
+		{
+			"entry": 16187,
+			"effectId": 1,
+			"SpellFamilyMask": 24576
+		},
+		{
+			"entry": 16189,
+			"effectId": 0,
+			"SpellFamilyMask": 1099578990592
+		},
+		{
+			"entry": 16205,
+			"effectId": 0,
+			"SpellFamilyMask": 24576
+		},
+		{
+			"entry": 16205,
+			"effectId": 1,
+			"SpellFamilyMask": 24576
+		},
+		{
+			"entry": 16206,
+			"effectId": 0,
+			"SpellFamilyMask": 24576
+		},
+		{
+			"entry": 16206,
+			"effectId": 1,
+			"SpellFamilyMask": 24576
+		},
+		{
+			"entry": 16207,
+			"effectId": 0,
+			"SpellFamilyMask": 24576
+		},
+		{
+			"entry": 16207,
+			"effectId": 1,
+			"SpellFamilyMask": 24576
+		},
+		{
+			"entry": 16208,
+			"effectId": 0,
+			"SpellFamilyMask": 24576
+		},
+		{
+			"entry": 16208,
+			"effectId": 1,
+			"SpellFamilyMask": 24576
+		},
+		{
+			"entry": 16209,
+			"effectId": 1,
+			"SpellFamilyMask": 512
+		},
+		{
+			"entry": 16224,
+			"effectId": 0,
+			"SpellFamilyMask": 537399320
+		},
+		{
+			"entry": 16223,
+			"effectId": 0,
+			"SpellFamilyMask": 537399320
+		},
+		{
+			"entry": 16222,
+			"effectId": 0,
+			"SpellFamilyMask": 537399320
+		},
+		{
+			"entry": 16173,
+			"effectId": 0,
+			"SpellFamilyMask": 537399320
+		},
+		{
+			"entry": 16230,
+			"effectId": 0,
+			"SpellFamilyMask": 448
+		},
+		{
+			"entry": 16232,
+			"effectId": 0,
+			"SpellFamilyMask": 448
+		},
+		{
+			"entry": 16233,
+			"effectId": 0,
+			"SpellFamilyMask": 448
+		},
+		{
+			"entry": 16234,
+			"effectId": 0,
+			"SpellFamilyMask": 448
+		},
+		{
+			"entry": 16258,
+			"effectId": 0,
+			"SpellFamilyMask": 32768
+		},
+		{
+			"entry": 16258,
+			"effectId": 1,
+			"SpellFamilyMask": 262144
+		},
+		{
+			"entry": 16259,
+			"effectId": 0,
+			"SpellFamilyMask": 65536
+		},
+		{
+			"entry": 16259,
+			"effectId": 1,
+			"SpellFamilyMask": 131072
+		},
+		{
+			"entry": 16261,
+			"effectId": 0,
+			"SpellFamilyMask": 1024
+		},
+		{
+			"entry": 16266,
+			"effectId": 0,
+			"SpellFamilyMask": 4194304
+		},
+		{
+			"entry": 16266,
+			"effectId": 1,
+			"SpellFamilyMask": 16777216
+		},
+		{
+			"entry": 16266,
+			"effectId": 2,
+			"SpellFamilyMask": 8388608
+		},
+		{
+			"entry": 16290,
+			"effectId": 0,
+			"SpellFamilyMask": 1024
+		},
+		{
+			"entry": 16291,
+			"effectId": 0,
+			"SpellFamilyMask": 1024
+		},
+		{
+			"entry": 16293,
+			"effectId": 0,
+			"SpellFamilyMask": 32768
+		},
+		{
+			"entry": 16293,
+			"effectId": 1,
+			"SpellFamilyMask": 262144
+		},
+		{
+			"entry": 16295,
+			"effectId": 0,
+			"SpellFamilyMask": 65536
+		},
+		{
+			"entry": 16295,
+			"effectId": 1,
+			"SpellFamilyMask": 131072
+		},
+		{
+			"entry": 16494,
+			"effectId": 0,
+			"SpellFamilyMask": 1430935047407
+		},
+		{
+			"entry": 16493,
+			"effectId": 0,
+			"SpellFamilyMask": 1430935047407
+		},
+		{
+			"entry": 16720,
+			"effectId": 2,
+			"SpellFamilyMask": 122880
+		},
+		{
+			"entry": 16720,
+			"effectId": 1,
+			"SpellFamilyMask": 122880
+		},
+		{
+			"entry": 16720,
+			"effectId": 0,
+			"SpellFamilyMask": 34359861248
+		},
+		{
+			"entry": 16719,
+			"effectId": 2,
+			"SpellFamilyMask": 122880
+		},
+		{
+			"entry": 16719,
+			"effectId": 1,
+			"SpellFamilyMask": 122880
+		},
+		{
+			"entry": 16719,
+			"effectId": 0,
+			"SpellFamilyMask": 34359861248
+		},
+		{
+			"entry": 16515,
+			"effectId": 2,
+			"SpellFamilyMask": 122880
+		},
+		{
+			"entry": 16515,
+			"effectId": 1,
+			"SpellFamilyMask": 122880
+		},
+		{
+			"entry": 16515,
+			"effectId": 0,
+			"SpellFamilyMask": 34359861248
+		},
+		{
+			"entry": 16514,
+			"effectId": 2,
+			"SpellFamilyMask": 122880
+		},
+		{
+			"entry": 16514,
+			"effectId": 1,
+			"SpellFamilyMask": 122880
+		},
+		{
+			"entry": 16514,
+			"effectId": 0,
+			"SpellFamilyMask": 34359861248
+		},
+		{
+			"entry": 16513,
+			"effectId": 2,
+			"SpellFamilyMask": 122880
+		},
+		{
+			"entry": 16513,
+			"effectId": 1,
+			"SpellFamilyMask": 122880
+		},
+		{
+			"entry": 16513,
+			"effectId": 0,
+			"SpellFamilyMask": 34359861248
+		},
+		{
+			"entry": 16757,
+			"effectId": 0,
+			"SpellFamilyMask": 131232
+		},
+		{
+			"entry": 16758,
+			"effectId": 0,
+			"SpellFamilyMask": 131232
+		},
+		{
+			"entry": 16763,
+			"effectId": 0,
+			"SpellFamilyMask": 32
+		},
+		{
+			"entry": 12473,
+			"effectId": 0,
+			"SpellFamilyMask": 32
+		},
+		{
+			"entry": 11070,
+			"effectId": 0,
+			"SpellFamilyMask": 32
+		},
+		{
+			"entry": 16814,
+			"effectId": 0,
+			"SpellFamilyMask": 5
+		},
+		{
+			"entry": 16815,
+			"effectId": 0,
+			"SpellFamilyMask": 5
+		},
+		{
+			"entry": 16816,
+			"effectId": 0,
+			"SpellFamilyMask": 5
+		},
+		{
+			"entry": 16817,
+			"effectId": 0,
+			"SpellFamilyMask": 5
+		},
+		{
+			"entry": 16818,
+			"effectId": 0,
+			"SpellFamilyMask": 5
+		},
+		{
+			"entry": 16820,
+			"effectId": 0,
+			"SpellFamilyMask": 582878607968007
+		},
+		{
+			"entry": 16819,
+			"effectId": 0,
+			"SpellFamilyMask": 582878607968007
+		},
+		{
+			"entry": 16821,
+			"effectId": 0,
+			"SpellFamilyMask": 2
+		},
+		{
+			"entry": 16821,
+			"effectId": 1,
+			"SpellFamilyMask": 2
+		},
+		{
+			"entry": 16821,
+			"effectId": 2,
+			"SpellFamilyMask": 2
+		},
+		{
+			"entry": 16822,
+			"effectId": 0,
+			"SpellFamilyMask": 2
+		},
+		{
+			"entry": 16822,
+			"effectId": 1,
+			"SpellFamilyMask": 2
+		},
+		{
+			"entry": 16822,
+			"effectId": 2,
+			"SpellFamilyMask": 2
+		},
+		{
+			"entry": 8875,
+			"effectId": 1,
+			"SpellFamilyMask": 4398046511104
+		},
+		{
+			"entry": 16835,
+			"effectId": 0,
+			"SpellFamilyMask": 246294396272640
+		},
+		{
+			"entry": 16834,
+			"effectId": 0,
+			"SpellFamilyMask": 246294396272640
+		},
+		{
+			"entry": 16833,
+			"effectId": 0,
+			"SpellFamilyMask": 246294396272640
+		},
+		{
+			"entry": 16836,
+			"effectId": 1,
+			"SpellFamilyMask": 768
+		},
+		{
+			"entry": 16839,
+			"effectId": 1,
+			"SpellFamilyMask": 768
+		},
+		{
+			"entry": 16840,
+			"effectId": 1,
+			"SpellFamilyMask": 768
+		},
+		{
+			"entry": 16850,
+			"effectId": 1,
+			"SpellFamilyMask": 1
+		},
+		{
+			"entry": 16870,
+			"effectId": 0,
+			"SpellFamilyMask": 4512331310825215
+		},
+		{
+			"entry": 16896,
+			"effectId": 0,
+			"SpellFamilyMask": 7
+		},
+		{
+			"entry": 16896,
+			"effectId": 1,
+			"SpellFamilyMask": 7
+		},
+		{
+			"entry": 16897,
+			"effectId": 0,
+			"SpellFamilyMask": 7
+		},
+		{
+			"entry": 16897,
+			"effectId": 1,
+			"SpellFamilyMask": 7
+		},
+		{
+			"entry": 16899,
+			"effectId": 0,
+			"SpellFamilyMask": 7
+		},
+		{
+			"entry": 16899,
+			"effectId": 1,
+			"SpellFamilyMask": 7
+		},
+		{
+			"entry": 16900,
+			"effectId": 0,
+			"SpellFamilyMask": 7
+		},
+		{
+			"entry": 16900,
+			"effectId": 1,
+			"SpellFamilyMask": 7
+		},
+		{
+			"entry": 16901,
+			"effectId": 0,
+			"SpellFamilyMask": 7
+		},
+		{
+			"entry": 16901,
+			"effectId": 1,
+			"SpellFamilyMask": 7
+		},
+		{
+			"entry": 16918,
+			"effectId": 0,
+			"SpellFamilyMask": 137438953984
+		},
+		{
+			"entry": 16919,
+			"effectId": 0,
+			"SpellFamilyMask": 137438953984
+		},
+		{
+			"entry": 16920,
+			"effectId": 0,
+			"SpellFamilyMask": 137438953984
+		},
+		{
+			"entry": 16923,
+			"effectId": 1,
+			"SpellFamilyMask": 1
+		},
+		{
+			"entry": 16924,
+			"effectId": 1,
+			"SpellFamilyMask": 1
+		},
+		{
+			"entry": 16938,
+			"effectId": 1,
+			"SpellFamilyMask": 4398046515200
+		},
+		{
+			"entry": 16938,
+			"effectId": 0,
+			"SpellFamilyMask": 4503874505279488
+		},
+		{
+			"entry": 16937,
+			"effectId": 1,
+			"SpellFamilyMask": 4398046515200
+		},
+		{
+			"entry": 16937,
+			"effectId": 0,
+			"SpellFamilyMask": 4503874505279488
+		},
+		{
+			"entry": 16936,
+			"effectId": 1,
+			"SpellFamilyMask": 4398046515200
+		},
+		{
+			"entry": 16936,
+			"effectId": 0,
+			"SpellFamilyMask": 4503874505279488
+		},
+		{
+			"entry": 16935,
+			"effectId": 1,
+			"SpellFamilyMask": 4398046515200
+		},
+		{
+			"entry": 16935,
+			"effectId": 0,
+			"SpellFamilyMask": 4503874505279488
+		},
+		{
+			"entry": 16934,
+			"effectId": 1,
+			"SpellFamilyMask": 4398046515200
+		},
+		{
+			"entry": 16934,
+			"effectId": 0,
+			"SpellFamilyMask": 4503874505279488
+		},
+		{
+			"entry": 16966,
+			"effectId": 0,
+			"SpellFamilyMask": 32768
+		},
+		{
+			"entry": 16966,
+			"effectId": 1,
+			"SpellFamilyMask": 1099511627776
+		},
+		{
+			"entry": 16968,
+			"effectId": 0,
+			"SpellFamilyMask": 32768
+		},
+		{
+			"entry": 16968,
+			"effectId": 1,
+			"SpellFamilyMask": 1099511627776
+		},
+		{
+			"entry": 16998,
+			"effectId": 0,
+			"SpellFamilyMask": 4096
+		},
+		{
+			"entry": 16998,
+			"effectId": 2,
+			"SpellFamilyMask": 4096
+		},
+		{
+			"entry": 16999,
+			"effectId": 0,
+			"SpellFamilyMask": 4096
+		},
+		{
+			"entry": 16999,
+			"effectId": 2,
+			"SpellFamilyMask": 4096
+		},
+		{
+			"entry": 17111,
+			"effectId": 0,
+			"SpellFamilyMask": 16
+		},
+		{
+			"entry": 17112,
+			"effectId": 0,
+			"SpellFamilyMask": 16
+		},
+		{
+			"entry": 17113,
+			"effectId": 0,
+			"SpellFamilyMask": 16
+		},
+		{
+			"entry": 17114,
+			"effectId": 0,
+			"SpellFamilyMask": 16
+		},
+		{
+			"entry": 17115,
+			"effectId": 0,
+			"SpellFamilyMask": 16
+		},
+		{
+			"entry": 38466,
+			"effectId": 0,
+			"SpellFamilyMask": 2251799813685248
+		},
+		{
+			"entry": 17122,
+			"effectId": 1,
+			"SpellFamilyMask": 1143698254726992
+		},
+		{
+			"entry": 17122,
+			"effectId": 0,
+			"SpellFamilyMask": 4509990553490423
+		},
+		{
+			"entry": 17121,
+			"effectId": 1,
+			"SpellFamilyMask": 1143698254726992
+		},
+		{
+			"entry": 17121,
+			"effectId": 0,
+			"SpellFamilyMask": 4509990553490423
+		},
+		{
+			"entry": 17120,
+			"effectId": 1,
+			"SpellFamilyMask": 1143698254726992
+		},
+		{
+			"entry": 17120,
+			"effectId": 0,
+			"SpellFamilyMask": 4509990553490423
+		},
+		{
+			"entry": 17119,
+			"effectId": 1,
+			"SpellFamilyMask": 1143698254726992
+		},
+		{
+			"entry": 17119,
+			"effectId": 0,
+			"SpellFamilyMask": 4509990553490423
+		},
+		{
+			"entry": 17118,
+			"effectId": 1,
+			"SpellFamilyMask": 1143698254726992
+		},
+		{
+			"entry": 17118,
+			"effectId": 0,
+			"SpellFamilyMask": 4509990553490423
+		},
+		{
+			"entry": 17123,
+			"effectId": 0,
+			"SpellFamilyMask": 128
+		},
+		{
+			"entry": 17124,
+			"effectId": 0,
+			"SpellFamilyMask": 128
+		},
+		{
+			"entry": 17191,
+			"effectId": 0,
+			"SpellFamilyMask": 64
+		},
+		{
+			"entry": 17322,
+			"effectId": 0,
+			"SpellFamilyMask": 5781135728644
+		},
+		{
+			"entry": 17323,
+			"effectId": 0,
+			"SpellFamilyMask": 5781135728644
+		},
+		{
+			"entry": 17782,
+			"effectId": 0,
+			"SpellFamilyMask": 18416819766245
+		},
+		{
+			"entry": 17781,
+			"effectId": 0,
+			"SpellFamilyMask": 18416819766245
+		},
+		{
+			"entry": 17780,
+			"effectId": 0,
+			"SpellFamilyMask": 18416819766245
+		},
+		{
+			"entry": 17779,
+			"effectId": 0,
+			"SpellFamilyMask": 18416819766245
+		},
+		{
+			"entry": 17778,
+			"effectId": 0,
+			"SpellFamilyMask": 18416819766245
+		},
+		{
+			"entry": 17788,
+			"effectId": 1,
+			"SpellFamilyMask": 549755813888
+		},
+		{
+			"entry": 17789,
+			"effectId": 1,
+			"SpellFamilyMask": 549755813888
+		},
+		{
+			"entry": 17790,
+			"effectId": 1,
+			"SpellFamilyMask": 549755813888
+		},
+		{
+			"entry": 17791,
+			"effectId": 1,
+			"SpellFamilyMask": 549755813888
+		},
+		{
+			"entry": 17792,
+			"effectId": 1,
+			"SpellFamilyMask": 549755813888
+		},
+		{
+			"entry": 17918,
+			"effectId": 1,
+			"SpellFamilyMask": 18416819766245
+		},
+		{
+			"entry": 17918,
+			"effectId": 0,
+			"SpellFamilyMask": 18416819766181
+		},
+		{
+			"entry": 17917,
+			"effectId": 1,
+			"SpellFamilyMask": 18416819766245
+		},
+		{
+			"entry": 17917,
+			"effectId": 0,
+			"SpellFamilyMask": 18416819766181
+		},
+		{
+			"entry": 17927,
+			"effectId": 0,
+			"SpellFamilyMask": 256
+		},
+		{
+			"entry": 17929,
+			"effectId": 0,
+			"SpellFamilyMask": 256
+		},
+		{
+			"entry": 17930,
+			"effectId": 0,
+			"SpellFamilyMask": 256
+		},
+		{
+			"entry": 17941,
+			"effectId": 0,
+			"SpellFamilyMask": 1
+		},
+		{
+			"entry": 17958,
+			"effectId": 0,
+			"SpellFamilyMask": 824633725796
+		},
+		{
+			"entry": 17958,
+			"effectId": 1,
+			"SpellFamilyMask": 824633725796
+		},
+		{
+			"entry": 17957,
+			"effectId": 0,
+			"SpellFamilyMask": 824633725796
+		},
+		{
+			"entry": 17957,
+			"effectId": 1,
+			"SpellFamilyMask": 824633725796
+		},
+		{
+			"entry": 17956,
+			"effectId": 0,
+			"SpellFamilyMask": 824633725796
+		},
+		{
+			"entry": 17956,
+			"effectId": 1,
+			"SpellFamilyMask": 824633725796
+		},
+		{
+			"entry": 17955,
+			"effectId": 0,
+			"SpellFamilyMask": 824633725796
+		},
+		{
+			"entry": 17955,
+			"effectId": 1,
+			"SpellFamilyMask": 824633725796
+		},
+		{
+			"entry": 17954,
+			"effectId": 0,
+			"SpellFamilyMask": 824633725796
+		},
+		{
+			"entry": 17954,
+			"effectId": 1,
+			"SpellFamilyMask": 824633725796
+		},
+		{
+			"entry": 17959,
+			"effectId": 0,
+			"SpellFamilyMask": 18416819766245
+		},
+		{
+			"entry": 18126,
+			"effectId": 0,
+			"SpellFamilyMask": 4096
+		},
+		{
+			"entry": 18127,
+			"effectId": 0,
+			"SpellFamilyMask": 4096
+		},
+		{
+			"entry": 18134,
+			"effectId": 0,
+			"SpellFamilyMask": 18416819766245
+		},
+		{
+			"entry": 18133,
+			"effectId": 0,
+			"SpellFamilyMask": 18416819766245
+		},
+		{
+			"entry": 18132,
+			"effectId": 0,
+			"SpellFamilyMask": 18416819766245
+		},
+		{
+			"entry": 18131,
+			"effectId": 0,
+			"SpellFamilyMask": 18416819766245
+		},
+		{
+			"entry": 18130,
+			"effectId": 0,
+			"SpellFamilyMask": 18416819766245
+		},
+		{
+			"entry": 18136,
+			"effectId": 0,
+			"SpellFamilyMask": 18416819766245
+		},
+		{
+			"entry": 18135,
+			"effectId": 0,
+			"SpellFamilyMask": 18416819766245
+		},
+		{
+			"entry": 18178,
+			"effectId": 0,
+			"SpellFamilyMask": 7814698026010
+		},
+		{
+			"entry": 18177,
+			"effectId": 0,
+			"SpellFamilyMask": 7814698026010
+		},
+		{
+			"entry": 18176,
+			"effectId": 0,
+			"SpellFamilyMask": 7814698026010
+		},
+		{
+			"entry": 18175,
+			"effectId": 0,
+			"SpellFamilyMask": 7814698026010
+		},
+		{
+			"entry": 18174,
+			"effectId": 0,
+			"SpellFamilyMask": 7814698026010
+		},
+		{
+			"entry": 18179,
+			"effectId": 0,
+			"SpellFamilyMask": 32768
+		},
+		{
+			"entry": 18180,
+			"effectId": 0,
+			"SpellFamilyMask": 32768
+		},
+		{
+			"entry": 18213,
+			"effectId": 1,
+			"SpellFamilyMask": 148552186381338
+		},
+		{
+			"entry": 18219,
+			"effectId": 0,
+			"SpellFamilyMask": 7780338025498
+		},
+		{
+			"entry": 18218,
+			"effectId": 0,
+			"SpellFamilyMask": 7780338025498
+		},
+		{
+			"entry": 18275,
+			"effectId": 1,
+			"SpellFamilyMask": 18773302617227
+		},
+		{
+			"entry": 18275,
+			"effectId": 0,
+			"SpellFamilyMask": 18773302617227
+		},
+		{
+			"entry": 18274,
+			"effectId": 1,
+			"SpellFamilyMask": 18773302617227
+		},
+		{
+			"entry": 18274,
+			"effectId": 0,
+			"SpellFamilyMask": 18773302617227
+		},
+		{
+			"entry": 18273,
+			"effectId": 1,
+			"SpellFamilyMask": 18773302617227
+		},
+		{
+			"entry": 18273,
+			"effectId": 0,
+			"SpellFamilyMask": 18773302617227
+		},
+		{
+			"entry": 18272,
+			"effectId": 1,
+			"SpellFamilyMask": 18773302617227
+		},
+		{
+			"entry": 18272,
+			"effectId": 0,
+			"SpellFamilyMask": 18773302617227
+		},
+		{
+			"entry": 18271,
+			"effectId": 1,
+			"SpellFamilyMask": 18773302617227
+		},
+		{
+			"entry": 18271,
+			"effectId": 0,
+			"SpellFamilyMask": 18773302617227
+		},
+		{
+			"entry": 18288,
+			"effectId": 0,
+			"SpellFamilyMask": 8589935616
+		},
+		{
+			"entry": 18288,
+			"effectId": 1,
+			"SpellFamilyMask": 4194304
+		},
+		{
+			"entry": 18213,
+			"effectId": 0,
+			"SpellFamilyMask": 16384
+		},
+		{
+			"entry": 18544,
+			"effectId": 2,
+			"SpellFamilyMask": 4398057029632
+		},
+		{
+			"entry": 18544,
+			"effectId": 1,
+			"SpellFamilyMask": 77348741264
+		},
+		{
+			"entry": 18544,
+			"effectId": 0,
+			"SpellFamilyMask": 4475405770896
+		},
+		{
+			"entry": 18547,
+			"effectId": 2,
+			"SpellFamilyMask": 4398057029632
+		},
+		{
+			"entry": 18547,
+			"effectId": 1,
+			"SpellFamilyMask": 77348741264
+		},
+		{
+			"entry": 18547,
+			"effectId": 0,
+			"SpellFamilyMask": 4475405770896
+		},
+		{
+			"entry": 18548,
+			"effectId": 2,
+			"SpellFamilyMask": 4398057029632
+		},
+		{
+			"entry": 18548,
+			"effectId": 1,
+			"SpellFamilyMask": 77348741264
+		},
+		{
+			"entry": 18548,
+			"effectId": 0,
+			"SpellFamilyMask": 4475405770896
+		},
+		{
+			"entry": 18549,
+			"effectId": 2,
+			"SpellFamilyMask": 4398057029632
+		},
+		{
+			"entry": 18549,
+			"effectId": 1,
+			"SpellFamilyMask": 77348741264
+		},
+		{
+			"entry": 18549,
+			"effectId": 0,
+			"SpellFamilyMask": 4475405770896
+		},
+		{
+			"entry": 18550,
+			"effectId": 2,
+			"SpellFamilyMask": 4398057029632
+		},
+		{
+			"entry": 18550,
+			"effectId": 1,
+			"SpellFamilyMask": 77348741264
+		},
+		{
+			"entry": 18550,
+			"effectId": 0,
+			"SpellFamilyMask": 4475405770896
+		},
+		{
+			"entry": 18703,
+			"effectId": 1,
+			"SpellFamilyMask": 16777216
+		},
+		{
+			"entry": 18704,
+			"effectId": 1,
+			"SpellFamilyMask": 16777216
+		},
+		{
+			"entry": 18731,
+			"effectId": 0,
+			"SpellFamilyMask": 268435456
+		},
+		{
+			"entry": 18743,
+			"effectId": 0,
+			"SpellFamilyMask": 268435456
+		},
+		{
+			"entry": 18744,
+			"effectId": 0,
+			"SpellFamilyMask": 268435456
+		},
+		{
+			"entry": 18748,
+			"effectId": 0,
+			"SpellFamilyMask": 134217728
+		},
+		{
+			"entry": 18749,
+			"effectId": 0,
+			"SpellFamilyMask": 134217728
+		},
+		{
+			"entry": 18750,
+			"effectId": 0,
+			"SpellFamilyMask": 134217728
+		},
+		{
+			"entry": 18767,
+			"effectId": 1,
+			"SpellFamilyMask": 131072
+		},
+		{
+			"entry": 18768,
+			"effectId": 1,
+			"SpellFamilyMask": 131072
+		},
+		{
+			"entry": 18821,
+			"effectId": 0,
+			"SpellFamilyMask": 2048
+		},
+		{
+			"entry": 18821,
+			"effectId": 1,
+			"SpellFamilyMask": 2048
+		},
+		{
+			"entry": 18821,
+			"effectId": 2,
+			"SpellFamilyMask": 2048
+		},
+		{
+			"entry": 18822,
+			"effectId": 0,
+			"SpellFamilyMask": 2048
+		},
+		{
+			"entry": 18822,
+			"effectId": 1,
+			"SpellFamilyMask": 2048
+		},
+		{
+			"entry": 18822,
+			"effectId": 2,
+			"SpellFamilyMask": 2048
+		},
+		{
+			"entry": 18827,
+			"effectId": 0,
+			"SpellFamilyMask": 1024
+		},
+		{
+			"entry": 18829,
+			"effectId": 0,
+			"SpellFamilyMask": 1024
+		},
+		{
+			"entry": 19416,
+			"effectId": 0,
+			"SpellFamilyMask": 581096190769664
+		},
+		{
+			"entry": 19417,
+			"effectId": 0,
+			"SpellFamilyMask": 581096190769664
+		},
+		{
+			"entry": 19418,
+			"effectId": 0,
+			"SpellFamilyMask": 581096190769664
+		},
+		{
+			"entry": 19419,
+			"effectId": 0,
+			"SpellFamilyMask": 581096190769664
+		},
+		{
+			"entry": 19420,
+			"effectId": 0,
+			"SpellFamilyMask": 581096190769664
+		},
+		{
+			"entry": 19461,
+			"effectId": 0,
+			"SpellFamilyMask": 12288
+		},
+		{
+			"entry": 19461,
+			"effectId": 1,
+			"SpellFamilyMask": 12288
+		},
+		{
+			"entry": 19462,
+			"effectId": 0,
+			"SpellFamilyMask": 12288
+		},
+		{
+			"entry": 19462,
+			"effectId": 1,
+			"SpellFamilyMask": 12288
+		},
+		{
+			"entry": 19468,
+			"effectId": 2,
+			"SpellFamilyMask": 19241453535232
+		},
+		{
+			"entry": 19468,
+			"effectId": 1,
+			"SpellFamilyMask": 549755813888
+		},
+		{
+			"entry": 19468,
+			"effectId": 0,
+			"SpellFamilyMask": 1099511644160
+		},
+		{
+			"entry": 19467,
+			"effectId": 2,
+			"SpellFamilyMask": 19241453535232
+		},
+		{
+			"entry": 19467,
+			"effectId": 1,
+			"SpellFamilyMask": 549755813888
+		},
+		{
+			"entry": 19467,
+			"effectId": 0,
+			"SpellFamilyMask": 1099511644160
+		},
+		{
+			"entry": 19466,
+			"effectId": 2,
+			"SpellFamilyMask": 19241453535232
+		},
+		{
+			"entry": 19466,
+			"effectId": 1,
+			"SpellFamilyMask": 549755813888
+		},
+		{
+			"entry": 19466,
+			"effectId": 0,
+			"SpellFamilyMask": 1099511644160
+		},
+		{
+			"entry": 19465,
+			"effectId": 2,
+			"SpellFamilyMask": 19241453535232
+		},
+		{
+			"entry": 19465,
+			"effectId": 1,
+			"SpellFamilyMask": 549755813888
+		},
+		{
+			"entry": 19465,
+			"effectId": 0,
+			"SpellFamilyMask": 1099511644160
+		},
+		{
+			"entry": 19464,
+			"effectId": 2,
+			"SpellFamilyMask": 19241453535232
+		},
+		{
+			"entry": 19464,
+			"effectId": 1,
+			"SpellFamilyMask": 549755813888
+		},
+		{
+			"entry": 19464,
+			"effectId": 0,
+			"SpellFamilyMask": 1099511644160
+		},
+		{
+			"entry": 19500,
+			"effectId": 0,
+			"SpellFamilyMask": 581096190769665
+		},
+		{
+			"entry": 19499,
+			"effectId": 0,
+			"SpellFamilyMask": 581096190769665
+		},
+		{
+			"entry": 19498,
+			"effectId": 0,
+			"SpellFamilyMask": 581096190769665
+		},
+		{
+			"entry": 19549,
+			"effectId": 0,
+			"SpellFamilyMask": 524288
+		},
+		{
+			"entry": 19550,
+			"effectId": 0,
+			"SpellFamilyMask": 524288
+		},
+		{
+			"entry": 19551,
+			"effectId": 0,
+			"SpellFamilyMask": 524288
+		},
+		{
+			"entry": 19552,
+			"effectId": 0,
+			"SpellFamilyMask": 1048576
+		},
+		{
+			"entry": 19552,
+			"effectId": 1,
+			"SpellFamilyMask": 2199023255552
+		},
+		{
+			"entry": 19553,
+			"effectId": 0,
+			"SpellFamilyMask": 1048576
+		},
+		{
+			"entry": 19553,
+			"effectId": 1,
+			"SpellFamilyMask": 2199023255552
+		},
+		{
+			"entry": 19554,
+			"effectId": 0,
+			"SpellFamilyMask": 1048576
+		},
+		{
+			"entry": 19554,
+			"effectId": 1,
+			"SpellFamilyMask": 2199023255552
+		},
+		{
+			"entry": 19555,
+			"effectId": 0,
+			"SpellFamilyMask": 1048576
+		},
+		{
+			"entry": 19555,
+			"effectId": 1,
+			"SpellFamilyMask": 2199023255552
+		},
+		{
+			"entry": 19556,
+			"effectId": 0,
+			"SpellFamilyMask": 1048576
+		},
+		{
+			"entry": 19556,
+			"effectId": 1,
+			"SpellFamilyMask": 2199023255552
+		},
+		{
+			"entry": 19559,
+			"effectId": 0,
+			"SpellFamilyMask": 2097152
+		},
+		{
+			"entry": 19560,
+			"effectId": 0,
+			"SpellFamilyMask": 2097152
+		},
+		{
+			"entry": 19583,
+			"effectId": 0,
+			"SpellFamilyMask": 134217728
+		},
+		{
+			"entry": 19584,
+			"effectId": 0,
+			"SpellFamilyMask": 134217728
+		},
+		{
+			"entry": 19585,
+			"effectId": 0,
+			"SpellFamilyMask": 134217728
+		},
+		{
+			"entry": 19586,
+			"effectId": 0,
+			"SpellFamilyMask": 134217728
+		},
+		{
+			"entry": 19587,
+			"effectId": 0,
+			"SpellFamilyMask": 134217728
+		},
+		{
+			"entry": 19590,
+			"effectId": 0,
+			"SpellFamilyMask": 536870912
+		},
+		{
+			"entry": 19592,
+			"effectId": 0,
+			"SpellFamilyMask": 536870912
+		},
+		{
+			"entry": 19598,
+			"effectId": 0,
+			"SpellFamilyMask": 1073741824
+		},
+		{
+			"entry": 19599,
+			"effectId": 0,
+			"SpellFamilyMask": 1073741824
+		},
+		{
+			"entry": 19600,
+			"effectId": 0,
+			"SpellFamilyMask": 1073741824
+		},
+		{
+			"entry": 19601,
+			"effectId": 0,
+			"SpellFamilyMask": 1073741824
+		},
+		{
+			"entry": 19602,
+			"effectId": 0,
+			"SpellFamilyMask": 1073741824
+		},
+		{
+			"entry": 19609,
+			"effectId": 0,
+			"SpellFamilyMask": 67108864
+		},
+		{
+			"entry": 19610,
+			"effectId": 0,
+			"SpellFamilyMask": 67108864
+		},
+		{
+			"entry": 19612,
+			"effectId": 0,
+			"SpellFamilyMask": 67108864
+		},
+		{
+			"entry": 20105,
+			"effectId": 0,
+			"SpellFamilyMask": 4398214283776
+		},
+		{
+			"entry": 20104,
+			"effectId": 0,
+			"SpellFamilyMask": 4398214283776
+		},
+		{
+			"entry": 20103,
+			"effectId": 0,
+			"SpellFamilyMask": 4398214283776
+		},
+		{
+			"entry": 20102,
+			"effectId": 0,
+			"SpellFamilyMask": 4398214283776
+		},
+		{
+			"entry": 20101,
+			"effectId": 0,
+			"SpellFamilyMask": 4398214283776
+		},
+		{
+			"entry": 20138,
+			"effectId": 0,
+			"SpellFamilyMask": 64
+		},
+		{
+			"entry": 20139,
+			"effectId": 0,
+			"SpellFamilyMask": 64
+		},
+		{
+			"entry": 20140,
+			"effectId": 0,
+			"SpellFamilyMask": 64
+		},
+		{
+			"entry": 20141,
+			"effectId": 0,
+			"SpellFamilyMask": 64
+		},
+		{
+			"entry": 20142,
+			"effectId": 0,
+			"SpellFamilyMask": 64
+		},
+		{
+			"entry": 20174,
+			"effectId": 0,
+			"SpellFamilyMask": 128
+		},
+		{
+			"entry": 20174,
+			"effectId": 1,
+			"SpellFamilyMask": 16
+		},
+		{
+			"entry": 20237,
+			"effectId": 0,
+			"SpellFamilyMask": 3221225472
+		},
+		{
+			"entry": 20238,
+			"effectId": 0,
+			"SpellFamilyMask": 3221225472
+		},
+		{
+			"entry": 20239,
+			"effectId": 0,
+			"SpellFamilyMask": 3221225472
+		},
+		{
+			"entry": 20337,
+			"effectId": 0,
+			"SpellFamilyMask": 536870912
+		},
+		{
+			"entry": 20336,
+			"effectId": 0,
+			"SpellFamilyMask": 536870912
+		},
+		{
+			"entry": 20335,
+			"effectId": 0,
+			"SpellFamilyMask": 536870912
+		},
+		{
+			"entry": 20361,
+			"effectId": 0,
+			"SpellFamilyMask": 2147483648
+		},
+		{
+			"entry": 20360,
+			"effectId": 0,
+			"SpellFamilyMask": 2147483648
+		},
+		{
+			"entry": 20359,
+			"effectId": 0,
+			"SpellFamilyMask": 2147483648
+		},
+		{
+			"entry": 20468,
+			"effectId": 1,
+			"SpellFamilyMask": 1
+		},
+		{
+			"entry": 20469,
+			"effectId": 1,
+			"SpellFamilyMask": 1
+		},
+		{
+			"entry": 20470,
+			"effectId": 1,
+			"SpellFamilyMask": 1
+		},
+		{
+			"entry": 20575,
+			"effectId": 0,
+			"SpellFamilyMask": 67108864
+		},
+		{
+			"entry": 20575,
+			"effectId": 1,
+			"SpellFamilyMask": 67108864
+		},
+		{
+			"entry": 20576,
+			"effectId": 0,
+			"SpellFamilyMask": 33554432
+		},
+		{
+			"entry": 38314,
+			"effectId": 0,
+			"SpellFamilyMask": 246294396272640
+		},
+		{
+			"entry": 21881,
+			"effectId": 0,
+			"SpellFamilyMask": 122880
+		},
+		{
+			"entry": 21887,
+			"effectId": 0,
+			"SpellFamilyMask": 3763103747823
+		},
+		{
+			"entry": 21942,
+			"effectId": 1,
+			"SpellFamilyMask": 134217728
+		},
+		{
+			"entry": 22008,
+			"effectId": 0,
+			"SpellFamilyMask": 557842485
+		},
+		{
+			"entry": 23025,
+			"effectId": 0,
+			"SpellFamilyMask": 65536
+		},
+		{
+			"entry": 23300,
+			"effectId": 0,
+			"SpellFamilyMask": 536870912
+		},
+		{
+			"entry": 23555,
+			"effectId": 0,
+			"SpellFamilyMask": 18416819766245
+		},
+		{
+			"entry": 23724,
+			"effectId": 0,
+			"SpellFamilyMask": 246294396272640
+		},
+		{
+			"entry": 23726,
+			"effectId": 0,
+			"SpellFamilyMask": 8192
+		},
+		{
+			"entry": 23726,
+			"effectId": 1,
+			"SpellFamilyMask": 65536
+		},
+		{
+			"entry": 24348,
+			"effectId": 0,
+			"SpellFamilyMask": 2097152
+		},
+		{
+			"entry": 24431,
+			"effectId": 0,
+			"SpellFamilyMask": 17179869184
+		},
+		{
+			"entry": 24499,
+			"effectId": 0,
+			"SpellFamilyMask": 1024
+		},
+		{
+			"entry": 24691,
+			"effectId": 0,
+			"SpellFamilyMask": 12288
+		},
+		{
+			"entry": 24691,
+			"effectId": 1,
+			"SpellFamilyMask": 12288
+		},
+		{
+			"entry": 26109,
+			"effectId": 0,
+			"SpellFamilyMask": 549756796928
+		},
+		{
+			"entry": 26118,
+			"effectId": 0,
+			"SpellFamilyMask": 67108864
+		},
+		{
+			"entry": 26118,
+			"effectId": 1,
+			"SpellFamilyMask": 67108864
+		},
+		{
+			"entry": 26174,
+			"effectId": 0,
+			"SpellFamilyMask": 32
+		},
+		{
+			"entry": 27789,
+			"effectId": 1,
+			"SpellFamilyMask": 272630272
+		},
+		{
+			"entry": 27790,
+			"effectId": 1,
+			"SpellFamilyMask": 272630272
+		},
+		{
+			"entry": 27828,
+			"effectId": 0,
+			"SpellFamilyMask": 5034785259152
+		},
+		{
+			"entry": 27846,
+			"effectId": 0,
+			"SpellFamilyMask": 32
+		},
+		{
+			"entry": 27850,
+			"effectId": 0,
+			"SpellFamilyMask": 64
+		},
+		{
+			"entry": 27851,
+			"effectId": 0,
+			"SpellFamilyMask": 4096
+		},
+		{
+			"entry": 28088,
+			"effectId": 0,
+			"SpellFamilyMask": 122880
+		},
+		{
+			"entry": 28107,
+			"effectId": 0,
+			"SpellFamilyMask": 262144
+		},
+		{
+			"entry": 28539,
+			"effectId": 0,
+			"SpellFamilyMask": 4096
+		},
+		{
+			"entry": 28682,
+			"effectId": 0,
+			"SpellFamilyMask": 275024838679
+		},
+		{
+			"entry": 28743,
+			"effectId": 0,
+			"SpellFamilyMask": 240
+		},
+		{
+			"entry": 28751,
+			"effectId": 0,
+			"SpellFamilyMask": 135168
+		},
+		{
+			"entry": 28755,
+			"effectId": 0,
+			"SpellFamilyMask": 32
+		},
+		{
+			"entry": 28763,
+			"effectId": 0,
+			"SpellFamilyMask": 67108864
+		},
+		{
+			"entry": 28774,
+			"effectId": 0,
+			"SpellFamilyMask": 32768
+		},
+		{
+			"entry": 28775,
+			"effectId": 0,
+			"SpellFamilyMask": 4294967296
+		},
+		{
+			"entry": 37879,
+			"effectId": 0,
+			"SpellFamilyMask": 3221225472
+		},
+		{
+			"entry": 28807,
+			"effectId": 0,
+			"SpellFamilyMask": 64
+		},
+		{
+			"entry": 28811,
+			"effectId": 0,
+			"SpellFamilyMask": 33685510
+		},
+		{
+			"entry": 28818,
+			"effectId": 0,
+			"SpellFamilyMask": 537399320
+		},
+		{
+			"entry": 28821,
+			"effectId": 0,
+			"SpellFamilyMask": 1024
+		},
+		{
+			"entry": 28829,
+			"effectId": 0,
+			"SpellFamilyMask": 2
+		},
+		{
+			"entry": 28831,
+			"effectId": 0,
+			"SpellFamilyMask": 1
+		},
+		{
+			"entry": 28843,
+			"effectId": 0,
+			"SpellFamilyMask": 557056
+		},
+		{
+			"entry": 28844,
+			"effectId": 0,
+			"SpellFamilyMask": 1024
+		},
+		{
+			"entry": 28852,
+			"effectId": 0,
+			"SpellFamilyMask": 512
+		},
+		{
+			"entry": 28852,
+			"effectId": 1,
+			"SpellFamilyMask": 536870912
+		},
+		{
+			"entry": 28999,
+			"effectId": 0,
+			"SpellFamilyMask": 3
+		},
+		{
+			"entry": 29000,
+			"effectId": 0,
+			"SpellFamilyMask": 3
+		},
+		{
+			"entry": 29005,
+			"effectId": 0,
+			"SpellFamilyMask": 2416967683
+		},
+		{
+			"entry": 29063,
+			"effectId": 0,
+			"SpellFamilyMask": 2499
+		},
+		{
+			"entry": 29079,
+			"effectId": 0,
+			"SpellFamilyMask": 4194304
+		},
+		{
+			"entry": 29079,
+			"effectId": 1,
+			"SpellFamilyMask": 16777216
+		},
+		{
+			"entry": 29079,
+			"effectId": 2,
+			"SpellFamilyMask": 8388608
+		},
+		{
+			"entry": 29080,
+			"effectId": 0,
+			"SpellFamilyMask": 4194304
+		},
+		{
+			"entry": 29080,
+			"effectId": 1,
+			"SpellFamilyMask": 16777216
+		},
+		{
+			"entry": 29080,
+			"effectId": 2,
+			"SpellFamilyMask": 8388608
+		},
+		{
+			"entry": 29171,
+			"effectId": 0,
+			"SpellFamilyMask": 16384
+		},
+		{
+			"entry": 29187,
+			"effectId": 0,
+			"SpellFamilyMask": 448
+		},
+		{
+			"entry": 29189,
+			"effectId": 0,
+			"SpellFamilyMask": 448
+		},
+		{
+			"entry": 29191,
+			"effectId": 0,
+			"SpellFamilyMask": 448
+		},
+		{
+			"entry": 29202,
+			"effectId": 0,
+			"SpellFamilyMask": 64
+		},
+		{
+			"entry": 29205,
+			"effectId": 0,
+			"SpellFamilyMask": 64
+		},
+		{
+			"entry": 29206,
+			"effectId": 0,
+			"SpellFamilyMask": 64
+		},
+		{
+			"entry": 29440,
+			"effectId": 0,
+			"SpellFamilyMask": 13631703
+		},
+		{
+			"entry": 29439,
+			"effectId": 0,
+			"SpellFamilyMask": 13631703
+		},
+		{
+			"entry": 29438,
+			"effectId": 0,
+			"SpellFamilyMask": 13631703
+		},
+		{
+			"entry": 29721,
+			"effectId": 0,
+			"SpellFamilyMask": 17179869184
+		},
+		{
+			"entry": 29725,
+			"effectId": 1,
+			"SpellFamilyMask": 34359746576
+		},
+		{
+			"entry": 29725,
+			"effectId": 0,
+			"SpellFamilyMask": 34359746576
+		},
+		{
+			"entry": 29724,
+			"effectId": 1,
+			"SpellFamilyMask": 34359746576
+		},
+		{
+			"entry": 29724,
+			"effectId": 0,
+			"SpellFamilyMask": 34359746576
+		},
+		{
+			"entry": 29723,
+			"effectId": 1,
+			"SpellFamilyMask": 34359746576
+		},
+		{
+			"entry": 29723,
+			"effectId": 0,
+			"SpellFamilyMask": 34359746576
+		},
+		{
+			"entry": 29776,
+			"effectId": 0,
+			"SpellFamilyMask": 17179869184
+		},
+		{
+			"entry": 29792,
+			"effectId": 0,
+			"SpellFamilyMask": 3763103747823
+		},
+		{
+			"entry": 29790,
+			"effectId": 0,
+			"SpellFamilyMask": 3763103747823
+		},
+		{
+			"entry": 29787,
+			"effectId": 0,
+			"SpellFamilyMask": 3763103747823
+		},
+		{
+			"entry": 29859,
+			"effectId": 0,
+			"SpellFamilyMask": 68719476768
+		},
+		{
+			"entry": 29836,
+			"effectId": 0,
+			"SpellFamilyMask": 68719476768
+		},
+		{
+			"entry": 12043,
+			"effectId": 0,
+			"SpellFamilyMask": 557842485
+		},
+		{
+			"entry": 30049,
+			"effectId": 0,
+			"SpellFamilyMask": 524288
+		},
+		{
+			"entry": 30051,
+			"effectId": 0,
+			"SpellFamilyMask": 524288
+		},
+		{
+			"entry": 30052,
+			"effectId": 0,
+			"SpellFamilyMask": 524288
+		},
+		{
+			"entry": 30054,
+			"effectId": 0,
+			"SpellFamilyMask": 34359738368
+		},
+		{
+			"entry": 30057,
+			"effectId": 0,
+			"SpellFamilyMask": 34359738368
+		},
+		{
+			"entry": 30064,
+			"effectId": 2,
+			"SpellFamilyMask": 148552186381338
+		},
+		{
+			"entry": 30064,
+			"effectId": 1,
+			"SpellFamilyMask": 68719477762
+		},
+		{
+			"entry": 30064,
+			"effectId": 0,
+			"SpellFamilyMask": 68719477762
+		},
+		{
+			"entry": 30063,
+			"effectId": 2,
+			"SpellFamilyMask": 148552186381338
+		},
+		{
+			"entry": 30063,
+			"effectId": 1,
+			"SpellFamilyMask": 68719477762
+		},
+		{
+			"entry": 30063,
+			"effectId": 0,
+			"SpellFamilyMask": 68719477762
+		},
+		{
+			"entry": 30062,
+			"effectId": 2,
+			"SpellFamilyMask": 148552186381338
+		},
+		{
+			"entry": 30062,
+			"effectId": 1,
+			"SpellFamilyMask": 68719477762
+		},
+		{
+			"entry": 30062,
+			"effectId": 0,
+			"SpellFamilyMask": 68719477762
+		},
+		{
+			"entry": 30061,
+			"effectId": 2,
+			"SpellFamilyMask": 148552186381338
+		},
+		{
+			"entry": 30061,
+			"effectId": 1,
+			"SpellFamilyMask": 68719477762
+		},
+		{
+			"entry": 30061,
+			"effectId": 0,
+			"SpellFamilyMask": 68719477762
+		},
+		{
+			"entry": 30060,
+			"effectId": 2,
+			"SpellFamilyMask": 148552186381338
+		},
+		{
+			"entry": 30060,
+			"effectId": 1,
+			"SpellFamilyMask": 68719477762
+		},
+		{
+			"entry": 30060,
+			"effectId": 0,
+			"SpellFamilyMask": 68719477762
+		},
+		{
+			"entry": 30086,
+			"effectId": 2,
+			"SpellFamilyMask": 2
+		},
+		{
+			"entry": 30086,
+			"effectId": 1,
+			"SpellFamilyMask": 1024
+		},
+		{
+			"entry": 30086,
+			"effectId": 0,
+			"SpellFamilyMask": 7814698026010
+		},
+		{
+			"entry": 30085,
+			"effectId": 2,
+			"SpellFamilyMask": 2
+		},
+		{
+			"entry": 30085,
+			"effectId": 1,
+			"SpellFamilyMask": 1024
+		},
+		{
+			"entry": 30085,
+			"effectId": 0,
+			"SpellFamilyMask": 7814698026010
+		},
+		{
+			"entry": 30256,
+			"effectId": 0,
+			"SpellFamilyMask": 18416819765541
+		},
+		{
+			"entry": 30251,
+			"effectId": 0,
+			"SpellFamilyMask": 18416819765541
+		},
+		{
+			"entry": 30288,
+			"effectId": 0,
+			"SpellFamilyMask": 274877906945
+		},
+		{
+			"entry": 30289,
+			"effectId": 0,
+			"SpellFamilyMask": 274877906945
+		},
+		{
+			"entry": 30290,
+			"effectId": 0,
+			"SpellFamilyMask": 274877906945
+		},
+		{
+			"entry": 30291,
+			"effectId": 0,
+			"SpellFamilyMask": 274877906945
+		},
+		{
+			"entry": 30292,
+			"effectId": 0,
+			"SpellFamilyMask": 274877906945
+		},
+		{
+			"entry": 30326,
+			"effectId": 0,
+			"SpellFamilyMask": 262160
+		},
+		{
+			"entry": 30327,
+			"effectId": 0,
+			"SpellFamilyMask": 262160
+		},
+		{
+			"entry": 30328,
+			"effectId": 0,
+			"SpellFamilyMask": 262160
+		},
+		{
+			"entry": 30872,
+			"effectId": 0,
+			"SpellFamilyMask": 256
+		},
+		{
+			"entry": 30873,
+			"effectId": 0,
+			"SpellFamilyMask": 256
+		},
+		{
+			"entry": 30892,
+			"effectId": 0,
+			"SpellFamilyMask": 134217728
+		},
+		{
+			"entry": 30893,
+			"effectId": 0,
+			"SpellFamilyMask": 134217728
+		},
+		{
+			"entry": 31226,
+			"effectId": 0,
+			"SpellFamilyMask": 122880
+		},
+		{
+			"entry": 31227,
+			"effectId": 0,
+			"SpellFamilyMask": 122880
+		},
+		{
+			"entry": 31238,
+			"effectId": 1,
+			"SpellFamilyMask": 1048832
+		},
+		{
+			"entry": 31238,
+			"effectId": 0,
+			"SpellFamilyMask": 1100150342415
+		},
+		{
+			"entry": 31237,
+			"effectId": 1,
+			"SpellFamilyMask": 1048832
+		},
+		{
+			"entry": 31237,
+			"effectId": 0,
+			"SpellFamilyMask": 1100150342415
+		},
+		{
+			"entry": 31236,
+			"effectId": 1,
+			"SpellFamilyMask": 1048832
+		},
+		{
+			"entry": 31236,
+			"effectId": 0,
+			"SpellFamilyMask": 1100150342415
+		},
+		{
+			"entry": 31235,
+			"effectId": 1,
+			"SpellFamilyMask": 1048832
+		},
+		{
+			"entry": 31235,
+			"effectId": 0,
+			"SpellFamilyMask": 1100150342415
+		},
+		{
+			"entry": 31234,
+			"effectId": 1,
+			"SpellFamilyMask": 1048832
+		},
+		{
+			"entry": 31234,
+			"effectId": 0,
+			"SpellFamilyMask": 1100150342415
+		},
+		{
+			"entry": 31571,
+			"effectId": 0,
+			"SpellFamilyMask": 8589934592
+		},
+		{
+			"entry": 31572,
+			"effectId": 0,
+			"SpellFamilyMask": 8589934592
+		},
+		{
+			"entry": 31573,
+			"effectId": 0,
+			"SpellFamilyMask": 8589934592
+		},
+		{
+			"entry": 31583,
+			"effectId": 0,
+			"SpellFamilyMask": 2097152
+		},
+		{
+			"entry": 31579,
+			"effectId": 1,
+			"SpellFamilyMask": 2048
+		},
+		{
+			"entry": 31582,
+			"effectId": 0,
+			"SpellFamilyMask": 2097152
+		},
+		{
+			"entry": 31582,
+			"effectId": 1,
+			"SpellFamilyMask": 2048
+		},
+		{
+			"entry": 31579,
+			"effectId": 0,
+			"SpellFamilyMask": 2097152
+		},
+		{
+			"entry": 31583,
+			"effectId": 1,
+			"SpellFamilyMask": 2048
+		},
+		{
+			"entry": 31656,
+			"effectId": 0,
+			"SpellFamilyMask": 1
+		},
+		{
+			"entry": 31657,
+			"effectId": 0,
+			"SpellFamilyMask": 1
+		},
+		{
+			"entry": 31658,
+			"effectId": 0,
+			"SpellFamilyMask": 1
+		},
+		{
+			"entry": 31659,
+			"effectId": 0,
+			"SpellFamilyMask": 1
+		},
+		{
+			"entry": 31660,
+			"effectId": 0,
+			"SpellFamilyMask": 1
+		},
+		{
+			"entry": 31682,
+			"effectId": 0,
+			"SpellFamilyMask": 32
+		},
+		{
+			"entry": 31682,
+			"effectId": 1,
+			"SpellFamilyMask": 32
+		},
+		{
+			"entry": 31683,
+			"effectId": 0,
+			"SpellFamilyMask": 32
+		},
+		{
+			"entry": 31683,
+			"effectId": 1,
+			"SpellFamilyMask": 32
+		},
+		{
+			"entry": 31684,
+			"effectId": 0,
+			"SpellFamilyMask": 32
+		},
+		{
+			"entry": 31684,
+			"effectId": 1,
+			"SpellFamilyMask": 32
+		},
+		{
+			"entry": 31685,
+			"effectId": 0,
+			"SpellFamilyMask": 32
+		},
+		{
+			"entry": 31686,
+			"effectId": 0,
+			"SpellFamilyMask": 32
+		},
+		{
+			"entry": 31686,
+			"effectId": 1,
+			"SpellFamilyMask": 32
+		},
+		{
+			"entry": 31821,
+			"effectId": 0,
+			"SpellFamilyMask": 67240008
+		},
+		{
+			"entry": 31825,
+			"effectId": 1,
+			"SpellFamilyMask": 8589934592
+		},
+		{
+			"entry": 31825,
+			"effectId": 0,
+			"SpellFamilyMask": 4128
+		},
+		{
+			"entry": 31834,
+			"effectId": 0,
+			"SpellFamilyMask": 2147483648
+		},
+		{
+			"entry": 31845,
+			"effectId": 1,
+			"SpellFamilyMask": 5772872254348
+		},
+		{
+			"entry": 31844,
+			"effectId": 1,
+			"SpellFamilyMask": 5772872254348
+		},
+		{
+			"entry": 31848,
+			"effectId": 0,
+			"SpellFamilyMask": 4194304
+		},
+		{
+			"entry": 31848,
+			"effectId": 1,
+			"SpellFamilyMask": 4194304
+		},
+		{
+			"entry": 31849,
+			"effectId": 0,
+			"SpellFamilyMask": 4194304
+		},
+		{
+			"entry": 31849,
+			"effectId": 1,
+			"SpellFamilyMask": 4194304
+		},
+		{
+			"entry": 31869,
+			"effectId": 0,
+			"SpellFamilyMask": 137438953472
+		},
+		{
+			"entry": 31870,
+			"effectId": 0,
+			"SpellFamilyMask": 137438953472
+		},
+		{
+			"entry": 31883,
+			"effectId": 0,
+			"SpellFamilyMask": 34359739392
+		},
+		{
+			"entry": 31882,
+			"effectId": 0,
+			"SpellFamilyMask": 34359739392
+		},
+		{
+			"entry": 31881,
+			"effectId": 0,
+			"SpellFamilyMask": 34359739392
+		},
+		{
+			"entry": 31880,
+			"effectId": 0,
+			"SpellFamilyMask": 34359739392
+		},
+		{
+			"entry": 31879,
+			"effectId": 0,
+			"SpellFamilyMask": 34359739392
+		},
+		{
+			"entry": 32043,
+			"effectId": 1,
+			"SpellFamilyMask": 4398214283264
+		},
+		{
+			"entry": 32203,
+			"effectId": 1,
+			"SpellFamilyMask": 299067192254464
+		},
+		{
+			"entry": 32381,
+			"effectId": 0,
+			"SpellFamilyMask": 2
+		},
+		{
+			"entry": 32382,
+			"effectId": 0,
+			"SpellFamilyMask": 2
+		},
+		{
+			"entry": 32383,
+			"effectId": 0,
+			"SpellFamilyMask": 2
+		},
+		{
+			"entry": 32412,
+			"effectId": 0,
+			"SpellFamilyMask": 1024
+		},
+		{
+			"entry": 32743,
+			"effectId": 0,
+			"SpellFamilyMask": 2048
+		},
+		{
+			"entry": 32973,
+			"effectId": 0,
+			"SpellFamilyMask": 2416967680
+		},
+		{
+			"entry": 33018,
+			"effectId": 0,
+			"SpellFamilyMask": 68719476736
+		},
+		{
+			"entry": 33020,
+			"effectId": 0,
+			"SpellFamilyMask": 1024
+		},
+		{
+			"entry": 33066,
+			"effectId": 0,
+			"SpellFamilyMask": 2
+		},
+		{
+			"entry": 33151,
+			"effectId": 0,
+			"SpellFamilyMask": 128
+		},
+		{
+			"entry": 33151,
+			"effectId": 1,
+			"SpellFamilyMask": 128
+		},
+		{
+			"entry": 33151,
+			"effectId": 2,
+			"SpellFamilyMask": 128
+		},
+		{
+			"entry": 33158,
+			"effectId": 0,
+			"SpellFamilyMask": 4096
+		},
+		{
+			"entry": 33158,
+			"effectId": 1,
+			"SpellFamilyMask": 2048
+		},
+		{
+			"entry": 33159,
+			"effectId": 0,
+			"SpellFamilyMask": 4096
+		},
+		{
+			"entry": 33159,
+			"effectId": 1,
+			"SpellFamilyMask": 2048
+		},
+		{
+			"entry": 33160,
+			"effectId": 0,
+			"SpellFamilyMask": 4096
+		},
+		{
+			"entry": 33160,
+			"effectId": 1,
+			"SpellFamilyMask": 2048
+		},
+		{
+			"entry": 33161,
+			"effectId": 0,
+			"SpellFamilyMask": 4096
+		},
+		{
+			"entry": 33161,
+			"effectId": 1,
+			"SpellFamilyMask": 2048
+		},
+		{
+			"entry": 33162,
+			"effectId": 0,
+			"SpellFamilyMask": 4096
+		},
+		{
+			"entry": 33162,
+			"effectId": 1,
+			"SpellFamilyMask": 2048
+		},
+		{
+			"entry": 33174,
+			"effectId": 0,
+			"SpellFamilyMask": 32
+		},
+		{
+			"entry": 33174,
+			"effectId": 1,
+			"SpellFamilyMask": 32
+		},
+		{
+			"entry": 33182,
+			"effectId": 0,
+			"SpellFamilyMask": 32
+		},
+		{
+			"entry": 33182,
+			"effectId": 1,
+			"SpellFamilyMask": 32
+		},
+		{
+			"entry": 33213,
+			"effectId": 0,
+			"SpellFamilyMask": 8527872
+		},
+		{
+			"entry": 33214,
+			"effectId": 0,
+			"SpellFamilyMask": 8527872
+		},
+		{
+			"entry": 33215,
+			"effectId": 0,
+			"SpellFamilyMask": 8527872
+		},
+		{
+			"entry": 33221,
+			"effectId": 0,
+			"SpellFamilyMask": 8589942784
+		},
+		{
+			"entry": 33222,
+			"effectId": 0,
+			"SpellFamilyMask": 8589942784
+		},
+		{
+			"entry": 33223,
+			"effectId": 0,
+			"SpellFamilyMask": 8589942784
+		},
+		{
+			"entry": 33224,
+			"effectId": 0,
+			"SpellFamilyMask": 8589942784
+		},
+		{
+			"entry": 33225,
+			"effectId": 0,
+			"SpellFamilyMask": 8589942784
+		},
+		{
+			"entry": 33333,
+			"effectId": 0,
+			"SpellFamilyMask": 536870912
+		},
+		{
+			"entry": 33557,
+			"effectId": 0,
+			"SpellFamilyMask": 512
+		},
+		{
+			"entry": 33557,
+			"effectId": 1,
+			"SpellFamilyMask": 536870912
+		},
+		{
+			"entry": 33565,
+			"effectId": 0,
+			"SpellFamilyMask": 4096
+		},
+		{
+			"entry": 33600,
+			"effectId": 0,
+			"SpellFamilyMask": 1024
+		},
+		{
+			"entry": 33600,
+			"effectId": 1,
+			"SpellFamilyMask": 1024
+		},
+		{
+			"entry": 33601,
+			"effectId": 0,
+			"SpellFamilyMask": 1024
+		},
+		{
+			"entry": 33601,
+			"effectId": 1,
+			"SpellFamilyMask": 1024
+		},
+		{
+			"entry": 33602,
+			"effectId": 0,
+			"SpellFamilyMask": 1024
+		},
+		{
+			"entry": 33602,
+			"effectId": 1,
+			"SpellFamilyMask": 1024
+		},
+		{
+			"entry": 33603,
+			"effectId": 0,
+			"SpellFamilyMask": 4
+		},
+		{
+			"entry": 33603,
+			"effectId": 1,
+			"SpellFamilyMask": 1
+		},
+		{
+			"entry": 33604,
+			"effectId": 0,
+			"SpellFamilyMask": 4
+		},
+		{
+			"entry": 33604,
+			"effectId": 1,
+			"SpellFamilyMask": 1
+		},
+		{
+			"entry": 33605,
+			"effectId": 0,
+			"SpellFamilyMask": 4
+		},
+		{
+			"entry": 33605,
+			"effectId": 1,
+			"SpellFamilyMask": 1
+		},
+		{
+			"entry": 33606,
+			"effectId": 0,
+			"SpellFamilyMask": 4
+		},
+		{
+			"entry": 33606,
+			"effectId": 1,
+			"SpellFamilyMask": 1
+		},
+		{
+			"entry": 33607,
+			"effectId": 0,
+			"SpellFamilyMask": 4
+		},
+		{
+			"entry": 33607,
+			"effectId": 1,
+			"SpellFamilyMask": 1
+		},
+		{
+			"entry": 33693,
+			"effectId": 0,
+			"SpellFamilyMask": 32768
+		},
+		{
+			"entry": 33696,
+			"effectId": 0,
+			"SpellFamilyMask": 1
+		},
+		{
+			"entry": 33830,
+			"effectId": 0,
+			"SpellFamilyMask": 137438953472
+		},
+		{
+			"entry": 33830,
+			"effectId": 1,
+			"SpellFamilyMask": 137438953472
+		},
+		{
+			"entry": 33877,
+			"effectId": 0,
+			"SpellFamilyMask": 2
+		},
+		{
+			"entry": 33879,
+			"effectId": 0,
+			"SpellFamilyMask": 32
+		},
+		{
+			"entry": 33880,
+			"effectId": 0,
+			"SpellFamilyMask": 32
+		},
+		{
+			"entry": 33890,
+			"effectId": 0,
+			"SpellFamilyMask": 68719476944
+		},
+		{
+			"entry": 33889,
+			"effectId": 0,
+			"SpellFamilyMask": 68719476944
+		},
+		{
+			"entry": 33888,
+			"effectId": 0,
+			"SpellFamilyMask": 68719476944
+		},
+		{
+			"entry": 33887,
+			"effectId": 0,
+			"SpellFamilyMask": 68719476944
+		},
+		{
+			"entry": 33886,
+			"effectId": 0,
+			"SpellFamilyMask": 68719476944
+		},
+		{
+			"entry": 34128,
+			"effectId": 0,
+			"SpellFamilyMask": 68719476736
+		},
+		{
+			"entry": 34129,
+			"effectId": 1,
+			"SpellFamilyMask": 1073741824
+		},
+		{
+			"entry": 34129,
+			"effectId": 0,
+			"SpellFamilyMask": 1073741824
+		},
+		{
+			"entry": 34131,
+			"effectId": 0,
+			"SpellFamilyMask": 128
+		},
+		{
+			"entry": 34131,
+			"effectId": 1,
+			"SpellFamilyMask": 128
+		},
+		{
+			"entry": 34253,
+			"effectId": 0,
+			"SpellFamilyMask": 1099511627776
+		},
+		{
+			"entry": 34297,
+			"effectId": 0,
+			"SpellFamilyMask": 8796093022208
+		},
+		{
+			"entry": 34300,
+			"effectId": 0,
+			"SpellFamilyMask": 8796093022208
+		},
+		{
+			"entry": 34323,
+			"effectId": 0,
+			"SpellFamilyMask": 549764202496
+		},
+		{
+			"entry": 34493,
+			"effectId": 0,
+			"SpellFamilyMask": 70368744177858
+		},
+		{
+			"entry": 34491,
+			"effectId": 1,
+			"SpellFamilyMask": 128
+		},
+		{
+			"entry": 34492,
+			"effectId": 0,
+			"SpellFamilyMask": 70368744177858
+		},
+		{
+			"entry": 34492,
+			"effectId": 1,
+			"SpellFamilyMask": 128
+		},
+		{
+			"entry": 34491,
+			"effectId": 0,
+			"SpellFamilyMask": 70368744177858
+		},
+		{
+			"entry": 34493,
+			"effectId": 1,
+			"SpellFamilyMask": 128
+		},
+		{
+			"entry": 34754,
+			"effectId": 0,
+			"SpellFamilyMask": 17179875328
+		},
+		{
+			"entry": 34936,
+			"effectId": 0,
+			"SpellFamilyMask": 274877906945
+		},
+		{
+			"entry": 34948,
+			"effectId": 1,
+			"SpellFamilyMask": 32
+		},
+		{
+			"entry": 34949,
+			"effectId": 1,
+			"SpellFamilyMask": 32
+		},
+		{
+			"entry": 35098,
+			"effectId": 0,
+			"SpellFamilyMask": 133121
+		},
+		{
+			"entry": 35099,
+			"effectId": 0,
+			"SpellFamilyMask": 133121
+		},
+		{
+			"entry": 35104,
+			"effectId": 0,
+			"SpellFamilyMask": 4096
+		},
+		{
+			"entry": 35104,
+			"effectId": 1,
+			"SpellFamilyMask": 8192
+		},
+		{
+			"entry": 35110,
+			"effectId": 0,
+			"SpellFamilyMask": 4096
+		},
+		{
+			"entry": 35110,
+			"effectId": 1,
+			"SpellFamilyMask": 8192
+		},
+		{
+			"entry": 35111,
+			"effectId": 0,
+			"SpellFamilyMask": 4096
+		},
+		{
+			"entry": 35111,
+			"effectId": 1,
+			"SpellFamilyMask": 8192
+		},
+		{
+			"entry": 35363,
+			"effectId": 0,
+			"SpellFamilyMask": 5
+		},
+		{
+			"entry": 35364,
+			"effectId": 0,
+			"SpellFamilyMask": 5
+		},
+		{
+			"entry": 35396,
+			"effectId": 1,
+			"SpellFamilyMask": 4398214283264
+		},
+		{
+			"entry": 35397,
+			"effectId": 1,
+			"SpellFamilyMask": 4398214283264
+		},
+		{
+			"entry": 35578,
+			"effectId": 0,
+			"SpellFamilyMask": 685904631
+		},
+		{
+			"entry": 35581,
+			"effectId": 0,
+			"SpellFamilyMask": 685904631
+		},
+		{
+			"entry": 36032,
+			"effectId": 0,
+			"SpellFamilyMask": 536870912
+		},
+		{
+			"entry": 36032,
+			"effectId": 1,
+			"SpellFamilyMask": 536870912
+		},
+		{
+			"entry": 36413,
+			"effectId": 0,
+			"SpellFamilyMask": 1
+		},
+		{
+			"entry": 37166,
+			"effectId": 0,
+			"SpellFamilyMask": 8388608
+		},
+		{
+			"entry": 37167,
+			"effectId": 0,
+			"SpellFamilyMask": 262144
+		},
+		{
+			"entry": 37171,
+			"effectId": 0,
+			"SpellFamilyMask": 38658768896
+		},
+		{
+			"entry": 37180,
+			"effectId": 0,
+			"SpellFamilyMask": 32
+		},
+		{
+			"entry": 37181,
+			"effectId": 0,
+			"SpellFamilyMask": 17179869184
+		},
+		{
+			"entry": 37183,
+			"effectId": 0,
+			"SpellFamilyMask": 1099511627776
+		},
+		{
+			"entry": 37185,
+			"effectId": 0,
+			"SpellFamilyMask": 274877906944
+		},
+		{
+			"entry": 37186,
+			"effectId": 0,
+			"SpellFamilyMask": 536870912
+		},
+		{
+			"entry": 39950,
+			"effectId": 0,
+			"SpellFamilyMask": 64
+		},
+		{
+			"entry": 37190,
+			"effectId": 0,
+			"SpellFamilyMask": 8
+		},
+		{
+			"entry": 37191,
+			"effectId": 0,
+			"SpellFamilyMask": 274877906944
+		},
+		{
+			"entry": 37194,
+			"effectId": 0,
+			"SpellFamilyMask": 8388608
+		},
+		{
+			"entry": 37207,
+			"effectId": 0,
+			"SpellFamilyMask": 2
+		},
+		{
+			"entry": 37210,
+			"effectId": 0,
+			"SpellFamilyMask": 16384
+		},
+		{
+			"entry": 37211,
+			"effectId": 0,
+			"SpellFamilyMask": 549755813888
+		},
+		{
+			"entry": 37212,
+			"effectId": 0,
+			"SpellFamilyMask": 1099511627776
+		},
+		{
+			"entry": 37223,
+			"effectId": 0,
+			"SpellFamilyMask": 65536
+		},
+		{
+			"entry": 37224,
+			"effectId": 0,
+			"SpellFamilyMask": 68719476736
+		},
+		{
+			"entry": 37225,
+			"effectId": 0,
+			"SpellFamilyMask": 128
+		},
+		{
+			"entry": 43837,
+			"effectId": 0,
+			"SpellFamilyMask": 2147483648
+		},
+		{
+			"entry": 37234,
+			"effectId": 0,
+			"SpellFamilyMask": 128
+		},
+		{
+			"entry": 37240,
+			"effectId": 0,
+			"SpellFamilyMask": 128
+		},
+		{
+			"entry": 37286,
+			"effectId": 0,
+			"SpellFamilyMask": 16
+		},
+		{
+			"entry": 37287,
+			"effectId": 0,
+			"SpellFamilyMask": 246294396272640
+		},
+		{
+			"entry": 37292,
+			"effectId": 0,
+			"SpellFamilyMask": 2251799813685248
+		},
+		{
+			"entry": 37297,
+			"effectId": 0,
+			"SpellFamilyMask": 17592186044416
+		},
+		{
+			"entry": 37313,
+			"effectId": 0,
+			"SpellFamilyMask": 64
+		},
+		{
+			"entry": 37314,
+			"effectId": 0,
+			"SpellFamilyMask": 68719476736
+		},
+		{
+			"entry": 37316,
+			"effectId": 0,
+			"SpellFamilyMask": 64
+		},
+		{
+			"entry": 37325,
+			"effectId": 0,
+			"SpellFamilyMask": 64
+		},
+		{
+			"entry": 37333,
+			"effectId": 0,
+			"SpellFamilyMask": 32768
+		},
+		{
+			"entry": 37333,
+			"effectId": 1,
+			"SpellFamilyMask": 1099511627776
+		},
+		{
+			"entry": 37376,
+			"effectId": 0,
+			"SpellFamilyMask": 68719476736
+		},
+		{
+			"entry": 37380,
+			"effectId": 0,
+			"SpellFamilyMask": 6
+		},
+		{
+			"entry": 37423,
+			"effectId": 0,
+			"SpellFamilyMask": 4
+		},
+		{
+			"entry": 37438,
+			"effectId": 0,
+			"SpellFamilyMask": 33
+		},
+		{
+			"entry": 37439,
+			"effectId": 2,
+			"SpellFamilyMask": 549755813888
+		},
+		{
+			"entry": 37439,
+			"effectId": 1,
+			"SpellFamilyMask": 274877906944
+		},
+		{
+			"entry": 37439,
+			"effectId": 0,
+			"SpellFamilyMask": 137438953472
+		},
+		{
+			"entry": 37441,
+			"effectId": 1,
+			"SpellFamilyMask": 536870912
+		},
+		{
+			"entry": 37441,
+			"effectId": 0,
+			"SpellFamilyMask": 536870912
+		},
+		{
+			"entry": 37447,
+			"effectId": 0,
+			"SpellFamilyMask": 1099511627776
+		},
+		{
+			"entry": 37481,
+			"effectId": 0,
+			"SpellFamilyMask": 128
+		},
+		{
+			"entry": 37484,
+			"effectId": 0,
+			"SpellFamilyMask": 256
+		},
+		{
+			"entry": 37485,
+			"effectId": 0,
+			"SpellFamilyMask": 4096
+		},
+		{
+			"entry": 37505,
+			"effectId": 0,
+			"SpellFamilyMask": 4294967296
+		},
+		{
+			"entry": 37507,
+			"effectId": 0,
+			"SpellFamilyMask": 2048
+		},
+		{
+			"entry": 37512,
+			"effectId": 0,
+			"SpellFamilyMask": 549756796928
+		},
+		{
+			"entry": 37513,
+			"effectId": 0,
+			"SpellFamilyMask": 1
+		},
+		{
+			"entry": 37517,
+			"effectId": 0,
+			"SpellFamilyMask": 1430935047407
+		},
+		{
+			"entry": 37518,
+			"effectId": 0,
+			"SpellFamilyMask": 17179869184
+		},
+		{
+			"entry": 37522,
+			"effectId": 0,
+			"SpellFamilyMask": 4096
+		},
+		{
+			"entry": 37535,
+			"effectId": 0,
+			"SpellFamilyMask": 33554432
+		},
+		{
+			"entry": 37536,
+			"effectId": 0,
+			"SpellFamilyMask": 65536
+		},
+		{
+			"entry": 37556,
+			"effectId": 0,
+			"SpellFamilyMask": 17179869184
+		},
+		{
+			"entry": 37564,
+			"effectId": 0,
+			"SpellFamilyMask": 512
+		},
+		{
+			"entry": 37565,
+			"effectId": 0,
+			"SpellFamilyMask": 4096
+		},
+		{
+			"entry": 37570,
+			"effectId": 1,
+			"SpellFamilyMask": 1099511627776
+		},
+		{
+			"entry": 37571,
+			"effectId": 0,
+			"SpellFamilyMask": 128
+		},
+		{
+			"entry": 37593,
+			"effectId": 0,
+			"SpellFamilyMask": 64
+		},
+		{
+			"entry": 37722,
+			"effectId": 0,
+			"SpellFamilyMask": 448
+		},
+		{
+			"entry": 37723,
+			"effectId": 0,
+			"SpellFamilyMask": 3221225472
+		},
+		{
+			"entry": 37737,
+			"effectId": 0,
+			"SpellFamilyMask": 64
+		},
+		{
+			"entry": 37738,
+			"effectId": 0,
+			"SpellFamilyMask": 64
+		},
+		{
+			"entry": 37739,
+			"effectId": 0,
+			"SpellFamilyMask": 2147483648
+		},
+		{
+			"entry": 37740,
+			"effectId": 0,
+			"SpellFamilyMask": 1
+		},
+		{
+			"entry": 37742,
+			"effectId": 0,
+			"SpellFamilyMask": 274877906944
+		},
+		{
+			"entry": 37760,
+			"effectId": 0,
+			"SpellFamilyMask": 1
+		},
+		{
+			"entry": 37762,
+			"effectId": 0,
+			"SpellFamilyMask": 68719476736
+		},
+		{
+			"entry": 37878,
+			"effectId": 0,
+			"SpellFamilyMask": 68719476976
+		},
+		{
+			"entry": 37881,
+			"effectId": 0,
+			"SpellFamilyMask": 448
+		},
+		{
+			"entry": 21873,
+			"effectId": 0,
+			"SpellFamilyMask": 246294396272640
+		},
+		{
+			"entry": 38321,
+			"effectId": 0,
+			"SpellFamilyMask": 32
+		},
+		{
+			"entry": 38322,
+			"effectId": 0,
+			"SpellFamilyMask": 256
+		},
+		{
+			"entry": 38388,
+			"effectId": 0,
+			"SpellFamilyMask": 262144
+		},
+		{
+			"entry": 38389,
+			"effectId": 0,
+			"SpellFamilyMask": 60129542150
+		},
+		{
+			"entry": 38392,
+			"effectId": 0,
+			"SpellFamilyMask": 4294967296
+		},
+		{
+			"entry": 38393,
+			"effectId": 0,
+			"SpellFamilyMask": 1
+		},
+		{
+			"entry": 38396,
+			"effectId": 0,
+			"SpellFamilyMask": 67108864
+		},
+		{
+			"entry": 38397,
+			"effectId": 0,
+			"SpellFamilyMask": 2081
+		},
+		{
+			"entry": 38398,
+			"effectId": 0,
+			"SpellFamilyMask": 536870912
+		},
+		{
+			"entry": 38399,
+			"effectId": 0,
+			"SpellFamilyMask": 33554432
+		},
+		{
+			"entry": 38408,
+			"effectId": 0,
+			"SpellFamilyMask": 549755813888
+		},
+		{
+			"entry": 38410,
+			"effectId": 0,
+			"SpellFamilyMask": 512
+		},
+		{
+			"entry": 38411,
+			"effectId": 0,
+			"SpellFamilyMask": 4096
+		},
+		{
+			"entry": 38412,
+			"effectId": 0,
+			"SpellFamilyMask": 8192
+		},
+		{
+			"entry": 38413,
+			"effectId": 0,
+			"SpellFamilyMask": 32768
+		},
+		{
+			"entry": 38414,
+			"effectId": 0,
+			"SpellFamilyMask": 2
+		},
+		{
+			"entry": 38415,
+			"effectId": 0,
+			"SpellFamilyMask": 4
+		},
+		{
+			"entry": 38416,
+			"effectId": 1,
+			"SpellFamilyMask": 4503599635759104
+		},
+		{
+			"entry": 38416,
+			"effectId": 0,
+			"SpellFamilyMask": 4503599635759104
+		},
+		{
+			"entry": 38417,
+			"effectId": 0,
+			"SpellFamilyMask": 8589934592
+		},
+		{
+			"entry": 38420,
+			"effectId": 0,
+			"SpellFamilyMask": 32
+		},
+		{
+			"entry": 38422,
+			"effectId": 0,
+			"SpellFamilyMask": 32
+		},
+		{
+			"entry": 38425,
+			"effectId": 0,
+			"SpellFamilyMask": 1073741824
+		},
+		{
+			"entry": 38426,
+			"effectId": 0,
+			"SpellFamilyMask": 2147483648
+		},
+		{
+			"entry": 38429,
+			"effectId": 0,
+			"SpellFamilyMask": 2416967680
+		},
+		{
+			"entry": 38434,
+			"effectId": 0,
+			"SpellFamilyMask": 256
+		},
+		{
+			"entry": 38435,
+			"effectId": 0,
+			"SpellFamilyMask": 128
+		},
+		{
+			"entry": 38436,
+			"effectId": 0,
+			"SpellFamilyMask": 1
+		},
+		{
+			"entry": 17116,
+			"effectId": 0,
+			"SpellFamilyMask": 563087660810849
+		},
+		{
+			"entry": 38499,
+			"effectId": 0,
+			"SpellFamilyMask": 549755813888
+		},
+		{
+			"entry": 38501,
+			"effectId": 0,
+			"SpellFamilyMask": 128
+		},
+		{
+			"entry": 38522,
+			"effectId": 0,
+			"SpellFamilyMask": 1073741824
+		},
+		{
+			"entry": 31672,
+			"effectId": 0,
+			"SpellFamilyMask": 21474836992
+		},
+		{
+			"entry": 31670,
+			"effectId": 0,
+			"SpellFamilyMask": 21474836992
+		},
+		{
+			"entry": 16086,
+			"effectId": 1,
+			"SpellFamilyMask": 32
+		},
+		{
+			"entry": 16086,
+			"effectId": 2,
+			"SpellFamilyMask": 4
+		},
+		{
+			"entry": 20216,
+			"effectId": 0,
+			"SpellFamilyMask": 281478200033280
+		},
+		{
+			"entry": 20224,
+			"effectId": 0,
+			"SpellFamilyMask": 134218752
+		},
+		{
+			"entry": 20225,
+			"effectId": 0,
+			"SpellFamilyMask": 134218752
+		},
+		{
+			"entry": 20330,
+			"effectId": 0,
+			"SpellFamilyMask": 134218752
+		},
+		{
+			"entry": 20331,
+			"effectId": 0,
+			"SpellFamilyMask": 134218752
+		},
+		{
+			"entry": 20332,
+			"effectId": 0,
+			"SpellFamilyMask": 134218752
+		},
+		{
+			"entry": 41026,
+			"effectId": 1,
+			"SpellFamilyMask": 274877906944
+		},
+		{
+			"entry": 41026,
+			"effectId": 0,
+			"SpellFamilyMask": 274877906944
+		},
+		{
+			"entry": 41021,
+			"effectId": 1,
+			"SpellFamilyMask": 274877906944
+		},
+		{
+			"entry": 41021,
+			"effectId": 0,
+			"SpellFamilyMask": 274877906944
+		},
+		{
+			"entry": 37880,
+			"effectId": 0,
+			"SpellFamilyMask": 17465351744
+		},
+		{
+			"entry": 16947,
+			"effectId": 1,
+			"SpellFamilyMask": 33554432
+		},
+		{
+			"entry": 16948,
+			"effectId": 1,
+			"SpellFamilyMask": 33554432
+		},
+		{
+			"entry": 16949,
+			"effectId": 1,
+			"SpellFamilyMask": 33554432
+		},
+		{
+			"entry": 17104,
+			"effectId": 0,
+			"SpellFamilyMask": 68719476976
+		},
+		{
+			"entry": 17104,
+			"effectId": 1,
+			"SpellFamilyMask": 68719476976
+		},
+		{
+			"entry": 24943,
+			"effectId": 0,
+			"SpellFamilyMask": 68719476976
+		},
+		{
+			"entry": 24943,
+			"effectId": 1,
+			"SpellFamilyMask": 68719476976
+		},
+		{
+			"entry": 24944,
+			"effectId": 0,
+			"SpellFamilyMask": 68719476976
+		},
+		{
+			"entry": 24944,
+			"effectId": 1,
+			"SpellFamilyMask": 68719476976
+		},
+		{
+			"entry": 24945,
+			"effectId": 0,
+			"SpellFamilyMask": 68719476976
+		},
+		{
+			"entry": 24945,
+			"effectId": 1,
+			"SpellFamilyMask": 68719476976
+		},
+		{
+			"entry": 24946,
+			"effectId": 0,
+			"SpellFamilyMask": 68719476976
+		},
+		{
+			"entry": 24946,
+			"effectId": 1,
+			"SpellFamilyMask": 68719476976
+		},
+		{
+			"entry": 37721,
+			"effectId": 0,
+			"SpellFamilyMask": 68719476976
+		},
+		{
+			"entry": 42367,
+			"effectId": 0,
+			"SpellFamilyMask": 68719476736
+		},
+		{
+			"entry": 38447,
+			"effectId": 0,
+			"SpellFamilyMask": 4398046511104
+		},
+		{
+			"entry": 38447,
+			"effectId": 1,
+			"SpellFamilyMask": 274877906944
+		},
+		{
+			"entry": 39926,
+			"effectId": 1,
+			"SpellFamilyMask": 8796093022208
+		},
+		{
+			"entry": 39926,
+			"effectId": 2,
+			"SpellFamilyMask": 35184372088832
+		},
+		{
+			"entry": 37736,
+			"effectId": 0,
+			"SpellFamilyMask": 4398046511104
+		},
+		{
+			"entry": 37736,
+			"effectId": 1,
+			"SpellFamilyMask": 274877906944
+		},
+		{
+			"entry": 28855,
+			"effectId": 0,
+			"SpellFamilyMask": 2048
+		},
+		{
+			"entry": 28855,
+			"effectId": 1,
+			"SpellFamilyMask": 4503599627370496
+		},
+		{
+			"entry": 16886,
+			"effectId": 0,
+			"SpellFamilyMask": 16777829
+		},
+		{
+			"entry": 34453,
+			"effectId": 1,
+			"SpellFamilyMask": 17179869184
+		},
+		{
+			"entry": 34454,
+			"effectId": 1,
+			"SpellFamilyMask": 17179869184
+		},
+		{
+			"entry": 34462,
+			"effectId": 1,
+			"SpellFamilyMask": 34359738368
+		},
+		{
+			"entry": 34464,
+			"effectId": 1,
+			"SpellFamilyMask": 34359738368
+		},
+		{
+			"entry": 34465,
+			"effectId": 1,
+			"SpellFamilyMask": 34359738368
+		},
+		{
+			"entry": 19239,
+			"effectId": 0,
+			"SpellFamilyMask": 24
+		},
+		{
+			"entry": 19239,
+			"effectId": 1,
+			"SpellFamilyMask": 4
+		},
+		{
+			"entry": 19245,
+			"effectId": 1,
+			"SpellFamilyMask": 35184372088836
+		},
+		{
+			"entry": 19245,
+			"effectId": 0,
+			"SpellFamilyMask": 24
+		},
+		{
+			"entry": 34455,
+			"effectId": 0,
+			"SpellFamilyMask": 137438953472
+		},
+		{
+			"entry": 34455,
+			"effectId": 1,
+			"SpellFamilyMask": 274877906944
+		},
+		{
+			"entry": 34459,
+			"effectId": 0,
+			"SpellFamilyMask": 137438953472
+		},
+		{
+			"entry": 34459,
+			"effectId": 1,
+			"SpellFamilyMask": 274877906944
+		},
+		{
+			"entry": 34460,
+			"effectId": 0,
+			"SpellFamilyMask": 137438953472
+		},
+		{
+			"entry": 34460,
+			"effectId": 1,
+			"SpellFamilyMask": 274877906944
+		},
+		{
+			"entry": 35029,
+			"effectId": 1,
+			"SpellFamilyMask": 8796093022208
+		},
+		{
+			"entry": 35030,
+			"effectId": 1,
+			"SpellFamilyMask": 8796093022208
+		},
+		{
+			"entry": 19572,
+			"effectId": 1,
+			"SpellFamilyMask": 8388608
+		},
+		{
+			"entry": 19573,
+			"effectId": 1,
+			"SpellFamilyMask": 8388608
+		},
+		{
+			"entry": 19490,
+			"effectId": 0,
+			"SpellFamilyMask": 4295366657
+		},
+		{
+			"entry": 19489,
+			"effectId": 0,
+			"SpellFamilyMask": 4295366657
+		},
+		{
+			"entry": 19488,
+			"effectId": 0,
+			"SpellFamilyMask": 4295366657
+		},
+		{
+			"entry": 19487,
+			"effectId": 0,
+			"SpellFamilyMask": 4295366657
+		},
+		{
+			"entry": 19485,
+			"effectId": 0,
+			"SpellFamilyMask": 4295366657
+		},
+		{
+			"entry": 37508,
+			"effectId": 0,
+			"SpellFamilyMask": 4295366656
+		},
+		{
+			"entry": 33421,
+			"effectId": 0,
+			"SpellFamilyMask": 8589934592
+		},
+		{
+			"entry": 33713,
+			"effectId": 0,
+			"SpellFamilyMask": 8589934592
+		},
+		{
+			"entry": 33714,
+			"effectId": 0,
+			"SpellFamilyMask": 8589934592
+		},
+		{
+			"entry": 31685,
+			"effectId": 1,
+			"SpellFamilyMask": 32
+		},
+		{
+			"entry": 24429,
+			"effectId": 0,
+			"SpellFamilyMask": 16384
+		},
+		{
+			"entry": 43857,
+			"effectId": 0,
+			"SpellFamilyMask": 68719476736
+		},
+		{
+			"entry": 43858,
+			"effectId": 0,
+			"SpellFamilyMask": 68719476736
+		},
+		{
+			"entry": 43859,
+			"effectId": 0,
+			"SpellFamilyMask": 68719476736
+		},
+		{
+			"entry": 43860,
+			"effectId": 0,
+			"SpellFamilyMask": 2416967680
+		},
+		{
+			"entry": 43861,
+			"effectId": 0,
+			"SpellFamilyMask": 2416967680
+		},
+		{
+			"entry": 43862,
+			"effectId": 0,
+			"SpellFamilyMask": 2416967680
+		},
+		{
+			"entry": 28787,
+			"effectId": 0,
+			"SpellFamilyMask": 4096
+		},
+		{
+			"entry": 41042,
+			"effectId": 0,
+			"SpellFamilyMask": 8388608
+		},
+		{
+			"entry": 43850,
+			"effectId": 0,
+			"SpellFamilyMask": 8388608
+		},
+		{
+			"entry": 43851,
+			"effectId": 0,
+			"SpellFamilyMask": 8388608
+		},
+		{
+			"entry": 43852,
+			"effectId": 0,
+			"SpellFamilyMask": 8388608
+		},
+		{
+			"entry": 43854,
+			"effectId": 0,
+			"SpellFamilyMask": 274877906944
+		},
+		{
+			"entry": 43855,
+			"effectId": 0,
+			"SpellFamilyMask": 274877906944
+		},
+		{
+			"entry": 43856,
+			"effectId": 0,
+			"SpellFamilyMask": 274877906944
+		},
+		{
+			"entry": 41037,
+			"effectId": 0,
+			"SpellFamilyMask": 4672924418048
+		},
+		{
+			"entry": 43840,
+			"effectId": 0,
+			"SpellFamilyMask": 4672924418048
+		},
+		{
+			"entry": 43842,
+			"effectId": 0,
+			"SpellFamilyMask": 4672924418048
+		},
+		{
+			"entry": 43843,
+			"effectId": 0,
+			"SpellFamilyMask": 4672924418048
+		},
+		{
+			"entry": 43841,
+			"effectId": 0,
+			"SpellFamilyMask": 2
+		},
+		{
+			"entry": 43844,
+			"effectId": 0,
+			"SpellFamilyMask": 2
+		},
+		{
+			"entry": 43845,
+			"effectId": 0,
+			"SpellFamilyMask": 2
+		},
+		{
+			"entry": 40460,
+			"effectId": 0,
+			"SpellFamilyMask": 38658768896
+		},
+		{
+			"entry": 28814,
+			"effectId": 0,
+			"SpellFamilyMask": 131072
+		},
+		{
+			"entry": 17768,
+			"effectId": 0,
+			"SpellFamilyMask": 1073741824
+		},
+		{
+			"entry": 17768,
+			"effectId": 1,
+			"SpellFamilyMask": 2147483648
+		},
+		{
+			"entry": 20249,
+			"effectId": 0,
+			"SpellFamilyMask": 1073741824
+		},
+		{
+			"entry": 20250,
+			"effectId": 0,
+			"SpellFamilyMask": 1073741824
+		},
+		{
+			"entry": 20251,
+			"effectId": 0,
+			"SpellFamilyMask": 1073741824
+		},
+		{
+			"entry": 24460,
+			"effectId": 0,
+			"SpellFamilyMask": 268435840
+		},
+		{
+			"entry": 20254,
+			"effectId": 0,
+			"SpellFamilyMask": 131072
+		},
+		{
+			"entry": 20254,
+			"effectId": 1,
+			"SpellFamilyMask": 131072
+		},
+		{
+			"entry": 20254,
+			"effectId": 2,
+			"SpellFamilyMask": 131072
+		},
+		{
+			"entry": 20255,
+			"effectId": 0,
+			"SpellFamilyMask": 131072
+		},
+		{
+			"entry": 20255,
+			"effectId": 1,
+			"SpellFamilyMask": 131072
+		},
+		{
+			"entry": 20255,
+			"effectId": 2,
+			"SpellFamilyMask": 131072
+		},
+		{
+			"entry": 20256,
+			"effectId": 0,
+			"SpellFamilyMask": 131072
+		},
+		{
+			"entry": 20256,
+			"effectId": 1,
+			"SpellFamilyMask": 131072
+		},
+		{
+			"entry": 20256,
+			"effectId": 2,
+			"SpellFamilyMask": 131072
+		},
+		{
+			"entry": 38424,
+			"effectId": 0,
+			"SpellFamilyMask": 549755813888
+		},
+		{
+			"entry": 38421,
+			"effectId": 0,
+			"SpellFamilyMask": 17592186044416
+		},
+		{
+			"entry": 37187,
+			"effectId": 0,
+			"SpellFamilyMask": 2199023255552
+		},
+		{
+			"entry": 37184,
+			"effectId": 0,
+			"SpellFamilyMask": 4398180728832
+		},
+		{
+			"entry": 37184,
+			"effectId": 1,
+			"SpellFamilyMask": 4398180728832
+		},
+		{
+			"entry": 31826,
+			"effectId": 0,
+			"SpellFamilyMask": 4128
+		},
+		{
+			"entry": 31826,
+			"effectId": 1,
+			"SpellFamilyMask": 8589934592
+		},
+		{
+			"entry": 12945,
+			"effectId": 1,
+			"SpellFamilyMask": 4096
+		},
+		{
+			"entry": 35446,
+			"effectId": 0,
+			"SpellFamilyMask": 33554432
+		},
+		{
+			"entry": 35446,
+			"effectId": 1,
+			"SpellFamilyMask": 33554432
+		},
+		{
+			"entry": 35448,
+			"effectId": 0,
+			"SpellFamilyMask": 33554432
+		},
+		{
+			"entry": 35448,
+			"effectId": 1,
+			"SpellFamilyMask": 33554432
+		},
+		{
+			"entry": 35449,
+			"effectId": 0,
+			"SpellFamilyMask": 33554432
+		},
+		{
+			"entry": 35449,
+			"effectId": 1,
+			"SpellFamilyMask": 33554432
+		},
+		{
+			"entry": 35450,
+			"effectId": 0,
+			"SpellFamilyMask": 33554432
+		},
+		{
+			"entry": 35450,
+			"effectId": 1,
+			"SpellFamilyMask": 33554432
+		},
+		{
+			"entry": 35451,
+			"effectId": 0,
+			"SpellFamilyMask": 33554432
+		},
+		{
+			"entry": 35451,
+			"effectId": 1,
+			"SpellFamilyMask": 33554432
+		},
+		{
+			"entry": 38407,
+			"effectId": 0,
+			"SpellFamilyMask": 4294967296
+		},
+		{
+			"entry": 28842,
+			"effectId": 0,
+			"SpellFamilyMask": 4294984768
+		},
+		{
+			"entry": 16179,
+			"effectId": 0,
+			"SpellFamilyMask": 192
+		},
+		{
+			"entry": 16214,
+			"effectId": 0,
+			"SpellFamilyMask": 192
+		},
+		{
+			"entry": 16215,
+			"effectId": 0,
+			"SpellFamilyMask": 192
+		},
+		{
+			"entry": 16216,
+			"effectId": 0,
+			"SpellFamilyMask": 192
+		},
+		{
+			"entry": 16217,
+			"effectId": 0,
+			"SpellFamilyMask": 192
+		},
+		{
+			"entry": 20175,
+			"effectId": 0,
+			"SpellFamilyMask": 128
+		},
+		{
+			"entry": 20175,
+			"effectId": 1,
+			"SpellFamilyMask": 16
+		},
+		{
+			"entry": 11071,
+			"effectId": 0,
+			"SpellFamilyMask": 1048576
+		},
+		{
+			"entry": 12496,
+			"effectId": 0,
+			"SpellFamilyMask": 1048576
+		},
+		{
+			"entry": 16578,
+			"effectId": 0,
+			"SpellFamilyMask": 3
+		},
+		{
+			"entry": 16579,
+			"effectId": 0,
+			"SpellFamilyMask": 3
+		},
+		{
+			"entry": 16580,
+			"effectId": 0,
+			"SpellFamilyMask": 3
+		},
+		{
+			"entry": 16581,
+			"effectId": 0,
+			"SpellFamilyMask": 3
+		},
+		{
+			"entry": 16582,
+			"effectId": 0,
+			"SpellFamilyMask": 3
+		},
+		{
+			"entry": 43339,
+			"effectId": 0,
+			"SpellFamilyMask": 2416967680
+		},
+		{
+			"entry": 16246,
+			"effectId": 0,
+			"SpellFamilyMask": 2416967683
+		},
+		{
+			"entry": 37241,
+			"effectId": 0,
+			"SpellFamilyMask": 2199023255552
+		},
+		{
+			"entry": 34318,
+			"effectId": 1,
+			"SpellFamilyMask": 137438953472
+		},
+		{
+			"entry": 34318,
+			"effectId": 0,
+			"SpellFamilyMask": 1024
+		},
+		{
+			"entry": 21895,
+			"effectId": 0,
+			"SpellFamilyMask": 67362816
+		},
+		{
+			"entry": 39805,
+			"effectId": 0,
+			"SpellFamilyMask": 3
+		},
+		{
+			"entry": 30812,
+			"effectId": 0,
+			"SpellFamilyMask": 13712489976859
+		},
+		{
+			"entry": 30813,
+			"effectId": 0,
+			"SpellFamilyMask": 13712489976859
+		},
+		{
+			"entry": 30814,
+			"effectId": 0,
+			"SpellFamilyMask": 13712489976859
+		},
+		{
+			"entry": 12303,
+			"effectId": 1,
+			"SpellFamilyMask": 17592186044416
+		},
+		{
+			"entry": 12788,
+			"effectId": 1,
+			"SpellFamilyMask": 17592186044416
+		},
+		{
+			"entry": 12789,
+			"effectId": 1,
+			"SpellFamilyMask": 17592186044416
+		},
+		{
+			"entry": 33172,
+			"effectId": 0,
+			"SpellFamilyMask": 554050781184
+		},
+		{
+			"entry": 33171,
+			"effectId": 0,
+			"SpellFamilyMask": 554050781184
+		},
+		{
+			"entry": 33167,
+			"effectId": 0,
+			"SpellFamilyMask": 554050781184
+		},
+		{
+			"entry": 33186,
+			"effectId": 0,
+			"SpellFamilyMask": 549755813888
+		},
+		{
+			"entry": 33186,
+			"effectId": 1,
+			"SpellFamilyMask": 549755822208
+		},
+		{
+			"entry": 33190,
+			"effectId": 0,
+			"SpellFamilyMask": 549755813888
+		},
+		{
+			"entry": 33190,
+			"effectId": 1,
+			"SpellFamilyMask": 549755822208
+		},
+		{
+			"entry": 14913,
+			"effectId": 0,
+			"SpellFamilyMask": 17180139008
+		},
+		{
+			"entry": 15012,
+			"effectId": 0,
+			"SpellFamilyMask": 17180139008
+		},
+		{
+			"entry": 37706,
+			"effectId": 0,
+			"SpellFamilyMask": 17465351744
+		},
+		{
+			"entry": 37571,
+			"effectId": 1,
+			"SpellFamilyMask": 8388608
+		},
+		{
+			"entry": 14520,
+			"effectId": 0,
+			"SpellFamilyMask": 10324017267055
+		},
+		{
+			"entry": 14780,
+			"effectId": 0,
+			"SpellFamilyMask": 10324017267055
+		},
+		{
+			"entry": 14781,
+			"effectId": 0,
+			"SpellFamilyMask": 10324017267055
+		},
+		{
+			"entry": 14782,
+			"effectId": 0,
+			"SpellFamilyMask": 10324017267055
+		},
+		{
+			"entry": 14783,
+			"effectId": 0,
+			"SpellFamilyMask": 10324017267055
+		},
+		{
+			"entry": 28808,
+			"effectId": 0,
+			"SpellFamilyMask": 17465351744
+		},
+		{
+			"entry": 14912,
+			"effectId": 0,
+			"SpellFamilyMask": 267264
+		},
+		{
+			"entry": 15013,
+			"effectId": 0,
+			"SpellFamilyMask": 267264
+		},
+		{
+			"entry": 15014,
+			"effectId": 0,
+			"SpellFamilyMask": 267264
+		},
+		{
+			"entry": 14747,
+			"effectId": 0,
+			"SpellFamilyMask": 2
+		},
+		{
+			"entry": 14770,
+			"effectId": 0,
+			"SpellFamilyMask": 2
+		},
+		{
+			"entry": 14771,
+			"effectId": 0,
+			"SpellFamilyMask": 2
+		},
+		{
+			"entry": 44297,
+			"effectId": 0,
+			"SpellFamilyMask": 65536
+		},
+		{
+			"entry": 18427,
+			"effectId": 0,
+			"SpellFamilyMask": 131078
+		},
+		{
+			"entry": 18428,
+			"effectId": 0,
+			"SpellFamilyMask": 131078
+		},
+		{
+			"entry": 18429,
+			"effectId": 0,
+			"SpellFamilyMask": 131078
+		},
+		{
+			"entry": 31216,
+			"effectId": 1,
+			"SpellFamilyMask": 33554436
+		},
+		{
+			"entry": 31217,
+			"effectId": 1,
+			"SpellFamilyMask": 33554436
+		},
+		{
+			"entry": 31218,
+			"effectId": 1,
+			"SpellFamilyMask": 33554436
+		},
+		{
+			"entry": 31219,
+			"effectId": 1,
+			"SpellFamilyMask": 33554436
+		},
+		{
+			"entry": 31220,
+			"effectId": 1,
+			"SpellFamilyMask": 33554436
+		},
+		{
+			"entry": 28746,
+			"effectId": 1,
+			"SpellFamilyMask": 4294968326
+		},
+		{
+			"entry": 5420,
+			"effectId": 2,
+			"SpellFamilyMask": 17669763891408
+		},
+		{
+			"entry": 32601,
+			"effectId": 1,
+			"SpellFamilyMask": 545259528
+		},
+		{
+			"entry": 14076,
+			"effectId": 0,
+			"SpellFamilyMask": 16777344
+		},
+		{
+			"entry": 14076,
+			"effectId": 1,
+			"SpellFamilyMask": 16777344
+		},
+		{
+			"entry": 14094,
+			"effectId": 0,
+			"SpellFamilyMask": 16777344
+		},
+		{
+			"entry": 14094,
+			"effectId": 1,
+			"SpellFamilyMask": 16777344
+		},
+		{
+			"entry": 14074,
+			"effectId": 0,
+			"SpellFamilyMask": 25769804548
+		},
+		{
+			"entry": 14075,
+			"effectId": 0,
+			"SpellFamilyMask": 25769804548
+		},
+		{
+			"entry": 40389,
+			"effectId": 0,
+			"SpellFamilyMask": 140737488355328
+		},
+		{
+			"entry": 28815,
+			"effectId": 0,
+			"SpellFamilyMask": 33554438
+		},
+		{
+			"entry": 36563,
+			"effectId": 1,
+			"SpellFamilyMask": 516
+		},
+		{
+			"entry": 36563,
+			"effectId": 2,
+			"SpellFamilyMask": 256
+		},
+		{
+			"entry": 29888,
+			"effectId": 0,
+			"SpellFamilyMask": 1073741824
+		},
+		{
+			"entry": 29889,
+			"effectId": 0,
+			"SpellFamilyMask": 1073741824
+		},
+		{
+			"entry": 30143,
+			"effectId": 0,
+			"SpellFamilyMask": 137438953472
+		},
+		{
+			"entry": 30144,
+			"effectId": 0,
+			"SpellFamilyMask": 137438953472
+		},
+		{
+			"entry": 30145,
+			"effectId": 0,
+			"SpellFamilyMask": 137438953472
+		},
+		{
+			"entry": 30319,
+			"effectId": 1,
+			"SpellFamilyMask": 70368744177664
+		},
+		{
+			"entry": 30320,
+			"effectId": 1,
+			"SpellFamilyMask": 70368744177664
+		},
+		{
+			"entry": 30321,
+			"effectId": 1,
+			"SpellFamilyMask": 70368744177664
+		},
+		{
+			"entry": 33063,
+			"effectId": 0,
+			"SpellFamilyMask": 4398046511104
+		},
+		{
+			"entry": 30242,
+			"effectId": 0,
+			"SpellFamilyMask": 35184372088832
+		},
+		{
+			"entry": 30245,
+			"effectId": 0,
+			"SpellFamilyMask": 35184372088832
+		},
+		{
+			"entry": 30246,
+			"effectId": 0,
+			"SpellFamilyMask": 35184372088832
+		},
+		{
+			"entry": 30247,
+			"effectId": 0,
+			"SpellFamilyMask": 35184372088832
+		},
+		{
+			"entry": 30248,
+			"effectId": 0,
+			"SpellFamilyMask": 35184372088832
+		},
+		{
+			"entry": 32477,
+			"effectId": 0,
+			"SpellFamilyMask": 2199023255552
+		},
+		{
+			"entry": 32483,
+			"effectId": 0,
+			"SpellFamilyMask": 2199023255552
+		},
+		{
+			"entry": 32484,
+			"effectId": 0,
+			"SpellFamilyMask": 2199023255552
+		},
+		{
+			"entry": 18372,
+			"effectId": 1,
+			"SpellFamilyMask": 148552186381338
+		},
+		{
+			"entry": 12295,
+			"effectId": 1,
+			"SpellFamilyMask": 33554432
+		},
+		{
+			"entry": 12295,
+			"effectId": 2,
+			"SpellFamilyMask": 4398046511104
+		},
+		{
+			"entry": 12676,
+			"effectId": 1,
+			"SpellFamilyMask": 33554432
+		},
+		{
+			"entry": 12676,
+			"effectId": 2,
+			"SpellFamilyMask": 4398046511104
+		},
+		{
+			"entry": 12677,
+			"effectId": 1,
+			"SpellFamilyMask": 33554432
+		},
+		{
+			"entry": 12677,
+			"effectId": 2,
+			"SpellFamilyMask": 4398046511104
+		},
+		{
+			"entry": 12308,
+			"effectId": 0,
+			"SpellFamilyMask": 16384
+		},
+		{
+			"entry": 12810,
+			"effectId": 0,
+			"SpellFamilyMask": 16384
+		},
+		{
+			"entry": 12811,
+			"effectId": 0,
+			"SpellFamilyMask": 16384
+		},
+		{
+			"entry": 14066,
+			"effectId": 0,
+			"SpellFamilyMask": 16777216
+		},
+		{
+			"entry": 14066,
+			"effectId": 1,
+			"SpellFamilyMask": 2048
+		},
+		{
+			"entry": 14785,
+			"effectId": 2,
+			"SpellFamilyMask": 139589583211
+		},
+		{
+			"entry": 14786,
+			"effectId": 1,
+			"SpellFamilyMask": 139589583211
+		},
+		{
+			"entry": 14786,
+			"effectId": 2,
+			"SpellFamilyMask": 139589583211
+		},
+		{
+			"entry": 14787,
+			"effectId": 1,
+			"SpellFamilyMask": 139589583211
+		},
+		{
+			"entry": 14787,
+			"effectId": 2,
+			"SpellFamilyMask": 139589583211
+		},
+		{
+			"entry": 29759,
+			"effectId": 1,
+			"SpellFamilyMask": 8097866108655
+		},
+		{
+			"entry": 29760,
+			"effectId": 1,
+			"SpellFamilyMask": 8097866108655
+		},
+		{
+			"entry": 29761,
+			"effectId": 1,
+			"SpellFamilyMask": 8097866108655
+		},
+		{
+			"entry": 29762,
+			"effectId": 1,
+			"SpellFamilyMask": 8097866108655
+		},
+		{
+			"entry": 29763,
+			"effectId": 1,
+			"SpellFamilyMask": 8097866108655
+		},
+		{
+			"entry": 34466,
+			"effectId": 1,
+			"SpellFamilyMask": 68719476736
+		},
+		{
+			"entry": 34467,
+			"effectId": 1,
+			"SpellFamilyMask": 68719476736
+		},
+		{
+			"entry": 34468,
+			"effectId": 1,
+			"SpellFamilyMask": 68719476736
+		},
+		{
+			"entry": 34469,
+			"effectId": 1,
+			"SpellFamilyMask": 68719476736
+		},
+		{
+			"entry": 34470,
+			"effectId": 1,
+			"SpellFamilyMask": 68719476736
+		},
+		{
+			"entry": 37209,
+			"effectId": 0,
+			"SpellFamilyMask": 1024
+		},
+		{
+			"entry": 37209,
+			"effectId": 1,
+			"SpellFamilyMask": 137438953472
+		},
+		{
+			"entry": 44301,
+			"effectId": 0,
+			"SpellFamilyMask": 16777216
+		},
+		{
+			"entry": 44302,
+			"effectId": 0,
+			"SpellFamilyMask": 16777216
+		},
+		{
+			"entry": 37424,
+			"effectId": 0,
+			"SpellFamilyMask": 32768
+		},
+		{
+			"entry": 23047,
+			"effectId": 0,
+			"SpellFamilyMask": 4398046511104
+		},
+		{
+			"entry": 23047,
+			"effectId": 1,
+			"SpellFamilyMask": 4398046511104
+		},
+		{
+			"entry": 23158,
+			"effectId": 0,
+			"SpellFamilyMask": 512
+		},
+		{
+			"entry": 23561,
+			"effectId": 0,
+			"SpellFamilyMask": 16384
+		},
+		{
+			"entry": 23566,
+			"effectId": 0,
+			"SpellFamilyMask": 4096
+		},
+		{
+			"entry": 14143,
+			"effectId": 0,
+			"SpellFamilyMask": 67109382
+		},
+		{
+			"entry": 24469,
+			"effectId": 0,
+			"SpellFamilyMask": 16777216
+		},
+		{
+			"entry": 26106,
+			"effectId": 0,
+			"SpellFamilyMask": 268435456
+		},
+		{
+			"entry": 26112,
+			"effectId": 0,
+			"SpellFamilyMask": 32
+		},
+		{
+			"entry": 44300,
+			"effectId": 0,
+			"SpellFamilyMask": 140737488355328
+		},
+		{
+			"entry": 37763,
+			"effectId": 0,
+			"SpellFamilyMask": 140737488355328
+		},
+		{
+			"entry": 43725,
+			"effectId": 0,
+			"SpellFamilyMask": 68719476736
+		},
+		{
+			"entry": 43736,
+			"effectId": 0,
+			"SpellFamilyMask": 16
+		},
+		{
+			"entry": 43752,
+			"effectId": 0,
+			"SpellFamilyMask": 256
+		},
+		{
+			"entry": 44292,
+			"effectId": 0,
+			"SpellFamilyMask": 4096
+		},
+		{
+			"entry": 44295,
+			"effectId": 0,
+			"SpellFamilyMask": 2416967680
+		},
+		{
+			"entry": 44296,
+			"effectId": 0,
+			"SpellFamilyMask": 1
+		},
+		{
+			"entry": 44299,
+			"effectId": 0,
+			"SpellFamilyMask": 262144
+		},
+		{
+			"entry": 46090,
+			"effectId": 0,
+			"SpellFamilyMask": 2
+		},
+		{
+			"entry": 46100,
+			"effectId": 0,
+			"SpellFamilyMask": 68719476736
+		},
+		{
+			"entry": 46088,
+			"effectId": 0,
+			"SpellFamilyMask": 4672924418048
+		},
+		{
+			"entry": 46091,
+			"effectId": 0,
+			"SpellFamilyMask": 8388608
+		},
+		{
+			"entry": 46095,
+			"effectId": 0,
+			"SpellFamilyMask": 274877906944
+		},
+		{
+			"entry": 46851,
+			"effectId": 0,
+			"SpellFamilyMask": 281474976710656
+		},
+		{
+			"entry": 46096,
+			"effectId": 0,
+			"SpellFamilyMask": 68719476736
+		},
+		{
+			"entry": 46097,
+			"effectId": 0,
+			"SpellFamilyMask": 2416967680
+		},
+		{
+			"entry": 16188,
+			"effectId": 0,
+			"SpellFamilyMask": 2499
+		},
+		{
+			"entry": 43743,
+			"effectId": 1,
+			"SpellFamilyMask": 134218752
+		},
+		{
+			"entry": 13733,
+			"effectId": 0,
+			"SpellFamilyMask": 4
+		},
+		{
+			"entry": 13733,
+			"effectId": 1,
+			"SpellFamilyMask": 17179869184
+		},
+		{
+			"entry": 13865,
+			"effectId": 0,
+			"SpellFamilyMask": 4
+		},
+		{
+			"entry": 13865,
+			"effectId": 1,
+			"SpellFamilyMask": 17179869184
+		},
+		{
+			"entry": 13866,
+			"effectId": 0,
+			"SpellFamilyMask": 4
+		},
+		{
+			"entry": 13866,
+			"effectId": 1,
+			"SpellFamilyMask": 17179869184
+		},
+		{
+			"entry": 46834,
+			"effectId": 0,
+			"SpellFamilyMask": 64
+		},
+		{
+			"entry": 46833,
+			"effectId": 0,
+			"SpellFamilyMask": 4
+		},
+		{
+			"entry": 12472,
+			"effectId": 1,
+			"SpellFamilyMask": 3829401765
+		},
+		{
+			"entry": 17954,
+			"effectId": 2,
+			"SpellFamilyMask": 274877906944
+		},
+		{
+			"entry": 17955,
+			"effectId": 2,
+			"SpellFamilyMask": 274877906944
+		},
+		{
+			"entry": 17956,
+			"effectId": 2,
+			"SpellFamilyMask": 274877906944
+		},
+		{
+			"entry": 17957,
+			"effectId": 2,
+			"SpellFamilyMask": 274877906944
+		},
+		{
+			"entry": 17958,
+			"effectId": 2,
+			"SpellFamilyMask": 274877906944
+		},
+		{
+			"entry": 16757,
+			"effectId": 1,
+			"SpellFamilyMask": 576
+		},
+		{
+			"entry": 16758,
+			"effectId": 1,
+			"SpellFamilyMask": 576
+		},
+		{
+			"entry": 17904,
+			"effectId": 0,
+			"SpellFamilyMask": 0
+		},
+		{
+			"entry": 17912,
+			"effectId": 0,
+			"SpellFamilyMask": 0
+		},
+		{
+			"entry": 17913,
+			"effectId": 0,
+			"SpellFamilyMask": 0
+		},
+		{
+			"entry": 17914,
+			"effectId": 0,
+			"SpellFamilyMask": 0
+		},
+		{
+			"entry": 17915,
+			"effectId": 0,
+			"SpellFamilyMask": 0
+		},
+		{
+			"entry": 17916,
+			"effectId": 0,
+			"SpellFamilyMask": 0
+		},
+		{
+			"entry": 21899,
+			"effectId": 0,
+			"SpellFamilyMask": 256
+		},
+		{
+			"entry": 24542,
+			"effectId": 1,
+			"SpellFamilyMask": 240
+		},
+		{
+			"entry": 24546,
+			"effectId": 1,
+			"SpellFamilyMask": 17180139008
+		},
+		{
+			"entry": 29187,
+			"effectId": 1,
+			"SpellFamilyMask": 1143698254726992
+		},
+		{
+			"entry": 29189,
+			"effectId": 1,
+			"SpellFamilyMask": 1143698254726992
+		},
+		{
+			"entry": 29191,
+			"effectId": 1,
+			"SpellFamilyMask": 1143698254726992
+		},
+		{
+			"entry": 39805,
+			"effectId": 1,
+			"SpellFamilyMask": 3
+		},
+		{
+			"entry": 44293,
+			"effectId": 0,
+			"SpellFamilyMask": 512
+		},
+		{
+			"entry": 30017,
+			"effectId": 0,
+			"SpellFamilyMask": 0
+		},
+		{
+			"entry": 30280,
+			"effectId": 0,
+			"SpellFamilyMask": 0
+		},
+		{
+			"entry": 44373,
+			"effectId": 0,
+			"SpellFamilyMask": 0
+		},
+		{
+			"entry": 34520,
+			"effectId": 1,
+			"SpellFamilyMask": 0
+		},
+		{
+			"entry": 37508,
+			"effectId": 1,
+			"SpellFamilyMask": 0
+		},
+		{
+			"entry": 32601,
+			"effectId": 0,
+			"SpellFamilyMask": 38658768896
+		},
+		{
+			"entry": 44452,
+			"effectId": 1,
+			"SpellFamilyMask": 16384
+		},
+		{
+			"entry": 11170,
+			"effectId": 0,
+			"SpellFamilyMask": 35047512823
+		},
+		{
+			"entry": 12982,
+			"effectId": 0,
+			"SpellFamilyMask": 35047512823
+		},
+		{
+			"entry": 12983,
+			"effectId": 0,
+			"SpellFamilyMask": 35047512823
+		},
+		{
+			"entry": 12984,
+			"effectId": 0,
+			"SpellFamilyMask": 35047512823
+		},
+		{
+			"entry": 12985,
+			"effectId": 0,
+			"SpellFamilyMask": 35047512823
+		},
+		{
+			"entry": 31679,
+			"effectId": 0,
+			"SpellFamilyMask": 35047512823
+		},
+		{
+			"entry": 31680,
+			"effectId": 0,
+			"SpellFamilyMask": 35047512823
+		},
+		{
+			"entry": 17804,
+			"effectId": 1,
+			"SpellFamilyMask": 8
+		},
+		{
+			"entry": 17805,
+			"effectId": 1,
+			"SpellFamilyMask": 8
+		}
+	]
+}

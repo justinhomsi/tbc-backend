@@ -1,0 +1,8006 @@
+{
+	"table": "creature_model_info",
+	"rows":
+	[
+		{
+			"modelid": 4,
+			"bounding_radius": 2,
+			"combat_reach": 3,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 13,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 14,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 15,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 16,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 17,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 18,
+			"bounding_radius": 2,
+			"combat_reach": 3,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 19,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 20,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 21,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 22,
+			"bounding_radius": 2,
+			"combat_reach": 2.21,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 23,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 26,
+			"bounding_radius": 0.66,
+			"combat_reach": 1.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 30,
+			"bounding_radius": 0.767017,
+			"combat_reach": 0.615254,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 31,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 33,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 38,
+			"bounding_radius": 0.7751,
+			"combat_reach": 1.725,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 39,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 40,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 42,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 16126,
+			"bounding_radius": 1,
+			"combat_reach": 1.5,
+			"gender": 1,
+			"modelid_other_gender": 16125,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 16125,
+			"bounding_radius": 1,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 16126,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 15476,
+			"bounding_radius": 0.383,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 15475,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 15475,
+			"bounding_radius": 0.383,
+			"combat_reach": 1.5,
+			"gender": 1,
+			"modelid_other_gender": 15476,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 10045,
+			"bounding_radius": 1,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1564,
+			"bounding_radius": 0.3519,
+			"combat_reach": 1.5,
+			"gender": 1,
+			"modelid_other_gender": 1563,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1563,
+			"bounding_radius": 0.3519,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 1564,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1479,
+			"bounding_radius": 0.306,
+			"combat_reach": 1.5,
+			"gender": 1,
+			"modelid_other_gender": 1478,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1478,
+			"bounding_radius": 0.306,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 1479,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 60,
+			"bounding_radius": 0.8725,
+			"combat_reach": 1.5,
+			"gender": 1,
+			"modelid_other_gender": 59,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 59,
+			"bounding_radius": 0.9747,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 60,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 58,
+			"bounding_radius": 0.383,
+			"combat_reach": 1.5,
+			"gender": 1,
+			"modelid_other_gender": 57,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 62,
+			"bounding_radius": 2,
+			"combat_reach": 4.2,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 64,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 65,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 68,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 69,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 71,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 73,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 74,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 79,
+			"bounding_radius": 1,
+			"combat_reach": 1,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 80,
+			"bounding_radius": 2,
+			"combat_reach": 3,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 86,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 87,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 88,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 89,
+			"bounding_radius": 1,
+			"combat_reach": 1,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 91,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 92,
+			"bounding_radius": 1.77,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 93,
+			"bounding_radius": 2,
+			"combat_reach": 3,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 94,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 95,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 96,
+			"bounding_radius": 2,
+			"combat_reach": 3,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 97,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 98,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 99,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 100,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 101,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 102,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 103,
+			"bounding_radius": 2,
+			"combat_reach": 3,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 104,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 105,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 106,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 107,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 108,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 109,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 110,
+			"bounding_radius": 0.45834,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 112,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 113,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 115,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 123,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 125,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 126,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 127,
+			"bounding_radius": 2,
+			"combat_reach": 3,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 128,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 129,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 130,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 134,
+			"bounding_radius": 1.3,
+			"combat_reach": 1.95,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 137,
+			"bounding_radius": 0.533,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 138,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 139,
+			"bounding_radius": 0.66,
+			"combat_reach": 1.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 140,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 141,
+			"bounding_radius": 1.389,
+			"combat_reach": 2,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 143,
+			"bounding_radius": 1.967,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 145,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 146,
+			"bounding_radius": 1,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 148,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 149,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 150,
+			"bounding_radius": 1,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 151,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 152,
+			"bounding_radius": 0.221,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 157,
+			"bounding_radius": 0.5,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 158,
+			"bounding_radius": 0.394,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 159,
+			"bounding_radius": 0.403,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 160,
+			"bounding_radius": 0.805,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 161,
+			"bounding_radius": 1.5,
+			"combat_reach": 1.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 162,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 163,
+			"bounding_radius": 0.66,
+			"combat_reach": 1.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 164,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 165,
+			"bounding_radius": 1.5,
+			"combat_reach": 1.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 166,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 167,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 168,
+			"bounding_radius": 1.345,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 169,
+			"bounding_radius": 0.903,
+			"combat_reach": 2,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 170,
+			"bounding_radius": 4.21,
+			"combat_reach": 4,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 171,
+			"bounding_radius": 1.389,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 172,
+			"bounding_radius": 0.71,
+			"combat_reach": 1.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 173,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 174,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 175,
+			"bounding_radius": 0.376,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 176,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 1,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 177,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 178,
+			"bounding_radius": 0.674,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 179,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 180,
+			"bounding_radius": 0.71109,
+			"combat_reach": 0.994068,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 181,
+			"bounding_radius": 2,
+			"combat_reach": 3.43,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 182,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 184,
+			"bounding_radius": 0.327,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 186,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 188,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 190,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 191,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 193,
+			"bounding_radius": 1.176,
+			"combat_reach": 1,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 194,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 195,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 196,
+			"bounding_radius": 1.967,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 197,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 198,
+			"bounding_radius": 2,
+			"combat_reach": 3.15,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 200,
+			"bounding_radius": 0.3349,
+			"combat_reach": 1.275,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 201,
+			"bounding_radius": 0.394,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 202,
+			"bounding_radius": 0.807,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 203,
+			"bounding_radius": 0.807,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 204,
+			"bounding_radius": 0.376,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 207,
+			"bounding_radius": 0.42,
+			"combat_reach": 1.8,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 208,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 210,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 211,
+			"bounding_radius": 0.208,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 212,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 213,
+			"bounding_radius": 2,
+			"combat_reach": 2.21,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 214,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 215,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 218,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 221,
+			"bounding_radius": 1,
+			"combat_reach": 1,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 224,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 225,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 226,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 227,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 228,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 229,
+			"bounding_radius": 1,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 231,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 232,
+			"bounding_radius": 2,
+			"combat_reach": 3,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 235,
+			"bounding_radius": 2,
+			"combat_reach": 2.21,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 236,
+			"bounding_radius": 1,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 237,
+			"bounding_radius": 1,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 238,
+			"bounding_radius": 1,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 239,
+			"bounding_radius": 2,
+			"combat_reach": 3,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 240,
+			"bounding_radius": 0.376,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 242,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 243,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 244,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 245,
+			"bounding_radius": 0.87,
+			"combat_reach": 1.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 246,
+			"bounding_radius": 1,
+			"combat_reach": 1.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 247,
+			"bounding_radius": 0.42,
+			"combat_reach": 1.8,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 251,
+			"bounding_radius": 1,
+			"combat_reach": 1,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 252,
+			"bounding_radius": 1,
+			"combat_reach": 1,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 257,
+			"bounding_radius": 1,
+			"combat_reach": 1,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 258,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 262,
+			"bounding_radius": 1,
+			"combat_reach": 1,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 263,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 267,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 268,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 269,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 275,
+			"bounding_radius": 0.5,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 277,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 278,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 280,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 282,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 283,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 285,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 286,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 295,
+			"bounding_radius": 1,
+			"combat_reach": 2,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 298,
+			"bounding_radius": 0.6525,
+			"combat_reach": 1.875,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 299,
+			"bounding_radius": 0.6525,
+			"combat_reach": 1.875,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 300,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 301,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 302,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 304,
+			"bounding_radius": 0.145,
+			"combat_reach": 1,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 308,
+			"bounding_radius": 0.306,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 309,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 310,
+			"bounding_radius": 0.306,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 312,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 314,
+			"bounding_radius": 0.6525,
+			"combat_reach": 1.875,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 316,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 317,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 320,
+			"bounding_radius": 0.795,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 321,
+			"bounding_radius": 0.795,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 322,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 326,
+			"bounding_radius": 1,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 327,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 328,
+			"bounding_radius": 0.235,
+			"combat_reach": 1,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 330,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 332,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 336,
+			"bounding_radius": 0.66,
+			"combat_reach": 1.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 337,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 338,
+			"bounding_radius": 1,
+			"combat_reach": 1,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 341,
+			"bounding_radius": 0.306,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 342,
+			"bounding_radius": 1,
+			"combat_reach": 1.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 344,
+			"bounding_radius": 1,
+			"combat_reach": 1,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 346,
+			"bounding_radius": 0.417,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 347,
+			"bounding_radius": 1,
+			"combat_reach": 1.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 348,
+			"bounding_radius": 1,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 351,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 352,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 355,
+			"bounding_radius": 0.5,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 358,
+			"bounding_radius": 0.599,
+			"combat_reach": 1.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 360,
+			"bounding_radius": 0.599,
+			"combat_reach": 1.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 363,
+			"bounding_radius": 1.967,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 365,
+			"bounding_radius": 0.561,
+			"combat_reach": 1.0625,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 366,
+			"bounding_radius": 0.363,
+			"combat_reach": 0.6875,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 367,
+			"bounding_radius": 0.79645,
+			"combat_reach": 1.275,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 368,
+			"bounding_radius": 1.0285,
+			"combat_reach": 0.825,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 369,
+			"bounding_radius": 0.3336,
+			"combat_reach": 1.2,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 370,
+			"bounding_radius": 0.5122,
+			"combat_reach": 1.95,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 371,
+			"bounding_radius": 0.99,
+			"combat_reach": 1.875,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 372,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 373,
+			"bounding_radius": 0.759,
+			"combat_reach": 1.4375,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 374,
+			"bounding_radius": 0.5,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 375,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 376,
+			"bounding_radius": 0.4888,
+			"combat_reach": 1.95,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 377,
+			"bounding_radius": 0.753437,
+			"combat_reach": 0.640678,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 378,
+			"bounding_radius": 1.0307,
+			"combat_reach": 1.65,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 379,
+			"bounding_radius": 1.07755,
+			"combat_reach": 1.725,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 380,
+			"bounding_radius": 1.275,
+			"combat_reach": 1.0625,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 381,
+			"bounding_radius": 0.882,
+			"combat_reach": 0.75,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 382,
+			"bounding_radius": 0.272949,
+			"combat_reach": 0.516949,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 383,
+			"bounding_radius": 0.575,
+			"combat_reach": 1.725,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 384,
+			"bounding_radius": 0.4324,
+			"combat_reach": 1.725,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 385,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 386,
+			"bounding_radius": 0.72975,
+			"combat_reach": 2.625,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 387,
+			"bounding_radius": 0.2363,
+			"combat_reach": 1.0625,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 388,
+			"bounding_radius": 0.13,
+			"combat_reach": 1.625,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 389,
+			"bounding_radius": 0.882,
+			"combat_reach": 0.75,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 390,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 391,
+			"bounding_radius": 0.834,
+			"combat_reach": 3,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 397,
+			"bounding_radius": 0.417,
+			"combat_reach": 1.875,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 399,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 400,
+			"bounding_radius": 0.4865,
+			"combat_reach": 2.1875,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 410,
+			"bounding_radius": 0.085,
+			"combat_reach": 1.0625,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 413,
+			"bounding_radius": 0.4324,
+			"combat_reach": 1.725,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 414,
+			"bounding_radius": 0.6929,
+			"combat_reach": 1.95,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 415,
+			"bounding_radius": 0.893,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 416,
+			"bounding_radius": 1.4288,
+			"combat_reach": 2.4,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 418,
+			"bounding_radius": 1.309,
+			"combat_reach": 1.05,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 423,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 424,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 425,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 427,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 428,
+			"bounding_radius": 2,
+			"combat_reach": 3,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 429,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 430,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 433,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 441,
+			"bounding_radius": 0.417,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 447,
+			"bounding_radius": 1.05,
+			"combat_reach": 0.875,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 448,
+			"bounding_radius": 1.56275,
+			"combat_reach": 2.625,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 453,
+			"bounding_radius": 2,
+			"combat_reach": 2.56,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 456,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 457,
+			"bounding_radius": 0.556,
+			"combat_reach": 2.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 459,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 467,
+			"bounding_radius": 0.45,
+			"combat_reach": 1.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 470,
+			"bounding_radius": 2,
+			"combat_reach": 2.56,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 471,
+			"bounding_radius": 1.1925,
+			"combat_reach": 2.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 473,
+			"bounding_radius": 1.03,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 478,
+			"bounding_radius": 0.72975,
+			"combat_reach": 2.625,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 479,
+			"bounding_radius": 2,
+			"combat_reach": 2.56,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 480,
+			"bounding_radius": 2.69,
+			"combat_reach": 3,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 481,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 482,
+			"bounding_radius": 1.77,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 483,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 486,
+			"bounding_radius": 0.47955,
+			"combat_reach": 1.725,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 487,
+			"bounding_radius": 0.5,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 488,
+			"bounding_radius": 0.65,
+			"combat_reach": 1.95,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 489,
+			"bounding_radius": 0.376,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 490,
+			"bounding_radius": 0.075,
+			"combat_reach": 0.9375,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 491,
+			"bounding_radius": 0.4324,
+			"combat_reach": 1.725,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 492,
+			"bounding_radius": 0.4324,
+			"combat_reach": 1.725,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 493,
+			"bounding_radius": 0.4888,
+			"combat_reach": 1.95,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 494,
+			"bounding_radius": 0.65,
+			"combat_reach": 1.95,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 495,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 496,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 497,
+			"bounding_radius": 0.278,
+			"combat_reach": 1.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 498,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 499,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 500,
+			"bounding_radius": 0.4324,
+			"combat_reach": 1.725,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 501,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 502,
+			"bounding_radius": 0.4888,
+			"combat_reach": 1.95,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 503,
+			"bounding_radius": 0.745464,
+			"combat_reach": 0.633898,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 504,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 505,
+			"bounding_radius": 0.3197,
+			"combat_reach": 1.4375,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 506,
+			"bounding_radius": 0.72975,
+			"combat_reach": 2.625,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 507,
+			"bounding_radius": 2,
+			"combat_reach": 3.41,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 508,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 511,
+			"bounding_radius": 0.99,
+			"combat_reach": 1.875,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 512,
+			"bounding_radius": 0.3196,
+			"combat_reach": 1.275,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 513,
+			"bounding_radius": 0.760678,
+			"combat_reach": 0.61017,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 514,
+			"bounding_radius": 0.79645,
+			"combat_reach": 1.275,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 515,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 516,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 517,
+			"bounding_radius": 0.4512,
+			"combat_reach": 1.8,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 518,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 519,
+			"bounding_radius": 0.61295,
+			"combat_reach": 1.725,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 520,
+			"bounding_radius": 0.462,
+			"combat_reach": 0.875,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 522,
+			"bounding_radius": 1.0491,
+			"combat_reach": 1.95,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 523,
+			"bounding_radius": 2,
+			"combat_reach": 3.42,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 524,
+			"bounding_radius": 0.92805,
+			"combat_reach": 1.725,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 525,
+			"bounding_radius": 0.259726,
+			"combat_reach": 0.85,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 527,
+			"bounding_radius": 0.35445,
+			"combat_reach": 1.275,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 528,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 529,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 531,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 533,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 534,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 535,
+			"bounding_radius": 0.394,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 536,
+			"bounding_radius": 1.56275,
+			"combat_reach": 2.625,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 538,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 539,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 540,
+			"bounding_radius": 0.5421,
+			"combat_reach": 1.95,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 543,
+			"bounding_radius": 0.4888,
+			"combat_reach": 1.95,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 544,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 545,
+			"bounding_radius": 1.5895,
+			"combat_reach": 1.275,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 546,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 547,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 548,
+			"bounding_radius": 1.2181,
+			"combat_reach": 1.95,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 549,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 550,
+			"bounding_radius": 0.425,
+			"combat_reach": 1.275,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 551,
+			"bounding_radius": 0.575,
+			"combat_reach": 1.725,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 553,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 555,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 556,
+			"bounding_radius": 0.306,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 557,
+			"bounding_radius": 1.725,
+			"combat_reach": 1.4375,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 558,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 559,
+			"bounding_radius": 0.61295,
+			"combat_reach": 1.725,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 560,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 561,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 563,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 564,
+			"bounding_radius": 1.17015,
+			"combat_reach": 2.175,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 565,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 566,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 567,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 568,
+			"bounding_radius": 0.2714,
+			"combat_reach": 1.15,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 569,
+			"bounding_radius": 0.61295,
+			"combat_reach": 1.725,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 570,
+			"bounding_radius": 0.61295,
+			"combat_reach": 1.725,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 571,
+			"bounding_radius": 0.7995,
+			"combat_reach": 2.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 574,
+			"bounding_radius": 1.0491,
+			"combat_reach": 1.95,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 575,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 576,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 578,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 580,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 584,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 585,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 586,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 588,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 589,
+			"bounding_radius": 2,
+			"combat_reach": 2.51,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 590,
+			"bounding_radius": 2,
+			"combat_reach": 3,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 591,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 592,
+			"bounding_radius": 2,
+			"combat_reach": 3,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 593,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 597,
+			"bounding_radius": 1.4288,
+			"combat_reach": 2.4,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 598,
+			"bounding_radius": 0.712805,
+			"combat_reach": 1.34492,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 599,
+			"bounding_radius": 0.795,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 601,
+			"bounding_radius": 1.18065,
+			"combat_reach": 1.7,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 603,
+			"bounding_radius": 0.564,
+			"combat_reach": 2.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 604,
+			"bounding_radius": 1.08814,
+			"combat_reach": 0.90678,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 605,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 606,
+			"bounding_radius": 0.44275,
+			"combat_reach": 0.825,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 607,
+			"bounding_radius": 0.737492,
+			"combat_reach": 0.627119,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 609,
+			"bounding_radius": 0.4888,
+			"combat_reach": 1.95,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 610,
+			"bounding_radius": 1.1609,
+			"combat_reach": 1.95,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 611,
+			"bounding_radius": 0.5635,
+			"combat_reach": 1.05,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 612,
+			"bounding_radius": 0.4531,
+			"combat_reach": 1.725,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 613,
+			"bounding_radius": 1.15275,
+			"combat_reach": 2.175,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 614,
+			"bounding_radius": 1.0335,
+			"combat_reach": 1.95,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 615,
+			"bounding_radius": 1.23395,
+			"combat_reach": 1.725,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 616,
+			"bounding_radius": 1.1925,
+			"combat_reach": 2.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 617,
+			"bounding_radius": 0.35445,
+			"combat_reach": 1.275,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 621,
+			"bounding_radius": 0.417,
+			"combat_reach": 1.875,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 622,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 623,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 624,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 625,
+			"bounding_radius": 2.9505,
+			"combat_reach": 2.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 627,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 628,
+			"bounding_radius": 0.18785,
+			"combat_reach": 1.275,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 631,
+			"bounding_radius": 1.7485,
+			"combat_reach": 1.95,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 632,
+			"bounding_radius": 0.91425,
+			"combat_reach": 1.725,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 633,
+			"bounding_radius": 0.91425,
+			"combat_reach": 1.725,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 634,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 636,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 637,
+			"bounding_radius": 0.3366,
+			"combat_reach": 1.65,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 638,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 641,
+			"bounding_radius": 0.85,
+			"combat_reach": 1.0625,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 643,
+			"bounding_radius": 1.275,
+			"combat_reach": 1.0625,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 644,
+			"bounding_radius": 0.975,
+			"combat_reach": 0.8125,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 646,
+			"bounding_radius": 0.45305,
+			"combat_reach": 1.275,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 647,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 648,
+			"bounding_radius": 0.91205,
+			"combat_reach": 1.275,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 649,
+			"bounding_radius": 0.91205,
+			"combat_reach": 1.275,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 651,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 652,
+			"bounding_radius": 0.6255,
+			"combat_reach": 2.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 654,
+			"bounding_radius": 0.6,
+			"combat_reach": 0.75,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 655,
+			"bounding_radius": 1.29485,
+			"combat_reach": 2.175,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 656,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 657,
+			"bounding_radius": 0.68595,
+			"combat_reach": 1.275,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 658,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 659,
+			"bounding_radius": 1.496,
+			"combat_reach": 1.2,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 660,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 661,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 662,
+			"bounding_radius": 0.4324,
+			"combat_reach": 1.725,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 664,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 665,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 666,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 667,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 668,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 670,
+			"bounding_radius": 0.661986,
+			"combat_reach": 0.925424,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 671,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 672,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 673,
+			"bounding_radius": 0.7511,
+			"combat_reach": 1.05,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 674,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 675,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 676,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 677,
+			"bounding_radius": 0.7511,
+			"combat_reach": 1.05,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 679,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 680,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 681,
+			"bounding_radius": 1.198,
+			"combat_reach": 2.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 682,
+			"bounding_radius": 0.8985,
+			"combat_reach": 1.875,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 691,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 692,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 693,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 694,
+			"bounding_radius": 2,
+			"combat_reach": 2.51,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 695,
+			"bounding_radius": 2,
+			"combat_reach": 2.21,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 696,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 697,
+			"bounding_radius": 2.0175,
+			"combat_reach": 2.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 698,
+			"bounding_radius": 0.91425,
+			"combat_reach": 1.725,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 699,
+			"bounding_radius": 1.5,
+			"combat_reach": 1.875,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 703,
+			"bounding_radius": 1.5288,
+			"combat_reach": 1.3,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 704,
+			"bounding_radius": 1.176,
+			"combat_reach": 1,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 705,
+			"bounding_radius": 1.044,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 706,
+			"bounding_radius": 0.7943,
+			"combat_reach": 1.95,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 707,
+			"bounding_radius": 0.611,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 709,
+			"bounding_radius": 0.270712,
+			"combat_reach": 0.512712,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 711,
+			"bounding_radius": 1.0285,
+			"combat_reach": 0.825,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 713,
+			"bounding_radius": 1.345,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 714,
+			"bounding_radius": 0.575,
+			"combat_reach": 1.725,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 715,
+			"bounding_radius": 0.3614,
+			"combat_reach": 1.625,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 716,
+			"bounding_radius": 2.5571,
+			"combat_reach": 1.95,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 719,
+			"bounding_radius": 0.51935,
+			"combat_reach": 1.275,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 720,
+			"bounding_radius": 2,
+			"combat_reach": 3.76,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 721,
+			"bounding_radius": 1.0465,
+			"combat_reach": 1.95,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 722,
+			"bounding_radius": 0.92575,
+			"combat_reach": 1.725,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 723,
+			"bounding_radius": 0.7245,
+			"combat_reach": 1.35,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 726,
+			"bounding_radius": 0.68425,
+			"combat_reach": 1.275,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 729,
+			"bounding_radius": 0.807,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 730,
+			"bounding_radius": 0.5635,
+			"combat_reach": 1.05,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 732,
+			"bounding_radius": 0.394,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 733,
+			"bounding_radius": 0.4531,
+			"combat_reach": 1.725,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 734,
+			"bounding_radius": 0.4531,
+			"combat_reach": 1.725,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 735,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 736,
+			"bounding_radius": 0.92805,
+			"combat_reach": 1.725,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 741,
+			"bounding_radius": 1.15,
+			"combat_reach": 1.4375,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 742,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 743,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 744,
+			"bounding_radius": 1.176,
+			"combat_reach": 1,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 748,
+			"bounding_radius": 0.583449,
+			"combat_reach": 1.10085,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 749,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 751,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 752,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 753,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 754,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 755,
+			"bounding_radius": 1.073,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 757,
+			"bounding_radius": 0.5421,
+			"combat_reach": 1.95,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 759,
+			"bounding_radius": 0.462,
+			"combat_reach": 0.875,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 760,
+			"bounding_radius": 0.363,
+			"combat_reach": 0.6875,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 762,
+			"bounding_radius": 0.70265,
+			"combat_reach": 1.725,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 763,
+			"bounding_radius": 0.68425,
+			"combat_reach": 1.275,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 764,
+			"bounding_radius": 0.5635,
+			"combat_reach": 1.05,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 765,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 767,
+			"bounding_radius": 0.68885,
+			"combat_reach": 1.4375,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 768,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 774,
+			"bounding_radius": 0.858,
+			"combat_reach": 1.625,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 775,
+			"bounding_radius": 0.591,
+			"combat_reach": 2.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 776,
+			"bounding_radius": 1.95,
+			"combat_reach": 1.625,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 780,
+			"bounding_radius": 1.5,
+			"combat_reach": 1.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 781,
+			"bounding_radius": 1.40085,
+			"combat_reach": 1.16737,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 782,
+			"bounding_radius": 1.725,
+			"combat_reach": 1.4375,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 783,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 784,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 785,
+			"bounding_radius": 1.09576,
+			"combat_reach": 0.913136,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 787,
+			"bounding_radius": 0.7511,
+			"combat_reach": 1.05,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 788,
+			"bounding_radius": 1.23395,
+			"combat_reach": 1.725,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 790,
+			"bounding_radius": 0.306,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 791,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 792,
+			"bounding_radius": 4.725,
+			"combat_reach": 5.625,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 793,
+			"bounding_radius": 1,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 794,
+			"bounding_radius": 1,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 795,
+			"bounding_radius": 2,
+			"combat_reach": 3,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 796,
+			"bounding_radius": 1,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 797,
+			"bounding_radius": 1,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 798,
+			"bounding_radius": 1.8057,
+			"combat_reach": 2.6,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 800,
+			"bounding_radius": 2,
+			"combat_reach": 9,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 801,
+			"bounding_radius": 1.275,
+			"combat_reach": 1.0625,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 802,
+			"bounding_radius": 1.5,
+			"combat_reach": 1.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 803,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 806,
+			"bounding_radius": 0.611,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 807,
+			"bounding_radius": 1.389,
+			"combat_reach": 2.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 809,
+			"bounding_radius": 1.2075,
+			"combat_reach": 1.4375,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 810,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 814,
+			"bounding_radius": 1.18065,
+			"combat_reach": 2.125,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 815,
+			"bounding_radius": 1.59735,
+			"combat_reach": 2.875,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 816,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 820,
+			"bounding_radius": 0.70265,
+			"combat_reach": 1.725,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 821,
+			"bounding_radius": 0.561,
+			"combat_reach": 1.0625,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 822,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 824,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 825,
+			"bounding_radius": 0.347,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 827,
+			"bounding_radius": 0.363,
+			"combat_reach": 0.6875,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 828,
+			"bounding_radius": 0.533,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 829,
+			"bounding_radius": 0.4797,
+			"combat_reach": 1.35,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 830,
+			"bounding_radius": 0.92575,
+			"combat_reach": 1.725,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 831,
+			"bounding_radius": 0.76395,
+			"combat_reach": 1.375,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 832,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 833,
+			"bounding_radius": 1.18065,
+			"combat_reach": 2.125,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 834,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 835,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 836,
+			"bounding_radius": 0.842,
+			"combat_reach": 5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 837,
+			"bounding_radius": 2,
+			"combat_reach": 3.42,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 838,
+			"bounding_radius": 1.05,
+			"combat_reach": 1.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 839,
+			"bounding_radius": 2,
+			"combat_reach": 2.51,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 840,
+			"bounding_radius": 2,
+			"combat_reach": 2.67,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 841,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 842,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 843,
+			"bounding_radius": 0.905847,
+			"combat_reach": 1.07839,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 844,
+			"bounding_radius": 1.2075,
+			"combat_reach": 1.4375,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 845,
+			"bounding_radius": 0.927203,
+			"combat_reach": 1.10381,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 846,
+			"bounding_radius": 2.25,
+			"combat_reach": 6,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 847,
+			"bounding_radius": 0.425,
+			"combat_reach": 1.275,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 848,
+			"bounding_radius": 0.5,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 850,
+			"bounding_radius": 0.2429,
+			"combat_reach": 1.05,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 852,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 853,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 855,
+			"bounding_radius": 0.6,
+			"combat_reach": 0.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 856,
+			"bounding_radius": 1,
+			"combat_reach": 1,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 857,
+			"bounding_radius": 1,
+			"combat_reach": 1,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 858,
+			"bounding_radius": 0.575,
+			"combat_reach": 1.725,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 859,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 860,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 862,
+			"bounding_radius": 2,
+			"combat_reach": 2.79,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 863,
+			"bounding_radius": 1.345,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 864,
+			"bounding_radius": 0.347,
+			"combat_reach": 2,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 865,
+			"bounding_radius": 0.7943,
+			"combat_reach": 1.95,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 867,
+			"bounding_radius": 1.5,
+			"combat_reach": 4,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 868,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 869,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 870,
+			"bounding_radius": 0.347,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 876,
+			"bounding_radius": 0.778,
+			"combat_reach": 1,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 883,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 892,
+			"bounding_radius": 0.315,
+			"combat_reach": 1.35,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 897,
+			"bounding_radius": 1,
+			"combat_reach": 1.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 900,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 901,
+			"bounding_radius": 0.2,
+			"combat_reach": 1,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 902,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 903,
+			"bounding_radius": 1.08051,
+			"combat_reach": 0.900424,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 904,
+			"bounding_radius": 0.236,
+			"combat_reach": 1,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 907,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 908,
+			"bounding_radius": 2,
+			"combat_reach": 2.56,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 909,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 910,
+			"bounding_radius": 2,
+			"combat_reach": 2.45,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 911,
+			"bounding_radius": 2,
+			"combat_reach": 2.51,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 913,
+			"bounding_radius": 0.611,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 915,
+			"bounding_radius": 0.5,
+			"combat_reach": 1.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 917,
+			"bounding_radius": 1.1925,
+			"combat_reach": 2.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 918,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 924,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 925,
+			"bounding_radius": 0.9723,
+			"combat_reach": 1.75,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 927,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 929,
+			"bounding_radius": 0.55,
+			"combat_reach": 0.825,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 931,
+			"bounding_radius": 0.85,
+			"combat_reach": 1.275,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 933,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 934,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 935,
+			"bounding_radius": 1.15,
+			"combat_reach": 2.3,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 936,
+			"bounding_radius": 1.2,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 937,
+			"bounding_radius": 1.1,
+			"combat_reach": 1.375,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 945,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 947,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 948,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 949,
+			"bounding_radius": 0.91205,
+			"combat_reach": 1.275,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 950,
+			"bounding_radius": 0.7,
+			"combat_reach": 1.05,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 953,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 954,
+			"bounding_radius": 0.67575,
+			"combat_reach": 1.275,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 955,
+			"bounding_radius": 1.309,
+			"combat_reach": 1.05,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 956,
+			"bounding_radius": 0.278,
+			"combat_reach": 1.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 957,
+			"bounding_radius": 2,
+			"combat_reach": 2.83,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 958,
+			"bounding_radius": 1.0285,
+			"combat_reach": 0.825,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 959,
+			"bounding_radius": 1.0285,
+			"combat_reach": 0.825,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 960,
+			"bounding_radius": 0.65653,
+			"combat_reach": 0.917797,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 961,
+			"bounding_radius": 1.3949,
+			"combat_reach": 1.95,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 963,
+			"bounding_radius": 1.87,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 964,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 965,
+			"bounding_radius": 0.6,
+			"combat_reach": 1.8,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 967,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 968,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 969,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 970,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 971,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 972,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 974,
+			"bounding_radius": 2,
+			"combat_reach": 2.71,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 975,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 976,
+			"bounding_radius": 0.805,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 979,
+			"bounding_radius": 1,
+			"combat_reach": 1.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 981,
+			"bounding_radius": 1,
+			"combat_reach": 1.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 982,
+			"bounding_radius": 0.70265,
+			"combat_reach": 1.725,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 983,
+			"bounding_radius": 0.417,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 984,
+			"bounding_radius": 0.575,
+			"combat_reach": 1.4375,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 985,
+			"bounding_radius": 0.375,
+			"combat_reach": 0.9375,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 986,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 987,
+			"bounding_radius": 0.533,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 990,
+			"bounding_radius": 0.68425,
+			"combat_reach": 1.275,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 991,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 992,
+			"bounding_radius": 1.5,
+			"combat_reach": 4,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 993,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 994,
+			"bounding_radius": 1.725,
+			"combat_reach": 4.6,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 995,
+			"bounding_radius": 2,
+			"combat_reach": 2.56,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 996,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 997,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 998,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 999,
+			"bounding_radius": 0.85,
+			"combat_reach": 1.0625,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1000,
+			"bounding_radius": 0.85,
+			"combat_reach": 1.0625,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1001,
+			"bounding_radius": 1.15,
+			"combat_reach": 1.4375,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1004,
+			"bounding_radius": 0.696,
+			"combat_reach": 1,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1005,
+			"bounding_radius": 0.35445,
+			"combat_reach": 1.275,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1006,
+			"bounding_radius": 0.51935,
+			"combat_reach": 1.275,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1007,
+			"bounding_radius": 0.70265,
+			"combat_reach": 1.725,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1008,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1010,
+			"bounding_radius": 1,
+			"combat_reach": 1.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1011,
+			"bounding_radius": 1.1,
+			"combat_reach": 1.375,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1012,
+			"bounding_radius": 1.5,
+			"combat_reach": 1.875,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1013,
+			"bounding_radius": 0.3825,
+			"combat_reach": 1.0625,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1014,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1015,
+			"bounding_radius": 0.2714,
+			"combat_reach": 1.15,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1016,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1017,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1018,
+			"bounding_radius": 0.413,
+			"combat_reach": 1.75,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1019,
+			"bounding_radius": 2,
+			"combat_reach": 3.36,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1021,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1023,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1025,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1027,
+			"bounding_radius": 0.383,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1029,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 1,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1030,
+			"bounding_radius": 0.944068,
+			"combat_reach": 1.18008,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1031,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1032,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1034,
+			"bounding_radius": 0.607393,
+			"combat_reach": 1.09322,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1035,
+			"bounding_radius": 0.64977,
+			"combat_reach": 1.16949,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1036,
+			"bounding_radius": 0.76395,
+			"combat_reach": 1.375,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1037,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1038,
+			"bounding_radius": 1.389,
+			"combat_reach": 2.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1039,
+			"bounding_radius": 0.9723,
+			"combat_reach": 1.75,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1040,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1041,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1042,
+			"bounding_radius": 0.5729,
+			"combat_reach": 1.275,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1043,
+			"bounding_radius": 0.795,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1045,
+			"bounding_radius": 0.893,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1048,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1049,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1050,
+			"bounding_radius": 1,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1051,
+			"bounding_radius": 1.4288,
+			"combat_reach": 2.4,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1052,
+			"bounding_radius": 1.02695,
+			"combat_reach": 1.725,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1054,
+			"bounding_radius": 1.1609,
+			"combat_reach": 1.95,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1055,
+			"bounding_radius": 1.0335,
+			"combat_reach": 1.95,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1056,
+			"bounding_radius": 0.795,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1057,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1058,
+			"bounding_radius": 0.91425,
+			"combat_reach": 1.725,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1059,
+			"bounding_radius": 0.67575,
+			"combat_reach": 1.275,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1060,
+			"bounding_radius": 0.893,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1061,
+			"bounding_radius": 2,
+			"combat_reach": 3,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1062,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1063,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1064,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1065,
+			"bounding_radius": 0.533,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1067,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1068,
+			"bounding_radius": 1.18065,
+			"combat_reach": 1.275,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1070,
+			"bounding_radius": 1,
+			"combat_reach": 2,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1072,
+			"bounding_radius": 0.122,
+			"combat_reach": 1,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1073,
+			"bounding_radius": 0.2778,
+			"combat_reach": 0.4,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1074,
+			"bounding_radius": 1.18065,
+			"combat_reach": 1.7,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1075,
+			"bounding_radius": 2,
+			"combat_reach": 2.83,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1076,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1077,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1078,
+			"bounding_radius": 2,
+			"combat_reach": 3.41,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1079,
+			"bounding_radius": 0.6255,
+			"combat_reach": 2.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1080,
+			"bounding_radius": 0.9723,
+			"combat_reach": 1.75,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1081,
+			"bounding_radius": 2,
+			"combat_reach": 2.56,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1082,
+			"bounding_radius": 0.9165,
+			"combat_reach": 2.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1083,
+			"bounding_radius": 0.9165,
+			"combat_reach": 2.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1084,
+			"bounding_radius": 1.345,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1086,
+			"bounding_radius": 1.7485,
+			"combat_reach": 1.95,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1087,
+			"bounding_radius": 1.5895,
+			"combat_reach": 1.275,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1088,
+			"bounding_radius": 1.87,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1089,
+			"bounding_radius": 2,
+			"combat_reach": 2.56,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1090,
+			"bounding_radius": 1.87,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1091,
+			"bounding_radius": 0.66,
+			"combat_reach": 1.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1092,
+			"bounding_radius": 2,
+			"combat_reach": 3.36,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1094,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1095,
+			"bounding_radius": 1.59,
+			"combat_reach": 3,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1097,
+			"bounding_radius": 0.4685,
+			"combat_reach": 0.75,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1098,
+			"bounding_radius": 1.17015,
+			"combat_reach": 2.175,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1099,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1100,
+			"bounding_radius": 1.30932,
+			"combat_reach": 1.0911,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1101,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1102,
+			"bounding_radius": 1.03,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1103,
+			"bounding_radius": 0.561,
+			"combat_reach": 1.0625,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1104,
+			"bounding_radius": 0.759,
+			"combat_reach": 1.4375,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1105,
+			"bounding_radius": 0.115,
+			"combat_reach": 1.4375,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1106,
+			"bounding_radius": 0.15,
+			"combat_reach": 1.875,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1107,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1108,
+			"bounding_radius": 2,
+			"combat_reach": 3,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1109,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1110,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1114,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1115,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1120,
+			"bounding_radius": 1.6967,
+			"combat_reach": 2.85,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1122,
+			"bounding_radius": 0.9823,
+			"combat_reach": 1.65,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1125,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1126,
+			"bounding_radius": 2,
+			"combat_reach": 3,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1127,
+			"bounding_radius": 0.5556,
+			"combat_reach": 0.6,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1128,
+			"bounding_radius": 0.4167,
+			"combat_reach": 0.45,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1129,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1130,
+			"bounding_radius": 1,
+			"combat_reach": 2.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1131,
+			"bounding_radius": 0.6,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1132,
+			"bounding_radius": 0.8,
+			"combat_reach": 2,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1133,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1134,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1135,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1136,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1137,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1138,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1139,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1140,
+			"bounding_radius": 0.347222,
+			"combat_reach": 0.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1141,
+			"bounding_radius": 1,
+			"combat_reach": 1,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1142,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1143,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1144,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1145,
+			"bounding_radius": 0.68885,
+			"combat_reach": 1.4375,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1146,
+			"bounding_radius": 1.04825,
+			"combat_reach": 2.1875,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1147,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1148,
+			"bounding_radius": 1.3,
+			"combat_reach": 2.6,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1149,
+			"bounding_radius": 1,
+			"combat_reach": 2,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1150,
+			"bounding_radius": 0.3748,
+			"combat_reach": 0.6,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1151,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1152,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1153,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1154,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1155,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1156,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1157,
+			"bounding_radius": 1.87,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1159,
+			"bounding_radius": 0.3748,
+			"combat_reach": 0.6,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1160,
+			"bounding_radius": 0.187,
+			"combat_reach": 0.15,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1161,
+			"bounding_radius": 1.18065,
+			"combat_reach": 1.275,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1162,
+			"bounding_radius": 1.389,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1163,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1164,
+			"bounding_radius": 1.95,
+			"combat_reach": 1.625,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1165,
+			"bounding_radius": 2,
+			"combat_reach": 3.36,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1166,
+			"bounding_radius": 0.42,
+			"combat_reach": 1.8,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1167,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1170,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1176,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1185,
+			"bounding_radius": 0.2006,
+			"combat_reach": 0.85,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1192,
+			"bounding_radius": 0.1,
+			"combat_reach": 1.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1193,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1194,
+			"bounding_radius": 1.2075,
+			"combat_reach": 2.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1196,
+			"bounding_radius": 1.15,
+			"combat_reach": 1.15,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1197,
+			"bounding_radius": 1,
+			"combat_reach": 1,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1198,
+			"bounding_radius": 1,
+			"combat_reach": 1,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1200,
+			"bounding_radius": 0.347,
+			"combat_reach": 1,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1201,
+			"bounding_radius": 0.347,
+			"combat_reach": 1,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1202,
+			"bounding_radius": 0.347,
+			"combat_reach": 1,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1204,
+			"bounding_radius": 1.5,
+			"combat_reach": 3,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1206,
+			"bounding_radius": 0.35,
+			"combat_reach": 0.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1207,
+			"bounding_radius": 1.725,
+			"combat_reach": 1.4375,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1208,
+			"bounding_radius": 1.3524,
+			"combat_reach": 1.15,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1210,
+			"bounding_radius": 0.2,
+			"combat_reach": 2.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1213,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1214,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1216,
+			"bounding_radius": 0.3196,
+			"combat_reach": 1.275,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1217,
+			"bounding_radius": 0.3196,
+			"combat_reach": 1.275,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1218,
+			"bounding_radius": 0.2784,
+			"combat_reach": 1.2,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1219,
+			"bounding_radius": 0.4718,
+			"combat_reach": 1.05,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1220,
+			"bounding_radius": 0.5729,
+			"combat_reach": 1.275,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1221,
+			"bounding_radius": 0.5729,
+			"combat_reach": 1.275,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1222,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1223,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1225,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1226,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1228,
+			"bounding_radius": 0.07,
+			"combat_reach": 0.875,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1229,
+			"bounding_radius": 0.085,
+			"combat_reach": 1.0625,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1230,
+			"bounding_radius": 0.4,
+			"combat_reach": 2.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1231,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1232,
+			"bounding_radius": 0.6,
+			"combat_reach": 3.75,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1233,
+			"bounding_radius": 0.347222,
+			"combat_reach": 0.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1236,
+			"bounding_radius": 2,
+			"combat_reach": 2.28,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1237,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1241,
+			"bounding_radius": 0.52,
+			"combat_reach": 3.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1244,
+			"bounding_radius": 0.35,
+			"combat_reach": 0.8,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1245,
+			"bounding_radius": 0.1,
+			"combat_reach": 1.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1246,
+			"bounding_radius": 0.1914,
+			"combat_reach": 0.6875,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1247,
+			"bounding_radius": 0.522,
+			"combat_reach": 1.875,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1248,
+			"bounding_radius": 0.2436,
+			"combat_reach": 0.875,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1250,
+			"bounding_radius": 0.602685,
+			"combat_reach": 1.08475,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1251,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1252,
+			"bounding_radius": 0.3132,
+			"combat_reach": 1.35,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1253,
+			"bounding_radius": 0.435,
+			"combat_reach": 1.875,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1254,
+			"bounding_radius": 0.3132,
+			"combat_reach": 1.35,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1255,
+			"bounding_radius": 0.476,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1256,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1258,
+			"bounding_radius": 0.71,
+			"combat_reach": 1.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1259,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1260,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1261,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 1,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1262,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1267,
+			"bounding_radius": 1,
+			"combat_reach": 1,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1269,
+			"bounding_radius": 0.34,
+			"combat_reach": 2,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1274,
+			"bounding_radius": 0.348,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1275,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1276,
+			"bounding_radius": 0.306,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1277,
+			"bounding_radius": 0.347,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1278,
+			"bounding_radius": 0.383,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1279,
+			"bounding_radius": 1,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1280,
+			"bounding_radius": 0.347,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1281,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1282,
+			"bounding_radius": 0.347,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1283,
+			"bounding_radius": 0.8762,
+			"combat_reach": 1.95,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1284,
+			"bounding_radius": 0.7751,
+			"combat_reach": 1.725,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1285,
+			"bounding_radius": 0.389,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1286,
+			"bounding_radius": 0.347,
+			"combat_reach": 1.5,
+			"gender": 1,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1287,
+			"bounding_radius": 0.208,
+			"combat_reach": 1.5,
+			"gender": 1,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1288,
+			"bounding_radius": 0.306,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1289,
+			"bounding_radius": 0.306,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1290,
+			"bounding_radius": 0.306,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1291,
+			"bounding_radius": 0.306,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1292,
+			"bounding_radius": 0.306,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1293,
+			"bounding_radius": 0.306,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1294,
+			"bounding_radius": 0.306,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1295,
+			"bounding_radius": 0.208,
+			"combat_reach": 1.5,
+			"gender": 1,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1296,
+			"bounding_radius": 0.208,
+			"combat_reach": 1.5,
+			"gender": 1,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1297,
+			"bounding_radius": 0.208,
+			"combat_reach": 1.5,
+			"gender": 1,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1298,
+			"bounding_radius": 0.306,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1299,
+			"bounding_radius": 0.306,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1300,
+			"bounding_radius": 0.208,
+			"combat_reach": 1.5,
+			"gender": 1,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1302,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1303,
+			"bounding_radius": 0.255,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1304,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1305,
+			"bounding_radius": 0.5421,
+			"combat_reach": 1.95,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1306,
+			"bounding_radius": 0.8985,
+			"combat_reach": 1.875,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1307,
+			"bounding_radius": 0.913559,
+			"combat_reach": 1.14195,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1308,
+			"bounding_radius": 0.6,
+			"combat_reach": 3.75,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1309,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1310,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1311,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1312,
+			"bounding_radius": 0.236,
+			"combat_reach": 1.5,
+			"gender": 1,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1313,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1314,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1315,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1316,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1317,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1318,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1319,
+			"bounding_radius": 0.236,
+			"combat_reach": 1.5,
+			"gender": 1,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1320,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1321,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1322,
+			"bounding_radius": 1.047,
+			"combat_reach": 4.5,
+			"gender": 1,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1323,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1324,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1325,
+			"bounding_radius": 0.236,
+			"combat_reach": 1.5,
+			"gender": 1,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1326,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1327,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1328,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1329,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1330,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1331,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1332,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1333,
+			"bounding_radius": 0.236,
+			"combat_reach": 1.5,
+			"gender": 1,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1334,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1335,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1336,
+			"bounding_radius": 2,
+			"combat_reach": 3.36,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1337,
+			"bounding_radius": 1.073,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1338,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1339,
+			"bounding_radius": 1.6095,
+			"combat_reach": 2.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1340,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1341,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1342,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1343,
+			"bounding_radius": 0.4176,
+			"combat_reach": 1.8,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1344,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1345,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1346,
+			"bounding_radius": 0.3828,
+			"combat_reach": 1.65,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1348,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1349,
+			"bounding_radius": 0.852,
+			"combat_reach": 1.5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1350,
+			"bounding_radius": 0.5474,
+			"combat_reach": 1.725,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1351,
+			"bounding_radius": 0.4046,
+			"combat_reach": 1.275,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1352,
+			"bounding_radius": 0.6188,
+			"combat_reach": 1.95,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1354,
+			"bounding_radius": 2,
+			"combat_reach": 2.35,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1355,
+			"bounding_radius": 0.347,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1356,
+			"bounding_radius": 0.306,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1357,
+			"bounding_radius": 0.306,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1358,
+			"bounding_radius": 0.236,
+			"combat_reach": 1.5,
+			"gender": 1,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1359,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1360,
+			"bounding_radius": 0.236,
+			"combat_reach": 1.5,
+			"gender": 1,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1361,
+			"bounding_radius": 0.208,
+			"combat_reach": 1.5,
+			"gender": 1,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1362,
+			"bounding_radius": 0.347,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1363,
+			"bounding_radius": 2,
+			"combat_reach": 2.35,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1364,
+			"bounding_radius": 0.306,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1366,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1367,
+			"bounding_radius": 0.236,
+			"combat_reach": 1.5,
+			"gender": 1,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1368,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1369,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1370,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1371,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1372,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1373,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1374,
+			"bounding_radius": 0.4092,
+			"combat_reach": 1.65,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1375,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1376,
+			"bounding_radius": 0.347,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1377,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1378,
+			"bounding_radius": 0.236,
+			"combat_reach": 1.5,
+			"gender": 1,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1379,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1380,
+			"bounding_radius": 0.236,
+			"combat_reach": 1.5,
+			"gender": 1,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1381,
+			"bounding_radius": 0.236,
+			"combat_reach": 1.5,
+			"gender": 1,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1382,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1383,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1384,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1385,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1386,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1387,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1388,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1389,
+			"bounding_radius": 0.236,
+			"combat_reach": 1.5,
+			"gender": 1,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1390,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1391,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1392,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1393,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1394,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1395,
+			"bounding_radius": 0.372,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1396,
+			"bounding_radius": 2,
+			"combat_reach": 2.35,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1397,
+			"bounding_radius": 1,
+			"combat_reach": 5,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1398,
+			"bounding_radius": 0.347,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1399,
+			"bounding_radius": 0.347,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1400,
+			"bounding_radius": 0.347,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1401,
+			"bounding_radius": 0.347,
+			"combat_reach": 1.5,
+			"gender": 1,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1402,
+			"bounding_radius": 0.347,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1403,
+			"bounding_radius": 0.306,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1404,
+			"bounding_radius": 0.347,
+			"combat_reach": 1.5,
+			"gender": 1,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1405,
+			"bounding_radius": 0.6,
+			"combat_reach": 1.2,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1406,
+			"bounding_radius": 0.347,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1407,
+			"bounding_radius": 0.347,
+			"combat_reach": 1.5,
+			"gender": 1,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1408,
+			"bounding_radius": 0.306,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1409,
+			"bounding_radius": 0.347,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1410,
+			"bounding_radius": 0.347,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1411,
+			"bounding_radius": 0.347,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1412,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1413,
+			"bounding_radius": 0.347,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1415,
+			"bounding_radius": 2,
+			"combat_reach": 2.5,
+			"gender": 1,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1416,
+			"bounding_radius": 0.347,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1417,
+			"bounding_radius": 0.347,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1418,
+			"bounding_radius": 1,
+			"combat_reach": 1,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1420,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1421,
+			"bounding_radius": 2,
+			"combat_reach": 2.7,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1423,
+			"bounding_radius": 0.306,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1424,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1425,
+			"bounding_radius": 0.306,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1426,
+			"bounding_radius": 0.306,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1427,
+			"bounding_radius": 0.306,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1428,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1429,
+			"bounding_radius": 0.306,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1430,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1431,
+			"bounding_radius": 0.306,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1432,
+			"bounding_radius": 0.306,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1433,
+			"bounding_radius": 0.306,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1434,
+			"bounding_radius": 0.306,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1435,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1436,
+			"bounding_radius": 0.306,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1437,
+			"bounding_radius": 0.306,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1438,
+			"bounding_radius": 0.306,
+			"combat_reach": 1.5,
+			"gender": 0,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1439,
+			"bounding_radius": 0.208,
+			"combat_reach": 1.5,
+			"gender": 1,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1440,
+			"bounding_radius": 0.208,
+			"combat_reach": 1.5,
+			"gender": 1,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1441,
+			"bounding_radius": 0.208,
+			"combat_reach": 1.5,
+			"gender": 1,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1442,
+			"bounding_radius": 0.208,
+			"combat_reach": 1.5,
+			"gender": 1,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1443,
+			"bounding_radius": 0.208,
+			"combat_reach": 1.5,
+			"gender": 1,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1444,
+			"bounding_radius": 0.208,
+			"combat_reach": 1.5,
+			"gender": 1,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1445,
+			"bounding_radius": 0.208,
+			"combat_reach": 1.5,
+			"gender": 1,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1446,
+			"bounding_radius": 0.208,
+			"combat_reach": 1.5,
+			"gender": 1,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1447,
+			"bounding_radius": 0.208,
+			"combat_reach": 1.5,
+			"gender": 1,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1448,
+			"bounding_radius": 0.208,
+			"combat_reach": 1.5,
+			"gender": 1,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1449,
+			"bounding_radius": 0.208,
+			"combat_reach": 1.5,
+			"gender": 1,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1450,
+			"bounding_radius": 0.208,
+			"combat_reach": 1.5,
+			"gender": 1,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1451,
+			"bounding_radius": 0.34,
+			"combat_reach": 2.125,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1452,
+			"bounding_radius": 0,
+			"combat_reach": 0,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		},
+		{
+			"modelid": 1453,
+			"bounding_radius": 0.52,
+			"combat_reach": 3.25,
+			"gender": 2,
+			"modelid_other_gender": 0,
+			"modelid_alternative": 0
+		}
+	]
+}

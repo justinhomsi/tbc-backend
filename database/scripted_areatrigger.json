@@ -1,0 +1,206 @@
+{
+	"table": "scripted_areatrigger",
+	"rows":
+	[
+		{
+			"entry": 4591,
+			"ScriptName": "at_coilfang_waterfall"
+		},
+		{
+			"entry": 4560,
+			"ScriptName": "at_legion_teleporter"
+		},
+		{
+			"entry": 3066,
+			"ScriptName": "at_ravenholdt"
+		},
+		{
+			"entry": 4112,
+			"ScriptName": "at_naxxramas"
+		},
+		{
+			"entry": 4113,
+			"ScriptName": "at_naxxramas"
+		},
+		{
+			"entry": 4156,
+			"ScriptName": "at_naxxramas"
+		},
+		{
+			"entry": 3546,
+			"ScriptName": "at_childrens_week_spot"
+		},
+		{
+			"entry": 3547,
+			"ScriptName": "at_childrens_week_spot"
+		},
+		{
+			"entry": 3548,
+			"ScriptName": "at_childrens_week_spot"
+		},
+		{
+			"entry": 3549,
+			"ScriptName": "at_childrens_week_spot"
+		},
+		{
+			"entry": 3550,
+			"ScriptName": "at_childrens_week_spot"
+		},
+		{
+			"entry": 3552,
+			"ScriptName": "at_childrens_week_spot"
+		},
+		{
+			"entry": 2026,
+			"ScriptName": "at_blackrock_spire"
+		},
+		{
+			"entry": 2046,
+			"ScriptName": "at_blackrock_spire"
+		},
+		{
+			"entry": 3958,
+			"ScriptName": "at_zulgurub"
+		},
+		{
+			"entry": 3960,
+			"ScriptName": "at_zulgurub"
+		},
+		{
+			"entry": 3626,
+			"ScriptName": "at_vaelastrasz"
+		},
+		{
+			"entry": 4937,
+			"ScriptName": "at_sunwell_plateau"
+		},
+		{
+			"entry": 4524,
+			"ScriptName": "at_shattered_halls"
+		},
+		{
+			"entry": 1726,
+			"ScriptName": "at_scent_larkorwi"
+		},
+		{
+			"entry": 1727,
+			"ScriptName": "at_scent_larkorwi"
+		},
+		{
+			"entry": 1728,
+			"ScriptName": "at_scent_larkorwi"
+		},
+		{
+			"entry": 1729,
+			"ScriptName": "at_scent_larkorwi"
+		},
+		{
+			"entry": 1730,
+			"ScriptName": "at_scent_larkorwi"
+		},
+		{
+			"entry": 1731,
+			"ScriptName": "at_scent_larkorwi"
+		},
+		{
+			"entry": 1732,
+			"ScriptName": "at_scent_larkorwi"
+		},
+		{
+			"entry": 1733,
+			"ScriptName": "at_scent_larkorwi"
+		},
+		{
+			"entry": 1734,
+			"ScriptName": "at_scent_larkorwi"
+		},
+		{
+			"entry": 1735,
+			"ScriptName": "at_scent_larkorwi"
+		},
+		{
+			"entry": 1736,
+			"ScriptName": "at_scent_larkorwi"
+		},
+		{
+			"entry": 1737,
+			"ScriptName": "at_scent_larkorwi"
+		},
+		{
+			"entry": 1738,
+			"ScriptName": "at_scent_larkorwi"
+		},
+		{
+			"entry": 1739,
+			"ScriptName": "at_scent_larkorwi"
+		},
+		{
+			"entry": 1740,
+			"ScriptName": "at_scent_larkorwi"
+		},
+		{
+			"entry": 4288,
+			"ScriptName": "at_dark_portal"
+		},
+		{
+			"entry": 4485,
+			"ScriptName": "at_dark_portal"
+		},
+		{
+			"entry": 1966,
+			"ScriptName": "at_murkdeep"
+		},
+		{
+			"entry": 4047,
+			"ScriptName": "at_temple_ahnqiraj"
+		},
+		{
+			"entry": 4052,
+			"ScriptName": "at_temple_ahnqiraj"
+		},
+		{
+			"entry": 3587,
+			"ScriptName": "at_ancient_leaf"
+		},
+		{
+			"entry": 522,
+			"ScriptName": "at_twiggy_flathead"
+		},
+		{
+			"entry": 1526,
+			"ScriptName": "at_ring_of_law"
+		},
+		{
+			"entry": 1786,
+			"ScriptName": "at_shadowforge_bridge"
+		},
+		{
+			"entry": 4752,
+			"ScriptName": "at_nats_landing"
+		},
+		{
+			"entry": 4497,
+			"ScriptName": "at_commander_dawnforge"
+		},
+		{
+			"entry": 4016,
+			"ScriptName": "at_shade_of_eranikus"
+		},
+		{
+			"entry": 4853,
+			"ScriptName": "at_madrigosa"
+		},
+		{
+			"entry": 4033,
+			"ScriptName": "at_stomach_cthun"
+		},
+		{
+			"entry": 4034,
+			"ScriptName": "at_stomach_cthun"
+		},
+		{
+			"entry": 1447,
+			"ScriptName": "at_zulfarrak"
+		}
+	]
+}

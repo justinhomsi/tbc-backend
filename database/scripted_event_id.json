@@ -1,0 +1,126 @@
+{
+	"table": "scripted_event_id",
+	"rows":
+	[
+		{
+			"id": 14797,
+			"ScriptName": "event_spell_summon_raven_god"
+		},
+		{
+			"id": 4884,
+			"ScriptName": "event_spell_altar_emberseer"
+		},
+		{
+			"id": 11111,
+			"ScriptName": "event_go_barrel_old_hillsbrad"
+		},
+		{
+			"id": 8328,
+			"ScriptName": "npc_kroshius"
+		},
+		{
+			"id": 10591,
+			"ScriptName": "event_spell_summon_nightbane"
+		},
+		{
+			"id": 10951,
+			"ScriptName": "event_spell_medivh_journal"
+		},
+		{
+			"id": 16547,
+			"ScriptName": "event_go_scrying_orb"
+		},
+		{
+			"id": 3130,
+			"ScriptName": "event_go_tutenkash_gong"
+		},
+		{
+			"id": 5618,
+			"ScriptName": "event_spell_gandling_shadow_portal"
+		},
+		{
+			"id": 5619,
+			"ScriptName": "event_spell_gandling_shadow_portal"
+		},
+		{
+			"id": 5620,
+			"ScriptName": "event_spell_gandling_shadow_portal"
+		},
+		{
+			"id": 5621,
+			"ScriptName": "event_spell_gandling_shadow_portal"
+		},
+		{
+			"id": 5622,
+			"ScriptName": "event_spell_gandling_shadow_portal"
+		},
+		{
+			"id": 5623,
+			"ScriptName": "event_spell_gandling_shadow_portal"
+		},
+		{
+			"id": 13513,
+			"ScriptName": "event_spell_soul_captured_credit"
+		},
+		{
+			"id": 13514,
+			"ScriptName": "event_spell_soul_captured_credit"
+		},
+		{
+			"id": 13515,
+			"ScriptName": "event_spell_soul_captured_credit"
+		},
+		{
+			"id": 13516,
+			"ScriptName": "event_spell_soul_captured_credit"
+		},
+		{
+			"id": 3094,
+			"ScriptName": "event_antalarion_statue_activation"
+		},
+		{
+			"id": 3095,
+			"ScriptName": "event_antalarion_statue_activation"
+		},
+		{
+			"id": 3097,
+			"ScriptName": "event_antalarion_statue_activation"
+		},
+		{
+			"id": 3098,
+			"ScriptName": "event_antalarion_statue_activation"
+		},
+		{
+			"id": 3099,
+			"ScriptName": "event_antalarion_statue_activation"
+		},
+		{
+			"id": 3100,
+			"ScriptName": "event_antalarion_statue_activation"
+		},
+		{
+			"id": 8502,
+			"ScriptName": "event_avatar_of_hakkar"
+		},
+		{
+			"id": 2228,
+			"ScriptName": "event_spell_altar_boss_aggro"
+		},
+		{
+			"id": 2268,
+			"ScriptName": "event_spell_altar_boss_aggro"
+		},
+		{
+			"id": 11225,
+			"ScriptName": "event_taxi_stormcrow"
+		},
+		{
+			"id": 2488,
+			"ScriptName": "event_go_zulfarrak_gong"
+		},
+		{
+			"id": 2609,
+			"ScriptName": "event_spell_unlocking"
+		}
+	]
+}

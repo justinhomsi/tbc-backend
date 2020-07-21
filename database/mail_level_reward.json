@@ -1,0 +1,66 @@
+{
+	"table": "mail_level_reward",
+	"rows":
+	[
+		{
+			"level": 30,
+			"raceMask": 16,
+			"mailTemplateId": 233,
+			"senderEntry": 4773
+		},
+		{
+			"level": 30,
+			"raceMask": 512,
+			"mailTemplateId": 232,
+			"senderEntry": 16280
+		},
+		{
+			"level": 30,
+			"raceMask": 2,
+			"mailTemplateId": 231,
+			"senderEntry": 4752
+		},
+		{
+			"level": 30,
+			"raceMask": 128,
+			"mailTemplateId": 230,
+			"senderEntry": 7953
+		},
+		{
+			"level": 30,
+			"raceMask": 32,
+			"mailTemplateId": 229,
+			"senderEntry": 3690
+		},
+		{
+			"level": 30,
+			"raceMask": 64,
+			"mailTemplateId": 228,
+			"senderEntry": 7954
+		},
+		{
+			"level": 30,
+			"raceMask": 1024,
+			"mailTemplateId": 227,
+			"senderEntry": 20914
+		},
+		{
+			"level": 30,
+			"raceMask": 4,
+			"mailTemplateId": 226,
+			"senderEntry": 4772
+		},
+		{
+			"level": 30,
+			"raceMask": 8,
+			"mailTemplateId": 225,
+			"senderEntry": 4753
+		},
+		{
+			"level": 30,
+			"raceMask": 1,
+			"mailTemplateId": 224,
+			"senderEntry": 4732
+		}
+	]
+}

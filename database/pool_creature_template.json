@@ -1,0 +1,1176 @@
+{
+	"table": "pool_creature_template",
+	"rows":
+	[
+		{
+			"id": 2258,
+			"pool_entry": 1000,
+			"chance": 0,
+			"description": "Stone Fury (2258)"
+		},
+		{
+			"id": 2447,
+			"pool_entry": 1001,
+			"chance": 0,
+			"description": "Narillasanz (2447)"
+		},
+		{
+			"id": 2452,
+			"pool_entry": 1002,
+			"chance": 0,
+			"description": "Skhowl (2452)"
+		},
+		{
+			"id": 2453,
+			"pool_entry": 1003,
+			"chance": 0,
+			"description": "Lo'Grosh (2453)"
+		},
+		{
+			"id": 14221,
+			"pool_entry": 1004,
+			"chance": 0,
+			"description": "Gravis Slipknot (14221)"
+		},
+		{
+			"id": 14222,
+			"pool_entry": 1005,
+			"chance": 0,
+			"description": "Araga (14222)"
+		},
+		{
+			"id": 14223,
+			"pool_entry": 1006,
+			"chance": 0,
+			"description": "Cranky Benj (14223)"
+		},
+		{
+			"id": 14281,
+			"pool_entry": 1007,
+			"chance": 0,
+			"description": "Jimmy the Bleeder (14281)"
+		},
+		{
+			"id": 2598,
+			"pool_entry": 1008,
+			"chance": 0,
+			"description": "Darbel Montrose (2598)"
+		},
+		{
+			"id": 2600,
+			"pool_entry": 1009,
+			"chance": 0,
+			"description": "Singer (2600)"
+		},
+		{
+			"id": 2601,
+			"pool_entry": 1010,
+			"chance": 0,
+			"description": "Foulbelly (2601)"
+		},
+		{
+			"id": 2602,
+			"pool_entry": 1011,
+			"chance": 0,
+			"description": "Ruul Onestone (2602)"
+		},
+		{
+			"id": 2603,
+			"pool_entry": 1012,
+			"chance": 0,
+			"description": "Kovork (2603)"
+		},
+		{
+			"id": 2604,
+			"pool_entry": 1013,
+			"chance": 0,
+			"description": "Molok the Crusher (2604)"
+		},
+		{
+			"id": 2605,
+			"pool_entry": 1014,
+			"chance": 0,
+			"description": "Zalas Witherbark (2605)"
+		},
+		{
+			"id": 2606,
+			"pool_entry": 1015,
+			"chance": 0,
+			"description": "Nimar the Slayer (2606)"
+		},
+		{
+			"id": 2609,
+			"pool_entry": 1016,
+			"chance": 0,
+			"description": "Geomancer Flintdagger (2609)"
+		},
+		{
+			"id": 2773,
+			"pool_entry": 1017,
+			"chance": 0,
+			"description": "Or'Kalar (2773)"
+		},
+		{
+			"id": 2779,
+			"pool_entry": 1018,
+			"chance": 0,
+			"description": "Prince Nazjak (2779)"
+		},
+		{
+			"id": 2744,
+			"pool_entry": 1019,
+			"chance": 0,
+			"description": "Shadowforge Commander (2744)"
+		},
+		{
+			"id": 2749,
+			"pool_entry": 1020,
+			"chance": 0,
+			"description": "Siege Golem (2749)"
+		},
+		{
+			"id": 2751,
+			"pool_entry": 1021,
+			"chance": 0,
+			"description": "War Golem (2751)"
+		},
+		{
+			"id": 2752,
+			"pool_entry": 1022,
+			"chance": 0,
+			"description": "Rumbler (2752)"
+		},
+		{
+			"id": 2753,
+			"pool_entry": 1023,
+			"chance": 0,
+			"description": "Barnabus (2753)"
+		},
+		{
+			"id": 2754,
+			"pool_entry": 1024,
+			"chance": 0,
+			"description": "Anathemus (2754)"
+		},
+		{
+			"id": 2850,
+			"pool_entry": 1025,
+			"chance": 0,
+			"description": "Broken Tooth (2850)"
+		},
+		{
+			"id": 2931,
+			"pool_entry": 1026,
+			"chance": 0,
+			"description": "Zaricotl (2931)"
+		},
+		{
+			"id": 14224,
+			"pool_entry": 1027,
+			"chance": 0,
+			"description": "7:XT (14224)"
+		},
+		{
+			"id": 7846,
+			"pool_entry": 1028,
+			"chance": 0,
+			"description": "Teremus the Devourer (7846)"
+		},
+		{
+			"id": 8296,
+			"pool_entry": 1029,
+			"chance": 0,
+			"description": "Mojo the Twisted (8296)"
+		},
+		{
+			"id": 8297,
+			"pool_entry": 1030,
+			"chance": 0,
+			"description": "Magronos the Unyielding (8297)"
+		},
+		{
+			"id": 8298,
+			"pool_entry": 1031,
+			"chance": 0,
+			"description": "Akubar the Seer (8298)"
+		},
+		{
+			"id": 8299,
+			"pool_entry": 1032,
+			"chance": 0,
+			"description": "Spiteflayer (8299)"
+		},
+		{
+			"id": 8300,
+			"pool_entry": 1033,
+			"chance": 0,
+			"description": "Ravage (8300)"
+		},
+		{
+			"id": 8301,
+			"pool_entry": 1034,
+			"chance": 0,
+			"description": "Clack the Reaver (8301)"
+		},
+		{
+			"id": 8302,
+			"pool_entry": 1035,
+			"chance": 0,
+			"description": "Deatheye (8302)"
+		},
+		{
+			"id": 8303,
+			"pool_entry": 1036,
+			"chance": 0,
+			"description": "Grunter (8303)"
+		},
+		{
+			"id": 8304,
+			"pool_entry": 1037,
+			"chance": 0,
+			"description": "Dreadscorn (8304)"
+		},
+		{
+			"id": 8976,
+			"pool_entry": 1038,
+			"chance": 0,
+			"description": "Hematos (8976)"
+		},
+		{
+			"id": 8978,
+			"pool_entry": 1039,
+			"chance": 0,
+			"description": "Thauris Balgarr (8978)"
+		},
+		{
+			"id": 8979,
+			"pool_entry": 1040,
+			"chance": 0,
+			"description": "Gruklash (8979)"
+		},
+		{
+			"id": 8981,
+			"pool_entry": 1041,
+			"chance": 0,
+			"description": "Malfunctioning Reaver (8981)"
+		},
+		{
+			"id": 9602,
+			"pool_entry": 1042,
+			"chance": 0,
+			"description": "Hahk'Zor (9602)"
+		},
+		{
+			"id": 9604,
+			"pool_entry": 1043,
+			"chance": 0,
+			"description": "Gorgon'och (9604)"
+		},
+		{
+			"id": 10077,
+			"pool_entry": 1044,
+			"chance": 0,
+			"description": "Deathmaw (10077)"
+		},
+		{
+			"id": 10078,
+			"pool_entry": 1045,
+			"chance": 0,
+			"description": "Terrorspark (10078)"
+		},
+		{
+			"id": 10119,
+			"pool_entry": 1046,
+			"chance": 0,
+			"description": "Volchan (10119)"
+		},
+		{
+			"id": 1130,
+			"pool_entry": 1047,
+			"chance": 0,
+			"description": "Bjarn (1130)"
+		},
+		{
+			"id": 1137,
+			"pool_entry": 1048,
+			"chance": 0,
+			"description": "Edan the Howler (1137)"
+		},
+		{
+			"id": 8503,
+			"pool_entry": 1049,
+			"chance": 0,
+			"description": "Gibblewilt (8503)"
+		},
+		{
+			"id": 1260,
+			"pool_entry": 1050,
+			"chance": 0,
+			"description": "Great Father Arctikus (1260)"
+		},
+		{
+			"id": 1119,
+			"pool_entry": 1051,
+			"chance": 0,
+			"description": "Hammerspine (1119)"
+		},
+		{
+			"id": 1132,
+			"pool_entry": 1052,
+			"chance": 0,
+			"description": "Timber (1132)"
+		},
+		{
+			"id": 503,
+			"pool_entry": 1053,
+			"chance": 0,
+			"description": "Lord Malathrom (503)"
+		},
+		{
+			"id": 507,
+			"pool_entry": 1054,
+			"chance": 0,
+			"description": "Fenros (507)"
+		},
+		{
+			"id": 521,
+			"pool_entry": 1055,
+			"chance": 0,
+			"description": "Lupos (521)"
+		},
+		{
+			"id": 534,
+			"pool_entry": 1056,
+			"chance": 0,
+			"description": "Nefaru (534)"
+		},
+		{
+			"id": 574,
+			"pool_entry": 1057,
+			"chance": 0,
+			"description": "Naraxis (574)"
+		},
+		{
+			"id": 771,
+			"pool_entry": 1058,
+			"chance": 0,
+			"description": "Commander Felstrom (771)"
+		},
+		{
+			"id": 10817,
+			"pool_entry": 1059,
+			"chance": 0,
+			"description": "Duggan Wildhammer (10817)"
+		},
+		{
+			"id": 10821,
+			"pool_entry": 1060,
+			"chance": 0,
+			"description": "Hed'mush the Rotting (10821)"
+		},
+		{
+			"id": 10822,
+			"pool_entry": 1061,
+			"chance": 0,
+			"description": "Warlord Thresh'jin (10822)"
+		},
+		{
+			"id": 10823,
+			"pool_entry": 1062,
+			"chance": 0,
+			"description": "Zul'Brin Warpbranch (10823)"
+		},
+		{
+			"id": 10824,
+			"pool_entry": 1063,
+			"chance": 0,
+			"description": "Ranger Lord Hawkspear (10824)"
+		},
+		{
+			"id": 10825,
+			"pool_entry": 1064,
+			"chance": 0,
+			"description": "Gish the Unmoving (10825)"
+		},
+		{
+			"id": 10826,
+			"pool_entry": 1065,
+			"chance": 0,
+			"description": "Lord Darkscythe (10826)"
+		},
+		{
+			"id": 10827,
+			"pool_entry": 1066,
+			"chance": 0,
+			"description": "Deathspeaker Selendre (10827)"
+		},
+		{
+			"id": 10828,
+			"pool_entry": 1067,
+			"chance": 0,
+			"description": "High General Abbendis (10828)"
+		},
+		{
+			"id": 16184,
+			"pool_entry": 1068,
+			"chance": 0,
+			"description": "Nerubian Overseer (16184)"
+		},
+		{
+			"id": 61,
+			"pool_entry": 1069,
+			"chance": 0,
+			"description": "Thuros Lightfingers (61)"
+		},
+		{
+			"id": 79,
+			"pool_entry": 1070,
+			"chance": 0,
+			"description": "Narg the Taskmaster (79)"
+		},
+		{
+			"id": 99,
+			"pool_entry": 1071,
+			"chance": 0,
+			"description": "Morgaine the Sly (99)"
+		},
+		{
+			"id": 100,
+			"pool_entry": 1072,
+			"chance": 0,
+			"description": "Gruff Swiftbite (100)"
+		},
+		{
+			"id": 471,
+			"pool_entry": 1073,
+			"chance": 0,
+			"description": "Mother Fang (471)"
+		},
+		{
+			"id": 472,
+			"pool_entry": 1074,
+			"chance": 0,
+			"description": "Fedfennel (472)"
+		},
+		{
+			"id": 16854,
+			"pool_entry": 1075,
+			"chance": 0,
+			"description": "Eldinarcus (16854)"
+		},
+		{
+			"id": 16855,
+			"pool_entry": 1076,
+			"chance": 0,
+			"description": "Tregla (16855)"
+		},
+		{
+			"id": 22062,
+			"pool_entry": 1077,
+			"chance": 0,
+			"description": "Dr. Whitherlimb (22062)"
+		},
+		{
+			"id": 14275,
+			"pool_entry": 1078,
+			"chance": 0,
+			"description": "Tamra Stormpike (14275)"
+		},
+		{
+			"id": 14276,
+			"pool_entry": 1079,
+			"chance": 0,
+			"description": "Scargil (14276)"
+		},
+		{
+			"id": 14277,
+			"pool_entry": 1080,
+			"chance": 0,
+			"description": "Lady Zephris (14277)"
+		},
+		{
+			"id": 14278,
+			"pool_entry": 1081,
+			"chance": 0,
+			"description": "Ro'Bark (14278)"
+		},
+		{
+			"id": 14279,
+			"pool_entry": 1082,
+			"chance": 0,
+			"description": "Creepthess (14279)"
+		},
+		{
+			"id": 14280,
+			"pool_entry": 1083,
+			"chance": 0,
+			"description": "Big Samras (14280)"
+		},
+		{
+			"id": 1398,
+			"pool_entry": 1084,
+			"chance": 0,
+			"description": "Boss Galgosh (1398)"
+		},
+		{
+			"id": 1399,
+			"pool_entry": 1085,
+			"chance": 0,
+			"description": "Magosh (1399)"
+		},
+		{
+			"id": 1425,
+			"pool_entry": 1086,
+			"chance": 0,
+			"description": "Grizlak (1425)"
+		},
+		{
+			"id": 2476,
+			"pool_entry": 1087,
+			"chance": 0,
+			"description": "Large Loch Crocolisk (2476)"
+		},
+		{
+			"id": 14266,
+			"pool_entry": 1088,
+			"chance": 0,
+			"description": "Shanda the Spinner (14266)"
+		},
+		{
+			"id": 14267,
+			"pool_entry": 1089,
+			"chance": 0,
+			"description": "Emogg the Crusher (14267)"
+		},
+		{
+			"id": 14268,
+			"pool_entry": 1090,
+			"chance": 0,
+			"description": "Lord Condar (14268)"
+		},
+		{
+			"id": 584,
+			"pool_entry": 1091,
+			"chance": 0,
+			"description": "Kazon (584)"
+		},
+		{
+			"id": 616,
+			"pool_entry": 1092,
+			"chance": 0,
+			"description": "Chatter (616)"
+		},
+		{
+			"id": 947,
+			"pool_entry": 1093,
+			"chance": 0,
+			"description": "Rohh the Silent (947)"
+		},
+		{
+			"id": 14269,
+			"pool_entry": 1094,
+			"chance": 0,
+			"description": "Seeker Aqualon (14269)"
+		},
+		{
+			"id": 14270,
+			"pool_entry": 1095,
+			"chance": 0,
+			"description": "Squiddic (14270)"
+		},
+		{
+			"id": 14271,
+			"pool_entry": 1096,
+			"chance": 0,
+			"description": "Ribchaser (14271)"
+		},
+		{
+			"id": 14272,
+			"pool_entry": 1097,
+			"chance": 0,
+			"description": "Snarlflare (14272)"
+		},
+		{
+			"id": 14273,
+			"pool_entry": 1098,
+			"chance": 0,
+			"description": "Boulderheart (14273)"
+		},
+		{
+			"id": 8277,
+			"pool_entry": 1099,
+			"chance": 0,
+			"description": "Rekk'tilac (8277)"
+		},
+		{
+			"id": 8278,
+			"pool_entry": 1100,
+			"chance": 0,
+			"description": "Smoldar (8278)"
+		},
+		{
+			"id": 8279,
+			"pool_entry": 1101,
+			"chance": 0,
+			"description": "Faulty War Golem (8279)"
+		},
+		{
+			"id": 8280,
+			"pool_entry": 1102,
+			"chance": 0,
+			"description": "Shleipnarr (8280)"
+		},
+		{
+			"id": 8281,
+			"pool_entry": 1103,
+			"chance": 0,
+			"description": "Scald (8281)"
+		},
+		{
+			"id": 8282,
+			"pool_entry": 1104,
+			"chance": 0,
+			"description": "Highlord Mastrogonde (8282)"
+		},
+		{
+			"id": 8283,
+			"pool_entry": 1105,
+			"chance": 0,
+			"description": "Slave Master Blackheart (8283)"
+		},
+		{
+			"id": 1920,
+			"pool_entry": 1106,
+			"chance": 0,
+			"description": "Dalaran Spellscribe (1920)"
+		},
+		{
+			"id": 1944,
+			"pool_entry": 1107,
+			"chance": 0,
+			"description": "Rot Hide Bruiser (1944)"
+		},
+		{
+			"id": 1948,
+			"pool_entry": 1108,
+			"chance": 0,
+			"description": "Snarlmane (1948)"
+		},
+		{
+			"id": 2283,
+			"pool_entry": 1109,
+			"chance": 0,
+			"description": "Ravenclaw Regent (2283)"
+		},
+		{
+			"id": 12431,
+			"pool_entry": 1110,
+			"chance": 0,
+			"description": "Gorefang (12431)"
+		},
+		{
+			"id": 12432,
+			"pool_entry": 1111,
+			"chance": 0,
+			"description": "Old Vicejaw (12432)"
+		},
+		{
+			"id": 12433,
+			"pool_entry": 1112,
+			"chance": 0,
+			"description": "Krethis Shadowspinner (12433)"
+		},
+		{
+			"id": 3581,
+			"pool_entry": 1113,
+			"chance": 0,
+			"description": "Sewer Beast (3581)"
+		},
+		{
+			"id": 1552,
+			"pool_entry": 1114,
+			"chance": 0,
+			"description": "Scale Belly (1552)"
+		},
+		{
+			"id": 2541,
+			"pool_entry": 1115,
+			"chance": 0,
+			"description": "Lord Sakrasis (2541)"
+		},
+		{
+			"id": 11383,
+			"pool_entry": 1116,
+			"chance": 0,
+			"description": "High Priestess Hai'watna (11383)"
+		},
+		{
+			"id": 14487,
+			"pool_entry": 1117,
+			"chance": 0,
+			"description": "Gluggle (14487)"
+		},
+		{
+			"id": 14488,
+			"pool_entry": 1118,
+			"chance": 0,
+			"description": "Roloch (14488)"
+		},
+		{
+			"id": 14490,
+			"pool_entry": 1119,
+			"chance": 0,
+			"description": "Rippa (14490)"
+		},
+		{
+			"id": 14491,
+			"pool_entry": 1120,
+			"chance": 0,
+			"description": "Kurmokk (14491)"
+		},
+		{
+			"id": 14492,
+			"pool_entry": 1121,
+			"chance": 0,
+			"description": "Verifonix (14492)"
+		},
+		{
+			"id": 763,
+			"pool_entry": 1122,
+			"chance": 0,
+			"description": "Lost One Chieftain (763)"
+		},
+		{
+			"id": 1063,
+			"pool_entry": 1123,
+			"chance": 0,
+			"description": "Jade (1063)"
+		},
+		{
+			"id": 1106,
+			"pool_entry": 1124,
+			"chance": 0,
+			"description": "Lost One Cook (1106)"
+		},
+		{
+			"id": 14445,
+			"pool_entry": 1125,
+			"chance": 0,
+			"description": "Lord Captain Wyrmak (14445)"
+		},
+		{
+			"id": 14446,
+			"pool_entry": 1126,
+			"chance": 0,
+			"description": "Fingat (14446)"
+		},
+		{
+			"id": 14447,
+			"pool_entry": 1127,
+			"chance": 0,
+			"description": "Gilmorian (14447)"
+		},
+		{
+			"id": 14448,
+			"pool_entry": 1128,
+			"chance": 0,
+			"description": "Molt Thorn (14448)"
+		},
+		{
+			"id": 8210,
+			"pool_entry": 1129,
+			"chance": 0,
+			"description": "Razortalon (8210)"
+		},
+		{
+			"id": 8211,
+			"pool_entry": 1130,
+			"chance": 0,
+			"description": "Old Cliff Jumper (8211)"
+		},
+		{
+			"id": 8212,
+			"pool_entry": 1131,
+			"chance": 0,
+			"description": "The Reak (8212)"
+		},
+		{
+			"id": 8213,
+			"pool_entry": 1132,
+			"chance": 0,
+			"description": "Ironback (8213)"
+		},
+		{
+			"id": 8214,
+			"pool_entry": 1133,
+			"chance": 0,
+			"description": "Jalinde Summerdrake (8214)"
+		},
+		{
+			"id": 8215,
+			"pool_entry": 1134,
+			"chance": 0,
+			"description": "Grimungous (8215)"
+		},
+		{
+			"id": 8216,
+			"pool_entry": 1135,
+			"chance": 0,
+			"description": "Retherokk the Berserker (8216)"
+		},
+		{
+			"id": 8217,
+			"pool_entry": 1136,
+			"chance": 0,
+			"description": "Mith'rethis the Enchanter (8217)"
+		},
+		{
+			"id": 8218,
+			"pool_entry": 1137,
+			"chance": 0,
+			"description": "Witherheart the Stalker (8218)"
+		},
+		{
+			"id": 8219,
+			"pool_entry": 1138,
+			"chance": 0,
+			"description": "Zul'arek Hatefowler (8219)"
+		},
+		{
+			"id": 1531,
+			"pool_entry": 1139,
+			"chance": 0,
+			"description": "Lost Soul (1531)"
+		},
+		{
+			"id": 1533,
+			"pool_entry": 1140,
+			"chance": 0,
+			"description": "Tormented Spirit (1533)"
+		},
+		{
+			"id": 1910,
+			"pool_entry": 1141,
+			"chance": 0,
+			"description": "Muad (1910)"
+		},
+		{
+			"id": 1911,
+			"pool_entry": 1142,
+			"chance": 0,
+			"description": "Deeb (1911)"
+		},
+		{
+			"id": 1936,
+			"pool_entry": 1143,
+			"chance": 0,
+			"description": "Farmer Solliden (1936)"
+		},
+		{
+			"id": 10356,
+			"pool_entry": 1144,
+			"chance": 0,
+			"description": "Bayne (10356)"
+		},
+		{
+			"id": 10357,
+			"pool_entry": 1145,
+			"chance": 0,
+			"description": "Ressan the Needler (10357)"
+		},
+		{
+			"id": 10358,
+			"pool_entry": 1146,
+			"chance": 0,
+			"description": "Fellicent's Shade (10358)"
+		},
+		{
+			"id": 10359,
+			"pool_entry": 1147,
+			"chance": 0,
+			"description": "Sri'skulk (10359)"
+		},
+		{
+			"id": 1837,
+			"pool_entry": 1148,
+			"chance": 0,
+			"description": "Scarlet Judge (1837)"
+		},
+		{
+			"id": 1838,
+			"pool_entry": 1149,
+			"chance": 0,
+			"description": "Scarlet Interrogator (1838)"
+		},
+		{
+			"id": 1839,
+			"pool_entry": 1150,
+			"chance": 0,
+			"description": "Scarlet High Clerist (1839)"
+		},
+		{
+			"id": 1841,
+			"pool_entry": 1151,
+			"chance": 0,
+			"description": "Scarlet Executioner (1841)"
+		},
+		{
+			"id": 1843,
+			"pool_entry": 1152,
+			"chance": 0,
+			"description": "Foreman Jerris (1843)"
+		},
+		{
+			"id": 1844,
+			"pool_entry": 1153,
+			"chance": 0,
+			"description": "Foreman Marcrid (1844)"
+		},
+		{
+			"id": 1847,
+			"pool_entry": 1154,
+			"chance": 0,
+			"description": "Foulmane (1847)"
+		},
+		{
+			"id": 1848,
+			"pool_entry": 1155,
+			"chance": 0,
+			"description": "Lord Maldazzar (1848)"
+		},
+		{
+			"id": 1850,
+			"pool_entry": 1156,
+			"chance": 0,
+			"description": "Putridius (1850)"
+		},
+		{
+			"id": 1851,
+			"pool_entry": 1157,
+			"chance": 0,
+			"description": "The Husk (1851)"
+		},
+		{
+			"id": 1885,
+			"pool_entry": 1158,
+			"chance": 0,
+			"description": "Scarlet Smith (1885)"
+		},
+		{
+			"id": 462,
+			"pool_entry": 1159,
+			"chance": 0,
+			"description": "Vultros (462)"
+		},
+		{
+			"id": 506,
+			"pool_entry": 1160,
+			"chance": 0,
+			"description": "Sergeant Brashclaw (506)"
+		},
+		{
+			"id": 519,
+			"pool_entry": 1161,
+			"chance": 0,
+			"description": "Slark (519)"
+		},
+		{
+			"id": 520,
+			"pool_entry": 1162,
+			"chance": 0,
+			"description": "Brack (520)"
+		},
+		{
+			"id": 572,
+			"pool_entry": 1163,
+			"chance": 0,
+			"description": "Leprithus (572)"
+		},
+		{
+			"id": 573,
+			"pool_entry": 1164,
+			"chance": 0,
+			"description": "Foe Reaper 4000 (573)"
+		},
+		{
+			"id": 1424,
+			"pool_entry": 1165,
+			"chance": 0,
+			"description": "Master Digger (1424)"
+		},
+		{
+			"id": 1037,
+			"pool_entry": 1166,
+			"chance": 0,
+			"description": "Dragonmaw Battlemaster (1037)"
+		},
+		{
+			"id": 1112,
+			"pool_entry": 1167,
+			"chance": 0,
+			"description": "Leech Widow (1112)"
+		},
+		{
+			"id": 1140,
+			"pool_entry": 1168,
+			"chance": 0,
+			"description": "Razormaw Matriarch (1140)"
+		},
+		{
+			"id": 2090,
+			"pool_entry": 1169,
+			"chance": 0,
+			"description": "Ma'ruk Wyrmscale (2090)"
+		},
+		{
+			"id": 2108,
+			"pool_entry": 1170,
+			"chance": 0,
+			"description": "Garneg Charskull (2108)"
+		},
+		{
+			"id": 14424,
+			"pool_entry": 1171,
+			"chance": 0,
+			"description": "Mirelow (14424)"
+		},
+		{
+			"id": 14425,
+			"pool_entry": 1172,
+			"chance": 0,
+			"description": "Gnawbone (14425)"
+		},
+		{
+			"id": 14433,
+			"pool_entry": 1173,
+			"chance": 0,
+			"description": "Sludginn (14433)"
+		},
+		{
+			"id": 18690,
+			"pool_entry": 1174,
+			"chance": 0,
+			"description": "Morcrush (18690)"
+		},
+		{
+			"id": 18692,
+			"pool_entry": 1175,
+			"chance": 0,
+			"description": "Hemathion (18692)"
+		},
+		{
+			"id": 18693,
+			"pool_entry": 1176,
+			"chance": 0,
+			"description": "Speaker Margrom (18693)"
+		},
+		{
+			"id": 18677,
+			"pool_entry": 1177,
+			"chance": 0,
+			"description": "Mekthorg the Wild (18677)"
+		},
+		{
+			"id": 18678,
+			"pool_entry": 1178,
+			"chance": 0,
+			"description": "Fulgorge (18678)"
+		},
+		{
+			"id": 18679,
+			"pool_entry": 1179,
+			"chance": 0,
+			"description": "Vorakem Doomspeaker (18679)"
+		},
+		{
+			"id": 17144,
+			"pool_entry": 1180,
+			"chance": 0,
+			"description": "Goretooth (17144)"
+		},
+		{
+			"id": 18683,
+			"pool_entry": 1181,
+			"chance": 0,
+			"description": "Voidhunter Yar (18683)"
+		},
+		{
+			"id": 18684,
+			"pool_entry": 1182,
+			"chance": 0,
+			"description": "BroGaz the Clanless (18684)"
+		},
+		{
+			"id": 18697,
+			"pool_entry": 1183,
+			"chance": 0,
+			"description": "Chief Engineer Lorthander (18697)"
+		},
+		{
+			"id": 18698,
+			"pool_entry": 1184,
+			"chance": 0,
+			"description": "Ever-Core the Punisher (18698)"
+		},
+		{
+			"id": 20932,
+			"pool_entry": 1185,
+			"chance": 0,
+			"description": "Nuramoc (20932)"
+		},
+		{
+			"id": 18694,
+			"pool_entry": 1186,
+			"chance": 0,
+			"description": "Collidus the Warp-Watcher (18694)"
+		},
+		{
+			"id": 18695,
+			"pool_entry": 1187,
+			"chance": 0,
+			"description": "Ambassador Jerrikar (18695)"
+		},
+		{
+			"id": 18696,
+			"pool_entry": 1188,
+			"chance": 0,
+			"description": "Kraator (18696)"
+		},
+		{
+			"id": 18685,
+			"pool_entry": 1189,
+			"chance": 0,
+			"description": "Okrek (18685)"
+		},
+		{
+			"id": 18686,
+			"pool_entry": 1190,
+			"chance": 0,
+			"description": "Doomsayer Jurim (18686)"
+		},
+		{
+			"id": 18689,
+			"pool_entry": 1191,
+			"chance": 0,
+			"description": "Crippler (18689)"
+		},
+		{
+			"id": 18680,
+			"pool_entry": 1192,
+			"chance": 0,
+			"description": "Marticar (18680)"
+		},
+		{
+			"id": 18681,
+			"pool_entry": 1193,
+			"chance": 0,
+			"description": "Coilfang Emissary (18681)"
+		},
+		{
+			"id": 18682,
+			"pool_entry": 1194,
+			"chance": 0,
+			"description": "Bog Lurker (18682)"
+		}
+	]
+}

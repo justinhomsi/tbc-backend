@@ -1,0 +1,24 @@
+{
+	"table": "reputation_reward_rate",
+	"rows":
+	[
+		{
+			"faction": 529,
+			"quest_rate": 2,
+			"creature_rate": 1,
+			"spell_rate": 2
+		},
+		{
+			"faction": 609,
+			"quest_rate": 2,
+			"creature_rate": 1,
+			"spell_rate": 2
+		},
+		{
+			"faction": 576,
+			"quest_rate": 2,
+			"creature_rate": 1,
+			"spell_rate": 2
+		}
+	]
+}

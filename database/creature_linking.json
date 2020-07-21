@@ -1,0 +1,1336 @@
+{
+	"table": "creature_linking",
+	"rows":
+	[
+		{
+			"guid": 66606,
+			"master_guid": 66605,
+			"flag": 515
+		},
+		{
+			"guid": 139987,
+			"master_guid": 139984,
+			"flag": 3
+		},
+		{
+			"guid": 139985,
+			"master_guid": 139984,
+			"flag": 3
+		},
+		{
+			"guid": 139986,
+			"master_guid": 139984,
+			"flag": 3
+		},
+		{
+			"guid": 83193,
+			"master_guid": 83194,
+			"flag": 3
+		},
+		{
+			"guid": 83196,
+			"master_guid": 83194,
+			"flag": 3
+		},
+		{
+			"guid": 83192,
+			"master_guid": 83191,
+			"flag": 3
+		},
+		{
+			"guid": 83190,
+			"master_guid": 83191,
+			"flag": 3
+		},
+		{
+			"guid": 83227,
+			"master_guid": 83228,
+			"flag": 3
+		},
+		{
+			"guid": 83225,
+			"master_guid": 83226,
+			"flag": 3
+		},
+		{
+			"guid": 83187,
+			"master_guid": 83188,
+			"flag": 3
+		},
+		{
+			"guid": 83186,
+			"master_guid": 83185,
+			"flag": 3
+		},
+		{
+			"guid": 83222,
+			"master_guid": 83224,
+			"flag": 3
+		},
+		{
+			"guid": 83223,
+			"master_guid": 83224,
+			"flag": 3
+		},
+		{
+			"guid": 83219,
+			"master_guid": 83221,
+			"flag": 3
+		},
+		{
+			"guid": 83220,
+			"master_guid": 83221,
+			"flag": 3
+		},
+		{
+			"guid": 83218,
+			"master_guid": 83217,
+			"flag": 3
+		},
+		{
+			"guid": 83215,
+			"master_guid": 83216,
+			"flag": 3
+		},
+		{
+			"guid": 83214,
+			"master_guid": 83216,
+			"flag": 3
+		},
+		{
+			"guid": 83207,
+			"master_guid": 83208,
+			"flag": 3
+		},
+		{
+			"guid": 83209,
+			"master_guid": 83208,
+			"flag": 3
+		},
+		{
+			"guid": 83210,
+			"master_guid": 83208,
+			"flag": 3
+		},
+		{
+			"guid": 83211,
+			"master_guid": 83213,
+			"flag": 3
+		},
+		{
+			"guid": 83212,
+			"master_guid": 83213,
+			"flag": 3
+		},
+		{
+			"guid": 83202,
+			"master_guid": 83205,
+			"flag": 3
+		},
+		{
+			"guid": 83203,
+			"master_guid": 83205,
+			"flag": 3
+		},
+		{
+			"guid": 83204,
+			"master_guid": 83205,
+			"flag": 3
+		},
+		{
+			"guid": 83161,
+			"master_guid": 83199,
+			"flag": 3
+		},
+		{
+			"guid": 83162,
+			"master_guid": 83199,
+			"flag": 3
+		},
+		{
+			"guid": 83163,
+			"master_guid": 83199,
+			"flag": 3
+		},
+		{
+			"guid": 83164,
+			"master_guid": 83165,
+			"flag": 3
+		},
+		{
+			"guid": 83200,
+			"master_guid": 83165,
+			"flag": 3
+		},
+		{
+			"guid": 83166,
+			"master_guid": 83165,
+			"flag": 3
+		},
+		{
+			"guid": 83167,
+			"master_guid": 83165,
+			"flag": 3
+		},
+		{
+			"guid": 83170,
+			"master_guid": 83168,
+			"flag": 3
+		},
+		{
+			"guid": 83171,
+			"master_guid": 83168,
+			"flag": 3
+		},
+		{
+			"guid": 83201,
+			"master_guid": 83168,
+			"flag": 3
+		},
+		{
+			"guid": 83182,
+			"master_guid": 83180,
+			"flag": 3
+		},
+		{
+			"guid": 87087,
+			"master_guid": 83180,
+			"flag": 3
+		},
+		{
+			"guid": 83183,
+			"master_guid": 83180,
+			"flag": 3
+		},
+		{
+			"guid": 83178,
+			"master_guid": 83179,
+			"flag": 3
+		},
+		{
+			"guid": 83174,
+			"master_guid": 83175,
+			"flag": 3
+		},
+		{
+			"guid": 83176,
+			"master_guid": 83175,
+			"flag": 3
+		},
+		{
+			"guid": 83172,
+			"master_guid": 83169,
+			"flag": 3
+		},
+		{
+			"guid": 139989,
+			"master_guid": 139988,
+			"flag": 3
+		},
+		{
+			"guid": 139990,
+			"master_guid": 139988,
+			"flag": 3
+		},
+		{
+			"guid": 139991,
+			"master_guid": 139988,
+			"flag": 3
+		},
+		{
+			"guid": 83023,
+			"master_guid": 83022,
+			"flag": 515
+		},
+		{
+			"guid": 83026,
+			"master_guid": 83027,
+			"flag": 515
+		},
+		{
+			"guid": 140313,
+			"master_guid": 140312,
+			"flag": 515
+		},
+		{
+			"guid": 83151,
+			"master_guid": 83152,
+			"flag": 3
+		},
+		{
+			"guid": 83154,
+			"master_guid": 83155,
+			"flag": 3
+		},
+		{
+			"guid": 82984,
+			"master_guid": 83156,
+			"flag": 3
+		},
+		{
+			"guid": 82983,
+			"master_guid": 83150,
+			"flag": 3
+		},
+		{
+			"guid": 140296,
+			"master_guid": 83150,
+			"flag": 3
+		},
+		{
+			"guid": 82981,
+			"master_guid": 82982,
+			"flag": 3
+		},
+		{
+			"guid": 82980,
+			"master_guid": 82982,
+			"flag": 3
+		},
+		{
+			"guid": 82978,
+			"master_guid": 82979,
+			"flag": 3
+		},
+		{
+			"guid": 82977,
+			"master_guid": 82979,
+			"flag": 3
+		},
+		{
+			"guid": 82991,
+			"master_guid": 82985,
+			"flag": 3
+		},
+		{
+			"guid": 82994,
+			"master_guid": 83000,
+			"flag": 3
+		},
+		{
+			"guid": 82993,
+			"master_guid": 83000,
+			"flag": 3
+		},
+		{
+			"guid": 82996,
+			"master_guid": 82995,
+			"flag": 3
+		},
+		{
+			"guid": 82997,
+			"master_guid": 82995,
+			"flag": 3
+		},
+		{
+			"guid": 82998,
+			"master_guid": 82995,
+			"flag": 3
+		},
+		{
+			"guid": 83001,
+			"master_guid": 83002,
+			"flag": 3
+		},
+		{
+			"guid": 83005,
+			"master_guid": 83006,
+			"flag": 3
+		},
+		{
+			"guid": 83004,
+			"master_guid": 83006,
+			"flag": 3
+		},
+		{
+			"guid": 83008,
+			"master_guid": 83007,
+			"flag": 3
+		},
+		{
+			"guid": 83009,
+			"master_guid": 83007,
+			"flag": 3
+		},
+		{
+			"guid": 83010,
+			"master_guid": 83007,
+			"flag": 3
+		},
+		{
+			"guid": 140298,
+			"master_guid": 140297,
+			"flag": 3
+		},
+		{
+			"guid": 140299,
+			"master_guid": 140297,
+			"flag": 3
+		},
+		{
+			"guid": 140300,
+			"master_guid": 140301,
+			"flag": 3
+		},
+		{
+			"guid": 140302,
+			"master_guid": 140301,
+			"flag": 3
+		},
+		{
+			"guid": 140303,
+			"master_guid": 140304,
+			"flag": 3
+		},
+		{
+			"guid": 140305,
+			"master_guid": 140304,
+			"flag": 3
+		},
+		{
+			"guid": 83017,
+			"master_guid": 83016,
+			"flag": 3
+		},
+		{
+			"guid": 83018,
+			"master_guid": 83016,
+			"flag": 3
+		},
+		{
+			"guid": 83019,
+			"master_guid": 83016,
+			"flag": 3
+		},
+		{
+			"guid": 83033,
+			"master_guid": 83034,
+			"flag": 3
+		},
+		{
+			"guid": 83032,
+			"master_guid": 83034,
+			"flag": 3
+		},
+		{
+			"guid": 83031,
+			"master_guid": 83034,
+			"flag": 3
+		},
+		{
+			"guid": 83030,
+			"master_guid": 83034,
+			"flag": 3
+		},
+		{
+			"guid": 83029,
+			"master_guid": 83020,
+			"flag": 3
+		},
+		{
+			"guid": 140306,
+			"master_guid": 83020,
+			"flag": 3
+		},
+		{
+			"guid": 83048,
+			"master_guid": 83021,
+			"flag": 3
+		},
+		{
+			"guid": 83028,
+			"master_guid": 83021,
+			"flag": 3
+		},
+		{
+			"guid": 83024,
+			"master_guid": 83021,
+			"flag": 3
+		},
+		{
+			"guid": 83025,
+			"master_guid": 83021,
+			"flag": 3
+		},
+		{
+			"guid": 83043,
+			"master_guid": 83035,
+			"flag": 3
+		},
+		{
+			"guid": 83046,
+			"master_guid": 83035,
+			"flag": 3
+		},
+		{
+			"guid": 83042,
+			"master_guid": 83035,
+			"flag": 3
+		},
+		{
+			"guid": 83040,
+			"master_guid": 83035,
+			"flag": 3
+		},
+		{
+			"guid": 83041,
+			"master_guid": 83035,
+			"flag": 3
+		},
+		{
+			"guid": 83039,
+			"master_guid": 83035,
+			"flag": 3
+		},
+		{
+			"guid": 83036,
+			"master_guid": 83035,
+			"flag": 3
+		},
+		{
+			"guid": 83038,
+			"master_guid": 83035,
+			"flag": 3
+		},
+		{
+			"guid": 83050,
+			"master_guid": 83049,
+			"flag": 3
+		},
+		{
+			"guid": 83051,
+			"master_guid": 83049,
+			"flag": 3
+		},
+		{
+			"guid": 83054,
+			"master_guid": 83053,
+			"flag": 3
+		},
+		{
+			"guid": 83055,
+			"master_guid": 83053,
+			"flag": 3
+		},
+		{
+			"guid": 83057,
+			"master_guid": 83056,
+			"flag": 3
+		},
+		{
+			"guid": 83058,
+			"master_guid": 83056,
+			"flag": 3
+		},
+		{
+			"guid": 83061,
+			"master_guid": 83056,
+			"flag": 3
+		},
+		{
+			"guid": 83062,
+			"master_guid": 83056,
+			"flag": 3
+		},
+		{
+			"guid": 83063,
+			"master_guid": 83056,
+			"flag": 3
+		},
+		{
+			"guid": 83064,
+			"master_guid": 83056,
+			"flag": 3
+		},
+		{
+			"guid": 83065,
+			"master_guid": 83056,
+			"flag": 3
+		},
+		{
+			"guid": 83069,
+			"master_guid": 83056,
+			"flag": 3
+		},
+		{
+			"guid": 140307,
+			"master_guid": 140309,
+			"flag": 3
+		},
+		{
+			"guid": 140308,
+			"master_guid": 140309,
+			"flag": 3
+		},
+		{
+			"guid": 83070,
+			"master_guid": 83071,
+			"flag": 3
+		},
+		{
+			"guid": 83074,
+			"master_guid": 83075,
+			"flag": 3
+		},
+		{
+			"guid": 83083,
+			"master_guid": 83082,
+			"flag": 3
+		},
+		{
+			"guid": 83084,
+			"master_guid": 83082,
+			"flag": 3
+		},
+		{
+			"guid": 83085,
+			"master_guid": 83082,
+			"flag": 3
+		},
+		{
+			"guid": 83079,
+			"master_guid": 83078,
+			"flag": 3
+		},
+		{
+			"guid": 83080,
+			"master_guid": 83078,
+			"flag": 3
+		},
+		{
+			"guid": 83081,
+			"master_guid": 83078,
+			"flag": 3
+		},
+		{
+			"guid": 83096,
+			"master_guid": 83095,
+			"flag": 3
+		},
+		{
+			"guid": 83097,
+			"master_guid": 83095,
+			"flag": 3
+		},
+		{
+			"guid": 83098,
+			"master_guid": 83095,
+			"flag": 3
+		},
+		{
+			"guid": 83099,
+			"master_guid": 83095,
+			"flag": 3
+		},
+		{
+			"guid": 83091,
+			"master_guid": 83090,
+			"flag": 3
+		},
+		{
+			"guid": 83092,
+			"master_guid": 83090,
+			"flag": 3
+		},
+		{
+			"guid": 83093,
+			"master_guid": 83090,
+			"flag": 3
+		},
+		{
+			"guid": 83094,
+			"master_guid": 83090,
+			"flag": 3
+		},
+		{
+			"guid": 83101,
+			"master_guid": 83100,
+			"flag": 3
+		},
+		{
+			"guid": 83102,
+			"master_guid": 83100,
+			"flag": 3
+		},
+		{
+			"guid": 83103,
+			"master_guid": 83100,
+			"flag": 3
+		},
+		{
+			"guid": 83104,
+			"master_guid": 83100,
+			"flag": 3
+		},
+		{
+			"guid": 83105,
+			"master_guid": 83106,
+			"flag": 3
+		},
+		{
+			"guid": 83108,
+			"master_guid": 83107,
+			"flag": 3
+		},
+		{
+			"guid": 83109,
+			"master_guid": 83107,
+			"flag": 3
+		},
+		{
+			"guid": 83112,
+			"master_guid": 83107,
+			"flag": 3
+		},
+		{
+			"guid": 83111,
+			"master_guid": 83110,
+			"flag": 3
+		},
+		{
+			"guid": 83113,
+			"master_guid": 83110,
+			"flag": 3
+		},
+		{
+			"guid": 83114,
+			"master_guid": 83110,
+			"flag": 3
+		},
+		{
+			"guid": 83116,
+			"master_guid": 83115,
+			"flag": 3
+		},
+		{
+			"guid": 83117,
+			"master_guid": 83115,
+			"flag": 3
+		},
+		{
+			"guid": 83118,
+			"master_guid": 83115,
+			"flag": 3
+		},
+		{
+			"guid": 83134,
+			"master_guid": 83148,
+			"flag": 3
+		},
+		{
+			"guid": 83135,
+			"master_guid": 83148,
+			"flag": 3
+		},
+		{
+			"guid": 83131,
+			"master_guid": 83148,
+			"flag": 3
+		},
+		{
+			"guid": 83149,
+			"master_guid": 83148,
+			"flag": 3
+		},
+		{
+			"guid": 83146,
+			"master_guid": 83148,
+			"flag": 3
+		},
+		{
+			"guid": 83137,
+			"master_guid": 83148,
+			"flag": 3
+		},
+		{
+			"guid": 83139,
+			"master_guid": 83148,
+			"flag": 3
+		},
+		{
+			"guid": 83141,
+			"master_guid": 83148,
+			"flag": 3
+		},
+		{
+			"guid": 83143,
+			"master_guid": 83148,
+			"flag": 3
+		},
+		{
+			"guid": 83127,
+			"master_guid": 83120,
+			"flag": 3
+		},
+		{
+			"guid": 83119,
+			"master_guid": 83120,
+			"flag": 3
+		},
+		{
+			"guid": 83121,
+			"master_guid": 83120,
+			"flag": 3
+		},
+		{
+			"guid": 83122,
+			"master_guid": 83120,
+			"flag": 3
+		},
+		{
+			"guid": 83125,
+			"master_guid": 83120,
+			"flag": 3
+		},
+		{
+			"guid": 83123,
+			"master_guid": 83120,
+			"flag": 3
+		},
+		{
+			"guid": 83129,
+			"master_guid": 83120,
+			"flag": 3
+		},
+		{
+			"guid": 83128,
+			"master_guid": 83120,
+			"flag": 3
+		},
+		{
+			"guid": 83130,
+			"master_guid": 83120,
+			"flag": 3
+		},
+		{
+			"guid": 140375,
+			"master_guid": 140374,
+			"flag": 515
+		},
+		{
+			"guid": 140376,
+			"master_guid": 140374,
+			"flag": 515
+		},
+		{
+			"guid": 140378,
+			"master_guid": 140377,
+			"flag": 515
+		},
+		{
+			"guid": 140379,
+			"master_guid": 140377,
+			"flag": 515
+		},
+		{
+			"guid": 140380,
+			"master_guid": 140377,
+			"flag": 515
+		},
+		{
+			"guid": 140381,
+			"master_guid": 140377,
+			"flag": 515
+		},
+		{
+			"guid": 140382,
+			"master_guid": 140377,
+			"flag": 515
+		},
+		{
+			"guid": 140384,
+			"master_guid": 140383,
+			"flag": 515
+		},
+		{
+			"guid": 140385,
+			"master_guid": 140383,
+			"flag": 515
+		},
+		{
+			"guid": 140395,
+			"master_guid": 140394,
+			"flag": 515
+		},
+		{
+			"guid": 140396,
+			"master_guid": 140394,
+			"flag": 515
+		},
+		{
+			"guid": 140397,
+			"master_guid": 140394,
+			"flag": 515
+		},
+		{
+			"guid": 140398,
+			"master_guid": 140394,
+			"flag": 515
+		},
+		{
+			"guid": 140399,
+			"master_guid": 140394,
+			"flag": 515
+		},
+		{
+			"guid": 79567,
+			"master_guid": 79566,
+			"flag": 515
+		},
+		{
+			"guid": 79568,
+			"master_guid": 79566,
+			"flag": 515
+		},
+		{
+			"guid": 79569,
+			"master_guid": 79566,
+			"flag": 515
+		},
+		{
+			"guid": 79393,
+			"master_guid": 79392,
+			"flag": 3
+		},
+		{
+			"guid": 79396,
+			"master_guid": 79397,
+			"flag": 3
+		},
+		{
+			"guid": 79395,
+			"master_guid": 79399,
+			"flag": 3
+		},
+		{
+			"guid": 79400,
+			"master_guid": 79399,
+			"flag": 3
+		},
+		{
+			"guid": 79562,
+			"master_guid": 79563,
+			"flag": 3
+		},
+		{
+			"guid": 79564,
+			"master_guid": 79563,
+			"flag": 3
+		},
+		{
+			"guid": 79565,
+			"master_guid": 79563,
+			"flag": 3
+		},
+		{
+			"guid": 79575,
+			"master_guid": 79576,
+			"flag": 3
+		},
+		{
+			"guid": 79577,
+			"master_guid": 79578,
+			"flag": 3
+		},
+		{
+			"guid": 62066,
+			"master_guid": 62012,
+			"flag": 515
+		},
+		{
+			"guid": 62065,
+			"master_guid": 62012,
+			"flag": 515
+		},
+		{
+			"guid": 140287,
+			"master_guid": 140289,
+			"flag": 515
+		},
+		{
+			"guid": 140288,
+			"master_guid": 140289,
+			"flag": 515
+		},
+		{
+			"guid": 62088,
+			"master_guid": 62083,
+			"flag": 515
+		},
+		{
+			"guid": 62089,
+			"master_guid": 62083,
+			"flag": 515
+		},
+		{
+			"guid": 31958,
+			"master_guid": 31957,
+			"flag": 515
+		},
+		{
+			"guid": 62068,
+			"master_guid": 31957,
+			"flag": 515
+		},
+		{
+			"guid": 61995,
+			"master_guid": 61994,
+			"flag": 3
+		},
+		{
+			"guid": 61997,
+			"master_guid": 61996,
+			"flag": 515
+		},
+		{
+			"guid": 61999,
+			"master_guid": 61998,
+			"flag": 3
+		},
+		{
+			"guid": 140295,
+			"master_guid": 62000,
+			"flag": 3
+		},
+		{
+			"guid": 62018,
+			"master_guid": 62023,
+			"flag": 3
+		},
+		{
+			"guid": 62015,
+			"master_guid": 62023,
+			"flag": 3
+		},
+		{
+			"guid": 31960,
+			"master_guid": 31959,
+			"flag": 3
+		},
+		{
+			"guid": 31961,
+			"master_guid": 31959,
+			"flag": 3
+		},
+		{
+			"guid": 64964,
+			"master_guid": 57016,
+			"flag": 3
+		},
+		{
+			"guid": 34521,
+			"master_guid": 57016,
+			"flag": 3
+		},
+		{
+			"guid": 85635,
+			"master_guid": 57016,
+			"flag": 3
+		},
+		{
+			"guid": 64968,
+			"master_guid": 64967,
+			"flag": 3
+		},
+		{
+			"guid": 64966,
+			"master_guid": 64967,
+			"flag": 3
+		},
+		{
+			"guid": 64965,
+			"master_guid": 64967,
+			"flag": 3
+		},
+		{
+			"guid": 85641,
+			"master_guid": 85642,
+			"flag": 3
+		},
+		{
+			"guid": 85639,
+			"master_guid": 85642,
+			"flag": 3
+		},
+		{
+			"guid": 85638,
+			"master_guid": 85642,
+			"flag": 3
+		},
+		{
+			"guid": 85636,
+			"master_guid": 85642,
+			"flag": 3
+		},
+		{
+			"guid": 77939,
+			"master_guid": 86360,
+			"flag": 3
+		},
+		{
+			"guid": 77940,
+			"master_guid": 86360,
+			"flag": 3
+		},
+		{
+			"guid": 85643,
+			"master_guid": 140286,
+			"flag": 3
+		},
+		{
+			"guid": 77941,
+			"master_guid": 140286,
+			"flag": 3
+		},
+		{
+			"guid": 79288,
+			"master_guid": 140286,
+			"flag": 3
+		},
+		{
+			"guid": 79317,
+			"master_guid": 79291,
+			"flag": 3
+		},
+		{
+			"guid": 79318,
+			"master_guid": 79291,
+			"flag": 3
+		},
+		{
+			"guid": 79295,
+			"master_guid": 79291,
+			"flag": 3
+		},
+		{
+			"guid": 79332,
+			"master_guid": 79342,
+			"flag": 3
+		},
+		{
+			"guid": 79358,
+			"master_guid": 79342,
+			"flag": 3
+		},
+		{
+			"guid": 79350,
+			"master_guid": 79342,
+			"flag": 3
+		},
+		{
+			"guid": 79356,
+			"master_guid": 79342,
+			"flag": 3
+		},
+		{
+			"guid": 139980,
+			"master_guid": 79389,
+			"flag": 3
+		},
+		{
+			"guid": 139981,
+			"master_guid": 79389,
+			"flag": 3
+		},
+		{
+			"guid": 84098,
+			"master_guid": 84097,
+			"flag": 3
+		},
+		{
+			"guid": 139982,
+			"master_guid": 84387,
+			"flag": 3
+		},
+		{
+			"guid": 139983,
+			"master_guid": 84387,
+			"flag": 3
+		},
+		{
+			"guid": 84393,
+			"master_guid": 84392,
+			"flag": 3
+		},
+		{
+			"guid": 84403,
+			"master_guid": 84392,
+			"flag": 3
+		},
+		{
+			"guid": 140292,
+			"master_guid": 84392,
+			"flag": 3
+		},
+		{
+			"guid": 140293,
+			"master_guid": 84392,
+			"flag": 3
+		},
+		{
+			"guid": 84405,
+			"master_guid": 84404,
+			"flag": 3
+		},
+		{
+			"guid": 85646,
+			"master_guid": 85652,
+			"flag": 3
+		},
+		{
+			"guid": 85650,
+			"master_guid": 85652,
+			"flag": 3
+		},
+		{
+			"guid": 85647,
+			"master_guid": 85652,
+			"flag": 3
+		},
+		{
+			"guid": 85649,
+			"master_guid": 85652,
+			"flag": 3
+		},
+		{
+			"guid": 84432,
+			"master_guid": 84406,
+			"flag": 3
+		},
+		{
+			"guid": 62020,
+			"master_guid": 84439,
+			"flag": 3
+		},
+		{
+			"guid": 62021,
+			"master_guid": 84439,
+			"flag": 3
+		},
+		{
+			"guid": 84444,
+			"master_guid": 62017,
+			"flag": 3
+		},
+		{
+			"guid": 62067,
+			"master_guid": 62017,
+			"flag": 3
+		},
+		{
+			"guid": 62016,
+			"master_guid": 62017,
+			"flag": 3
+		},
+		{
+			"guid": 140294,
+			"master_guid": 62017,
+			"flag": 3
+		},
+		{
+			"guid": 84484,
+			"master_guid": 84486,
+			"flag": 3
+		},
+		{
+			"guid": 62019,
+			"master_guid": 84486,
+			"flag": 3
+		},
+		{
+			"guid": 84437,
+			"master_guid": 62022,
+			"flag": 3
+		},
+		{
+			"guid": 62064,
+			"master_guid": 62022,
+			"flag": 3
+		},
+		{
+			"guid": 84436,
+			"master_guid": 62022,
+			"flag": 3
+		},
+		{
+			"guid": 61993,
+			"master_guid": 62022,
+			"flag": 3
+		},
+		{
+			"guid": 63012,
+			"master_guid": 63011,
+			"flag": 3
+		},
+		{
+			"guid": 84489,
+			"master_guid": 84487,
+			"flag": 3
+		},
+		{
+			"guid": 68368,
+			"master_guid": 68369,
+			"flag": 515
+		},
+		{
+			"guid": 68370,
+			"master_guid": 68371,
+			"flag": 515
+		},
+		{
+			"guid": 65506,
+			"master_guid": 65508,
+			"flag": 515
+		},
+		{
+			"guid": 65507,
+			"master_guid": 65508,
+			"flag": 515
+		},
+		{
+			"guid": 87092,
+			"master_guid": 84028,
+			"flag": 515
+		},
+		{
+			"guid": 87088,
+			"master_guid": 84028,
+			"flag": 515
+		},
+		{
+			"guid": 87090,
+			"master_guid": 84028,
+			"flag": 515
+		},
+		{
+			"guid": 87089,
+			"master_guid": 84028,
+			"flag": 515
+		},
+		{
+			"guid": 87082,
+			"master_guid": 84028,
+			"flag": 515
+		},
+		{
+			"guid": 87091,
+			"master_guid": 84028,
+			"flag": 515
+		},
+		{
+			"guid": 81075,
+			"master_guid": 81076,
+			"flag": 512
+		},
+		{
+			"guid": 80732,
+			"master_guid": 84587,
+			"flag": 512
+		},
+		{
+			"guid": 80730,
+			"master_guid": 84587,
+			"flag": 512
+		}
+	]
+}

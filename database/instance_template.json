@@ -1,0 +1,528 @@
+{
+	"table": "instance_template",
+	"rows":
+	[
+		{
+			"map": 33,
+			"parent": 0,
+			"levelMin": 14,
+			"levelMax": 30,
+			"maxPlayers": 10,
+			"reset_delay": 0,
+			"ScriptName": "instance_shadowfang_keep"
+		},
+		{
+			"map": 34,
+			"parent": 0,
+			"levelMin": 15,
+			"levelMax": 32,
+			"maxPlayers": 10,
+			"reset_delay": 0,
+			"ScriptName": ""
+		},
+		{
+			"map": 36,
+			"parent": 0,
+			"levelMin": 10,
+			"levelMax": 20,
+			"maxPlayers": 10,
+			"reset_delay": 0,
+			"ScriptName": "instance_deadmines"
+		},
+		{
+			"map": 43,
+			"parent": 0,
+			"levelMin": 10,
+			"levelMax": 21,
+			"maxPlayers": 10,
+			"reset_delay": 0,
+			"ScriptName": "instance_wailing_caverns"
+		},
+		{
+			"map": 47,
+			"parent": 0,
+			"levelMin": 17,
+			"levelMax": 38,
+			"maxPlayers": 10,
+			"reset_delay": 0,
+			"ScriptName": "instance_razorfen_kraul"
+		},
+		{
+			"map": 48,
+			"parent": 0,
+			"levelMin": 19,
+			"levelMax": 32,
+			"maxPlayers": 10,
+			"reset_delay": 0,
+			"ScriptName": "instance_blackfathom_deeps"
+		},
+		{
+			"map": 70,
+			"parent": 0,
+			"levelMin": 30,
+			"levelMax": 47,
+			"maxPlayers": 10,
+			"reset_delay": 0,
+			"ScriptName": "instance_uldaman"
+		},
+		{
+			"map": 90,
+			"parent": 0,
+			"levelMin": 15,
+			"levelMax": 38,
+			"maxPlayers": 10,
+			"reset_delay": 0,
+			"ScriptName": "instance_gnomeregan"
+		},
+		{
+			"map": 109,
+			"parent": 0,
+			"levelMin": 35,
+			"levelMax": 55,
+			"maxPlayers": 10,
+			"reset_delay": 0,
+			"ScriptName": "instance_sunken_temple"
+		},
+		{
+			"map": 129,
+			"parent": 0,
+			"levelMin": 25,
+			"levelMax": 46,
+			"maxPlayers": 10,
+			"reset_delay": 0,
+			"ScriptName": "instance_razorfen_downs"
+		},
+		{
+			"map": 189,
+			"parent": 0,
+			"levelMin": 20,
+			"levelMax": 45,
+			"maxPlayers": 10,
+			"reset_delay": 0,
+			"ScriptName": "instance_scarlet_monastery"
+		},
+		{
+			"map": 209,
+			"parent": 0,
+			"levelMin": 35,
+			"levelMax": 54,
+			"maxPlayers": 10,
+			"reset_delay": 0,
+			"ScriptName": "instance_zulfarrak"
+		},
+		{
+			"map": 229,
+			"parent": 0,
+			"levelMin": 45,
+			"levelMax": 0,
+			"maxPlayers": 10,
+			"reset_delay": 0,
+			"ScriptName": "instance_blackrock_spire"
+		},
+		{
+			"map": 230,
+			"parent": 0,
+			"levelMin": 40,
+			"levelMax": 0,
+			"maxPlayers": 5,
+			"reset_delay": 0,
+			"ScriptName": "instance_blackrock_depths"
+		},
+		{
+			"map": 249,
+			"parent": 0,
+			"levelMin": 50,
+			"levelMax": 0,
+			"maxPlayers": 40,
+			"reset_delay": 0,
+			"ScriptName": "instance_onyxias_lair"
+		},
+		{
+			"map": 269,
+			"parent": 0,
+			"levelMin": 66,
+			"levelMax": 0,
+			"maxPlayers": 5,
+			"reset_delay": 0,
+			"ScriptName": "instance_dark_portal"
+		},
+		{
+			"map": 289,
+			"parent": 0,
+			"levelMin": 45,
+			"levelMax": 0,
+			"maxPlayers": 5,
+			"reset_delay": 0,
+			"ScriptName": "instance_scholomance"
+		},
+		{
+			"map": 309,
+			"parent": 0,
+			"levelMin": 50,
+			"levelMax": 0,
+			"maxPlayers": 20,
+			"reset_delay": 0,
+			"ScriptName": "instance_zulgurub"
+		},
+		{
+			"map": 329,
+			"parent": 0,
+			"levelMin": 45,
+			"levelMax": 60,
+			"maxPlayers": 5,
+			"reset_delay": 0,
+			"ScriptName": "instance_stratholme"
+		},
+		{
+			"map": 349,
+			"parent": 0,
+			"levelMin": 30,
+			"levelMax": 55,
+			"maxPlayers": 10,
+			"reset_delay": 0,
+			"ScriptName": ""
+		},
+		{
+			"map": 389,
+			"parent": 0,
+			"levelMin": 8,
+			"levelMax": 18,
+			"maxPlayers": 10,
+			"reset_delay": 0,
+			"ScriptName": ""
+		},
+		{
+			"map": 409,
+			"parent": 230,
+			"levelMin": 50,
+			"levelMax": 0,
+			"maxPlayers": 40,
+			"reset_delay": 0,
+			"ScriptName": "instance_molten_core"
+		},
+		{
+			"map": 429,
+			"parent": 0,
+			"levelMin": 45,
+			"levelMax": 60,
+			"maxPlayers": 5,
+			"reset_delay": 0,
+			"ScriptName": "instance_dire_maul"
+		},
+		{
+			"map": 469,
+			"parent": 229,
+			"levelMin": 60,
+			"levelMax": 0,
+			"maxPlayers": 40,
+			"reset_delay": 0,
+			"ScriptName": "instance_blackwing_lair"
+		},
+		{
+			"map": 509,
+			"parent": 0,
+			"levelMin": 50,
+			"levelMax": 0,
+			"maxPlayers": 20,
+			"reset_delay": 0,
+			"ScriptName": "instance_ruins_of_ahnqiraj"
+		},
+		{
+			"map": 531,
+			"parent": 0,
+			"levelMin": 50,
+			"levelMax": 0,
+			"maxPlayers": 40,
+			"reset_delay": 0,
+			"ScriptName": "instance_temple_of_ahnqiraj"
+		},
+		{
+			"map": 532,
+			"parent": 0,
+			"levelMin": 68,
+			"levelMax": 0,
+			"maxPlayers": 10,
+			"reset_delay": 0,
+			"ScriptName": "instance_karazhan"
+		},
+		{
+			"map": 533,
+			"parent": 0,
+			"levelMin": 51,
+			"levelMax": 0,
+			"maxPlayers": 40,
+			"reset_delay": 0,
+			"ScriptName": "instance_naxxramas"
+		},
+		{
+			"map": 534,
+			"parent": 0,
+			"levelMin": 70,
+			"levelMax": 0,
+			"maxPlayers": 25,
+			"reset_delay": 0,
+			"ScriptName": "instance_hyjal"
+		},
+		{
+			"map": 540,
+			"parent": 0,
+			"levelMin": 55,
+			"levelMax": 0,
+			"maxPlayers": 5,
+			"reset_delay": 0,
+			"ScriptName": "instance_shattered_halls"
+		},
+		{
+			"map": 542,
+			"parent": 0,
+			"levelMin": 55,
+			"levelMax": 0,
+			"maxPlayers": 5,
+			"reset_delay": 0,
+			"ScriptName": "instance_blood_furnace"
+		},
+		{
+			"map": 543,
+			"parent": 0,
+			"levelMin": 55,
+			"levelMax": 0,
+			"maxPlayers": 5,
+			"reset_delay": 0,
+			"ScriptName": "instance_ramparts"
+		},
+		{
+			"map": 544,
+			"parent": 0,
+			"levelMin": 65,
+			"levelMax": 0,
+			"maxPlayers": 25,
+			"reset_delay": 0,
+			"ScriptName": "instance_magtheridons_lair"
+		},
+		{
+			"map": 545,
+			"parent": 0,
+			"levelMin": 55,
+			"levelMax": 0,
+			"maxPlayers": 5,
+			"reset_delay": 0,
+			"ScriptName": "instance_steam_vault"
+		},
+		{
+			"map": 546,
+			"parent": 0,
+			"levelMin": 55,
+			"levelMax": 0,
+			"maxPlayers": 5,
+			"reset_delay": 0,
+			"ScriptName": ""
+		},
+		{
+			"map": 547,
+			"parent": 0,
+			"levelMin": 55,
+			"levelMax": 0,
+			"maxPlayers": 5,
+			"reset_delay": 0,
+			"ScriptName": ""
+		},
+		{
+			"map": 548,
+			"parent": 0,
+			"levelMin": 68,
+			"levelMax": 0,
+			"maxPlayers": 25,
+			"reset_delay": 0,
+			"ScriptName": "instance_serpent_shrine"
+		},
+		{
+			"map": 550,
+			"parent": 0,
+			"levelMin": 68,
+			"levelMax": 0,
+			"maxPlayers": 25,
+			"reset_delay": 0,
+			"ScriptName": "instance_the_eye"
+		},
+		{
+			"map": 552,
+			"parent": 0,
+			"levelMin": 68,
+			"levelMax": 0,
+			"maxPlayers": 5,
+			"reset_delay": 0,
+			"ScriptName": "instance_arcatraz"
+		},
+		{
+			"map": 553,
+			"parent": 0,
+			"levelMin": 68,
+			"levelMax": 0,
+			"maxPlayers": 5,
+			"reset_delay": 0,
+			"ScriptName": ""
+		},
+		{
+			"map": 554,
+			"parent": 0,
+			"levelMin": 68,
+			"levelMax": 0,
+			"maxPlayers": 5,
+			"reset_delay": 0,
+			"ScriptName": "instance_mechanar"
+		},
+		{
+			"map": 555,
+			"parent": 0,
+			"levelMin": 65,
+			"levelMax": 0,
+			"maxPlayers": 5,
+			"reset_delay": 0,
+			"ScriptName": "instance_shadow_labyrinth"
+		},
+		{
+			"map": 556,
+			"parent": 0,
+			"levelMin": 55,
+			"levelMax": 0,
+			"maxPlayers": 5,
+			"reset_delay": 0,
+			"ScriptName": "instance_sethekk_halls"
+		},
+		{
+			"map": 557,
+			"parent": 0,
+			"levelMin": 55,
+			"levelMax": 0,
+			"maxPlayers": 5,
+			"reset_delay": 0,
+			"ScriptName": ""
+		},
+		{
+			"map": 558,
+			"parent": 0,
+			"levelMin": 55,
+			"levelMax": 0,
+			"maxPlayers": 5,
+			"reset_delay": 0,
+			"ScriptName": ""
+		},
+		{
+			"map": 560,
+			"parent": 0,
+			"levelMin": 66,
+			"levelMax": 0,
+			"maxPlayers": 5,
+			"reset_delay": 0,
+			"ScriptName": "instance_old_hillsbrad"
+		},
+		{
+			"map": 564,
+			"parent": 0,
+			"levelMin": 70,
+			"levelMax": 0,
+			"maxPlayers": 25,
+			"reset_delay": 0,
+			"ScriptName": "instance_black_temple"
+		},
+		{
+			"map": 565,
+			"parent": 0,
+			"levelMin": 65,
+			"levelMax": 0,
+			"maxPlayers": 25,
+			"reset_delay": 0,
+			"ScriptName": "instance_gruuls_lair"
+		},
+		{
+			"map": 568,
+			"parent": 0,
+			"levelMin": 68,
+			"levelMax": 70,
+			"maxPlayers": 10,
+			"reset_delay": 0,
+			"ScriptName": "instance_zulaman"
+		},
+		{
+			"map": 580,
+			"parent": 0,
+			"levelMin": 70,
+			"levelMax": 0,
+			"maxPlayers": 25,
+			"reset_delay": 0,
+			"ScriptName": "instance_sunwell_plateau"
+		},
+		{
+			"map": 585,
+			"parent": 0,
+			"levelMin": 65,
+			"levelMax": 0,
+			"maxPlayers": 5,
+			"reset_delay": 0,
+			"ScriptName": "instance_magisters_terrace"
+		},
+		{
+			"map": 489,
+			"parent": 0,
+			"levelMin": 10,
+			"levelMax": 0,
+			"maxPlayers": 50,
+			"reset_delay": 0,
+			"ScriptName": ""
+		},
+		{
+			"map": 30,
+			"parent": 0,
+			"levelMin": 10,
+			"levelMax": 0,
+			"maxPlayers": 50,
+			"reset_delay": 0,
+			"ScriptName": ""
+		},
+		{
+			"map": 529,
+			"parent": 0,
+			"levelMin": 10,
+			"levelMax": 0,
+			"maxPlayers": 50,
+			"reset_delay": 0,
+			"ScriptName": ""
+		},
+		{
+			"map": 566,
+			"parent": 0,
+			"levelMin": 10,
+			"levelMax": 0,
+			"maxPlayers": 50,
+			"reset_delay": 0,
+			"ScriptName": ""
+		},
+		{
+			"map": 559,
+			"parent": 0,
+			"levelMin": 10,
+			"levelMax": 0,
+			"maxPlayers": 50,
+			"reset_delay": 0,
+			"ScriptName": ""
+		},
+		{
+			"map": 562,
+			"parent": 0,
+			"levelMin": 10,
+			"levelMax": 0,
+			"maxPlayers": 50,
+			"reset_delay": 0,
+			"ScriptName": ""
+		},
+		{
+			"map": 572,
+			"parent": 0,
+			"levelMin": 10,
+			"levelMax": 0,
+			"maxPlayers": 50,
+			"reset_delay": 0,
+			"ScriptName": ""
+		}
+	]
+}

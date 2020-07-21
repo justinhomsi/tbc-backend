@@ -1,0 +1,1152 @@
+{
+	"table": "battleground_events",
+	"rows":
+	[
+		{
+			"map": 489,
+			"event1": 2,
+			"event2": 0,
+			"description": "Spirit Guides"
+		},
+		{
+			"map": 489,
+			"event1": 1,
+			"event2": 0,
+			"description": "Horde Flag"
+		},
+		{
+			"map": 489,
+			"event1": 0,
+			"event2": 0,
+			"description": "Alliance Flag"
+		},
+		{
+			"map": 529,
+			"event1": 3,
+			"event2": 2,
+			"description": "Lumber Mill - Horde Contested"
+		},
+		{
+			"map": 529,
+			"event1": 3,
+			"event2": 1,
+			"description": "Lumber Mill - Alliance Contested"
+		},
+		{
+			"map": 529,
+			"event1": 3,
+			"event2": 0,
+			"description": "Lumber Mill - Neutral"
+		},
+		{
+			"map": 529,
+			"event1": 2,
+			"event2": 4,
+			"description": "Farm - Horde Owned"
+		},
+		{
+			"map": 529,
+			"event1": 2,
+			"event2": 3,
+			"description": "Farm - Alliance Owned"
+		},
+		{
+			"map": 529,
+			"event1": 2,
+			"event2": 2,
+			"description": "Farm - Horde Contested"
+		},
+		{
+			"map": 529,
+			"event1": 2,
+			"event2": 1,
+			"description": "Farm - Alliance Contested"
+		},
+		{
+			"map": 529,
+			"event1": 2,
+			"event2": 0,
+			"description": "Farm - Neutral"
+		},
+		{
+			"map": 529,
+			"event1": 1,
+			"event2": 4,
+			"description": "Blacksmith - Horde Owned"
+		},
+		{
+			"map": 529,
+			"event1": 1,
+			"event2": 3,
+			"description": "Blacksmith - Alliance Owned"
+		},
+		{
+			"map": 529,
+			"event1": 1,
+			"event2": 2,
+			"description": "Blacksmith - Horde Contested"
+		},
+		{
+			"map": 529,
+			"event1": 1,
+			"event2": 1,
+			"description": "Blacksmith - Alliance Contested"
+		},
+		{
+			"map": 529,
+			"event1": 1,
+			"event2": 0,
+			"description": "Blacksmith - Neutral"
+		},
+		{
+			"map": 529,
+			"event1": 0,
+			"event2": 4,
+			"description": "Stables - Horde Owned"
+		},
+		{
+			"map": 529,
+			"event1": 0,
+			"event2": 3,
+			"description": "Stables - Alliance Owned"
+		},
+		{
+			"map": 529,
+			"event1": 0,
+			"event2": 2,
+			"description": "Stables - Horde Contested"
+		},
+		{
+			"map": 529,
+			"event1": 0,
+			"event2": 1,
+			"description": "Stables - Alliance Contested"
+		},
+		{
+			"map": 529,
+			"event1": 0,
+			"event2": 0,
+			"description": "Stables - Neutral"
+		},
+		{
+			"map": 566,
+			"event1": 4,
+			"event2": 1,
+			"description": "Capture Flag - Blood Elf"
+		},
+		{
+			"map": 566,
+			"event1": 4,
+			"event2": 0,
+			"description": "Capture Flag - Fel Reaver"
+		},
+		{
+			"map": 566,
+			"event1": 3,
+			"event2": 2,
+			"description": "Mage Tower - Neutral"
+		},
+		{
+			"map": 566,
+			"event1": 3,
+			"event2": 1,
+			"description": "Mage Tower - Horde"
+		},
+		{
+			"map": 566,
+			"event1": 3,
+			"event2": 0,
+			"description": "Mage Tower - Alliance"
+		},
+		{
+			"map": 566,
+			"event1": 2,
+			"event2": 2,
+			"description": "Draenei Ruins - Neutral"
+		},
+		{
+			"map": 566,
+			"event1": 2,
+			"event2": 1,
+			"description": "Draenei Ruins - Horde"
+		},
+		{
+			"map": 566,
+			"event1": 2,
+			"event2": 0,
+			"description": "Draenei Ruins - Alliance"
+		},
+		{
+			"map": 566,
+			"event1": 1,
+			"event2": 2,
+			"description": "Blood Elf - Neutral"
+		},
+		{
+			"map": 566,
+			"event1": 1,
+			"event2": 1,
+			"description": "Blood Elf - Horde"
+		},
+		{
+			"map": 566,
+			"event1": 1,
+			"event2": 0,
+			"description": "Blood Elf - Alliance"
+		},
+		{
+			"map": 566,
+			"event1": 0,
+			"event2": 2,
+			"description": "Fel Reaver - Neutral"
+		},
+		{
+			"map": 566,
+			"event1": 0,
+			"event2": 1,
+			"description": "Fel Reaver - Horde"
+		},
+		{
+			"map": 566,
+			"event1": 0,
+			"event2": 0,
+			"description": "Fel Reaver - Alliance"
+		},
+		{
+			"map": 559,
+			"event1": 254,
+			"event2": 0,
+			"description": "Doors"
+		},
+		{
+			"map": 559,
+			"event1": 253,
+			"event2": 0,
+			"description": "Buffs"
+		},
+		{
+			"map": 572,
+			"event1": 254,
+			"event2": 0,
+			"description": "Doors"
+		},
+		{
+			"map": 572,
+			"event1": 253,
+			"event2": 0,
+			"description": "Buffs"
+		},
+		{
+			"map": 562,
+			"event1": 254,
+			"event2": 0,
+			"description": "Doors"
+		},
+		{
+			"map": 562,
+			"event1": 253,
+			"event2": 0,
+			"description": "Buffs"
+		},
+		{
+			"map": 30,
+			"event1": 20,
+			"event2": 2,
+			"description": "Frostwolf Grave - Alliance Defender Quest 2"
+		},
+		{
+			"map": 30,
+			"event1": 20,
+			"event2": 1,
+			"description": "Frostwolf Grave - Alliance Defender Quest 1"
+		},
+		{
+			"map": 30,
+			"event1": 20,
+			"event2": 0,
+			"description": "Frostwolf Grave - Alliance Defender Quest 0"
+		},
+		{
+			"map": 30,
+			"event1": 19,
+			"event2": 7,
+			"description": "Iceblood Grave - Horde Defender Quest 3"
+		},
+		{
+			"map": 30,
+			"event1": 19,
+			"event2": 6,
+			"description": "Iceblood Grave - Horde Defender Quest 2"
+		},
+		{
+			"map": 30,
+			"event1": 19,
+			"event2": 5,
+			"description": "Iceblood Grave - Horde Defender Quest 1"
+		},
+		{
+			"map": 30,
+			"event1": 19,
+			"event2": 4,
+			"description": "Iceblood Grave - Horde Defender Quest 0"
+		},
+		{
+			"map": 30,
+			"event1": 19,
+			"event2": 3,
+			"description": "Iceblood Grave - Alliance Defender Quest 3"
+		},
+		{
+			"map": 30,
+			"event1": 19,
+			"event2": 2,
+			"description": "Iceblood Grave - Alliance Defender Quest 2"
+		},
+		{
+			"map": 30,
+			"event1": 19,
+			"event2": 1,
+			"description": "Iceblood Grave - Alliance Defender Quest 1"
+		},
+		{
+			"map": 30,
+			"event1": 19,
+			"event2": 0,
+			"description": "Iceblood Grave - Alliance Defender Quest 0"
+		},
+		{
+			"map": 30,
+			"event1": 18,
+			"event2": 7,
+			"description": "Snowfall Grave - Horde Defender Quest 3"
+		},
+		{
+			"map": 30,
+			"event1": 18,
+			"event2": 6,
+			"description": "Snowfall Grave - Horde Defender Quest 2"
+		},
+		{
+			"map": 30,
+			"event1": 18,
+			"event2": 5,
+			"description": "Snowfall Grave - Horde Defender Quest 1"
+		},
+		{
+			"map": 30,
+			"event1": 18,
+			"event2": 4,
+			"description": "Snowfall Grave - Horde Defender Quest 0"
+		},
+		{
+			"map": 30,
+			"event1": 18,
+			"event2": 3,
+			"description": "Snowfall Grave - Alliance Defender Quest 3"
+		},
+		{
+			"map": 30,
+			"event1": 18,
+			"event2": 2,
+			"description": "Snowfall Grave - Alliance Defender Quest 2"
+		},
+		{
+			"map": 30,
+			"event1": 18,
+			"event2": 1,
+			"description": "Snowfall Grave - Alliance Defender Quest 1"
+		},
+		{
+			"map": 30,
+			"event1": 18,
+			"event2": 0,
+			"description": "Snowfall Grave - Alliance Defender Quest 0"
+		},
+		{
+			"map": 30,
+			"event1": 17,
+			"event2": 7,
+			"description": "Stoneheart Grave - Horde Defender Quest 3"
+		},
+		{
+			"map": 30,
+			"event1": 17,
+			"event2": 6,
+			"description": "Stoneheart Grave - Horde Defender Quest 2"
+		},
+		{
+			"map": 30,
+			"event1": 17,
+			"event2": 5,
+			"description": "Stoneheart Grave - Horde Defender Quest 1"
+		},
+		{
+			"map": 30,
+			"event1": 17,
+			"event2": 4,
+			"description": "Stoneheart Grave - Horde Defender Quest 0"
+		},
+		{
+			"map": 30,
+			"event1": 17,
+			"event2": 3,
+			"description": "Stoneheart Grave - Alliance Defender Quest 3"
+		},
+		{
+			"map": 30,
+			"event1": 17,
+			"event2": 2,
+			"description": "Stoneheart Grave - Alliance Defender Quest 2"
+		},
+		{
+			"map": 30,
+			"event1": 17,
+			"event2": 1,
+			"description": "Stoneheart Grave - Alliance Defender Quest 1"
+		},
+		{
+			"map": 30,
+			"event1": 17,
+			"event2": 0,
+			"description": "Stoneheart Grave - Alliance Defender Quest 0"
+		},
+		{
+			"map": 30,
+			"event1": 16,
+			"event2": 7,
+			"description": "Stormpike Grave - Horde Defender Quest 3"
+		},
+		{
+			"map": 30,
+			"event1": 16,
+			"event2": 6,
+			"description": "Stormpike Grave - Horde Defender Quest 2"
+		},
+		{
+			"map": 30,
+			"event1": 16,
+			"event2": 5,
+			"description": "Stormpike Grave - Horde Defender Quest 1"
+		},
+		{
+			"map": 30,
+			"event1": 16,
+			"event2": 4,
+			"description": "Stormpike Grave - Horde Defender Quest 0"
+		},
+		{
+			"map": 30,
+			"event1": 16,
+			"event2": 3,
+			"description": "Stormpike Grave - Alliance Defender Quest 3"
+		},
+		{
+			"map": 30,
+			"event1": 16,
+			"event2": 2,
+			"description": "Stormpike Grave - Alliance Defender Quest 2"
+		},
+		{
+			"map": 30,
+			"event1": 16,
+			"event2": 1,
+			"description": "Stormpike Grave - Alliance Defender Quest 1"
+		},
+		{
+			"map": 30,
+			"event1": 16,
+			"event2": 0,
+			"description": "Stormpike Grave - Alliance Defender Quest 0"
+		},
+		{
+			"map": 30,
+			"event1": 15,
+			"event2": 7,
+			"description": "Firstaid Station - Horde Defender Quest 3"
+		},
+		{
+			"map": 30,
+			"event1": 15,
+			"event2": 6,
+			"description": "Firstaid Station - Horde Defender Quest 2"
+		},
+		{
+			"map": 30,
+			"event1": 15,
+			"event2": 5,
+			"description": "Firstaid Station - Horde Defender Quest 1"
+		},
+		{
+			"map": 30,
+			"event1": 15,
+			"event2": 4,
+			"description": "Firstaid Station - Horde Defender Quest 0"
+		},
+		{
+			"map": 30,
+			"event1": 15,
+			"event2": 3,
+			"description": "Firstaid Station - Alliance Defender Quest 3"
+		},
+		{
+			"map": 30,
+			"event1": 15,
+			"event2": 2,
+			"description": "Firstaid Station - Alliance Defender Quest 2"
+		},
+		{
+			"map": 30,
+			"event1": 15,
+			"event2": 1,
+			"description": "Firstaid Station - Alliance Defender Quest 1"
+		},
+		{
+			"map": 30,
+			"event1": 15,
+			"event2": 0,
+			"description": "Firstaid Station - Alliance Defender Quest 0"
+		},
+		{
+			"map": 30,
+			"event1": 14,
+			"event2": 3,
+			"description": "Frostwolf west Tower - Horde Control"
+		},
+		{
+			"map": 30,
+			"event1": 14,
+			"event2": 1,
+			"description": "Frostwolf west Tower - Alliance Control"
+		},
+		{
+			"map": 30,
+			"event1": 14,
+			"event2": 0,
+			"description": "Frostwolf west Tower - Alliance Assaulted"
+		},
+		{
+			"map": 30,
+			"event1": 13,
+			"event2": 3,
+			"description": "Frostwolf east Tower - Horde Control"
+		},
+		{
+			"map": 30,
+			"event1": 13,
+			"event2": 1,
+			"description": "Frostwolf east Tower - Alliance Control"
+		},
+		{
+			"map": 30,
+			"event1": 13,
+			"event2": 0,
+			"description": "Frostwolf east Tower - Alliance Assaulted"
+		},
+		{
+			"map": 30,
+			"event1": 12,
+			"event2": 3,
+			"description": "Tower Point - Horde Control"
+		},
+		{
+			"map": 30,
+			"event1": 12,
+			"event2": 1,
+			"description": "Tower Point - Alliance Control"
+		},
+		{
+			"map": 30,
+			"event1": 12,
+			"event2": 0,
+			"description": "Tower Point - Alliance Assaulted"
+		},
+		{
+			"map": 30,
+			"event1": 11,
+			"event2": 3,
+			"description": "Iceblood Tower - Horde Control"
+		},
+		{
+			"map": 30,
+			"event1": 11,
+			"event2": 1,
+			"description": "Iceblood Tower - Alliance Control"
+		},
+		{
+			"map": 30,
+			"event1": 11,
+			"event2": 0,
+			"description": "Iceblood Tower - Alliance Assaulted"
+		},
+		{
+			"map": 30,
+			"event1": 10,
+			"event2": 3,
+			"description": "Stoneheart Bunker - Horde Control"
+		},
+		{
+			"map": 30,
+			"event1": 10,
+			"event2": 2,
+			"description": "Stoneheart Bunker - Horde Assaulted"
+		},
+		{
+			"map": 30,
+			"event1": 10,
+			"event2": 1,
+			"description": "Stoneheart Bunker - Alliance Control"
+		},
+		{
+			"map": 30,
+			"event1": 9,
+			"event2": 3,
+			"description": "Icewing Bunker - Horde Control"
+		},
+		{
+			"map": 30,
+			"event1": 9,
+			"event2": 2,
+			"description": "Icewing Bunker - Horde Assaulted"
+		},
+		{
+			"map": 30,
+			"event1": 9,
+			"event2": 1,
+			"description": "Icewing Bunker - Alliance Control"
+		},
+		{
+			"map": 30,
+			"event1": 8,
+			"event2": 3,
+			"description": "Dunbaldar North - Horde Control"
+		},
+		{
+			"map": 30,
+			"event1": 8,
+			"event2": 2,
+			"description": "Dunbaldar North - Horde Assaulted"
+		},
+		{
+			"map": 30,
+			"event1": 8,
+			"event2": 1,
+			"description": "Dunbaldar North - Alliance Control"
+		},
+		{
+			"map": 30,
+			"event1": 7,
+			"event2": 3,
+			"description": "Dunbaldar South - Horde Control"
+		},
+		{
+			"map": 30,
+			"event1": 7,
+			"event2": 2,
+			"description": "Dunbaldar South - Horde Assaulted"
+		},
+		{
+			"map": 30,
+			"event1": 7,
+			"event2": 1,
+			"description": "Dunbaldar South - Alliance Control"
+		},
+		{
+			"map": 30,
+			"event1": 6,
+			"event2": 3,
+			"description": "Frostwolf Hut - Horde Control"
+		},
+		{
+			"map": 30,
+			"event1": 6,
+			"event2": 2,
+			"description": "Frostwolf Hut - Horde Assaulted"
+		},
+		{
+			"map": 30,
+			"event1": 6,
+			"event2": 1,
+			"description": "Frostwolf Hut - Alliance Control"
+		},
+		{
+			"map": 30,
+			"event1": 6,
+			"event2": 0,
+			"description": "Frostwolf Hut - Alliance Assaulted"
+		},
+		{
+			"map": 30,
+			"event1": 5,
+			"event2": 3,
+			"description": "Frostwolf Grave - Horde Control"
+		},
+		{
+			"map": 30,
+			"event1": 5,
+			"event2": 2,
+			"description": "Frostwolf Grave - Horde Assaulted"
+		},
+		{
+			"map": 30,
+			"event1": 5,
+			"event2": 1,
+			"description": "Frostwolf Grave - Alliance Control"
+		},
+		{
+			"map": 30,
+			"event1": 5,
+			"event2": 0,
+			"description": "Frostwolf Grave - Alliance Assaulted"
+		},
+		{
+			"map": 30,
+			"event1": 4,
+			"event2": 3,
+			"description": "Iceblood Grave - Horde Control"
+		},
+		{
+			"map": 30,
+			"event1": 4,
+			"event2": 2,
+			"description": "Iceblood Grave - Horde Assaulted"
+		},
+		{
+			"map": 30,
+			"event1": 4,
+			"event2": 1,
+			"description": "Iceblood Grave - Alliance Control"
+		},
+		{
+			"map": 30,
+			"event1": 4,
+			"event2": 0,
+			"description": "Iceblood Grave - Alliance Assaulted"
+		},
+		{
+			"map": 30,
+			"event1": 3,
+			"event2": 5,
+			"description": "Snowfall Grave - Neutral Control"
+		},
+		{
+			"map": 30,
+			"event1": 3,
+			"event2": 3,
+			"description": "Snowfall Grave - Horde Control"
+		},
+		{
+			"map": 30,
+			"event1": 3,
+			"event2": 2,
+			"description": "Snowfall Grave - Horde Assaulted"
+		},
+		{
+			"map": 30,
+			"event1": 3,
+			"event2": 1,
+			"description": "Snowfall Grave - Alliance Control"
+		},
+		{
+			"map": 30,
+			"event1": 3,
+			"event2": 0,
+			"description": "Snowfall Grave - Alliance Assaulted"
+		},
+		{
+			"map": 30,
+			"event1": 2,
+			"event2": 3,
+			"description": "Stoneheart Grave - Horde Control"
+		},
+		{
+			"map": 30,
+			"event1": 2,
+			"event2": 2,
+			"description": "Stoneheart Grave - Horde Assaulted"
+		},
+		{
+			"map": 30,
+			"event1": 2,
+			"event2": 1,
+			"description": "Stoneheart Grave - Alliance Control"
+		},
+		{
+			"map": 30,
+			"event1": 2,
+			"event2": 0,
+			"description": "Stoneheart Grave - Alliance Assaulted"
+		},
+		{
+			"map": 30,
+			"event1": 1,
+			"event2": 3,
+			"description": "Stormpike Grave - Horde Control"
+		},
+		{
+			"map": 30,
+			"event1": 1,
+			"event2": 2,
+			"description": "Stormpike Grave - Horde Assaulted"
+		},
+		{
+			"map": 30,
+			"event1": 1,
+			"event2": 1,
+			"description": "Stormpike Grave - Alliance Control"
+		},
+		{
+			"map": 30,
+			"event1": 1,
+			"event2": 0,
+			"description": "Stormpike Grave - Alliance Assaulted"
+		},
+		{
+			"map": 30,
+			"event1": 0,
+			"event2": 3,
+			"description": "Firstaid Station - Horde Control"
+		},
+		{
+			"map": 30,
+			"event1": 0,
+			"event2": 2,
+			"description": "Firstaid Station - Horde Assaulted"
+		},
+		{
+			"map": 30,
+			"event1": 0,
+			"event2": 1,
+			"description": "Firstaid Station - Alliance Control"
+		},
+		{
+			"map": 30,
+			"event1": 0,
+			"event2": 0,
+			"description": "Firstaid Station - Alliance Assaulted"
+		},
+		{
+			"map": 30,
+			"event1": 254,
+			"event2": 0,
+			"description": "Doors"
+		},
+		{
+			"map": 489,
+			"event1": 254,
+			"event2": 0,
+			"description": "Doors"
+		},
+		{
+			"map": 529,
+			"event1": 3,
+			"event2": 3,
+			"description": "Lumber Mill - Alliance Owned"
+		},
+		{
+			"map": 529,
+			"event1": 3,
+			"event2": 4,
+			"description": "Lumber Mill - Horde Owned"
+		},
+		{
+			"map": 529,
+			"event1": 4,
+			"event2": 0,
+			"description": "Gold Mine - Neutral"
+		},
+		{
+			"map": 529,
+			"event1": 4,
+			"event2": 1,
+			"description": "Gold Mine - Alliance Contested"
+		},
+		{
+			"map": 529,
+			"event1": 4,
+			"event2": 2,
+			"description": "Gold Mine - Horde Contested"
+		},
+		{
+			"map": 529,
+			"event1": 4,
+			"event2": 3,
+			"description": "Gold Mine - Alliance Owned"
+		},
+		{
+			"map": 529,
+			"event1": 4,
+			"event2": 4,
+			"description": "Gold Mine - Horde Owned"
+		},
+		{
+			"map": 529,
+			"event1": 254,
+			"event2": 0,
+			"description": "Doors"
+		},
+		{
+			"map": 566,
+			"event1": 4,
+			"event2": 2,
+			"description": "Capture Flag - Draenei Ruins"
+		},
+		{
+			"map": 566,
+			"event1": 4,
+			"event2": 3,
+			"description": "Capture Flag - Mage Tower"
+		},
+		{
+			"map": 566,
+			"event1": 4,
+			"event2": 4,
+			"description": "Capture Flag - Center"
+		},
+		{
+			"map": 566,
+			"event1": 254,
+			"event2": 0,
+			"description": "Doors"
+		},
+		{
+			"map": 30,
+			"event1": 20,
+			"event2": 3,
+			"description": "Frostwolf Grave - Alliance Defender Quest 3"
+		},
+		{
+			"map": 30,
+			"event1": 20,
+			"event2": 4,
+			"description": "Frostwolf Grave - Horde Defender Quest 0"
+		},
+		{
+			"map": 30,
+			"event1": 20,
+			"event2": 5,
+			"description": "Frostwolf Grave - Horde Defender Quest 1"
+		},
+		{
+			"map": 30,
+			"event1": 20,
+			"event2": 6,
+			"description": "Frostwolf Grave - Horde Defender Quest 2"
+		},
+		{
+			"map": 30,
+			"event1": 20,
+			"event2": 7,
+			"description": "Frostwolf Grave - Horde Defender Quest 3"
+		},
+		{
+			"map": 30,
+			"event1": 21,
+			"event2": 0,
+			"description": "Frostwolf Hut - Alliance Defender Quest 0"
+		},
+		{
+			"map": 30,
+			"event1": 21,
+			"event2": 1,
+			"description": "Frostwolf Hut - Alliance Defender Quest 1"
+		},
+		{
+			"map": 30,
+			"event1": 21,
+			"event2": 2,
+			"description": "Frostwolf Hut - Alliance Defender Quest 2"
+		},
+		{
+			"map": 30,
+			"event1": 21,
+			"event2": 3,
+			"description": "Frostwolf Hut - Alliance Defender Quest 3"
+		},
+		{
+			"map": 30,
+			"event1": 21,
+			"event2": 4,
+			"description": "Frostwolf Hut - Horde Defender Quest 0"
+		},
+		{
+			"map": 30,
+			"event1": 21,
+			"event2": 5,
+			"description": "Frostwolf Hut - Horde Defender Quest 1"
+		},
+		{
+			"map": 30,
+			"event1": 21,
+			"event2": 6,
+			"description": "Frostwolf Hut - Horde Defender Quest 2"
+		},
+		{
+			"map": 30,
+			"event1": 21,
+			"event2": 7,
+			"description": "Frostwolf Hut - Horde Defender Quest 3"
+		},
+		{
+			"map": 30,
+			"event1": 46,
+			"event2": 0,
+			"description": "North Mine - Alliance Boss"
+		},
+		{
+			"map": 30,
+			"event1": 46,
+			"event2": 1,
+			"description": "North Mine - Horde Boss"
+		},
+		{
+			"map": 30,
+			"event1": 46,
+			"event2": 2,
+			"description": "North Mine - Neutral Boss"
+		},
+		{
+			"map": 30,
+			"event1": 47,
+			"event2": 0,
+			"description": "South Mine - Alliance Boss"
+		},
+		{
+			"map": 30,
+			"event1": 47,
+			"event2": 1,
+			"description": "South Mine - Horde Boss"
+		},
+		{
+			"map": 30,
+			"event1": 47,
+			"event2": 2,
+			"description": "South Mine - Neutral Boss"
+		},
+		{
+			"map": 30,
+			"event1": 48,
+			"event2": 0,
+			"description": "Alliance Captain"
+		},
+		{
+			"map": 30,
+			"event1": 49,
+			"event2": 0,
+			"description": "Horde Captain"
+		},
+		{
+			"map": 30,
+			"event1": 50,
+			"event2": 0,
+			"description": "North Mine - Alliance Control"
+		},
+		{
+			"map": 30,
+			"event1": 50,
+			"event2": 1,
+			"description": "North Mine - Horde Control"
+		},
+		{
+			"map": 30,
+			"event1": 50,
+			"event2": 2,
+			"description": "North Mine - Neutral Control"
+		},
+		{
+			"map": 30,
+			"event1": 51,
+			"event2": 0,
+			"description": "South Mine - Alliance Control"
+		},
+		{
+			"map": 30,
+			"event1": 51,
+			"event2": 1,
+			"description": "South Mine - Horde Control"
+		},
+		{
+			"map": 30,
+			"event1": 51,
+			"event2": 2,
+			"description": "South Mine - Neutral Control"
+		},
+		{
+			"map": 30,
+			"event1": 52,
+			"event2": 0,
+			"description": "Alliance Marshal - Dunbaldar South"
+		},
+		{
+			"map": 30,
+			"event1": 53,
+			"event2": 0,
+			"description": "Alliance Marshal - Dunbaldar North"
+		},
+		{
+			"map": 30,
+			"event1": 54,
+			"event2": 0,
+			"description": "Alliance Marshal - Icewing Bunker"
+		},
+		{
+			"map": 30,
+			"event1": 55,
+			"event2": 0,
+			"description": "Alliance Marshal - Stoneheart Bunker"
+		},
+		{
+			"map": 30,
+			"event1": 56,
+			"event2": 0,
+			"description": "Horde Marshal - Iceblood Tower"
+		},
+		{
+			"map": 30,
+			"event1": 57,
+			"event2": 0,
+			"description": "Horde Marshal - Towerpoint"
+		},
+		{
+			"map": 30,
+			"event1": 58,
+			"event2": 0,
+			"description": "Horde Marshal - East Frostwolf Tower"
+		},
+		{
+			"map": 30,
+			"event1": 59,
+			"event2": 0,
+			"description": "Horde Marshal - West Frostwolf Tower"
+		},
+		{
+			"map": 30,
+			"event1": 60,
+			"event2": 0,
+			"description": "Herald - That Guy Who Yells All The Time"
+		},
+		{
+			"map": 30,
+			"event1": 61,
+			"event2": 0,
+			"description": "Alliance - Boss"
+		},
+		{
+			"map": 30,
+			"event1": 62,
+			"event2": 0,
+			"description": "Horde - Boss"
+		},
+		{
+			"map": 30,
+			"event1": 63,
+			"event2": 0,
+			"description": "Alliance - Captain Dead"
+		},
+		{
+			"map": 30,
+			"event1": 64,
+			"event2": 0,
+			"description": "Horde - Captain Dead"
+		}
+	]
+}

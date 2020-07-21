@@ -1,0 +1,1566 @@
+{
+	"table": "pet_name_generation",
+	"rows":
+	[
+		{
+			"id": 1,
+			"word": "Aba",
+			"entry": 416,
+			"half": 0
+		},
+		{
+			"id": 2,
+			"word": "Az",
+			"entry": 416,
+			"half": 0
+		},
+		{
+			"id": 3,
+			"word": "Bel",
+			"entry": 416,
+			"half": 0
+		},
+		{
+			"id": 4,
+			"word": "Biz",
+			"entry": 416,
+			"half": 0
+		},
+		{
+			"id": 5,
+			"word": "Cho",
+			"entry": 416,
+			"half": 0
+		},
+		{
+			"id": 6,
+			"word": "Dag",
+			"entry": 416,
+			"half": 0
+		},
+		{
+			"id": 7,
+			"word": "Gak",
+			"entry": 416,
+			"half": 0
+		},
+		{
+			"id": 8,
+			"word": "Gar",
+			"entry": 416,
+			"half": 0
+		},
+		{
+			"id": 9,
+			"word": "Gel",
+			"entry": 416,
+			"half": 0
+		},
+		{
+			"id": 10,
+			"word": "Gho",
+			"entry": 416,
+			"half": 0
+		},
+		{
+			"id": 11,
+			"word": "Gob",
+			"entry": 416,
+			"half": 0
+		},
+		{
+			"id": 12,
+			"word": "Gra",
+			"entry": 416,
+			"half": 0
+		},
+		{
+			"id": 13,
+			"word": "Jak",
+			"entry": 416,
+			"half": 0
+		},
+		{
+			"id": 14,
+			"word": "Jub",
+			"entry": 416,
+			"half": 0
+		},
+		{
+			"id": 15,
+			"word": "Kar",
+			"entry": 416,
+			"half": 0
+		},
+		{
+			"id": 16,
+			"word": "Kup",
+			"entry": 416,
+			"half": 0
+		},
+		{
+			"id": 17,
+			"word": "Laz",
+			"entry": 416,
+			"half": 0
+		},
+		{
+			"id": 18,
+			"word": "Nal",
+			"entry": 416,
+			"half": 0
+		},
+		{
+			"id": 19,
+			"word": "Nok",
+			"entry": 416,
+			"half": 0
+		},
+		{
+			"id": 20,
+			"word": "Pag",
+			"entry": 416,
+			"half": 0
+		},
+		{
+			"id": 21,
+			"word": "Pig",
+			"entry": 416,
+			"half": 0
+		},
+		{
+			"id": 22,
+			"word": "Pip",
+			"entry": 416,
+			"half": 0
+		},
+		{
+			"id": 23,
+			"word": "Piz",
+			"entry": 416,
+			"half": 0
+		},
+		{
+			"id": 24,
+			"word": "Quz",
+			"entry": 416,
+			"half": 0
+		},
+		{
+			"id": 25,
+			"word": "Rui",
+			"entry": 416,
+			"half": 0
+		},
+		{
+			"id": 26,
+			"word": "Rul",
+			"entry": 416,
+			"half": 0
+		},
+		{
+			"id": 27,
+			"word": "Rup",
+			"entry": 416,
+			"half": 0
+		},
+		{
+			"id": 28,
+			"word": "Tar",
+			"entry": 416,
+			"half": 0
+		},
+		{
+			"id": 29,
+			"word": "Vol",
+			"entry": 416,
+			"half": 0
+		},
+		{
+			"id": 30,
+			"word": "Yaz",
+			"entry": 416,
+			"half": 0
+		},
+		{
+			"id": 31,
+			"word": "Zep",
+			"entry": 416,
+			"half": 0
+		},
+		{
+			"id": 32,
+			"word": "Zig",
+			"entry": 416,
+			"half": 0
+		},
+		{
+			"id": 33,
+			"word": "Zil",
+			"entry": 416,
+			"half": 0
+		},
+		{
+			"id": 34,
+			"word": "Zor",
+			"entry": 416,
+			"half": 0
+		},
+		{
+			"id": 35,
+			"word": "bis",
+			"entry": 416,
+			"half": 1
+		},
+		{
+			"id": 36,
+			"word": "fip",
+			"entry": 416,
+			"half": 1
+		},
+		{
+			"id": 37,
+			"word": "gup",
+			"entry": 416,
+			"half": 1
+		},
+		{
+			"id": 38,
+			"word": "ham",
+			"entry": 416,
+			"half": 1
+		},
+		{
+			"id": 39,
+			"word": "jub",
+			"entry": 416,
+			"half": 1
+		},
+		{
+			"id": 40,
+			"word": "kin",
+			"entry": 416,
+			"half": 1
+		},
+		{
+			"id": 41,
+			"word": "kol",
+			"entry": 416,
+			"half": 1
+		},
+		{
+			"id": 42,
+			"word": "lop",
+			"entry": 416,
+			"half": 1
+		},
+		{
+			"id": 43,
+			"word": "loz",
+			"entry": 416,
+			"half": 1
+		},
+		{
+			"id": 44,
+			"word": "mat",
+			"entry": 416,
+			"half": 1
+		},
+		{
+			"id": 45,
+			"word": "mir",
+			"entry": 416,
+			"half": 1
+		},
+		{
+			"id": 46,
+			"word": "nam",
+			"entry": 416,
+			"half": 1
+		},
+		{
+			"id": 47,
+			"word": "nar",
+			"entry": 416,
+			"half": 1
+		},
+		{
+			"id": 48,
+			"word": "nik",
+			"entry": 416,
+			"half": 1
+		},
+		{
+			"id": 49,
+			"word": "nip",
+			"entry": 416,
+			"half": 1
+		},
+		{
+			"id": 50,
+			"word": "pad",
+			"entry": 416,
+			"half": 1
+		},
+		{
+			"id": 51,
+			"word": "pep",
+			"entry": 416,
+			"half": 1
+		},
+		{
+			"id": 52,
+			"word": "pit",
+			"entry": 416,
+			"half": 1
+		},
+		{
+			"id": 53,
+			"word": "qua",
+			"entry": 416,
+			"half": 1
+		},
+		{
+			"id": 54,
+			"word": "rai",
+			"entry": 416,
+			"half": 1
+		},
+		{
+			"id": 55,
+			"word": "rin",
+			"entry": 416,
+			"half": 1
+		},
+		{
+			"id": 56,
+			"word": "rot",
+			"entry": 416,
+			"half": 1
+		},
+		{
+			"id": 57,
+			"word": "tai",
+			"entry": 416,
+			"half": 1
+		},
+		{
+			"id": 58,
+			"word": "tal",
+			"entry": 416,
+			"half": 1
+		},
+		{
+			"id": 59,
+			"word": "tik",
+			"entry": 416,
+			"half": 1
+		},
+		{
+			"id": 60,
+			"word": "tip",
+			"entry": 416,
+			"half": 1
+		},
+		{
+			"id": 61,
+			"word": "tog",
+			"entry": 416,
+			"half": 1
+		},
+		{
+			"id": 62,
+			"word": "tuk",
+			"entry": 416,
+			"half": 1
+		},
+		{
+			"id": 63,
+			"word": "uri",
+			"entry": 416,
+			"half": 1
+		},
+		{
+			"id": 64,
+			"word": "yal",
+			"entry": 416,
+			"half": 1
+		},
+		{
+			"id": 65,
+			"word": "yap",
+			"entry": 416,
+			"half": 1
+		},
+		{
+			"id": 66,
+			"word": "Bhee",
+			"entry": 417,
+			"half": 0
+		},
+		{
+			"id": 67,
+			"word": "Bruu",
+			"entry": 417,
+			"half": 0
+		},
+		{
+			"id": 68,
+			"word": "Czaa",
+			"entry": 417,
+			"half": 0
+		},
+		{
+			"id": 69,
+			"word": "Droo",
+			"entry": 417,
+			"half": 0
+		},
+		{
+			"id": 70,
+			"word": "Flaa",
+			"entry": 417,
+			"half": 0
+		},
+		{
+			"id": 71,
+			"word": "Fzuu",
+			"entry": 417,
+			"half": 0
+		},
+		{
+			"id": 72,
+			"word": "Ghaa",
+			"entry": 417,
+			"half": 0
+		},
+		{
+			"id": 73,
+			"word": "Gree",
+			"entry": 417,
+			"half": 0
+		},
+		{
+			"id": 74,
+			"word": "Gzaa",
+			"entry": 417,
+			"half": 0
+		},
+		{
+			"id": 75,
+			"word": "Haa",
+			"entry": 417,
+			"half": 0
+		},
+		{
+			"id": 76,
+			"word": "Haad",
+			"entry": 417,
+			"half": 0
+		},
+		{
+			"id": 77,
+			"word": "Haag",
+			"entry": 417,
+			"half": 0
+		},
+		{
+			"id": 78,
+			"word": "Haap",
+			"entry": 417,
+			"half": 0
+		},
+		{
+			"id": 79,
+			"word": "Jhaa",
+			"entry": 417,
+			"half": 0
+		},
+		{
+			"id": 80,
+			"word": "Jhuu",
+			"entry": 417,
+			"half": 0
+		},
+		{
+			"id": 81,
+			"word": "Khaa",
+			"entry": 417,
+			"half": 0
+		},
+		{
+			"id": 82,
+			"word": "Khii",
+			"entry": 417,
+			"half": 0
+		},
+		{
+			"id": 83,
+			"word": "Khuu",
+			"entry": 417,
+			"half": 0
+		},
+		{
+			"id": 84,
+			"word": "Kree",
+			"entry": 417,
+			"half": 0
+		},
+		{
+			"id": 85,
+			"word": "Luu",
+			"entry": 417,
+			"half": 0
+		},
+		{
+			"id": 86,
+			"word": "Maa",
+			"entry": 417,
+			"half": 0
+		},
+		{
+			"id": 87,
+			"word": "Nhee",
+			"entry": 417,
+			"half": 0
+		},
+		{
+			"id": 88,
+			"word": "Phuu",
+			"entry": 417,
+			"half": 0
+		},
+		{
+			"id": 89,
+			"word": "Pryy",
+			"entry": 417,
+			"half": 0
+		},
+		{
+			"id": 90,
+			"word": "Rhuu",
+			"entry": 417,
+			"half": 0
+		},
+		{
+			"id": 91,
+			"word": "Shaa",
+			"entry": 417,
+			"half": 0
+		},
+		{
+			"id": 92,
+			"word": "Sloo",
+			"entry": 417,
+			"half": 0
+		},
+		{
+			"id": 93,
+			"word": "Sruu",
+			"entry": 417,
+			"half": 0
+		},
+		{
+			"id": 94,
+			"word": "Thoo",
+			"entry": 417,
+			"half": 0
+		},
+		{
+			"id": 95,
+			"word": "Traa",
+			"entry": 417,
+			"half": 0
+		},
+		{
+			"id": 96,
+			"word": "Wraa",
+			"entry": 417,
+			"half": 0
+		},
+		{
+			"id": 97,
+			"word": "Zhaa",
+			"entry": 417,
+			"half": 0
+		},
+		{
+			"id": 98,
+			"word": "dhon",
+			"entry": 417,
+			"half": 1
+		},
+		{
+			"id": 99,
+			"word": "dhum",
+			"entry": 417,
+			"half": 1
+		},
+		{
+			"id": 100,
+			"word": "dhun",
+			"entry": 417,
+			"half": 1
+		},
+		{
+			"id": 101,
+			"word": "dom",
+			"entry": 417,
+			"half": 1
+		},
+		{
+			"id": 102,
+			"word": "don",
+			"entry": 417,
+			"half": 1
+		},
+		{
+			"id": 103,
+			"word": "drom",
+			"entry": 417,
+			"half": 1
+		},
+		{
+			"id": 104,
+			"word": "dym",
+			"entry": 417,
+			"half": 1
+		},
+		{
+			"id": 105,
+			"word": "fenn",
+			"entry": 417,
+			"half": 1
+		},
+		{
+			"id": 106,
+			"word": "fum",
+			"entry": 417,
+			"half": 1
+		},
+		{
+			"id": 107,
+			"word": "fun",
+			"entry": 417,
+			"half": 1
+		},
+		{
+			"id": 108,
+			"word": "ghon",
+			"entry": 417,
+			"half": 1
+		},
+		{
+			"id": 109,
+			"word": "ghun",
+			"entry": 417,
+			"half": 1
+		},
+		{
+			"id": 110,
+			"word": "grom",
+			"entry": 417,
+			"half": 1
+		},
+		{
+			"id": 111,
+			"word": "grym",
+			"entry": 417,
+			"half": 1
+		},
+		{
+			"id": 112,
+			"word": "hom",
+			"entry": 417,
+			"half": 1
+		},
+		{
+			"id": 113,
+			"word": "hon",
+			"entry": 417,
+			"half": 1
+		},
+		{
+			"id": 114,
+			"word": "hun",
+			"entry": 417,
+			"half": 1
+		},
+		{
+			"id": 115,
+			"word": "jhom",
+			"entry": 417,
+			"half": 1
+		},
+		{
+			"id": 116,
+			"word": "kun",
+			"entry": 417,
+			"half": 1
+		},
+		{
+			"id": 117,
+			"word": "lum",
+			"entry": 417,
+			"half": 1
+		},
+		{
+			"id": 118,
+			"word": "mmon",
+			"entry": 417,
+			"half": 1
+		},
+		{
+			"id": 119,
+			"word": "mon",
+			"entry": 417,
+			"half": 1
+		},
+		{
+			"id": 120,
+			"word": "myn",
+			"entry": 417,
+			"half": 1
+		},
+		{
+			"id": 121,
+			"word": "nam",
+			"entry": 417,
+			"half": 1
+		},
+		{
+			"id": 122,
+			"word": "nem",
+			"entry": 417,
+			"half": 1
+		},
+		{
+			"id": 123,
+			"word": "nhym",
+			"entry": 417,
+			"half": 1
+		},
+		{
+			"id": 124,
+			"word": "nom",
+			"entry": 417,
+			"half": 1
+		},
+		{
+			"id": 125,
+			"word": "num",
+			"entry": 417,
+			"half": 1
+		},
+		{
+			"id": 126,
+			"word": "phom",
+			"entry": 417,
+			"half": 1
+		},
+		{
+			"id": 127,
+			"word": "roon",
+			"entry": 417,
+			"half": 1
+		},
+		{
+			"id": 128,
+			"word": "rym",
+			"entry": 417,
+			"half": 1
+		},
+		{
+			"id": 129,
+			"word": "shon",
+			"entry": 417,
+			"half": 1
+		},
+		{
+			"id": 130,
+			"word": "thun",
+			"entry": 417,
+			"half": 1
+		},
+		{
+			"id": 131,
+			"word": "tom",
+			"entry": 417,
+			"half": 1
+		},
+		{
+			"id": 132,
+			"word": "zhem",
+			"entry": 417,
+			"half": 1
+		},
+		{
+			"id": 133,
+			"word": "zhum",
+			"entry": 417,
+			"half": 1
+		},
+		{
+			"id": 134,
+			"word": "zun",
+			"entry": 417,
+			"half": 1
+		},
+		{
+			"id": 135,
+			"word": "Bar",
+			"entry": 1860,
+			"half": 0
+		},
+		{
+			"id": 136,
+			"word": "Bel",
+			"entry": 1860,
+			"half": 0
+		},
+		{
+			"id": 137,
+			"word": "Char",
+			"entry": 1860,
+			"half": 0
+		},
+		{
+			"id": 138,
+			"word": "Grak'",
+			"entry": 1860,
+			"half": 0
+		},
+		{
+			"id": 139,
+			"word": "Graz'",
+			"entry": 1860,
+			"half": 0
+		},
+		{
+			"id": 140,
+			"word": "Grim",
+			"entry": 1860,
+			"half": 0
+		},
+		{
+			"id": 141,
+			"word": "Hath",
+			"entry": 1860,
+			"half": 0
+		},
+		{
+			"id": 142,
+			"word": "Hel",
+			"entry": 1860,
+			"half": 0
+		},
+		{
+			"id": 143,
+			"word": "Hok",
+			"entry": 1860,
+			"half": 0
+		},
+		{
+			"id": 144,
+			"word": "Huk",
+			"entry": 1860,
+			"half": 0
+		},
+		{
+			"id": 145,
+			"word": "Jhaz",
+			"entry": 1860,
+			"half": 0
+		},
+		{
+			"id": 146,
+			"word": "Jhom",
+			"entry": 1860,
+			"half": 0
+		},
+		{
+			"id": 147,
+			"word": "Juk'",
+			"entry": 1860,
+			"half": 0
+		},
+		{
+			"id": 148,
+			"word": "Kal'",
+			"entry": 1860,
+			"half": 0
+		},
+		{
+			"id": 149,
+			"word": "Klath",
+			"entry": 1860,
+			"half": 0
+		},
+		{
+			"id": 150,
+			"word": "Kon",
+			"entry": 1860,
+			"half": 0
+		},
+		{
+			"id": 151,
+			"word": "Krag",
+			"entry": 1860,
+			"half": 0
+		},
+		{
+			"id": 152,
+			"word": "Krak",
+			"entry": 1860,
+			"half": 0
+		},
+		{
+			"id": 153,
+			"word": "Mak",
+			"entry": 1860,
+			"half": 0
+		},
+		{
+			"id": 154,
+			"word": "Mezz",
+			"entry": 1860,
+			"half": 0
+		},
+		{
+			"id": 155,
+			"word": "Orm",
+			"entry": 1860,
+			"half": 0
+		},
+		{
+			"id": 156,
+			"word": "Phan",
+			"entry": 1860,
+			"half": 0
+		},
+		{
+			"id": 157,
+			"word": "Sar",
+			"entry": 1860,
+			"half": 0
+		},
+		{
+			"id": 158,
+			"word": "Tang",
+			"entry": 1860,
+			"half": 0
+		},
+		{
+			"id": 159,
+			"word": "Than",
+			"entry": 1860,
+			"half": 0
+		},
+		{
+			"id": 160,
+			"word": "Thog",
+			"entry": 1860,
+			"half": 0
+		},
+		{
+			"id": 161,
+			"word": "Thok",
+			"entry": 1860,
+			"half": 0
+		},
+		{
+			"id": 162,
+			"word": "Thul",
+			"entry": 1860,
+			"half": 0
+		},
+		{
+			"id": 163,
+			"word": "Zag'",
+			"entry": 1860,
+			"half": 0
+		},
+		{
+			"id": 164,
+			"word": "Zang",
+			"entry": 1860,
+			"half": 0
+		},
+		{
+			"id": 165,
+			"word": "Zhar'",
+			"entry": 1860,
+			"half": 0
+		},
+		{
+			"id": 166,
+			"word": "kath",
+			"entry": 1860,
+			"half": 1
+		},
+		{
+			"id": 167,
+			"word": "doc",
+			"entry": 1860,
+			"half": 1
+		},
+		{
+			"id": 168,
+			"word": "dok",
+			"entry": 1860,
+			"half": 1
+		},
+		{
+			"id": 169,
+			"word": "gak",
+			"entry": 1860,
+			"half": 1
+		},
+		{
+			"id": 170,
+			"word": "garth",
+			"entry": 1860,
+			"half": 1
+		},
+		{
+			"id": 171,
+			"word": "gore",
+			"entry": 1860,
+			"half": 1
+		},
+		{
+			"id": 172,
+			"word": "gorg",
+			"entry": 1860,
+			"half": 1
+		},
+		{
+			"id": 173,
+			"word": "grave",
+			"entry": 1860,
+			"half": 1
+		},
+		{
+			"id": 174,
+			"word": "gron",
+			"entry": 1860,
+			"half": 1
+		},
+		{
+			"id": 175,
+			"word": "juk",
+			"entry": 1860,
+			"half": 1
+		},
+		{
+			"id": 176,
+			"word": "krast",
+			"entry": 1860,
+			"half": 1
+		},
+		{
+			"id": 177,
+			"word": "kresh",
+			"entry": 1860,
+			"half": 1
+		},
+		{
+			"id": 178,
+			"word": "krit",
+			"entry": 1860,
+			"half": 1
+		},
+		{
+			"id": 179,
+			"word": "los",
+			"entry": 1860,
+			"half": 1
+		},
+		{
+			"id": 180,
+			"word": "mon",
+			"entry": 1860,
+			"half": 1
+		},
+		{
+			"id": 181,
+			"word": "mos",
+			"entry": 1860,
+			"half": 1
+		},
+		{
+			"id": 182,
+			"word": "moth",
+			"entry": 1860,
+			"half": 1
+		},
+		{
+			"id": 183,
+			"word": "nagma",
+			"entry": 1860,
+			"half": 1
+		},
+		{
+			"id": 184,
+			"word": "nak",
+			"entry": 1860,
+			"half": 1
+		},
+		{
+			"id": 185,
+			"word": "nar",
+			"entry": 1860,
+			"half": 1
+		},
+		{
+			"id": 186,
+			"word": "nos",
+			"entry": 1860,
+			"half": 1
+		},
+		{
+			"id": 187,
+			"word": "nuz",
+			"entry": 1860,
+			"half": 1
+		},
+		{
+			"id": 188,
+			"word": "phog",
+			"entry": 1860,
+			"half": 1
+		},
+		{
+			"id": 189,
+			"word": "rath",
+			"entry": 1860,
+			"half": 1
+		},
+		{
+			"id": 190,
+			"word": "tast",
+			"entry": 1860,
+			"half": 1
+		},
+		{
+			"id": 191,
+			"word": "taz",
+			"entry": 1860,
+			"half": 1
+		},
+		{
+			"id": 192,
+			"word": "thak",
+			"entry": 1860,
+			"half": 1
+		},
+		{
+			"id": 193,
+			"word": "thang",
+			"entry": 1860,
+			"half": 1
+		},
+		{
+			"id": 194,
+			"word": "thyk",
+			"entry": 1860,
+			"half": 1
+		},
+		{
+			"id": 195,
+			"word": "vhug",
+			"entry": 1860,
+			"half": 1
+		},
+		{
+			"id": 196,
+			"word": "zazt",
+			"entry": 1860,
+			"half": 1
+		},
+		{
+			"id": 197,
+			"word": "Ael",
+			"entry": 1863,
+			"half": 0
+		},
+		{
+			"id": 198,
+			"word": "Aez",
+			"entry": 1863,
+			"half": 0
+		},
+		{
+			"id": 199,
+			"word": "Ang",
+			"entry": 1863,
+			"half": 0
+		},
+		{
+			"id": 200,
+			"word": "Ban",
+			"entry": 1863,
+			"half": 0
+		},
+		{
+			"id": 201,
+			"word": "Bet",
+			"entry": 1863,
+			"half": 0
+		},
+		{
+			"id": 202,
+			"word": "Bro",
+			"entry": 1863,
+			"half": 0
+		},
+		{
+			"id": 203,
+			"word": "Bry",
+			"entry": 1863,
+			"half": 0
+		},
+		{
+			"id": 204,
+			"word": "Cat",
+			"entry": 1863,
+			"half": 0
+		},
+		{
+			"id": 205,
+			"word": "Dir",
+			"entry": 1863,
+			"half": 0
+		},
+		{
+			"id": 206,
+			"word": "Dis",
+			"entry": 1863,
+			"half": 0
+		},
+		{
+			"id": 207,
+			"word": "Dom",
+			"entry": 1863,
+			"half": 0
+		},
+		{
+			"id": 208,
+			"word": "Drus",
+			"entry": 1863,
+			"half": 0
+		},
+		{
+			"id": 209,
+			"word": "Fie",
+			"entry": 1863,
+			"half": 0
+		},
+		{
+			"id": 210,
+			"word": "Fier",
+			"entry": 1863,
+			"half": 0
+		},
+		{
+			"id": 211,
+			"word": "Gly",
+			"entry": 1863,
+			"half": 0
+		},
+		{
+			"id": 212,
+			"word": "Hel",
+			"entry": 1863,
+			"half": 0
+		},
+		{
+			"id": 213,
+			"word": "Hes",
+			"entry": 1863,
+			"half": 0
+		},
+		{
+			"id": 214,
+			"word": "Kal",
+			"entry": 1863,
+			"half": 0
+		},
+		{
+			"id": 215,
+			"word": "Lyn",
+			"entry": 1863,
+			"half": 0
+		},
+		{
+			"id": 216,
+			"word": "Mir",
+			"entry": 1863,
+			"half": 0
+		},
+		{
+			"id": 217,
+			"word": "Nim",
+			"entry": 1863,
+			"half": 0
+		},
+		{
+			"id": 218,
+			"word": "Sar",
+			"entry": 1863,
+			"half": 0
+		},
+		{
+			"id": 219,
+			"word": "Sel",
+			"entry": 1863,
+			"half": 0
+		},
+		{
+			"id": 220,
+			"word": "Vil",
+			"entry": 1863,
+			"half": 0
+		},
+		{
+			"id": 221,
+			"word": "Zah",
+			"entry": 1863,
+			"half": 0
+		},
+		{
+			"id": 222,
+			"word": "aith",
+			"entry": 1863,
+			"half": 1
+		},
+		{
+			"id": 223,
+			"word": "anda",
+			"entry": 1863,
+			"half": 1
+		},
+		{
+			"id": 224,
+			"word": "antia",
+			"entry": 1863,
+			"half": 1
+		},
+		{
+			"id": 225,
+			"word": "evere",
+			"entry": 1863,
+			"half": 1
+		},
+		{
+			"id": 226,
+			"word": "lia",
+			"entry": 1863,
+			"half": 1
+		},
+		{
+			"id": 227,
+			"word": "lissa",
+			"entry": 1863,
+			"half": 1
+		},
+		{
+			"id": 228,
+			"word": "neri",
+			"entry": 1863,
+			"half": 1
+		},
+		{
+			"id": 229,
+			"word": "neth",
+			"entry": 1863,
+			"half": 1
+		},
+		{
+			"id": 230,
+			"word": "nia",
+			"entry": 1863,
+			"half": 1
+		},
+		{
+			"id": 231,
+			"word": "nlissa",
+			"entry": 1863,
+			"half": 1
+		},
+		{
+			"id": 232,
+			"word": "nora",
+			"entry": 1863,
+			"half": 1
+		},
+		{
+			"id": 233,
+			"word": "nva",
+			"entry": 1863,
+			"half": 1
+		},
+		{
+			"id": 234,
+			"word": "nys",
+			"entry": 1863,
+			"half": 1
+		},
+		{
+			"id": 235,
+			"word": "ola",
+			"entry": 1863,
+			"half": 1
+		},
+		{
+			"id": 236,
+			"word": "ona",
+			"entry": 1863,
+			"half": 1
+		},
+		{
+			"id": 237,
+			"word": "ora",
+			"entry": 1863,
+			"half": 1
+		},
+		{
+			"id": 238,
+			"word": "rah",
+			"entry": 1863,
+			"half": 1
+		},
+		{
+			"id": 239,
+			"word": "riana",
+			"entry": 1863,
+			"half": 1
+		},
+		{
+			"id": 240,
+			"word": "riel",
+			"entry": 1863,
+			"half": 1
+		},
+		{
+			"id": 241,
+			"word": "rona",
+			"entry": 1863,
+			"half": 1
+		},
+		{
+			"id": 242,
+			"word": "tai",
+			"entry": 1863,
+			"half": 1
+		},
+		{
+			"id": 243,
+			"word": "tevere",
+			"entry": 1863,
+			"half": 1
+		},
+		{
+			"id": 244,
+			"word": "thea",
+			"entry": 1863,
+			"half": 1
+		},
+		{
+			"id": 245,
+			"word": "vina",
+			"entry": 1863,
+			"half": 1
+		},
+		{
+			"id": 246,
+			"word": "wena",
+			"entry": 1863,
+			"half": 1
+		},
+		{
+			"id": 247,
+			"word": "wyn",
+			"entry": 1863,
+			"half": 1
+		},
+		{
+			"id": 248,
+			"word": "xia",
+			"entry": 1863,
+			"half": 1
+		},
+		{
+			"id": 249,
+			"word": "yla",
+			"entry": 1863,
+			"half": 1
+		},
+		{
+			"id": 250,
+			"word": "yssa",
+			"entry": 1863,
+			"half": 1
+		},
+		{
+			"id": 251,
+			"word": "Flaa",
+			"entry": 17252,
+			"half": 0
+		},
+		{
+			"id": 252,
+			"word": "Haa",
+			"entry": 17252,
+			"half": 0
+		},
+		{
+			"id": 253,
+			"word": "Jhuu",
+			"entry": 17252,
+			"half": 0
+		},
+		{
+			"id": 254,
+			"word": "Shaa",
+			"entry": 17252,
+			"half": 0
+		},
+		{
+			"id": 255,
+			"word": "Thoo",
+			"entry": 17252,
+			"half": 0
+		},
+		{
+			"id": 256,
+			"word": "dhun",
+			"entry": 17252,
+			"half": 1
+		},
+		{
+			"id": 257,
+			"word": "ghun",
+			"entry": 17252,
+			"half": 1
+		},
+		{
+			"id": 258,
+			"word": "roon",
+			"entry": 17252,
+			"half": 1
+		},
+		{
+			"id": 259,
+			"word": "thun",
+			"entry": 17252,
+			"half": 1
+		},
+		{
+			"id": 260,
+			"word": "tom",
+			"entry": 17252,
+			"half": 1
+		}
+	]
+}

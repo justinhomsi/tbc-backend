@@ -1,0 +1,1536 @@
+{
+	"table": "command",
+	"rows":
+	[
+		{
+			"name": "account delete",
+			"security": 4,
+			"help": "Syntax: .account delete $account\r\n\r\nDelete account with all characters."
+		},
+		{
+			"name": "quest remove",
+			"security": 3,
+			"help": "Syntax: .quest remove #quest_id\r\n\r\nSet quest #quest_id state to not completed and not active (and remove from active quest list) for selected player."
+		},
+		{
+			"name": "additem",
+			"security": 3,
+			"help": "Syntax: .additem #itemid/[#itemname]/#shift-click-item-link #itemcount\r\n\r\nAdds the specified number of items of id #itemid (or exact (!) name $itemname in brackets, or link created by shift-click at item in inventory or recipe) to your or selected character inventory. If #itemcount is omitted, only one item will be added.\r\n."
+		},
+		{
+			"name": "additemset",
+			"security": 3,
+			"help": "Syntax: .additemset #itemsetid\r\n\r\nAdd items from itemset of id #itemsetid to your or selected character inventory. Will add by one example each item from itemset."
+		},
+		{
+			"name": "npc allowmove",
+			"security": 3,
+			"help": "Syntax: .npc allowmove\r\n\r\nEnable or disable movement creatures in world. Not implemented."
+		},
+		{
+			"name": "quest add",
+			"security": 3,
+			"help": "Syntax: .quest add #quest_id\r\n\r\nAdd to character quest log quest #quest_id. Quest started from item can't be added by this command but correct .additem call provided in command output."
+		},
+		{
+			"name": "go creature",
+			"security": 1,
+			"help": "Syntax: .go creature (#creature_guid|$creature_name|id #creature_id)\r\nTeleport your character to creature with guid #creature_guid, or teleport your character to creature with name including as part $creature_name substring, or teleport your character to a creature that was spawned from the template with this entry #creature_id."
+		},
+		{
+			"name": "npc whisper",
+			"security": 1,
+			"help": "Syntax: .npc whisper #playerguid #text\r\nMake the selected npc whisper #text to  #playerguid."
+		},
+		{
+			"name": "npc spawntime",
+			"security": 2,
+			"help": "Syntax: .npc spawntime #time \r\n\r\nAdjust spawntime of selected creature to time."
+		},
+		{
+			"name": "npc subname",
+			"security": 2,
+			"help": "Syntax: .npc subname $Name\r\n\r\nChange the subname of the selected creature or player to $Name.\r\n\r\nCommand disabled."
+		},
+		{
+			"name": "npc changelevel",
+			"security": 2,
+			"help": "Syntax: .npc changelevel #level\r\n\r\nChange the level of the selected creature to #level.\r\n\r\n#level may range from 1 to 63."
+		},
+		{
+			"name": "announce",
+			"security": 1,
+			"help": "Syntax: .announce $MessageToBroadcast\r\n\r\nSend a global message to all players online in chat log."
+		},
+		{
+			"name": "notify",
+			"security": 1,
+			"help": "Syntax: .notify $MessageToBroadcast\r\n\r\nSend a global message to all players online in screen."
+		},
+		{
+			"name": "aura",
+			"security": 3,
+			"help": "Syntax: .aura #spellid\r\n\r\nAdd the aura from spell #spellid to the selected Unit."
+		},
+		{
+			"name": "gm ingame",
+			"security": 0,
+			"help": "Syntax: .gm ingame\r\n\r\nDisplay a list of available in game Game Masters."
+		},
+		{
+			"name": "bank",
+			"security": 3,
+			"help": "Syntax: .bank\r\n\r\nShow your bank inventory."
+		},
+		{
+			"name": "commands",
+			"security": 0,
+			"help": "Syntax: .commands\r\n\r\nDisplay a list of available commands for your account level."
+		},
+		{
+			"name": "cooldown",
+			"security": 3,
+			"help": "Syntax: .cooldown [#spell_id]\r\n\r\nRemove all (if spell_id not provided) or #spel_id spell cooldown from selected character or you (if no selection)."
+		},
+		{
+			"name": "npc factionid",
+			"security": 2,
+			"help": "Syntax: .npc factionid #factionid\r\n\r\nSet the faction of the selected creature to #factionid."
+		},
+		{
+			"name": "npc delitem",
+			"security": 2,
+			"help": "Syntax: .npc delitem #itemId\r\n\r\nRemove item #itemid from item list of selected vendor."
+		},
+		{
+			"name": "npc delete",
+			"security": 2,
+			"help": "Syntax: .npc delete [#guid]\r\n\r\nDelete creature with guid #guid (or the selected if no guid is provided)"
+		},
+		{
+			"name": "delticket",
+			"security": 2,
+			"help": "Syntax: .delticket all\r\n        .delticket #num\r\n        .delticket $character_name\r\n\rall to dalete all tickets at server, $character_name to delete ticket of this character, #num to delete ticket #num."
+		},
+		{
+			"name": "demorph",
+			"security": 2,
+			"help": "Syntax: .demorph\r\n\r\nDemorph the selected player."
+		},
+		{
+			"name": "die",
+			"security": 3,
+			"help": "Syntax: .die\r\n\r\nKill the selected player. If no player is selected, it will kill you."
+		},
+		{
+			"name": "dismount",
+			"security": 0,
+			"help": "Syntax: .dismount\r\n\r\nDismount you, if you are mounted."
+		},
+		{
+			"name": "go grid",
+			"security": 1,
+			"help": "Syntax: .go grid #gridX #gridY [#mapId]\r\n\r\nTeleport the gm to center of grid with provided indexes at map #mapId (or current map if it not provided)."
+		},
+		{
+			"name": "distance",
+			"security": 3,
+			"help": "Syntax: .distance [$name/$link]\r\n\r\nDisplay the distance from your character to the selected creature/player, or player with name $name, or player/creature/gameobject pointed to shift-link with guid."
+		},
+		{
+			"name": "go xy",
+			"security": 1,
+			"help": "Syntax: .go xy #x #y [#mapid]\r\n\r\nTeleport player to point with (#x,#y) coordinates at ground(water) level at map #mapid or same map if #mapid not provided."
+		},
+		{
+			"name": "debug play cinematic",
+			"security": 1,
+			"help": "Syntax: .debug play cinematic #cinematicid\r\n\r\nPlay cinematic #cinematicid for you. You stay at place while your mind fly.\r\n"
+		},
+		{
+			"name": "debug play sound",
+			"security": 1,
+			"help": "Syntax: .debug play sound #soundid\r\n\r\nPlay sound with #soundid.\r\nSound will be play only for you. Other players do not hear this.\r\nWarning: client may have more 5000 sounds..."
+		},
+		{
+			"name": "explorecheat",
+			"security": 3,
+			"help": "Syntax: .explorecheat #flag\r\n\r\nReveal  or hide all maps for the selected player. If no player is selected, hide or reveal maps to you.\r\n\r\nUse a #flag of value 1 to reveal, use a #flag value of 0 to hide all maps."
+		},
+		{
+			"name": "npc additem",
+			"security": 2,
+			"help": "Syntax: .npc additem #itemId <#maxcount><#incrtime><#extendedcost>r\r\n\r\nAdd item #itemid to item list of selected vendor. Also optionally set max count item in vendor item list and time to item count restoring and items ExtendedCost."
+		},
+		{
+			"name": "modify morph",
+			"security": 2,
+			"help": "Syntax: .modify morph #displayid\r\n\r\nChange your current model id to #displayid."
+		},
+		{
+			"name": "npc add",
+			"security": 2,
+			"help": "Syntax: .npc add #creatureid\r\n\r\nSpawn a creature by the given template id of #creatureid."
+		},
+		{
+			"name": "gm",
+			"security": 1,
+			"help": "Syntax: .gm [on/off]\r\n\r\nEnable or Disable in game GM MODE or show current state of on/off not provided."
+		},
+		{
+			"name": "modify drunk",
+			"security": 1,
+			"help": "Syntax: .modify drunk #value\r\n Set drunk level to #value (0..100). Value 0 remove drunk state, 100 is max drunked state."
+		},
+		{
+			"name": "guild create",
+			"security": 2,
+			"help": "Syntax: .guild create [$GuildLeaderName] \"$GuildName\"\r\n\r\nCreate a guild named $GuildName with the player $GuildLeaderName (or selected) as leader.  Guild name must in quotes."
+		},
+		{
+			"name": "guild rank",
+			"security": 2,
+			"help": "Syntax: .guild rank [$CharacterName] #Rank\r\n\r\nSet for player $CharacterName (or selected) rank #Rank in a guild."
+		},
+		{
+			"name": "list creature",
+			"security": 3,
+			"help": "Syntax: .list creature #creature_id [#max_count]\r\n\r\nOutput creatures with creature id #creature_id found in world. Output creature guids and coordinates sorted by distance from character. Will be output maximum #max_count creatures. If #max_count not provided use 10 as default value."
+		},
+		{
+			"name": "gobject turn",
+			"security": 2,
+			"help": "Syntax: .gobject turn #goguid \r\n\r\nSet for gameobject #goguid orientation same as current character orientation."
+		},
+		{
+			"name": "gps",
+			"security": 1,
+			"help": "Syntax: .gps [$name|$shift-link]\r\n\r\nDisplay the position information for a selected character or creature (also if player name $name provided then for named player, or if creature/gameobject shift-link provided then pointed creature/gameobject if it loaded). Position information includes X, Y, Z, and orientation, map Id and zone Id"
+		},
+		{
+			"name": "guild invite",
+			"security": 2,
+			"help": "Syntax: .guild invite [$CharacterName] \"$GuildName\"\r\n\r\nAdd player $CharacterName (or selected) into a guild $GuildName. Guild name must in quotes."
+		},
+		{
+			"name": "guid",
+			"security": 2,
+			"help": "Syntax: .guid\r\n\r\nDisplay the GUID for the selected character."
+		},
+		{
+			"name": "hidearea",
+			"security": 3,
+			"help": "Syntax: .hidearea #areaid\r\n\r\nHide the area of #areaid to the selected character. If no character is selected, hide this area to you."
+		},
+		{
+			"name": "honor add",
+			"security": 2,
+			"help": "Syntax: .honor add $amount\r\n\r\nAdd a certain amount of honor (gained today) to the selected player."
+		},
+		{
+			"name": "honor addkill",
+			"security": 2,
+			"help": "Syntax: .honor addkill\r\n\r\nAdd the targeted unit as one of your pvp kills today (you only get honor if it's a racial leader or a player)"
+		},
+		{
+			"name": "honor update",
+			"security": 2,
+			"help": "Syntax: .honor update\r\n\r\nForce the yesterday's honor fields to be updated with today's data, which will get reset for the selected player."
+		},
+		{
+			"name": "server idleshutdown cancel",
+			"security": 3,
+			"help": "Syntax: .server idleshutdown cancel\r\n\r\nCancel the restart/shutdown timer if any."
+		},
+		{
+			"name": "server exit",
+			"security": 4,
+			"help": "Syntax: .server exit\r\n\r\nTerminate mangosd NOW. Exit code 0."
+		},
+		{
+			"name": "server idleshutdown",
+			"security": 3,
+			"help": "Syntax: .server idleshutdown #delay [#exist_code]\r\n\r\nShut the server down after #delay seconds if no active connections are present (no players). Use #exist_code or 0 as program exist code."
+		},
+		{
+			"name": "itemmove",
+			"security": 2,
+			"help": "Syntax: .itemmove #sourceslotid #destinationslotid\r\n\r\nMove an item from slots #sourceslotid to #destinationslotid in your inventory\r\n\r\nNot yet implemented"
+		},
+		{
+			"name": "kick",
+			"security": 2,
+			"help": "Syntax: .kick [$charactername]\r\n\r\nKick the given character name from the world. If no character name is provided then the selected player (except for yourself) will be kicked."
+		},
+		{
+			"name": "learn all",
+			"security": 3,
+			"help": "Syntax: .learn all\r\n\r\nLearn all big set different spell maybe useful for Administaror."
+		},
+		{
+			"name": "learn all_crafts",
+			"security": 2,
+			"help": "Syntax: .learn crafts\r\n\r\nLearn all professions and recipes."
+		},
+		{
+			"name": "learn all_gm",
+			"security": 2,
+			"help": "Syntax: .learn all_gm\r\n\r\nLearn all default spells for Game Masters."
+		},
+		{
+			"name": "learn all_lang",
+			"security": 1,
+			"help": "Syntax: .learn all_lang\r\n\r\nLearn all languages"
+		},
+		{
+			"name": "learn all_myclass",
+			"security": 3,
+			"help": "Syntax: .learn all_myclass\r\n\r\nLearn all spells and talents available for his class."
+		},
+		{
+			"name": "learn all_myspells",
+			"security": 3,
+			"help": "Syntax: .learn all_myspells\r\n\r\nLearn all spells (except talents and spells with first rank learned as talent) available for his class."
+		},
+		{
+			"name": "learn all_mytalents",
+			"security": 3,
+			"help": "Syntax: .learn all_mytalents\r\n\r\nLearn all talents (and spells with first rank learned as talent) available for his class."
+		},
+		{
+			"name": "setskill",
+			"security": 3,
+			"help": "Syntax: .setskill #skill #level [#max]\r\n\r\nSet a skill of id #skill with a current skill value of #level and a maximum value of #max (or equal current maximum if not provide) for the selected character. If no character is selected, you learn the skill."
+		},
+		{
+			"name": "levelup",
+			"security": 3,
+			"help": "Syntax: .levelup [$playername] [#numberoflevels]\r\n\r\nIncrease/decrease the level of character with $playername (or the selected if not name provided) by #numberoflevels Or +1 if no #numberoflevels provided). If #numberoflevels is omitted, the level will be increase by 1. If #numberoflevels is 0, the same level will be restarted. If no character is selected and name not provided, increase your level. Command can be used for offline character. All stats and dependent values recalculated. At level decrease talents can be reset if need. Also at level decrease equipped items with greater level requirement can be lost."
+		},
+		{
+			"name": "linkgrave",
+			"security": 3,
+			"help": "Syntax: .linkgrave #graveyard_id [alliance|horde]\r\n\r\nLink current zone to graveyard for any (or alliance/horde faction ghosts). This let character ghost from zone teleport to graveyard after die if graveyard is nearest from linked to zone and accept ghost of this faction. Add only single graveyard at another map and only if no graveyards linked (or planned linked at same map)."
+		},
+		{
+			"name": "gobject delete",
+			"security": 2,
+			"help": "Syntax: .gobject delete #go_guid\r\nDelete gameobject with guid #go_guid."
+		},
+		{
+			"name": "gobject move",
+			"security": 2,
+			"help": "Syntax: .gobject move #goguid [#x #y #z]\r\n\r\nMove gameobject #goguid to character coordinates (or to (#x,#y,#z) coordinates if its provide)."
+		},
+		{
+			"name": "gobject add",
+			"security": 2,
+			"help": "Syntax: .gobject add #id <spawntimeSecs>\r\n\r\nAdd a game object from game object templates to the world at your current location using the #id.\r\nspawntimesecs sets the spawntime, it is optional.\r\n\r\nNote: this is a copy of .gameobject."
+		},
+		{
+			"name": "go xyz",
+			"security": 1,
+			"help": "Syntax: .go xyz #x #y #z [#mapid]\r\n\r\nTeleport player to point with (#x,#y,#z) coordinates at ground(water) level at map #mapid or same map if #mapid not provided."
+		},
+		{
+			"name": "go zonexy",
+			"security": 1,
+			"help": "Syntax: .go zonexy #x #y [#zone]\r\n\r\nTeleport player to point with (#x,#y) client coordinates at ground(water) level in zone #zoneid or current zone if #zoneid not provided. You can look up zone using .lookup area $namepart"
+		},
+		{
+			"name": "loadscripts",
+			"security": 3,
+			"help": "Syntax: .loadscripts $scriptlibraryname\r\n\r\nUnload current and load the script library $scriptlibraryname or reload current if $scriptlibraryname omitted, in case you changed it while the server was running."
+		},
+		{
+			"name": "account password",
+			"security": 0,
+			"help": "Syntax: .account password $old_password $new_password $new_password\r\n\r\nChange your account password."
+		},
+		{
+			"name": "lookup spell",
+			"security": 3,
+			"help": "Syntax: .lookup spell $namepart\r\n\r\nLooks up a spell by $namepart, and returns all matches with their spell ID's."
+		},
+		{
+			"name": "lookup quest",
+			"security": 3,
+			"help": "Syntax: .lookup quest $namepart\r\n\r\nLooks up a quest by $namepart, and returns all matches with their quest ID's."
+		},
+		{
+			"name": "lookup skill",
+			"security": 3,
+			"help": "Syntax: .lookup skill $$namepart\r\n\r\nLooks up a skill by $namepart, and returns all matches with their skill ID's."
+		},
+		{
+			"name": "lookup object",
+			"security": 3,
+			"help": "Syntax: .lookup object $objname\r\n\r\nLooks up an gameobject by $objname, and returns all matches with their Gameobject ID's."
+		},
+		{
+			"name": "lookup itemset",
+			"security": 3,
+			"help": "Syntax: .lookup itemset $itemname\r\n\r\nLooks up an item set by $itemname, and returns all matches with their Item set ID's."
+		},
+		{
+			"name": "lookup item",
+			"security": 3,
+			"help": "Syntax: .lookup item $itemname\r\n\r\nLooks up an item by $itemname, and returns all matches with their Item ID's."
+		},
+		{
+			"name": "lookup creature",
+			"security": 3,
+			"help": "Syntax: .lookup creature $namepart\r\n\r\nLooks up a creature by $namepart, and returns all matches with their creature ID's."
+		},
+		{
+			"name": "maxskill",
+			"security": 3,
+			"help": "Syntax: .maxskill\r\nSets all skills of the targeted player to their maximum values for its current level."
+		},
+		{
+			"name": "modify aspeed",
+			"security": 1,
+			"help": "Syntax: .modify aspeed #rate\r\n\r\nModify all speeds -run,swim,run back,swim back- of the selected player to \"normalbase speed for this move type\"*rate. If no player is selected, modify your speed.\r\n\r\n #rate may range from 0.1 to 10."
+		},
+		{
+			"name": "modify bwalk",
+			"security": 1,
+			"help": "Syntax: .modify bwalk #rate\r\n\r\nModify the speed of the selected player while running backwards to \"normal walk back speed\"*rate. If no player is selected, modify your speed.\r\n\r\n #rate may range from 0.1 to 10."
+		},
+		{
+			"name": "modify energy",
+			"security": 1,
+			"help": "Syntax: .modify energy #energy\r\n\r\nModify the energy of the selected player. If no player is selected, modify your energy."
+		},
+		{
+			"name": "modify faction",
+			"security": 1,
+			"help": "Syntax: .modify faction #factionid #flagid #npcflagid #dynamicflagid\r\n\r\nModify the faction and flags of the selected creature. Without arguments, display the faction and flags of the selected creature."
+		},
+		{
+			"name": "gobject near",
+			"security": 2,
+			"help": "Syntax: .gobject near  [#distance]\r\n\r\nOutput gameobjects at distance #distance from player. Output gameobject guids and coordinates sorted by distance from character. If #distance not provided use 10 as default value."
+		},
+		{
+			"name": "modify hp",
+			"security": 1,
+			"help": "Syntax: .modify hp #newhp\r\n\r\nModify the hp of the selected player. If no player is selected, modify your hp."
+		},
+		{
+			"name": "modify mana",
+			"security": 1,
+			"help": "Syntax: .modify mana #newmana\r\n\r\nModify the mana of the selected player. If no player is selected, modify your mana."
+		},
+		{
+			"name": "modify rage",
+			"security": 1,
+			"help": "Syntax: .modify rage #newrage\r\n\r\nModify the rage of the selected player. If no player is selected, modify your rage."
+		},
+		{
+			"name": "modify scale",
+			"security": 1,
+			"help": "Syntax: .modify scale #scale\r\n\r\nChange model scale for targeted player (util relogin) or creature (until respawn)."
+		},
+		{
+			"name": "gm fly",
+			"security": 3,
+			"help": "Syntax: .gm fly [on/off]\r\nEnable/disable gm fly mode."
+		},
+		{
+			"name": "debug getitemvalue",
+			"security": 3,
+			"help": "Syntax: .debug getitemvalue #itemguid #field [int|hex|bit|float]\r\n\r\nGet the field #field of the item #itemguid in your inventroy.\r\n\r\nUse type arg for set output format: int (decimal number), hex (hex value), bit (bitstring), float. By default use integer output."
+		},
+		{
+			"name": "modify swim",
+			"security": 1,
+			"help": "Syntax: .modify swim #rate\r\n\r\nModify the swim speed of the selected player to \"normal swim speed\"*rate. If no player is selected, modify your speed.\r\n\r\n #rate may range from 0.1 to 10."
+		},
+		{
+			"name": "banlist ip",
+			"security": 3,
+			"help": "Syntax: .banlist ip [$Ip]\r\nSearches the banlist for a IP pattern or show full list of IP bans."
+		},
+		{
+			"name": "npc spawndist",
+			"security": 2,
+			"help": "Syntax: .npc spawndist #dist\r\n\r\nAdjust spawndistance of selected creature to dist."
+		},
+		{
+			"name": "movegens",
+			"security": 3,
+			"help": "Syntax: .movegens\r\n  Show movement generators stack for selected creature or player."
+		},
+		{
+			"name": "goname",
+			"security": 1,
+			"help": "Syntax: .goname [$charactername]\r\n\r\nTeleport to the given character. Either specify the character name or click on the character's portrait, e.g. when you are in a group. Character can be offline."
+		},
+		{
+			"name": "baninfo account",
+			"security": 3,
+			"help": "Syntax: .baninfo account $accountid\r\nWatch full information about a specific ban."
+		},
+		{
+			"name": "npc setmovetype",
+			"security": 2,
+			"help": "Syntax: .npc setmovetype [#creature_guid] stay/random/way [NODEL]\r\n\r\nSet for creature pointed by #creature_guid (or selected if #creature_guid not provided) movement type and move it to respawn position (if creature alive). Any existing waypoints for creature will be removed from the database if you do not use NODEL. If the creature is dead then movement type will applied at creature respawn.\r\nMake sure you use NODEL, if you want to keep the waypoints."
+		},
+		{
+			"name": "baninfo ip",
+			"security": 3,
+			"help": "Syntax: .baninfo ip $ip\r\nWatch full information about a specific ban."
+		},
+		{
+			"name": "npc setmodel",
+			"security": 2,
+			"help": "Syntax: .npc setmodel #displayid\r\n\r\nChange the model id of the selected creature to #displayid."
+		},
+		{
+			"name": "neargrave",
+			"security": 3,
+			"help": "Syntax: .neargrave [alliance|horde]\r\n\r\nFind nearest graveyard linked to zone (or only nearest from accepts alliance or horde faction ghosts)."
+		},
+		{
+			"name": "npc move",
+			"security": 2,
+			"help": "Syntax: .npc move [#creature_guid]\r\n\r\nMove the targeted creature spawn point to your coordinates."
+		},
+		{
+			"name": "npc name",
+			"security": 2,
+			"help": "Syntax: .npc name $name\r\n\r\nChange the name of the selected creature or character to $name.\r\n\r\nCommand disabled."
+		},
+		{
+			"name": "npc info",
+			"security": 3,
+			"help": "Syntax: .npc info\r\n\r\nDisplay a list of details for the selected creature.\r\n\r\nThe list includes:\r\n- GUID, Faction, NPC flags, Entry ID, Model ID,\r\n- Level,\r\n- Health (current/maximum),\r\n\r\n- Field flags, dynamic flags, faction template, \r\n- Position information,\r\n- and the creature type, e.g. if the creature is a vendor."
+		},
+		{
+			"name": "account lock",
+			"security": 0,
+			"help": "Syntax: .account lock [on|off]\r\n\r\nAllow login from account only from current used IP or remove this requirement."
+		},
+		{
+			"name": "pinfo",
+			"security": 2,
+			"help": "Syntax: .pinfo [$player_name]\r\n\r\nOutput account information for selected player or player find by $player_name."
+		},
+		{
+			"name": "character reputation",
+			"security": 2,
+			"help": "Syntax: .character reputation [$player_name]\r\n\r\nShow reputation information for selected player or player find by $player_name."
+		},
+		{
+			"name": "server plimit",
+			"security": 3,
+			"help": "Syntax: .server plimit [#num|-1|-2|-3|reset|player|moderator|gamemaster|administrator]\r\n\r\nWithout arg show current player amount and security level limitations for login to server, with arg set player linit ($num > 0) or securiti limitation ($num < 0 or security leme name. With `reset` sets player limit to the one in the config file"
+		},
+		{
+			"name": "recall",
+			"security": 1,
+			"help": "Syntax: .recall [$playername]\r\n\r\nTeleport $playername or selected player to the place where he has been before last use of a teleportation command. If no $playername is entered and no player is selected, it will teleport you."
+		},
+		{
+			"name": "reload all",
+			"security": 3,
+			"help": "Syntax: .reload all\r\n\r\nReload all tables with reload support added and that can be _safe_ reloaded."
+		},
+		{
+			"name": "reload all_area",
+			"security": 3,
+			"help": "Syntax: .reload all_area\r\n\r\nReload all `areatrigger_*` tables if reload support added for this table and this table can be _safe_ reloaded."
+		},
+		{
+			"name": "reload all_loot",
+			"security": 3,
+			"help": "Syntax: .reload all_loot\r\n\r\nReload all `*_loot_template` tables. This can be slow operation with lags for server run."
+		},
+		{
+			"name": "reload all_quest",
+			"security": 3,
+			"help": "Syntax: .reload all_quest\r\n\r\nReload all quest related tables if reload support added for this table and this table can be _safe_ reloaded."
+		},
+		{
+			"name": "reload all_spell",
+			"security": 3,
+			"help": "Syntax: .reload all\r\n\r\nReload all `spell_*` tables with reload support added and that can be _safe_ reloaded."
+		},
+		{
+			"name": "go",
+			"security": 1,
+			"help": "Syntax: .go  [$playername|pointlink|#x #y #z [#mapid]]\r\nTeleport your character to point with coordinates of player $playername, or coordinates of one from shift-link types: player, tele, taxinode, creature/creature_entry, gameobject/gameobject_entry, or explicit #x #y #z #mapid coordinates."
+		},
+		{
+			"name": "go graveyard",
+			"security": 1,
+			"help": "Syntax: .go graveyard #graveyardId\r\n Teleport to graveyard with the graveyardId specified."
+		},
+		{
+			"name": "guild uninvite",
+			"security": 2,
+			"help": "Syntax: .guild uninvite [$CharacterName]\r\n\r\nRemove player $CharacterName (or selected) from a guild."
+		},
+		{
+			"name": "mute",
+			"security": 1,
+			"help": "Syntax: .mute [$playerName] $timeInMinutes\r\n\r\nDisible chat messaging for any character from account of character $playerName (or currently selected) at $timeInMinutes minutes. Player can be offline."
+		},
+		{
+			"name": "ban ip",
+			"security": 3,
+			"help": "Syntax: .ban ip $Ip $bantime $reason\r\nBan IP.\r\n$bantime: negative value leads to permban, otherwise use a timestring like \"4d20h3s\"."
+		},
+		{
+			"name": "ban character",
+			"security": 3,
+			"help": "Syntax: .ban character $Name $bantime $reason\r\nBan account and kick player.\r\n$bantime: negative value leads to permban, otherwise use a timestring like \"4d20h3s\"."
+		},
+		{
+			"name": "respawn",
+			"security": 3,
+			"help": "Syntax: .respawn\r\n\r\nRespawn selected creature or respawn all nearest creatures (if none selected) and GO without waiting respawn time expiration."
+		},
+		{
+			"name": "revive",
+			"security": 3,
+			"help": "Syntax: .revive\r\n\r\nRevive the selected player. If no player is selected, it will revive you."
+		},
+		{
+			"name": "save",
+			"security": 0,
+			"help": "Syntax: .save\r\n\r\nSaves your character."
+		},
+		{
+			"name": "saveall",
+			"security": 1,
+			"help": "Syntax: .saveall\r\n\r\nSave all characters in game."
+		},
+		{
+			"name": "account",
+			"security": 0,
+			"help": "Syntax: .account\r\n\r\nDisplay the access level of your account."
+		},
+		{
+			"name": "account create",
+			"security": 4,
+			"help": "Syntax: .account create $account $password [$expansion]\r\n\r\nCreate account and set password to it. Optionally, you may also set another expansion for this account than the defined default value."
+		},
+		{
+			"name": "send mail",
+			"security": 1,
+			"help": "Syntax: .send mail #playername \"#subject\" \"#text\"\r\n\r\nSend a mail to a player. Subject and mail text must be in \"\"."
+		},
+		{
+			"name": "send message",
+			"security": 3,
+			"help": "Syntax: .send message $playername $message\r\n\r\nSend screen message to player from ADMINISTRATOR."
+		},
+		{
+			"name": "send money",
+			"security": 3,
+			"help": "Syntax: .send money #playername \"#subject\" \"#text\" #money\r\n\r\nSend mail with money to a player. Subject and mail text must be in \"\"."
+		},
+		{
+			"name": "trigger active",
+			"security": 2,
+			"help": "Syntax: .trigger active\r\n\r\nShow list of areatriggers with activation zone including current character position."
+		},
+		{
+			"name": "gm visible",
+			"security": 1,
+			"help": "Syntax: .gm visible on/off\r\n\r\nOutput current visibility state or make GM visible(on) and invisible(off) for other players."
+		},
+		{
+			"name": "modify arena",
+			"security": 1,
+			"help": "Syntax: .modify arena #value\r\nAdd $amount arena points to the selected player."
+		},
+		{
+			"name": "modify standstate",
+			"security": 2,
+			"help": "Syntax: .modify standstate #emoteid\r\n\r\nChange the emote of your character while standing to #emoteid."
+		},
+		{
+			"name": "showarea",
+			"security": 3,
+			"help": "Syntax: .showarea #areaid\r\n\r\nReveal the area of #areaid to the selected character. If no character is selected, reveal this area to you."
+		},
+		{
+			"name": "debug moditemvalue",
+			"security": 3,
+			"help": "Syntax: .debug moditemvalue #guid #field [int|float| &= | |= | &=~ ] #value\r\n\r\nModify the field #field of the item #itemguid in your inventroy by value #value. \r\n\r\nUse type arg for set mode of modification: int (normal add/subtract #value as decimal number), float (add/subtract #value as float number), &= (bit and, set to 0 all bits in value if it not set to 1 in #value as hex number), |= (bit or, set to 1 all bits in value if it set to 1 in #value as hex number), &=~ (bit and not, set to 0 all bits in value if it set to 1 in #value as hex number). By default expect integer add/subtract."
+		},
+		{
+			"name": "server info",
+			"security": 0,
+			"help": "Syntax: .server info\r\n\r\nDisplay server version and the number of connected players."
+		},
+		{
+			"name": "debug getvalue",
+			"security": 3,
+			"help": "Syntax: .debug getvalue #field [int|hex|bit|float]\r\n\r\nGet the field #field of the selected target. If no target is selected, get the content of your field.\r\n\r\nUse type arg for set output format: int (decimal number), hex (hex value), bit (bitstring), float. By default use integer output."
+		},
+		{
+			"name": "start",
+			"security": 0,
+			"help": "Syntax: .start\r\n\r\nTeleport you to the starting area of your character."
+		},
+		{
+			"name": "taxicheat",
+			"security": 1,
+			"help": "Syntax: .taxicheat on/off\r\n\r\nTemporary grant access or remove to all taxi routes for the selected character. If no character is selected, hide or reveal all routes to you.\r\n\r\nVisited taxi nodes sill accessible after removing access."
+		},
+		{
+			"name": "ticket",
+			"security": 2,
+			"help": "Syntax: .ticket on\r\n        .ticket off\r\n        .ticket #num\r\n        .ticket $character_name\r\n        .ticket respond #num $response\r\n        .ticket respond $character_name $response\r\n\r\non/off for GMs to show or not a new ticket directly, $character_name to show ticket of this character, #num to show ticket #num."
+		},
+		{
+			"name": "help",
+			"security": 0,
+			"help": "Syntax: .help [$command]\r\n\r\nDisplay usage instructions for the given $command. If no $command provided show list available commands."
+		},
+		{
+			"name": "unaura",
+			"security": 3,
+			"help": "Syntax: .unaura #spellid\r\n\r\nRemove aura due to spell #spellid from the selected Unit."
+		},
+		{
+			"name": "reset honor",
+			"security": 3,
+			"help": "Syntax: .reset honor [Playername]\r\n  Reset all honor data for targeted character."
+		},
+		{
+			"name": "learn",
+			"security": 3,
+			"help": "Syntax: .learn #spell [all]\r\n\r\nSelected character learn a spell of id #spell. If 'all' provided then all ranks learned."
+		},
+		{
+			"name": "unlearn",
+			"security": 3,
+			"help": "Syntax: .unlearn #spell [all]\r\n\r\nUnlearn for selected player a spell #spell.  If 'all' provided then all ranks unlearned."
+		},
+		{
+			"name": "cast",
+			"security": 3,
+			"help": "Syntax: .cast #spellid [triggered]\r\n  Cast #spellid to selected target. If no target selected cast to self. If 'trigered' or part provided then spell casted with triggered flag."
+		},
+		{
+			"name": "debug anim",
+			"security": 2,
+			"help": "Syntax: .debug anim #emoteid\r\n\r\nPlay emote #emoteid for your character."
+		},
+		{
+			"name": "cast back",
+			"security": 3,
+			"help": "Syntax: .cast back #spellid [triggered]\r\n  Selected target will cast #spellid to your character. If 'trigered' or part provided then spell casted with triggered flag."
+		},
+		{
+			"name": "wchange",
+			"security": 3,
+			"help": "Syntax: .wchange #weathertype #status\r\n\r\nSet current weather to #weathertype with an intensity of #status.\r\n\r\n#weathertype can be 1 for rain, 2 for snow, and 3 for sand. #status can be 0 for disabled, and 1 for enabled."
+		},
+		{
+			"name": "whispers",
+			"security": 1,
+			"help": "Syntax: .whispers on|off\r\nEnable/disable accepting whispers by GM from players. By default use mangosd.conf setting."
+		},
+		{
+			"name": "stable",
+			"security": 3,
+			"help": "Syntax: .stable\r\n\r\nShow your pet stable."
+		},
+		{
+			"name": "wp show",
+			"security": 2,
+			"help": "Syntax: .wp show command [dbGuid] [pathId [wpOrigin] ]\r\nwhere command can have one of the following values\r\non (to show all related wp)\r\nfirst (to see only first one)\r\nlast (to see only last one)\r\noff (to hide all related wp)\r\ninfo (to get more info about theses wp)\r\n\r\nFor using info you have to do first show on and than select a Visual-Waypoint and do the show info!\r\nwith pathId and wpOrigin you can specify which path to show (optional)"
+		},
+		{
+			"name": "wp add",
+			"security": 2,
+			"help": "Syntax: .wp add [Selected Creature or dbGuid] [pathId [wpOrigin] ]"
+		},
+		{
+			"name": "wp modify",
+			"security": 2,
+			"help": "Syntax: .wp modify command [dbGuid, id] [value]\r\nwhere command must be one of: waittime  | scriptid | orientation | del | move\r\nIf no waypoint was selected, one can be chosen with dbGuid and id.\r\nThe commands have the following meaning:\r\n waittime (Set the time the npc will wait at a point (in ms))\r\n scriptid (Set the DB-Script that will be executed when the wp is reached)\r\n orientation (Set the orientation of this point) \r\n del (Remove the waypoint from the path)\r\n move (Move the wayoint to the current position of the player)"
+		},
+		{
+			"name": "list item",
+			"security": 3,
+			"help": "Syntax: .list item #item_id [#max_count]\r\n\r\nOutput items with item id #item_id found in all character inventories, mails, auctions, and guild banks. Output item guids, item owner guid, owner account and owner name (guild name and guid in case guild bank). Will be output maximum #max_count items. If #max_count not provided use 10 as default value."
+		},
+		{
+			"name": "lookup tele",
+			"security": 1,
+			"help": "Syntax: .lookup tele $substring\r\n\r\nSearch and output all .tele command locations with provide $substring in name."
+		},
+		{
+			"name": "lookup area",
+			"security": 1,
+			"help": "Syntax: .lookup area $namepart\r\n\r\nLooks up an area by $namepart, and returns all matches with their area ID's."
+		},
+		{
+			"name": "modify mount",
+			"security": 1,
+			"help": "Syntax: .modify mount #id #speed\r\nDisplay selected player as mounted at #id creature and set speed to #speed value."
+		},
+		{
+			"name": "tele",
+			"security": 1,
+			"help": "Syntax: .tele #location\r\n\r\nTeleport player to a given location."
+		},
+		{
+			"name": "groupgo",
+			"security": 1,
+			"help": "Syntax: .groupgo [$charactername]\r\n\r\nTeleport the given character and his group to you. Teleported only online characters but original selected group member can be offline."
+		},
+		{
+			"name": "npc flag",
+			"security": 2,
+			"help": "Syntax: .npc flag #npcflag\r\n\r\nSet the NPC flags of creature template of the selected creature and selected creature to #npcflag. NPC flags will applied to all creatures of selected creature template after server restart or grid unload/load."
+		},
+		{
+			"name": "learn all_default",
+			"security": 1,
+			"help": "Syntax: .learn all_default [$playername]\r\n\r\nLearn for selected/$playername player all default spells for his race/class and spells rewarded by completed quests."
+		},
+		{
+			"name": "npc playemote",
+			"security": 3,
+			"help": "Syntax: .npc playemote #emoteid\r\n\r\nMake the selected creature emote with an emote of id #emoteid."
+		},
+		{
+			"name": "modify rep",
+			"security": 2,
+			"help": "Syntax: .modify rep #repId (#repvalue | $rankname [#delta])\r\nSets the selected players reputation with faction #repId to #repvalue or to $reprank.\r\nIf the reputation rank name is provided, the resulting reputation will be the lowest reputation for that rank plus the delta amount, if specified.\r\nYou can use '.pinfo rep' to list all known reputation ids, or use '.lookup faction $name' to locate a specific faction id."
+		},
+		{
+			"name": "modify honor",
+			"security": 1,
+			"help": "Syntax: .modify honor $amount\r\n\r\nAdd $amount honor points to the selected player."
+		},
+		{
+			"name": "lookup faction",
+			"security": 3,
+			"help": "Syntax: .lookup faction $name\r\nAttempts to find the ID of the faction with the provided $name."
+		},
+		{
+			"name": "npc addweapon",
+			"security": 3,
+			"help": "Not yet implemented."
+		},
+		{
+			"name": "list object",
+			"security": 3,
+			"help": "Syntax: .list object #gameobject_id [#max_count]\r\n\r\nOutput gameobjects with gameobject id #gameobject_id found in world. Output gameobject guids and coordinates sorted by distance from character. Will be output maximum #max_count gameobject. If #max_count not provided use 10 as default value."
+		},
+		{
+			"name": "reset all",
+			"security": 3,
+			"help": "Syntax: .reset all spells\r\n\r\nSyntax: .reset all talents\r\n\r\nRequest reset spells or talents at next login each existed character."
+		},
+		{
+			"name": "gobject target",
+			"security": 2,
+			"help": "Syntax: .gobject target [#go_id|#go_name_part]\r\n\r\nLocate and show position nearest gameobject. If #go_id or #go_name_part provide then locate and show position of nearest gameobject with gameobject template id #go_id or name included #go_name_part as part."
+		},
+		{
+			"name": "tele add",
+			"security": 3,
+			"help": "Syntax: .tele add $name\r\n\r\nAdd current your position to .tele command target locations list with name $name."
+		},
+		{
+			"name": "tele del",
+			"security": 3,
+			"help": "Syntax: .tele del $name\r\n\r\nRemove location with name $name for .tele command locations list."
+		},
+		{
+			"name": "tele group",
+			"security": 1,
+			"help": "Syntax: .tele group#location\r\n\r\nTeleport a selected player and his group members to a given location."
+		},
+		{
+			"name": "baninfo character",
+			"security": 3,
+			"help": "Syntax: .baninfo character $charactername \r\nWatch full information about a specific ban."
+		},
+		{
+			"name": "damage",
+			"security": 3,
+			"help": "Syntax: .damage $damage_amount [$school [$spellid]]\r\n\r\nApply $damage to target. If not $school and $spellid provided then this flat clean melee damage without any modifiers. If $school provided then damage modified by armor reduction (if school physical), and target absorbing modifiers and result applied as melee damage to target. If spell provided then damage modified and applied as spell damage. $spellid can be shift-link."
+		},
+		{
+			"name": "wp export",
+			"security": 3,
+			"help": "Syntax: .wp export [#creature_guid or Select a Creature] $filename"
+		},
+		{
+			"name": "lookup event",
+			"security": 2,
+			"help": "Syntax: .lookup event $name\r\nAttempts to find the ID of the event with the provided $name."
+		},
+		{
+			"name": "event",
+			"security": 2,
+			"help": "Syntax: .event #event_id\r\nShow details about event with #event_id."
+		},
+		{
+			"name": "event list",
+			"security": 2,
+			"help": "Syntax: .event list\r\nShow list of currently active events.\r\nShow list of all events"
+		},
+		{
+			"name": "event start",
+			"security": 2,
+			"help": "Syntax: .event start #event_id\r\nStart event #event_id. Set start time for event to current moment (change not saved in DB)."
+		},
+		{
+			"name": "event stop",
+			"security": 2,
+			"help": "Syntax: .event stop #event_id\r\nStop event #event_id. Set start time for event to time in past that make current moment is event stop time (change not saved in DB)."
+		},
+		{
+			"name": "combatstop",
+			"security": 2,
+			"help": "Syntax: .combatstop [$playername]\r\nStop combat for selected character. If selected non-player then command applied to self. If $playername provided then attempt applied to online player $playername."
+		},
+		{
+			"name": "quest complete",
+			"security": 3,
+			"help": "Syntax: .quest complete #questid\r\nMark all quest objectives as completed for target character active quest. After this target character can go and get quest reward."
+		},
+		{
+			"name": "cast self",
+			"security": 3,
+			"help": "Syntax: .cast self #spellid [triggered]\r\nCast #spellid by target at target itself. If 'trigered' or part provided then spell casted with triggered flag."
+		},
+		{
+			"name": "cast target",
+			"security": 3,
+			"help": "Syntax: .cast target #spellid [triggered]\r\n  Selected target will cast #spellid to his victim. If 'trigered' or part provided then spell casted with triggered flag."
+		},
+		{
+			"name": "instance unbind",
+			"security": 3,
+			"help": "Syntax: .instance unbind all\r\n  All of the selected\nplayer's binds will be cleared.\r\n.instance unbind #mapid\r\n Only the\nspecified #mapid instance will be cleared."
+		},
+		{
+			"name": "instance listbinds",
+			"security": 3,
+			"help": "Syntax: .instance listbinds\r\n  Lists the binds of the selected player."
+		},
+		{
+			"name": "instance stats",
+			"security": 3,
+			"help": "Syntax: .instance stats\r\n  Shows statistics about instances."
+		},
+		{
+			"name": "instance savedata",
+			"security": 3,
+			"help": "Syntax: .instance savedata\r\n  Save the InstanceData for the current player's map to the DB."
+		},
+		{
+			"name": "learn all_recipes",
+			"security": 2,
+			"help": "Syntax: .learn all_recipes [$profession]\r\rLearns all recipes of specified profession and sets skill level to max.\rExample: .learn all_recipes enchanting"
+		},
+		{
+			"name": "cast dist",
+			"security": 3,
+			"help": "Syntax: .cast dist #spellid [#dist [triggered]]\r\n  You will cast spell to pint at distance #dist. If 'trigered' or part provided then spell casted with triggered flag. Not all spells can be casted as area spells."
+		},
+		{
+			"name": "server idlerestart",
+			"security": 3,
+			"help": "Syntax: .server idlerestart #delay\r\n\r\nRestart the server after #delay seconds if no active connections are present (no players). Use #exist_code or 2 as program exist code."
+		},
+		{
+			"name": "server idlerestart cancel",
+			"security": 3,
+			"help": "Syntax: .server idlerestart cancel\r\n\r\nCancel the restart/shutdown timer if any."
+		},
+		{
+			"name": "reload config",
+			"security": 3,
+			"help": "Syntax: .reload config\r\n\r\nReload config settings (by default stored in mangosd.conf). Not all settings can be change at reload: some new setting values will be ignored until restart, some values will applied with delay or only to new objects/maps, some values will explicitly rejected to change at reload."
+		},
+		{
+			"name": "modify money",
+			"security": 1,
+			"help": "Syntax: .modify money #money\r\n.money #money\r\n\r\nAdd or remove money to the selected player. If no player is selected, modify your money.\r\n\r\n #gold can be negative to remove money."
+		},
+		{
+			"name": "lookup account ip",
+			"security": 2,
+			"help": "Syntax: lookup account ip $ippart [#limit] \r\n\r\n Searchs accounts, which last used ip inluding $ippart (textual) with optional parametr #$limit of results. If #limit not provided expected 100."
+		},
+		{
+			"name": "lookup account email",
+			"security": 2,
+			"help": "Syntax: .lookup account email $emailpart [#limit] \r\n\r\n Searchs accounts, which email including $emailpart with optional parametr #limit of results. If #limit not provided expected 100."
+		},
+		{
+			"name": "gm chat",
+			"security": 1,
+			"help": "Syntax: .gm chat [on/off]\r\n\r\nEnable or disable chat GM MODE (show gm badge in messages) or show current state of on/off not provided."
+		},
+		{
+			"name": "reload all_locales",
+			"security": 3,
+			"help": "Syntax: .reload all_locales\r\n\r\nReload all `locales_*` tables with reload support added and that can be _safe_ reloaded."
+		},
+		{
+			"name": "account onlinelist",
+			"security": 4,
+			"help": "Syntax: .account onlinelist\r\n\r\nShow list of online accounts."
+		},
+		{
+			"name": "reset spells",
+			"security": 3,
+			"help": "Syntax: .reset spells [Playername]\r\n  Removes all non-original spells from spellbook.\r\n. Playername can be name of offline character."
+		},
+		{
+			"name": "account characters",
+			"security": 3,
+			"help": "Syntax: .account characters [#accountId|$accountName]\r\n\r\nShow list all characters for account selected by provided #accountId or $accountName, or for selected player in game."
+		},
+		{
+			"name": "account set addon",
+			"security": 3,
+			"help": "Syntax: .account set addon [#accountId|$accountName] #addon\r\n\r\nSet user (possible targeted) expansion addon level allowed. Addon values: 0 - normal, 1 - tbc, 2 - wotlk."
+		},
+		{
+			"name": "gm list",
+			"security": 3,
+			"help": "Syntax: .gm list\r\n\r\nDisplay a list of all Game Masters accounts and security levels."
+		},
+		{
+			"name": "reset level",
+			"security": 3,
+			"help": "Syntax: .reset level [Playername]\r\n  Reset level to 1 including reset stats and talents.  Equipped items with greater level requirement can be lost."
+		},
+		{
+			"name": "server corpses",
+			"security": 2,
+			"help": "Syntax: .server corpses\r\n\r\nTriggering corpses expire check in world."
+		},
+		{
+			"name": "server restart",
+			"security": 3,
+			"help": "Syntax: .server restart #delay\r\n\r\nRestart the server after #delay seconds. Use #exist_code or 2 as program exist code."
+		},
+		{
+			"name": "server motd",
+			"security": 0,
+			"help": "Syntax: .server motd\r\n\r\nShow server Message of the day."
+		},
+		{
+			"name": "server log filter",
+			"security": 4,
+			"help": "Syntax: .server log filter [($filtername|all) (on|off)]\r\n\r\nShow or set server log filters. If used \"all\" then all filters will be set to on/off state."
+		},
+		{
+			"name": "server set motd",
+			"security": 3,
+			"help": "Syntax: .server set motd $MOTD\r\n\r\nSet server Message of the day."
+		},
+		{
+			"name": "pdump load",
+			"security": 3,
+			"help": "Syntax: .pdump load $filename $account [$newname] [$newguid]\r\nLoad character dump from dump file into character list of $account with saved or $newname, with saved (or first free) or $newguid guid."
+		},
+		{
+			"name": "pdump write",
+			"security": 3,
+			"help": "Syntax: .pdump write $filename $playerNameOrGUID\r\nWrite character dump with name/guid $playerNameOrGUID to file $filename."
+		},
+		{
+			"name": "character titles",
+			"security": 2,
+			"help": "Syntax: .character titles [$player_name]\r\n\r\nShow known titles list for selected player or player find by $player_name."
+		},
+		{
+			"name": "modify speed",
+			"security": 1,
+			"help": "Syntax: .modify speed #rate\r\n.speed #rate\r\n\r\nModify the running speed of the selected player to \"normal base run speed\"*rate. If no player is selected, modify your speed.\r\n\r\n #rate may range from 0.1 to 10."
+		},
+		{
+			"name": "ban account",
+			"security": 3,
+			"help": "Syntax: .ban account $Name $bantime $reason\r\nBan account kick player.\r\n$bantime: negative value leads to permban, otherwise use a timestring like \"4d20h3s\"."
+		},
+		{
+			"name": "account set gmlevel",
+			"security": 4,
+			"help": "Syntax: .account set gmlevel [#accountId|$accountName] #level\r\n\r\nSet the security level for targeted player (can't be used at self) or for #accountId or $accountName to a level of #level.\r\n\r\n#level may range from 0 to 3."
+		},
+		{
+			"name": "banlist account",
+			"security": 3,
+			"help": "Syntax: .banlist account [$Name]\r\nSearches the banlist for a account name pattern or show full list account bans."
+		},
+		{
+			"name": "banlist character",
+			"security": 3,
+			"help": "Syntax: .banlist character $Name\r\nSearches the banlist for a character name pattern. Pattern required."
+		},
+		{
+			"name": "repairitems",
+			"security": 2,
+			"help": "Syntax: .repairitems\r\n\r\nRepair all selected player's items."
+		},
+		{
+			"name": "npc follow",
+			"security": 2,
+			"help": "Syntax: .npc follow\r\n\r\nSelected creature start follow you until death/fight/etc."
+		},
+		{
+			"name": "npc unfollow",
+			"security": 2,
+			"help": "Syntax: .npc unfollow\r\n\r\nSelected creature (non pet) stop follow you."
+		},
+		{
+			"name": "waterwalk",
+			"security": 2,
+			"help": "Syntax: .waterwalk on/off\r\n\r\nSet on/off waterwalk state for selected player."
+		},
+		{
+			"name": "npc tame",
+			"security": 2,
+			"help": "Syntax: .npc tame\r\n\r\nTame selected creature (tameable non pet creature). You don't must have pet."
+		},
+		{
+			"name": "modify gender",
+			"security": 2,
+			"help": "Syntax: .modify gender male/female\r\n\r\nChange gender of selected player."
+		},
+		{
+			"name": "send items",
+			"security": 3,
+			"help": "Syntax: .send items #playername \"#subject\" \"#text\" itemid1[:count1] itemid2[:count2] ... itemidN[:countN]\r\n\r\nSend a mail to a player. Subject and mail text must be in \"\". If for itemid not provided related count values then expected 1, if count > max items in stack then items will be send in required amount stacks. All stacks amount in mail limited to 12."
+		},
+		{
+			"name": "server restart cancel",
+			"security": 3,
+			"help": "Syntax: .server restart cancel\r\n\r\nCancel the restart/shutdown timer if any."
+		},
+		{
+			"name": "server shutdown",
+			"security": 3,
+			"help": "Syntax: .server shutdown #delay [#exit_code]\r\n\r\nShut the server down after #delay seconds. Use #exit_code or 0 as program exit code."
+		},
+		{
+			"name": "server shutdown cancel",
+			"security": 3,
+			"help": "Syntax: .server shutdown cancel\r\n\r\nCancel the restart/shutdown timer if any."
+		},
+		{
+			"name": "flusharenapoints",
+			"security": 3,
+			"help": "Syntax: .flusharenapoints\r\n\r\nUse it to distribute arena points based on arena team ratings, and start a new week."
+		},
+		{
+			"name": "debug arena",
+			"security": 3,
+			"help": "Syntax: .debug arena\r\n\r\nToggle debug mode for arenas. In debug mode GM can start arena with single player."
+		},
+		{
+			"name": "debug bg",
+			"security": 3,
+			"help": "Syntax: .debug bg\r\n\r\nToggle debug mode for battlegrounds. In debug mode GM can start battleground with single player."
+		},
+		{
+			"name": "npc setdeathstate",
+			"security": 2,
+			"help": "Syntax: .npc setdeathstate on/off\r\n\r\nSet default death state (dead/alive) for npc at spawn."
+		},
+		{
+			"name": "reset stats",
+			"security": 3,
+			"help": "Syntax: .reset stats [Playername]\r\n  Resets(recalculate) all stats of the targeted player to their original VALUESat current level."
+		},
+		{
+			"name": "reset talents",
+			"security": 3,
+			"help": "Syntax: .reset talents [Playername]\r\n  Removes all talents of the targeted player. Playername can be name of offline character."
+		},
+		{
+			"name": "unban account",
+			"security": 3,
+			"help": "Syntax: .unban account $Name\r\nUnban accounts for account name pattern."
+		},
+		{
+			"name": "unban character",
+			"security": 3,
+			"help": "Syntax: .unban character $Name\r\nUnban accounts for character name pattern."
+		},
+		{
+			"name": "unban ip",
+			"security": 3,
+			"help": "Syntax : .unban ip $Ip\r\nUnban accounts for IP pattern."
+		},
+		{
+			"name": "npc textemote",
+			"security": 1,
+			"help": "Syntax: .npc textemote #emoteid\r\n\r\nMake the selected creature to do textemote with an emote of id #emoteid."
+		},
+		{
+			"name": "character erase",
+			"security": 4,
+			"help": "Syntax: .character erase $name\r\n\r\nDelete character $name. Character finally deleted in case any deleting options."
+		},
+		{
+			"name": "character rename",
+			"security": 2,
+			"help": "Syntax: .character rename [$name]\r\n\r\nMark selected in game or by $name in command character for rename at next login."
+		},
+		{
+			"name": "character level",
+			"security": 3,
+			"help": "Syntax: .character level [$playername] [#level]\r\n\r\nSet the level of character with $playername (or the selected if not name provided) by #numberoflevels Or +1 if no #numberoflevels provided). If #numberoflevels is omitted, the level will be increase by 1. If #numberoflevels is 0, the same level will be restarted. If no character is selected and name not provided, increase your level. Command can be used for offline character. All stats and dependent values recalculated. At level decrease talents can be reset if need. Also at level decrease equipped items with greater level requirement can be lost."
+		},
+		{
+			"name": "go taxinode",
+			"security": 1,
+			"help": "Syntax: .go taxinode #taxinode\r\n\r\nTeleport player to taxinode coordinates. You can look up zone using .lookup taxinode $namepart"
+		},
+		{
+			"name": "lookup taxinode",
+			"security": 3,
+			"help": "Syntax: .lookup taxinode $substring\r\n\r\nSearch and output all taxinodes with provide $substring in name."
+		},
+		{
+			"name": "namego",
+			"security": 1,
+			"help": "Syntax: .namego [$charactername]\r\n\r\nTeleport the given character to you. Character can be offline."
+		},
+		{
+			"name": "tele name",
+			"security": 1,
+			"help": "Syntax: .tele name [#playername] #location\r\n\r\nTeleport the given character to a given location. Character can be offline."
+		},
+		{
+			"name": "unmute",
+			"security": 1,
+			"help": "Syntax: .unmute [$playerName]\r\n\r\nRestore chat messaging for any character from account of character $playerName (or selected). Character can be ofline."
+		},
+		{
+			"name": "guild delete",
+			"security": 2,
+			"help": "Syntax: .guild delete \"$GuildName\"\r\n\r\nDelete guild $GuildName. Guild name must in quotes."
+		},
+		{
+			"name": "titles add",
+			"security": 2,
+			"help": "Syntax: .titles add #title\r\nAdd title #title (id or shift-link) to known titles list for selected player."
+		},
+		{
+			"name": "titles current",
+			"security": 2,
+			"help": "Syntax: .titles current #title\r\nSet title #title (id or shift-link) as current selected titl for selected player. If title not in known title list for player then it will be added to list."
+		},
+		{
+			"name": "titles remove",
+			"security": 2,
+			"help": "Syntax: .titles remove #title\r\nRemove title #title (id or shift-link) from known titles list for selected player."
+		},
+		{
+			"name": "titles setmask",
+			"security": 2,
+			"help": "Syntax: .titles setmask #mask\r\n\r\nAllows user to use all titles from #mask.\r\n\r\n #mask=0 disables the title-choose-field"
+		},
+		{
+			"name": "lookup title",
+			"security": 2,
+			"help": "Syntax: .lookup title $$namepart\r\n\r\nLooks up a title by $namepart, and returns all matches with their title ID's and index's."
+		},
+		{
+			"name": "quit",
+			"security": 4,
+			"help": "Syntax: quit\r\n\r\nClose RA connection. Command must be typed fully (quit)."
+		},
+		{
+			"name": "modify fly",
+			"security": 1,
+			"help": "Syntax: .modify fly #rate\r\n.fly #rate\r\n\r\nModify the flying speed of the selected player to \"normal base fly speed\"*rate. If no player is selected, modify your fly.\r\n\r\n #rate may range from 0.1 to 10."
+		},
+		{
+			"name": "npc say",
+			"security": 1,
+			"help": "Syntax: .npc say #text\r\nMake the selected npc says #text."
+		},
+		{
+			"name": "npc yell",
+			"security": 1,
+			"help": "Syntax: .npc yell #text\r\nMake the selected npc yells #text."
+		},
+		{
+			"name": "reload all_eventai",
+			"security": 3,
+			"help": "Syntax: .reload all_eventai\r\n\r\nReload `creature_ai_*` tables if reload support added for these tables and these tables can be _safe_ reloaded."
+		},
+		{
+			"name": "reload all_item",
+			"security": 3,
+			"help": "Syntax: .reload all_item\r\n\r\nReload `item_required_target`, `page_texts` and `item_enchantment_template` tables."
+		},
+		{
+			"name": "reload all_npc",
+			"security": 3,
+			"help": "Syntax: .reload all_npc\r\n\r\nReload `points_of_interest` and `npc_*` tables if reload support added for these tables and these tables can be _safe_ reloaded."
+		},
+		{
+			"name": "reload all_scripts",
+			"security": 3,
+			"help": "Syntax: .reload all_scripts\r\n\r\nReload `dbscripts_on_*` tables."
+		},
+		{
+			"name": "list talents",
+			"security": 3,
+			"help": "Syntax: .list talents\r\n\r\nShow list all really known (as learned spells) talent rank spells for selected player or self."
+		},
+		{
+			"name": "character deleted old",
+			"security": 4,
+			"help": "Syntax: .character deleted old [#keepDays]\r\n\r\nCompletely deletes all characters with deleted time longer #keepDays. If #keepDays not provided the  used value from mangosd.conf option 'CharDelete.KeepDays'. If referenced config option disabled (use 0 value) then command can't be used without #keepDays."
+		},
+		{
+			"name": "character deleted delete",
+			"security": 4,
+			"help": "Syntax: .character deleted delete #guid|$name\r\n\r\nCompletely deletes the selected characters.\r\nIf $name is supplied, only characters with that string in their name will be deleted, if #guid is supplied, only the character with that GUID will be deleted."
+		},
+		{
+			"name": "character deleted list",
+			"security": 3,
+			"help": "Syntax: .character deleted list [#guid|$name]\r\n\r\nShows a list with all deleted characters.\r\nIf $name is supplied, only characters with that string in their name will be selected, if #guid is supplied, only the character with that GUID will be selected."
+		},
+		{
+			"name": "character deleted restore",
+			"security": 3,
+			"help": "Syntax: .character deleted restore #guid|$name [$newname] [#new account]\r\n\r\nRestores deleted characters.\r\nIf $name is supplied, only characters with that string in their name will be restored, if $guid is supplied, only the character with that GUID will be restored.\r\nIf $newname is set, the character will be restored with that name instead of the original one. If #newaccount is set, the character will be restored to specific account character list. This works only with one character!"
+		},
+		{
+			"name": "account set password",
+			"security": 4,
+			"help": "Syntax: .account set password (#accountId|$accountName) $password $password\r\n\r\nSet password for account."
+		},
+		{
+			"name": "lookup account name",
+			"security": 2,
+			"help": "Syntax: .lookup account name $accountpart [#limit] \r\n\r\n Searchs accounts, which username including $accountpart with optional parametr #limit of results. If #limit not provided expected 100."
+		},
+		{
+			"name": "lookup player account",
+			"security": 2,
+			"help": "Syntax: .lookup player account $accountpart [#limit] \r\n\r\n Searchs players, which account username including $accountpart with optional parametr #limit of results. If #limit not provided expected 100."
+		},
+		{
+			"name": "lookup player email",
+			"security": 2,
+			"help": "Syntax: .lookup player email $emailpart [#limit] \r\n\r\n Searchs players, which account email including $emailpart with optional parametr #limit of results. If #limit not provided expected 100."
+		},
+		{
+			"name": "lookup player ip",
+			"security": 2,
+			"help": "Syntax: .lookup player ip $ippart [#limit] \r\n\r\n Searchs players, which account last used ip inluding $ippart (textual) with optional parametr #limit of results. If #limit not provided expected 100."
+		},
+		{
+			"name": "server log level",
+			"security": 4,
+			"help": "Syntax: .server log level [#level]\r\n\r\nShow or set server log level (0 - errors only, 1 - basic, 2 - detail, 3 - debug)."
+		},
+		{
+			"name": "go object",
+			"security": 1,
+			"help": "Syntax: .go object (#gameobject_guid|$gameobject_name|id #gameobject_id)\r\nTeleport your character to gameobject with guid #gameobject_guid, or teleport your character to gameobject with name including as part $gameobject_name substring, or teleport your character to a gameobject that was spawned from the template with this entry #gameobject_id."
+		},
+		{
+			"name": "auction",
+			"security": 3,
+			"help": "Syntax: .auction\r\n\r\nShow your team auction store."
+		},
+		{
+			"name": "auction alliance",
+			"security": 3,
+			"help": "Syntax: .auction alliance\r\n\r\nShow alliance auction store independent from your team."
+		},
+		{
+			"name": "auction goblin",
+			"security": 3,
+			"help": "Syntax: .auction goblin\r\n\r\nShow goblin auction store common for all teams."
+		},
+		{
+			"name": "auction horde",
+			"security": 3,
+			"help": "Syntax: .auction horde\r\n\r\nShow horde auction store independent from your team."
+		},
+		{
+			"name": "trigger",
+			"security": 2,
+			"help": "Syntax: .trigger [#trigger_id|$trigger_shift-link|$trigger_target_shift-link]\r\n\r\nShow detail infor about areatrigger with id #trigger_id or trigger id associated with shift-link. If areatrigger id or shift-link not provided then selected nearest areatrigger at current map."
+		},
+		{
+			"name": "go trigger",
+			"security": 1,
+			"help": "Syntax: .go trigger (#trigger_id|$trigger_shift-link|$trigger_target_shift-link) [target]\r\n\r\nTeleport your character to areatrigger with id #trigger_id or trigger id associated with shift-link. If additional arg \"target\" provided then character will teleported to areatrigger target point."
+		},
+		{
+			"name": "trigger near",
+			"security": 2,
+			"help": "Syntax: .trigger near [#distance]\r\n\r\nOutput areatriggers at distance #distance from player. If #distance not provided use 10 as default value."
+		},
+		{
+			"name": "debug modvalue",
+			"security": 3,
+			"help": "Syntax: .debug modvalue #field [int|float| &= | |= | &=~ ] #value\r\n\r\nModify the field #field of the selected target by value #value. If no target is selected, set the content of your field.\r\n\r\nUse type arg for set mode of modification: int (normal add/subtract #value as decimal number), float (add/subtract #value as float number), &= (bit and, set to 0 all bits in value if it not set to 1 in #value as hex number), |= (bit or, set to 1 all bits in value if it set to 1 in #value as hex number), &=~ (bit and not, set to 0 all bits in value if it set to 1 in #value as hex number). By default expect integer add/subtract."
+		},
+		{
+			"name": "debug setitemvalue",
+			"security": 3,
+			"help": "Syntax: .debug setitemvalue #guid #field [int|hex|bit|float] #value\r\n\r\nSet the field #field of the item #itemguid in your inventroy to value #value.\r\n\r\nUse type arg for set input format: int (decimal number), hex (hex value), bit (bitstring), float. By default expect integer input format."
+		},
+		{
+			"name": "debug setvalue",
+			"security": 3,
+			"help": "Syntax: .debug setvalue #field [int|hex|bit|float] #value\r\n\r\nSet the field #field of the selected target to value #value. If no target is selected, set the content of your field.\r\n\r\nUse type arg for set input format: int (decimal number), hex (hex value), bit (bitstring), float. By default expect integer input format."
+		},
+		{
+			"name": "debug spellmods",
+			"security": 3,
+			"help": "Syntax: .debug spellmods (flat|pct) #spellMaskBitIndex #spellModOp #value\r\n\r\nSet at client side spellmod affect for spell that have bit set with index #spellMaskBitIndex in spell family mask for values dependent from spellmod #spellModOp to #value."
+		},
+		{
+			"name": "send mass items",
+			"security": 3,
+			"help": "Syntax: .send mass items #racemask|$racename|alliance|horde|all \"#subject\" \"#text\" itemid1[:count1] itemid2[:count2] ... itemidN[:countN]\r\n\r\nSend a mail to players. Subject and mail text must be in \"\". If for itemid not provided related count values then expected 1, if count > max items in stack then items will be send in required amount stacks. All stacks amount in mail limited to 12."
+		},
+		{
+			"name": "send mass mail",
+			"security": 3,
+			"help": "Syntax: .send mass mail #racemask|$racename|alliance|horde|all \"#subject\" \"#text\"\r\n\r\nSend a mail to players. Subject and mail text must be in \"\"."
+		},
+		{
+			"name": "send mass money",
+			"security": 3,
+			"help": "Syntax: .send mass money #racemask|$racename|alliance|horde|all \"#subject\" \"#text\" #money\r\n\r\nSend mail with money to players. Subject and mail text must be in \"\"."
+		},
+		{
+			"name": "gm setview",
+			"security": 1,
+			"help": "Syntax: .gm setview\r\n\r\nSet farsight view on selected unit. Select yourself to set view back."
+		},
+		{
+			"name": "lookup pool",
+			"security": 2,
+			"help": "Syntax: .lookup pool $pooldescpart\r\n\r\nList of pools (anywhere) with substring in description."
+		},
+		{
+			"name": "pool list",
+			"security": 2,
+			"help": "Syntax: .pool list\r\n\r\nList of pools with spawn in current map (only work in instances. Non-instanceable maps share pool system state os useless attempt get all pols at all continents."
+		},
+		{
+			"name": "pool spawns",
+			"security": 2,
+			"help": "Syntax: .pool spawns #pool_id\r\n\r\nList current creatures/objects listed in pools (or in specific #pool_id) and spawned (added to grid data, not meaning show in world."
+		},
+		{
+			"name": "pool",
+			"security": 2,
+			"help": "Syntax: .pool #pool_id\r\n\r\nPool information and full list creatures/gameobjects included in pool."
+		},
+		{
+			"name": "debug spellcoefs",
+			"security": 3,
+			"help": "Syntax: .debug spellcoefs #spellid\r\n\r\nShow default calculated and DB stored coefficients for direct/dot heal/damage."
+		},
+		{
+			"name": "npc aiinfo",
+			"security": 2,
+			"help": "Syntax: .npc npc aiinfo\r\n\r\nShow npc AI and script information."
+		},
+		{
+			"name": "auction item",
+			"security": 3,
+			"help": "Syntax: .auction item (alliance|horde|goblin) #itemid[:#itemcount] [[[#minbid] #buyout] [short|long|verylong]\r\n\r\nAdd new item (in many stackes if amount grater stack size) to specific auction house at short|long|verylogn perios similar same settings in auction in game dialog. Created auction not have owner."
+		},
+		{
+			"name": "ahbot items amount",
+			"security": 3,
+			"help": "Syntax: .ahbot items amount $GreyItems $WhiteItems $GreenItems $BlueItems $PurpleItems $OrangeItems $YellowItems\r\n\r\nSet amount of each items color be selled on auction."
+		},
+		{
+			"name": "ahbot items amount grey",
+			"security": 3,
+			"help": "Syntax: .ahbot items amount grey $GreyItems\r\n\r\nSet amount of Grey color items be selled on auction."
+		},
+		{
+			"name": "ahbot items amount white",
+			"security": 3,
+			"help": "Syntax: .ahbot items amount white $WhiteItems\r\n\r\nSet amount of White color items be selled on auction."
+		},
+		{
+			"name": "ahbot items amount green",
+			"security": 3,
+			"help": "Syntax: .ahbot items amount green $GreenItems\r\n\r\nSet amount of Green color items be selled on auction."
+		},
+		{
+			"name": "ahbot items amount blue",
+			"security": 3,
+			"help": "Syntax: .ahbot items amount blue $BlueItems\r\n\r\nSet amount of Blue color items be selled on auction."
+		},
+		{
+			"name": "ahbot items amount purple",
+			"security": 3,
+			"help": "Syntax: .ahbot items amount purple $PurpleItems\r\n\r\nSet amount of Purple color items be selled on auction."
+		},
+		{
+			"name": "ahbot items amount orange",
+			"security": 3,
+			"help": "Syntax: .ahbot items amount orange $OrangeItems\r\n\r\nSet amount of Orange color items be selled on auction."
+		},
+		{
+			"name": "ahbot items amount yellow",
+			"security": 3,
+			"help": "Syntax: .ahbot items amount yellow $YellowItems\r\n\r\nSet amount of Yellow color items be selled on auction."
+		},
+		{
+			"name": "ahbot items ratio",
+			"security": 3,
+			"help": "Syntax: .ahbot items ratio $allianceratio $horderatio $neutralratio\r\n\r\nSet ratio of items in 3 auctions house."
+		},
+		{
+			"name": "ahbot items ratio alliance",
+			"security": 3,
+			"help": "Syntax: .ahbot items ratio alliance $allianceratio\r\n\r\nSet ratio of items in alliance auction house."
+		},
+		{
+			"name": "ahbot items ratio horde",
+			"security": 3,
+			"help": "Syntax: .ahbot items ratio horde $horderatio\r\n\r\nSet ratio of items in horde auction house."
+		},
+		{
+			"name": "ahbot items ratio neutral",
+			"security": 3,
+			"help": "Syntax: .ahbot items ratio neutral $neutralratio\r\n\r\nSet ratio of items in $neutral auction house."
+		},
+		{
+			"name": "ahbot rebuild",
+			"security": 3,
+			"help": "Syntax: .ahbot rebuild [all]\r\n\r\nExpire all actual auction of ahbot except bided by player. Binded auctions included to expire if \"all\" option used. Ahbot re-fill auctions base at current settings then."
+		},
+		{
+			"name": "ahbot reload",
+			"security": 3,
+			"help": "Syntax: .ahbot reload\r\n\r\nReload AHBot settings from configuration file."
+		},
+		{
+			"name": "ahbot status",
+			"security": 3,
+			"help": "Syntax: .ahbot status [all]\r\n\r\nShow current ahbot state data in short form, and with \"all\" with details."
+		}
+	]
+}

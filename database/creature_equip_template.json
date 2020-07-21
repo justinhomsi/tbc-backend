@@ -1,0 +1,3576 @@
+{
+	"table": "creature_equip_template",
+	"rows":
+	[
+		{
+			"entry": 5258,
+			"equipentry1": 10617,
+			"equipentry2": 12861,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5257,
+			"equipentry1": 1904,
+			"equipentry2": 0,
+			"equipentry3": 2551
+		},
+		{
+			"entry": 5256,
+			"equipentry1": 14882,
+			"equipentry2": 20417,
+			"equipentry3": 5261
+		},
+		{
+			"entry": 5255,
+			"equipentry1": 1904,
+			"equipentry2": 0,
+			"equipentry3": 5260
+		},
+		{
+			"entry": 5254,
+			"equipentry1": 1904,
+			"equipentry2": 0,
+			"equipentry3": 5258
+		},
+		{
+			"entry": 5253,
+			"equipentry1": 1904,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5252,
+			"equipentry1": 14870,
+			"equipentry2": 0,
+			"equipentry3": 2552
+		},
+		{
+			"entry": 5251,
+			"equipentry1": 1905,
+			"equipentry2": 1905,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5250,
+			"equipentry1": 13607,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5249,
+			"equipentry1": 6256,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5248,
+			"equipentry1": 12944,
+			"equipentry2": 12944,
+			"equipentry3": 13147
+		},
+		{
+			"entry": 5247,
+			"equipentry1": 5598,
+			"equipentry2": 0,
+			"equipentry3": 13147
+		},
+		{
+			"entry": 5246,
+			"equipentry1": 13707,
+			"equipentry2": 13319,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5245,
+			"equipentry1": 1905,
+			"equipentry2": 0,
+			"equipentry3": 5258
+		},
+		{
+			"entry": 5244,
+			"equipentry1": 5598,
+			"equipentry2": 0,
+			"equipentry3": 13147
+		},
+		{
+			"entry": 5243,
+			"equipentry1": 8226,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5242,
+			"equipentry1": 1905,
+			"equipentry2": 2052,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5241,
+			"equipentry1": 1905,
+			"equipentry2": 1985,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5240,
+			"equipentry1": 10611,
+			"equipentry2": 13609,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5239,
+			"equipentry1": 1905,
+			"equipentry2": 1957,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5238,
+			"equipentry1": 1905,
+			"equipentry2": 0,
+			"equipentry3": 5856
+		},
+		{
+			"entry": 5237,
+			"equipentry1": 0,
+			"equipentry2": 0,
+			"equipentry3": 16582
+		},
+		{
+			"entry": 5236,
+			"equipentry1": 1905,
+			"equipentry2": 0,
+			"equipentry3": 2551
+		},
+		{
+			"entry": 5235,
+			"equipentry1": 1905,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5234,
+			"equipentry1": 2183,
+			"equipentry2": 12893,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5233,
+			"equipentry1": 2183,
+			"equipentry2": 5286,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5232,
+			"equipentry1": 2809,
+			"equipentry2": 2809,
+			"equipentry3": 5259
+		},
+		{
+			"entry": 5231,
+			"equipentry1": 17123,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5230,
+			"equipentry1": 5746,
+			"equipentry2": 13609,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5229,
+			"equipentry1": 2183,
+			"equipentry2": 1984,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5228,
+			"equipentry1": 2147,
+			"equipentry2": 2147,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5227,
+			"equipentry1": 2183,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5226,
+			"equipentry1": 12786,
+			"equipentry2": 12786,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5225,
+			"equipentry1": 13312,
+			"equipentry2": 13312,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5224,
+			"equipentry1": 1909,
+			"equipentry2": 5286,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5223,
+			"equipentry1": 10612,
+			"equipentry2": 12456,
+			"equipentry3": 14642
+		},
+		{
+			"entry": 5222,
+			"equipentry1": 12786,
+			"equipentry2": 12861,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5221,
+			"equipentry1": 13222,
+			"equipentry2": 12861,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5220,
+			"equipentry1": 1909,
+			"equipentry2": 2053,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5219,
+			"equipentry1": 1909,
+			"equipentry2": 2052,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5218,
+			"equipentry1": 1899,
+			"equipentry2": 11041,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5217,
+			"equipentry1": 12629,
+			"equipentry2": 12629,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5216,
+			"equipentry1": 1909,
+			"equipentry2": 0,
+			"equipentry3": 2551
+		},
+		{
+			"entry": 5215,
+			"equipentry1": 1117,
+			"equipentry2": 13605,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5214,
+			"equipentry1": 1909,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5213,
+			"equipentry1": 2179,
+			"equipentry2": 1897,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5212,
+			"equipentry1": 2179,
+			"equipentry2": 2711,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5211,
+			"equipentry1": 2179,
+			"equipentry2": 2179,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5210,
+			"equipentry1": 2179,
+			"equipentry2": 2147,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5209,
+			"equipentry1": 12944,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5208,
+			"equipentry1": 5291,
+			"equipentry2": 11586,
+			"equipentry3": 2552
+		},
+		{
+			"entry": 5207,
+			"equipentry1": 10616,
+			"equipentry2": 0,
+			"equipentry3": 5259
+		},
+		{
+			"entry": 5206,
+			"equipentry1": 2179,
+			"equipentry2": 143,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5205,
+			"equipentry1": 2179,
+			"equipentry2": 2053,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5204,
+			"equipentry1": 2179,
+			"equipentry2": 1984,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5203,
+			"equipentry1": 0,
+			"equipentry2": 12857,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5202,
+			"equipentry1": 2179,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5201,
+			"equipentry1": 13721,
+			"equipentry2": 0,
+			"equipentry3": 5258
+		},
+		{
+			"entry": 5200,
+			"equipentry1": 2147,
+			"equipentry2": 0,
+			"equipentry3": 2550
+		},
+		{
+			"entry": 5199,
+			"equipentry1": 12593,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5198,
+			"equipentry1": 2147,
+			"equipentry2": 2081,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5197,
+			"equipentry1": 10615,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5196,
+			"equipentry1": 2147,
+			"equipentry2": 2053,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5195,
+			"equipentry1": 12290,
+			"equipentry2": 12456,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5194,
+			"equipentry1": 2147,
+			"equipentry2": 1984,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5193,
+			"equipentry1": 12294,
+			"equipentry2": 0,
+			"equipentry3": 5262
+		},
+		{
+			"entry": 5192,
+			"equipentry1": 2147,
+			"equipentry2": 0,
+			"equipentry3": 5259
+		},
+		{
+			"entry": 5191,
+			"equipentry1": 2147,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5190,
+			"equipentry1": 1911,
+			"equipentry2": 13610,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5189,
+			"equipentry1": 5293,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5188,
+			"equipentry1": 2901,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5187,
+			"equipentry1": 10611,
+			"equipentry2": 1957,
+			"equipentry3": 2552
+		},
+		{
+			"entry": 5186,
+			"equipentry1": 1910,
+			"equipentry2": 12745,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5185,
+			"equipentry1": 17283,
+			"equipentry2": 17282,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5184,
+			"equipentry1": 10619,
+			"equipentry2": 10619,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5183,
+			"equipentry1": 5285,
+			"equipentry2": 0,
+			"equipentry3": 5262
+		},
+		{
+			"entry": 5182,
+			"equipentry1": 6334,
+			"equipentry2": 1905,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5181,
+			"equipentry1": 5305,
+			"equipentry2": 1985,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5180,
+			"equipentry1": 1897,
+			"equipentry2": 0,
+			"equipentry3": 2552
+		},
+		{
+			"entry": 5179,
+			"equipentry1": 5285,
+			"equipentry2": 5285,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5178,
+			"equipentry1": 5285,
+			"equipentry2": 0,
+			"equipentry3": 5258
+		},
+		{
+			"entry": 5177,
+			"equipentry1": 5285,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5176,
+			"equipentry1": 3346,
+			"equipentry2": 13609,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5175,
+			"equipentry1": 5284,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5174,
+			"equipentry1": 5291,
+			"equipentry2": 2051,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5173,
+			"equipentry1": 5283,
+			"equipentry2": 5283,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5172,
+			"equipentry1": 2812,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5171,
+			"equipentry1": 5281,
+			"equipentry2": 13609,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5170,
+			"equipentry1": 5281,
+			"equipentry2": 1900,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5169,
+			"equipentry1": 5284,
+			"equipentry2": 0,
+			"equipentry3": 5259
+		},
+		{
+			"entry": 5168,
+			"equipentry1": 12787,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5167,
+			"equipentry1": 2827,
+			"equipentry2": 13407,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5166,
+			"equipentry1": 12290,
+			"equipentry2": 12452,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5165,
+			"equipentry1": 5286,
+			"equipentry2": 1905,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5164,
+			"equipentry1": 12183,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5163,
+			"equipentry1": 5281,
+			"equipentry2": 0,
+			"equipentry3": 5259
+		},
+		{
+			"entry": 5162,
+			"equipentry1": 1905,
+			"equipentry2": 0,
+			"equipentry3": 5870
+		},
+		{
+			"entry": 5161,
+			"equipentry1": 5281,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5160,
+			"equipentry1": 5285,
+			"equipentry2": 5281,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5159,
+			"equipentry1": 1909,
+			"equipentry2": 0,
+			"equipentry3": 5258
+		},
+		{
+			"entry": 5158,
+			"equipentry1": 1911,
+			"equipentry2": 13606,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5157,
+			"equipentry1": 3361,
+			"equipentry2": 2053,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5156,
+			"equipentry1": 5278,
+			"equipentry2": 19485,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5155,
+			"equipentry1": 1911,
+			"equipentry2": 13341,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5154,
+			"equipentry1": 1902,
+			"equipentry2": 0,
+			"equipentry3": 5870
+		},
+		{
+			"entry": 5153,
+			"equipentry1": 1905,
+			"equipentry2": 0,
+			"equipentry3": 5261
+		},
+		{
+			"entry": 5152,
+			"equipentry1": 12856,
+			"equipentry2": 2081,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5151,
+			"equipentry1": 2184,
+			"equipentry2": 12745,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5150,
+			"equipentry1": 2714,
+			"equipentry2": 3697,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5149,
+			"equipentry1": 5292,
+			"equipentry2": 0,
+			"equipentry3": 2552
+		},
+		{
+			"entry": 5148,
+			"equipentry1": 5286,
+			"equipentry2": 0,
+			"equipentry3": 5856
+		},
+		{
+			"entry": 5147,
+			"equipentry1": 5278,
+			"equipentry2": 0,
+			"equipentry3": 15460
+		},
+		{
+			"entry": 5146,
+			"equipentry1": 5278,
+			"equipentry2": 0,
+			"equipentry3": 14118
+		},
+		{
+			"entry": 5145,
+			"equipentry1": 3364,
+			"equipentry2": 0,
+			"equipentry3": 5260
+		},
+		{
+			"entry": 5144,
+			"equipentry1": 5278,
+			"equipentry2": 0,
+			"equipentry3": 5260
+		},
+		{
+			"entry": 5143,
+			"equipentry1": 5278,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 1874,
+			"equipentry1": 2183,
+			"equipentry2": 2183,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5142,
+			"equipentry1": 17283,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5141,
+			"equipentry1": 2827,
+			"equipentry2": 2202,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5140,
+			"equipentry1": 2147,
+			"equipentry2": 0,
+			"equipentry3": 6886
+		},
+		{
+			"entry": 5139,
+			"equipentry1": 2711,
+			"equipentry2": 5280,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5138,
+			"equipentry1": 4994,
+			"equipentry2": 13855,
+			"equipentry3": 12523
+		},
+		{
+			"entry": 5137,
+			"equipentry1": 5278,
+			"equipentry2": 2052,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5136,
+			"equipentry1": 1906,
+			"equipentry2": 1906,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5135,
+			"equipentry1": 4994,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5134,
+			"equipentry1": 2711,
+			"equipentry2": 0,
+			"equipentry3": 5258
+		},
+		{
+			"entry": 5133,
+			"equipentry1": 12297,
+			"equipentry2": 2197,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5132,
+			"equipentry1": 2813,
+			"equipentry2": 0,
+			"equipentry3": 6886
+		},
+		{
+			"entry": 5131,
+			"equipentry1": 5277,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5130,
+			"equipentry1": 5300,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5129,
+			"equipentry1": 2827,
+			"equipentry2": 13406,
+			"equipentry3": 5258
+		},
+		{
+			"entry": 5128,
+			"equipentry1": 14643,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5127,
+			"equipentry1": 14706,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5126,
+			"equipentry1": 5291,
+			"equipentry2": 14880,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5125,
+			"equipentry1": 2147,
+			"equipentry2": 0,
+			"equipentry3": 2552
+		},
+		{
+			"entry": 5124,
+			"equipentry1": 1906,
+			"equipentry2": 0,
+			"equipentry3": 6088
+		},
+		{
+			"entry": 5123,
+			"equipentry1": 5291,
+			"equipentry2": 0,
+			"equipentry3": 14118
+		},
+		{
+			"entry": 5122,
+			"equipentry1": 5291,
+			"equipentry2": 0,
+			"equipentry3": 2552
+		},
+		{
+			"entry": 5121,
+			"equipentry1": 5291,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5120,
+			"equipentry1": 6224,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5119,
+			"equipentry1": 0,
+			"equipentry2": 3697,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5118,
+			"equipentry1": 0,
+			"equipentry2": 1961,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5117,
+			"equipentry1": 4991,
+			"equipentry2": 0,
+			"equipentry3": 2551
+		},
+		{
+			"entry": 5116,
+			"equipentry1": 4991,
+			"equipentry2": 0,
+			"equipentry3": 2552
+		},
+		{
+			"entry": 5115,
+			"equipentry1": 4991,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5114,
+			"equipentry1": 5288,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5113,
+			"equipentry1": 5304,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5112,
+			"equipentry1": 5276,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5111,
+			"equipentry1": 2813,
+			"equipentry2": 0,
+			"equipentry3": 2550
+		},
+		{
+			"entry": 5110,
+			"equipentry1": 0,
+			"equipentry2": 0,
+			"equipentry3": 14642
+		},
+		{
+			"entry": 5109,
+			"equipentry1": 5301,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5108,
+			"equipentry1": 10611,
+			"equipentry2": 1957,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5107,
+			"equipentry1": 5289,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5106,
+			"equipentry1": 3326,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5105,
+			"equipentry1": 12868,
+			"equipentry2": 0,
+			"equipentry3": 12941
+		},
+		{
+			"entry": 5104,
+			"equipentry1": 5287,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5103,
+			"equipentry1": 0,
+			"equipentry2": 0,
+			"equipentry3": 14118
+		},
+		{
+			"entry": 5102,
+			"equipentry1": 14475,
+			"equipentry2": 0,
+			"equipentry3": 12523
+		},
+		{
+			"entry": 5101,
+			"equipentry1": 12951,
+			"equipentry2": 0,
+			"equipentry3": 12523
+		},
+		{
+			"entry": 5100,
+			"equipentry1": 12951,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5099,
+			"equipentry1": 5303,
+			"equipentry2": 12745,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5098,
+			"equipentry1": 5303,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5097,
+			"equipentry1": 5491,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5096,
+			"equipentry1": 5292,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5095,
+			"equipentry1": 23174,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5094,
+			"equipentry1": 4994,
+			"equipentry2": 11586,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5093,
+			"equipentry1": 2559,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5092,
+			"equipentry1": 2177,
+			"equipentry2": 12865,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5091,
+			"equipentry1": 2557,
+			"equipentry2": 0,
+			"equipentry3": 2552
+		},
+		{
+			"entry": 5090,
+			"equipentry1": 2557,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5089,
+			"equipentry1": 12937,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5088,
+			"equipentry1": 2177,
+			"equipentry2": 12865,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5087,
+			"equipentry1": 19015,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5086,
+			"equipentry1": 6618,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5085,
+			"equipentry1": 5598,
+			"equipentry2": 0,
+			"equipentry3": 2550
+		},
+		{
+			"entry": 5084,
+			"equipentry1": 2177,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5083,
+			"equipentry1": 2176,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5082,
+			"equipentry1": 13165,
+			"equipentry2": 0,
+			"equipentry3": 5258
+		},
+		{
+			"entry": 5081,
+			"equipentry1": 1984,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5080,
+			"equipentry1": 1908,
+			"equipentry2": 18596,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5079,
+			"equipentry1": 1908,
+			"equipentry2": 12745,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5078,
+			"equipentry1": 1908,
+			"equipentry2": 3697,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5077,
+			"equipentry1": 14875,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5076,
+			"equipentry1": 12786,
+			"equipentry2": 12454,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5075,
+			"equipentry1": 1908,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5074,
+			"equipentry1": 5598,
+			"equipentry2": 0,
+			"equipentry3": 18482
+		},
+		{
+			"entry": 5073,
+			"equipentry1": 1903,
+			"equipentry2": 12857,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5072,
+			"equipentry1": 1907,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5071,
+			"equipentry1": 751,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5070,
+			"equipentry1": 1909,
+			"equipentry2": 1985,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5069,
+			"equipentry1": 13632,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5068,
+			"equipentry1": 1910,
+			"equipentry2": 13604,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5067,
+			"equipentry1": 0,
+			"equipentry2": 24038,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5066,
+			"equipentry1": 0,
+			"equipentry2": 23907,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5065,
+			"equipentry1": 5598,
+			"equipentry2": 0,
+			"equipentry3": 20980
+		},
+		{
+			"entry": 5064,
+			"equipentry1": 2178,
+			"equipentry2": 3986,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5063,
+			"equipentry1": 0,
+			"equipentry2": 13609,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5062,
+			"equipentry1": 0,
+			"equipentry2": 13606,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5061,
+			"equipentry1": 0,
+			"equipentry2": 13406,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5060,
+			"equipentry1": 0,
+			"equipentry2": 12867,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5059,
+			"equipentry1": 13312,
+			"equipentry2": 143,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5058,
+			"equipentry1": 0,
+			"equipentry2": 12863,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5057,
+			"equipentry1": 2810,
+			"equipentry2": 13219,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5056,
+			"equipentry1": 0,
+			"equipentry2": 12859,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5055,
+			"equipentry1": 0,
+			"equipentry2": 12853,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5054,
+			"equipentry1": 0,
+			"equipentry2": 12851,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5053,
+			"equipentry1": 1903,
+			"equipentry2": 2809,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5052,
+			"equipentry1": 0,
+			"equipentry2": 12745,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5051,
+			"equipentry1": 0,
+			"equipentry2": 12452,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5050,
+			"equipentry1": 5286,
+			"equipentry2": 0,
+			"equipentry3": 5259
+		},
+		{
+			"entry": 5049,
+			"equipentry1": 0,
+			"equipentry2": 11041,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5048,
+			"equipentry1": 1905,
+			"equipentry2": 0,
+			"equipentry3": 5262
+		},
+		{
+			"entry": 5047,
+			"equipentry1": 0,
+			"equipentry2": 1903,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5046,
+			"equipentry1": 1896,
+			"equipentry2": 0,
+			"equipentry3": 2550
+		},
+		{
+			"entry": 5045,
+			"equipentry1": 0,
+			"equipentry2": 2081,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5044,
+			"equipentry1": 0,
+			"equipentry2": 3695,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5043,
+			"equipentry1": 0,
+			"equipentry2": 3697,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5042,
+			"equipentry1": 0,
+			"equipentry2": 3757,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5041,
+			"equipentry1": 5281,
+			"equipentry2": 3757,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5040,
+			"equipentry1": 0,
+			"equipentry2": 2053,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5039,
+			"equipentry1": 3432,
+			"equipentry2": 0,
+			"equipentry3": 13147
+		},
+		{
+			"entry": 5038,
+			"equipentry1": 0,
+			"equipentry2": 1985,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5037,
+			"equipentry1": 0,
+			"equipentry2": 1984,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5036,
+			"equipentry1": 12786,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5035,
+			"equipentry1": 0,
+			"equipentry2": 0,
+			"equipentry3": 29626
+		},
+		{
+			"entry": 5034,
+			"equipentry1": 0,
+			"equipentry2": 0,
+			"equipentry3": 31083
+		},
+		{
+			"entry": 5033,
+			"equipentry1": 0,
+			"equipentry2": 0,
+			"equipentry3": 32826
+		},
+		{
+			"entry": 5032,
+			"equipentry1": 0,
+			"equipentry2": 0,
+			"equipentry3": 28023
+		},
+		{
+			"entry": 5031,
+			"equipentry1": 0,
+			"equipentry2": 0,
+			"equipentry3": 23889
+		},
+		{
+			"entry": 5030,
+			"equipentry1": 0,
+			"equipentry2": 0,
+			"equipentry3": 23052
+		},
+		{
+			"entry": 5029,
+			"equipentry1": 0,
+			"equipentry2": 0,
+			"equipentry3": 23051
+		},
+		{
+			"entry": 5028,
+			"equipentry1": 0,
+			"equipentry2": 0,
+			"equipentry3": 18282
+		},
+		{
+			"entry": 5027,
+			"equipentry1": 0,
+			"equipentry2": 0,
+			"equipentry3": 15460
+		},
+		{
+			"entry": 5026,
+			"equipentry1": 0,
+			"equipentry2": 0,
+			"equipentry3": 14642
+		},
+		{
+			"entry": 5025,
+			"equipentry1": 0,
+			"equipentry2": 0,
+			"equipentry3": 14105
+		},
+		{
+			"entry": 5024,
+			"equipentry1": 0,
+			"equipentry2": 0,
+			"equipentry3": 13924
+		},
+		{
+			"entry": 5023,
+			"equipentry1": 0,
+			"equipentry2": 0,
+			"equipentry3": 13147
+		},
+		{
+			"entry": 5022,
+			"equipentry1": 5281,
+			"equipentry2": 0,
+			"equipentry3": 2551
+		},
+		{
+			"entry": 5021,
+			"equipentry1": 0,
+			"equipentry2": 0,
+			"equipentry3": 5870
+		},
+		{
+			"entry": 5020,
+			"equipentry1": 1896,
+			"equipentry2": 2052,
+			"equipentry3": 2551
+		},
+		{
+			"entry": 5019,
+			"equipentry1": 2705,
+			"equipentry2": 1984,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5018,
+			"equipentry1": 2198,
+			"equipentry2": 3694,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5017,
+			"equipentry1": 0,
+			"equipentry2": 0,
+			"equipentry3": 6231
+		},
+		{
+			"entry": 5016,
+			"equipentry1": 0,
+			"equipentry2": 0,
+			"equipentry3": 12523
+		},
+		{
+			"entry": 5015,
+			"equipentry1": 12297,
+			"equipentry2": 12453,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5014,
+			"equipentry1": 0,
+			"equipentry2": 0,
+			"equipentry3": 11021
+		},
+		{
+			"entry": 5013,
+			"equipentry1": 2184,
+			"equipentry2": 2053,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5012,
+			"equipentry1": 0,
+			"equipentry2": 0,
+			"equipentry3": 2551
+		},
+		{
+			"entry": 5011,
+			"equipentry1": 2178,
+			"equipentry2": 2180,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5010,
+			"equipentry1": 0,
+			"equipentry2": 0,
+			"equipentry3": 2550
+		},
+		{
+			"entry": 5009,
+			"equipentry1": 10756,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5008,
+			"equipentry1": 0,
+			"equipentry2": 0,
+			"equipentry3": 2552
+		},
+		{
+			"entry": 5007,
+			"equipentry1": 0,
+			"equipentry2": 0,
+			"equipentry3": 5262
+		},
+		{
+			"entry": 5006,
+			"equipentry1": 0,
+			"equipentry2": 0,
+			"equipentry3": 5261
+		},
+		{
+			"entry": 5005,
+			"equipentry1": 0,
+			"equipentry2": 0,
+			"equipentry3": 25244
+		},
+		{
+			"entry": 5004,
+			"equipentry1": 0,
+			"equipentry2": 0,
+			"equipentry3": 5260
+		},
+		{
+			"entry": 5003,
+			"equipentry1": 5187,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5002,
+			"equipentry1": 0,
+			"equipentry2": 0,
+			"equipentry3": 5259
+		},
+		{
+			"entry": 5001,
+			"equipentry1": 0,
+			"equipentry2": 0,
+			"equipentry3": 5258
+		},
+		{
+			"entry": 5477,
+			"equipentry1": 13061,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5259,
+			"equipentry1": 1904,
+			"equipentry2": 0,
+			"equipentry3": 5856
+		},
+		{
+			"entry": 5260,
+			"equipentry1": 14823,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5261,
+			"equipentry1": 2183,
+			"equipentry2": 10612,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5262,
+			"equipentry1": 12629,
+			"equipentry2": 12629,
+			"equipentry3": 5856
+		},
+		{
+			"entry": 5263,
+			"equipentry1": 21192,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5264,
+			"equipentry1": 17383,
+			"equipentry2": 12452,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5265,
+			"equipentry1": 3494,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5266,
+			"equipentry1": 3494,
+			"equipentry2": 1906,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5267,
+			"equipentry1": 3494,
+			"equipentry2": 11506,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5268,
+			"equipentry1": 2196,
+			"equipentry2": 13406,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5269,
+			"equipentry1": 3494,
+			"equipentry2": 11506,
+			"equipentry3": 13924
+		},
+		{
+			"entry": 5270,
+			"equipentry1": 3494,
+			"equipentry2": 11314,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5271,
+			"equipentry1": 2827,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5272,
+			"equipentry1": 1899,
+			"equipentry2": 1895,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5273,
+			"equipentry1": 2827,
+			"equipentry2": 2827,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5274,
+			"equipentry1": 2827,
+			"equipentry2": 2196,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5275,
+			"equipentry1": 2201,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5276,
+			"equipentry1": 2827,
+			"equipentry2": 3351,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5277,
+			"equipentry1": 2183,
+			"equipentry2": 1957,
+			"equipentry3": 5261
+		},
+		{
+			"entry": 5278,
+			"equipentry1": 2827,
+			"equipentry2": 6228,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5279,
+			"equipentry1": 2147,
+			"equipentry2": 5278,
+			"equipentry3": 5261
+		},
+		{
+			"entry": 5280,
+			"equipentry1": 2695,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5281,
+			"equipentry1": 2711,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5282,
+			"equipentry1": 10898,
+			"equipentry2": 12456,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5283,
+			"equipentry1": 2711,
+			"equipentry2": 2051,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5284,
+			"equipentry1": 2711,
+			"equipentry2": 2711,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5285,
+			"equipentry1": 2711,
+			"equipentry2": 1900,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5286,
+			"equipentry1": 30441,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5287,
+			"equipentry1": 14880,
+			"equipentry2": 0,
+			"equipentry3": 5260
+		},
+		{
+			"entry": 5288,
+			"equipentry1": 13165,
+			"equipentry2": 1984,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5289,
+			"equipentry1": 2184,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5290,
+			"equipentry1": 18293,
+			"equipentry2": 2081,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5291,
+			"equipentry1": 2184,
+			"equipentry2": 0,
+			"equipentry3": 2550
+		},
+		{
+			"entry": 5292,
+			"equipentry1": 2184,
+			"equipentry2": 0,
+			"equipentry3": 2551
+		},
+		{
+			"entry": 5293,
+			"equipentry1": 29403,
+			"equipentry2": 27406,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5294,
+			"equipentry1": 2184,
+			"equipentry2": 1961,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5295,
+			"equipentry1": 14836,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5296,
+			"equipentry1": 2184,
+			"equipentry2": 2051,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5297,
+			"equipentry1": 12247,
+			"equipentry2": 0,
+			"equipentry3": 5260
+		},
+		{
+			"entry": 5298,
+			"equipentry1": 30408,
+			"equipentry2": 0,
+			"equipentry3": 34322
+		},
+		{
+			"entry": 5299,
+			"equipentry1": 2184,
+			"equipentry2": 3698,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5300,
+			"equipentry1": 5289,
+			"equipentry2": 0,
+			"equipentry3": 5258
+		},
+		{
+			"entry": 5301,
+			"equipentry1": 35712,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5302,
+			"equipentry1": 2184,
+			"equipentry2": 2184,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5303,
+			"equipentry1": 1925,
+			"equipentry2": 0,
+			"equipentry3": 28581
+		},
+		{
+			"entry": 5304,
+			"equipentry1": 2184,
+			"equipentry2": 1895,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5305,
+			"equipentry1": 25879,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5306,
+			"equipentry1": 3432,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5307,
+			"equipentry1": 3432,
+			"equipentry2": 5259,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5308,
+			"equipentry1": 5956,
+			"equipentry2": 24322,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5309,
+			"equipentry1": 12403,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5310,
+			"equipentry1": 2182,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5311,
+			"equipentry1": 2182,
+			"equipentry2": 0,
+			"equipentry3": 12523
+		},
+		{
+			"entry": 5312,
+			"equipentry1": 29651,
+			"equipentry2": 0,
+			"equipentry3": 13924
+		},
+		{
+			"entry": 5313,
+			"equipentry1": 2182,
+			"equipentry2": 1984,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5314,
+			"equipentry1": 32731,
+			"equipentry2": 32731,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5315,
+			"equipentry1": 32507,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5316,
+			"equipentry1": 1903,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5317,
+			"equipentry1": 1903,
+			"equipentry2": 1984,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5318,
+			"equipentry1": 1903,
+			"equipentry2": 1985,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5319,
+			"equipentry1": 30403,
+			"equipentry2": 30403,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5320,
+			"equipentry1": 1903,
+			"equipentry2": 2051,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5321,
+			"equipentry1": 1903,
+			"equipentry2": 2081,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5322,
+			"equipentry1": 1903,
+			"equipentry2": 2552,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5323,
+			"equipentry1": 1903,
+			"equipentry2": 1903,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5324,
+			"equipentry1": 32448,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5325,
+			"equipentry1": 32604,
+			"equipentry2": 31468,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5326,
+			"equipentry1": 32603,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5327,
+			"equipentry1": 32607,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5328,
+			"equipentry1": 32632,
+			"equipentry2": 32633,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5329,
+			"equipentry1": 1903,
+			"equipentry2": 13611,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5330,
+			"equipentry1": 1903,
+			"equipentry2": 13859,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5331,
+			"equipentry1": 1901,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5332,
+			"equipentry1": 1901,
+			"equipentry2": 0,
+			"equipentry3": 2552
+		},
+		{
+			"entry": 5333,
+			"equipentry1": 32605,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5334,
+			"equipentry1": 32841,
+			"equipentry2": 32841,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5335,
+			"equipentry1": 1901,
+			"equipentry2": 12745,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5336,
+			"equipentry1": 1901,
+			"equipentry2": 13611,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5337,
+			"equipentry1": 1901,
+			"equipentry2": 29637,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5338,
+			"equipentry1": 1902,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5339,
+			"equipentry1": 32272,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5340,
+			"equipentry1": 2558,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5341,
+			"equipentry1": 0,
+			"equipentry2": 0,
+			"equipentry3": 6886
+		},
+		{
+			"entry": 5342,
+			"equipentry1": 32875,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5343,
+			"equipentry1": 32612,
+			"equipentry2": 0,
+			"equipentry3": 32613
+		},
+		{
+			"entry": 5344,
+			"equipentry1": 2197,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5345,
+			"equipentry1": 2197,
+			"equipentry2": 13406,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5346,
+			"equipentry1": 3350,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5347,
+			"equipentry1": 2717,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5348,
+			"equipentry1": 2717,
+			"equipentry2": 3757,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5349,
+			"equipentry1": 32874,
+			"equipentry2": 31468,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5350,
+			"equipentry1": 2717,
+			"equipentry2": 12860,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5351,
+			"equipentry1": 2813,
+			"equipentry2": 0,
+			"equipentry3": 32876
+		},
+		{
+			"entry": 5352,
+			"equipentry1": 2716,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5353,
+			"equipentry1": 2716,
+			"equipentry2": 3694,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5354,
+			"equipentry1": 2716,
+			"equipentry2": 3695,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5355,
+			"equipentry1": 32615,
+			"equipentry2": 32615,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5356,
+			"equipentry1": 2716,
+			"equipentry2": 13609,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5357,
+			"equipentry1": 2710,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5358,
+			"equipentry1": 3362,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5359,
+			"equipentry1": 32614,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5360,
+			"equipentry1": 3362,
+			"equipentry2": 13406,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5361,
+			"equipentry1": 3362,
+			"equipentry2": 13604,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5362,
+			"equipentry1": 1117,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5363,
+			"equipentry1": 1117,
+			"equipentry2": 2552,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5364,
+			"equipentry1": 2709,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5365,
+			"equipentry1": 32611,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5366,
+			"equipentry1": 2707,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5367,
+			"equipentry1": 32477,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5368,
+			"equipentry1": 2707,
+			"equipentry2": 3697,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5369,
+			"equipentry1": 2707,
+			"equipentry2": 3694,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5370,
+			"equipentry1": 32878,
+			"equipentry2": 32877,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5371,
+			"equipentry1": 2718,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5372,
+			"equipentry1": 3368,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5373,
+			"equipentry1": 2715,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5374,
+			"equipentry1": 2715,
+			"equipentry2": 143,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5375,
+			"equipentry1": 32887,
+			"equipentry2": 32887,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5376,
+			"equipentry1": 32886,
+			"equipentry2": 32885,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5377,
+			"equipentry1": 2715,
+			"equipentry2": 13605,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5378,
+			"equipentry1": 2714,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5379,
+			"equipentry1": 2714,
+			"equipentry2": 0,
+			"equipentry3": 5259
+		},
+		{
+			"entry": 5380,
+			"equipentry1": 32884,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5381,
+			"equipentry1": 32879,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5382,
+			"equipentry1": 32874,
+			"equipentry2": 0,
+			"equipentry3": 32876
+		},
+		{
+			"entry": 5383,
+			"equipentry1": 2196,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5384,
+			"equipentry1": 29710,
+			"equipentry2": 0,
+			"equipentry3": 32730
+		},
+		{
+			"entry": 5385,
+			"equipentry1": 31669,
+			"equipentry2": 31669,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5386,
+			"equipentry1": 2202,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5387,
+			"equipentry1": 2202,
+			"equipentry2": 0,
+			"equipentry3": 2550
+		},
+		{
+			"entry": 5388,
+			"equipentry1": 32892,
+			"equipentry2": 32891,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5389,
+			"equipentry1": 3367,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5390,
+			"equipentry1": 3367,
+			"equipentry2": 0,
+			"equipentry3": 2550
+		},
+		{
+			"entry": 5391,
+			"equipentry1": 32893,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5392,
+			"equipentry1": 32889,
+			"equipentry2": 32889,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5393,
+			"equipentry1": 2198,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5394,
+			"equipentry1": 32894,
+			"equipentry2": 32894,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5395,
+			"equipentry1": 1911,
+			"equipentry2": 1911,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5396,
+			"equipentry1": 34596,
+			"equipentry2": 34590,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5397,
+			"equipentry1": 34880,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5398,
+			"equipentry1": 34882,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5399,
+			"equipentry1": 2200,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5400,
+			"equipentry1": 2200,
+			"equipentry2": 3698,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5401,
+			"equipentry1": 2200,
+			"equipentry2": 12870,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5402,
+			"equipentry1": 35463,
+			"equipentry2": 35463,
+			"equipentry3": 34280
+		},
+		{
+			"entry": 5403,
+			"equipentry1": 34311,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5404,
+			"equipentry1": 2200,
+			"equipentry2": 3695,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5405,
+			"equipentry1": 34884,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5406,
+			"equipentry1": 2200,
+			"equipentry2": 2201,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5407,
+			"equipentry1": 34885,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5408,
+			"equipentry1": 3699,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5409,
+			"equipentry1": 3699,
+			"equipentry2": 3697,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5410,
+			"equipentry1": 34886,
+			"equipentry2": 34886,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5411,
+			"equipentry1": 35236,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5412,
+			"equipentry1": 3699,
+			"equipentry2": 13341,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5413,
+			"equipentry1": 5285,
+			"equipentry2": 0,
+			"equipentry3": 13147
+		},
+		{
+			"entry": 5414,
+			"equipentry1": 3351,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5415,
+			"equipentry1": 4993,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5416,
+			"equipentry1": 2201,
+			"equipentry2": 3698,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5417,
+			"equipentry1": 2199,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5418,
+			"equipentry1": 2199,
+			"equipentry2": 3694,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5419,
+			"equipentry1": 2199,
+			"equipentry2": 13341,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5420,
+			"equipentry1": 2199,
+			"equipentry2": 12851,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5421,
+			"equipentry1": 3696,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5422,
+			"equipentry1": 2809,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5423,
+			"equipentry1": 2809,
+			"equipentry2": 1957,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5424,
+			"equipentry1": 2809,
+			"equipentry2": 1985,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5425,
+			"equipentry1": 3361,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5426,
+			"equipentry1": 3361,
+			"equipentry2": 0,
+			"equipentry3": 2552
+		},
+		{
+			"entry": 5427,
+			"equipentry1": 3361,
+			"equipentry2": 1984,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5428,
+			"equipentry1": 3361,
+			"equipentry2": 2052,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5429,
+			"equipentry1": 3361,
+			"equipentry2": 3361,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5430,
+			"equipentry1": 3361,
+			"equipentry2": 13628,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5431,
+			"equipentry1": 2813,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5432,
+			"equipentry1": 2813,
+			"equipentry2": 0,
+			"equipentry3": 2551
+		},
+		{
+			"entry": 5433,
+			"equipentry1": 2810,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5434,
+			"equipentry1": 3433,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5435,
+			"equipentry1": 3433,
+			"equipentry2": 5870,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5436,
+			"equipentry1": 2023,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5437,
+			"equipentry1": 2023,
+			"equipentry2": 0,
+			"equipentry3": 5260
+		},
+		{
+			"entry": 5438,
+			"equipentry1": 2023,
+			"equipentry2": 2552,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5439,
+			"equipentry1": 2178,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5440,
+			"equipentry1": 2178,
+			"equipentry2": 143,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5441,
+			"equipentry1": 2178,
+			"equipentry2": 5284,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5442,
+			"equipentry1": 1899,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5443,
+			"equipentry1": 1899,
+			"equipentry2": 1957,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5444,
+			"equipentry1": 1899,
+			"equipentry2": 1961,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5445,
+			"equipentry1": 1899,
+			"equipentry2": 1984,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5446,
+			"equipentry1": 1899,
+			"equipentry2": 1985,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5447,
+			"equipentry1": 1899,
+			"equipentry2": 2052,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5448,
+			"equipentry1": 1899,
+			"equipentry2": 2053,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5449,
+			"equipentry1": 1899,
+			"equipentry2": 143,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5450,
+			"equipentry1": 3364,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5451,
+			"equipentry1": 3364,
+			"equipentry2": 5284,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5452,
+			"equipentry1": 3364,
+			"equipentry2": 10616,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5453,
+			"equipentry1": 1897,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5454,
+			"equipentry1": 1897,
+			"equipentry2": 1957,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5455,
+			"equipentry1": 1897,
+			"equipentry2": 2051,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5456,
+			"equipentry1": 1897,
+			"equipentry2": 2053,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5457,
+			"equipentry1": 2180,
+			"equipentry2": 2081,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5458,
+			"equipentry1": 2180,
+			"equipentry2": 1896,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5459,
+			"equipentry1": 1896,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5460,
+			"equipentry1": 1896,
+			"equipentry2": 1957,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5461,
+			"equipentry1": 1896,
+			"equipentry2": 1957,
+			"equipentry3": 5258
+		},
+		{
+			"entry": 5462,
+			"equipentry1": 1896,
+			"equipentry2": 1961,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5463,
+			"equipentry1": 1896,
+			"equipentry2": 2051,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5464,
+			"equipentry1": 1896,
+			"equipentry2": 2053,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5465,
+			"equipentry1": 1896,
+			"equipentry2": 5281,
+			"equipentry3": 2551
+		},
+		{
+			"entry": 5466,
+			"equipentry1": 1895,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5467,
+			"equipentry1": 1895,
+			"equipentry2": 2052,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5468,
+			"equipentry1": 1895,
+			"equipentry2": 2053,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5469,
+			"equipentry1": 2181,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5470,
+			"equipentry1": 1983,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5471,
+			"equipentry1": 3366,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5472,
+			"equipentry1": 1900,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5473,
+			"equipentry1": 1900,
+			"equipentry2": 5284,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5474,
+			"equipentry1": 1900,
+			"equipentry2": 2081,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5475,
+			"equipentry1": 1900,
+			"equipentry2": 1900,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5476,
+			"equipentry1": 1910,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5478,
+			"equipentry1": 1910,
+			"equipentry2": 0,
+			"equipentry3": 6088
+		},
+		{
+			"entry": 5479,
+			"equipentry1": 1910,
+			"equipentry2": 2081,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5480,
+			"equipentry1": 1910,
+			"equipentry2": 13610,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5481,
+			"equipentry1": 1911,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5482,
+			"equipentry1": 1911,
+			"equipentry2": 0,
+			"equipentry3": 2552
+		},
+		{
+			"entry": 5483,
+			"equipentry1": 1911,
+			"equipentry2": 3694,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5484,
+			"equipentry1": 1911,
+			"equipentry2": 13341,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5485,
+			"equipentry1": 1911,
+			"equipentry2": 11587,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5486,
+			"equipentry1": 3346,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5487,
+			"equipentry1": 3346,
+			"equipentry2": 3756,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5488,
+			"equipentry1": 3346,
+			"equipentry2": 13605,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5489,
+			"equipentry1": 5286,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5490,
+			"equipentry1": 5286,
+			"equipentry2": 5286,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5491,
+			"equipentry1": 5286,
+			"equipentry2": 6254,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5492,
+			"equipentry1": 5286,
+			"equipentry2": 14880,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5493,
+			"equipentry1": 5305,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5494,
+			"equipentry1": 5305,
+			"equipentry2": 1984,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5495,
+			"equipentry1": 5305,
+			"equipentry2": 1985,
+			"equipentry3": 5261
+		},
+		{
+			"entry": 5496,
+			"equipentry1": 5305,
+			"equipentry2": 143,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5497,
+			"equipentry1": 5305,
+			"equipentry2": 5305,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5498,
+			"equipentry1": 5305,
+			"equipentry2": 12980,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5499,
+			"equipentry1": 5495,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5500,
+			"equipentry1": 5495,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5501,
+			"equipentry1": 5532,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5502,
+			"equipentry1": 5532,
+			"equipentry2": 13605,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5503,
+			"equipentry1": 5532,
+			"equipentry2": 13859,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5504,
+			"equipentry1": 12142,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5505,
+			"equipentry1": 12142,
+			"equipentry2": 15512,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5506,
+			"equipentry1": 5597,
+			"equipentry2": 5597,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5507,
+			"equipentry1": 5598,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5508,
+			"equipentry1": 5598,
+			"equipentry2": 0,
+			"equipentry3": 14105
+		},
+		{
+			"entry": 5509,
+			"equipentry1": 5598,
+			"equipentry2": 5598,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5510,
+			"equipentry1": 5599,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5512,
+			"equipentry1": 5956,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5513,
+			"equipentry1": 5745,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5514,
+			"equipentry1": 5746,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5515,
+			"equipentry1": 5747,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5516,
+			"equipentry1": 14878,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5517,
+			"equipentry1": 6225,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5518,
+			"equipentry1": 6225,
+			"equipentry2": 19487,
+			"equipentry3": 2550
+		},
+		{
+			"entry": 5519,
+			"equipentry1": 6227,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5520,
+			"equipentry1": 6228,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5521,
+			"equipentry1": 6228,
+			"equipentry2": 0,
+			"equipentry3": 5870
+		},
+		{
+			"entry": 5522,
+			"equipentry1": 6233,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5523,
+			"equipentry1": 6234,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5524,
+			"equipentry1": 6237,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5525,
+			"equipentry1": 6322,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5526,
+			"equipentry1": 6334,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5527,
+			"equipentry1": 19916,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5528,
+			"equipentry1": 1906,
+			"equipentry2": 0,
+			"equipentry3": 5260
+		},
+		{
+			"entry": 5529,
+			"equipentry1": 1906,
+			"equipentry2": 1906,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5530,
+			"equipentry1": 12890,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5531,
+			"equipentry1": 12890,
+			"equipentry2": 0,
+			"equipentry3": 5258
+		},
+		{
+			"entry": 5532,
+			"equipentry1": 12890,
+			"equipentry2": 2052,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5533,
+			"equipentry1": 12890,
+			"equipentry2": 143,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5534,
+			"equipentry1": 12890,
+			"equipentry2": 12981,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5535,
+			"equipentry1": 12890,
+			"equipentry2": 12995,
+			"equipentry3": 5261
+		},
+		{
+			"entry": 5536,
+			"equipentry1": 6680,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5537,
+			"equipentry1": 6680,
+			"equipentry2": 0,
+			"equipentry3": 2551
+		},
+		{
+			"entry": 5538,
+			"equipentry1": 6680,
+			"equipentry2": 0,
+			"equipentry3": 5870
+		},
+		{
+			"entry": 5539,
+			"equipentry1": 6680,
+			"equipentry2": 5870,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5540,
+			"equipentry1": 12285,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5541,
+			"equipentry1": 6651,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5542,
+			"equipentry1": 11763,
+			"equipentry2": 0,
+			"equipentry3": 5856
+		},
+		{
+			"entry": 5543,
+			"equipentry1": 11763,
+			"equipentry2": 11763,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5544,
+			"equipentry1": 10568,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5545,
+			"equipentry1": 10591,
+			"equipentry2": 6254,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5546,
+			"equipentry1": 10611,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5547,
+			"equipentry1": 10611,
+			"equipentry2": 5856,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5548,
+			"equipentry1": 10611,
+			"equipentry2": 10611,
+			"equipentry3": 14118
+		},
+		{
+			"entry": 5549,
+			"equipentry1": 10611,
+			"equipentry2": 12452,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5550,
+			"equipentry1": 10611,
+			"equipentry2": 12456,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5551,
+			"equipentry1": 10612,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5552,
+			"equipentry1": 10612,
+			"equipentry2": 0,
+			"equipentry3": 5258
+		},
+		{
+			"entry": 5553,
+			"equipentry1": 10612,
+			"equipentry2": 5262,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5554,
+			"equipentry1": 10612,
+			"equipentry2": 10612,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5555,
+			"equipentry1": 10612,
+			"equipentry2": 11589,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5556,
+			"equipentry1": 10612,
+			"equipentry2": 12452,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5557,
+			"equipentry1": 10612,
+			"equipentry2": 12454,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5558,
+			"equipentry1": 10612,
+			"equipentry2": 12456,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5559,
+			"equipentry1": 10613,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5560,
+			"equipentry1": 10613,
+			"equipentry2": 143,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5561,
+			"equipentry1": 10613,
+			"equipentry2": 10613,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5562,
+			"equipentry1": 10614,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5563,
+			"equipentry1": 10614,
+			"equipentry2": 1984,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5564,
+			"equipentry1": 10614,
+			"equipentry2": 2081,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5565,
+			"equipentry1": 10614,
+			"equipentry2": 10614,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5566,
+			"equipentry1": 10616,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5567,
+			"equipentry1": 10616,
+			"equipentry2": 10616,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5568,
+			"equipentry1": 10616,
+			"equipentry2": 12861,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5569,
+			"equipentry1": 10616,
+			"equipentry2": 22215,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5570,
+			"equipentry1": 10617,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5571,
+			"equipentry1": 10617,
+			"equipentry2": 10617,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5572,
+			"equipentry1": 10617,
+			"equipentry2": 10617,
+			"equipentry3": 5870
+		},
+		{
+			"entry": 5573,
+			"equipentry1": 10617,
+			"equipentry2": 13406,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5574,
+			"equipentry1": 10619,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5575,
+			"equipentry1": 2048,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5576,
+			"equipentry1": 13631,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5577,
+			"equipentry1": 13631,
+			"equipentry2": 0,
+			"equipentry3": 5870
+		},
+		{
+			"entry": 5578,
+			"equipentry1": 10825,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5579,
+			"equipentry1": 10878,
+			"equipentry2": 12332,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5580,
+			"equipentry1": 10823,
+			"equipentry2": 1168,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5581,
+			"equipentry1": 10898,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5582,
+			"equipentry1": 1982,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5583,
+			"equipentry1": 5613,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5584,
+			"equipentry1": 11019,
+			"equipentry2": 5282,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5585,
+			"equipentry1": 11019,
+			"equipentry2": 12452,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5586,
+			"equipentry1": 11019,
+			"equipentry2": 12893,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5587,
+			"equipentry1": 11019,
+			"equipentry2": 13718,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5588,
+			"equipentry1": 11025,
+			"equipentry2": 11025,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5589,
+			"equipentry1": 11042,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5590,
+			"equipentry1": 11042,
+			"equipentry2": 12452,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5591,
+			"equipentry1": 11087,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 5592,
+			"equipentry1": 12523,
+			"equipentry2": 0,
+			"equipentry3": 0
+		},
+		{
+			"entry": 10000,
+			"equipentry1": 12294,
+			"equipentry2": 0,
+			"equipentry3": 30452
+		},
+		{
+			"entry": 2512,
+			"equipentry1": 2028,
+			"equipentry2": 11589,
+			"equipentry3": 0
+		},
+		{
+			"entry": 2500,
+			"equipentry1": 2704,
+			"equipentry2": 0,
+			"equipentry3": 0
+		}
+	]
+}

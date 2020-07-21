@@ -1,0 +1,11 @@
+{
+	"table": "db_version",
+	"rows":
+	[
+		{
+			"version": "TBC-DB 1.4.3 - 006 'PRE-RELEASE BETA BUILD' for CMaNGOS-TBC",
+			"creature_ai_version": "ACID 2.4.3 (The Burning Crusades) for CMaNGOS-TBC (2.4.3 Client)",
+			"required_s2328_01_mangos_scriptdev2_tables": null
+		}
+	]
+}

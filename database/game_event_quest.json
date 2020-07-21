@@ -1,0 +1,50 @@
+{
+	"table": "game_event_quest",
+	"rows":
+	[
+		{
+			"quest": 8356,
+			"event": 12
+		},
+		{
+			"quest": 8860,
+			"event": 6
+		},
+		{
+			"quest": 8861,
+			"event": 6
+		},
+		{
+			"quest": 8980,
+			"event": 8
+		},
+		{
+			"quest": 8983,
+			"event": 8
+		},
+		{
+			"quest": 9025,
+			"event": 8
+		},
+		{
+			"quest": 9027,
+			"event": 8
+		},
+		{
+			"quest": 11356,
+			"event": 12
+		},
+		{
+			"quest": 11357,
+			"event": 12
+		},
+		{
+			"quest": 11441,
+			"event": 26
+		},
+		{
+			"quest": 11446,
+			"event": 26
+		}
+	]
+}

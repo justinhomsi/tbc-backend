@@ -1,0 +1,1262 @@
+{
+	"table": "spell_bonus_data",
+	"rows":
+	[
+		{
+			"entry": 5672,
+			"direct_bonus": 0,
+			"dot_bonus": 0.045,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Healing Stream Totem"
+		},
+		{
+			"entry": 974,
+			"direct_bonus": 0.2857,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Earth Shield"
+		},
+		{
+			"entry": 18562,
+			"direct_bonus": 0,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Druid - Swiftmend"
+		},
+		{
+			"entry": 1454,
+			"direct_bonus": 0.8,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Warlock - Life Tap"
+		},
+		{
+			"entry": 339,
+			"direct_bonus": 0,
+			"dot_bonus": 0.1,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Druid - Entangling Roots"
+		},
+		{
+			"entry": 42231,
+			"direct_bonus": 0.12898,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Druid - Hurricane Triggered"
+		},
+		{
+			"entry": 5570,
+			"direct_bonus": 0,
+			"dot_bonus": 0.127,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Druid - Insect Swarm"
+		},
+		{
+			"entry": 8921,
+			"direct_bonus": 0.1515,
+			"dot_bonus": 0.13,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Druid - Moonfire"
+		},
+		{
+			"entry": 5176,
+			"direct_bonus": 0.5714,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Druid - Wrath"
+		},
+		{
+			"entry": 7268,
+			"direct_bonus": 0.2857,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Mage - Arcane Missiles Triggered Spell Rank 1"
+		},
+		{
+			"entry": 7269,
+			"direct_bonus": 0.2857,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Mage - Arcane Missiles Triggered Spell Rank 2"
+		},
+		{
+			"entry": 7270,
+			"direct_bonus": 0.2857,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Mage - Arcane Missiles Triggered Spell Rank 3"
+		},
+		{
+			"entry": 8419,
+			"direct_bonus": 0.2857,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Mage - Arcane Missiles Triggered Spell Rank 4"
+		},
+		{
+			"entry": 8418,
+			"direct_bonus": 0.2857,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Mage - Arcane Missiles Triggered Spell Rank 5"
+		},
+		{
+			"entry": 10273,
+			"direct_bonus": 0.2857,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Mage - Arcane Missiles Triggered Spell Rank 6"
+		},
+		{
+			"entry": 10274,
+			"direct_bonus": 0.2857,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Mage - Arcane Missiles Triggered Spell Rank 7"
+		},
+		{
+			"entry": 25346,
+			"direct_bonus": 0.2857,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Mage - Arcane Missiles Triggered Spell Rank 8"
+		},
+		{
+			"entry": 27076,
+			"direct_bonus": 0.2857,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Mage - Arcane Missiles Triggered Spell Rank 9"
+		},
+		{
+			"entry": 38700,
+			"direct_bonus": 0.2857,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Mage - Arcane Missiles Triggered Spell Rank 10"
+		},
+		{
+			"entry": 38703,
+			"direct_bonus": 0.2857,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Mage - Arcane Missiles Triggered Spell Rank 11"
+		},
+		{
+			"entry": 1463,
+			"direct_bonus": 0.8053,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Mage - Mana Shield"
+		},
+		{
+			"entry": 11113,
+			"direct_bonus": 0.1357,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Mage - Blast Wave Rank"
+		},
+		{
+			"entry": 31661,
+			"direct_bonus": 0.1357,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Mage - Dragons Breath"
+		},
+		{
+			"entry": 133,
+			"direct_bonus": 1,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Mage - Fire Ball"
+		},
+		{
+			"entry": 2120,
+			"direct_bonus": 0.2357,
+			"dot_bonus": 0.122,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Mage - Flamestrike"
+		},
+		{
+			"entry": 42208,
+			"direct_bonus": 0.0952,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Mage - Blizzard Triggered Spell Rank 1"
+		},
+		{
+			"entry": 42209,
+			"direct_bonus": 0.0952,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Mage - Blizzard Triggered Spell Rank 2"
+		},
+		{
+			"entry": 42210,
+			"direct_bonus": 0.0952,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Mage - Blizzard Triggered Spell Rank 3"
+		},
+		{
+			"entry": 42211,
+			"direct_bonus": 0.0952,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Mage - Blizzard Triggered Spell Rank 4"
+		},
+		{
+			"entry": 42212,
+			"direct_bonus": 0.0952,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Mage - Blizzard Triggered Spell Rank 5"
+		},
+		{
+			"entry": 42213,
+			"direct_bonus": 0.0952,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Mage - Blizzard Triggered Spell Rank 6"
+		},
+		{
+			"entry": 42198,
+			"direct_bonus": 0.0952,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Mage - Blizzard Triggered Spell Rank 7"
+		},
+		{
+			"entry": 120,
+			"direct_bonus": 0.1357,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Mage - Cone of Cold"
+		},
+		{
+			"entry": 116,
+			"direct_bonus": 0.8143,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Mage - Frost Bolt"
+		},
+		{
+			"entry": 30455,
+			"direct_bonus": 0.1429,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Mage - Ice Lance"
+		},
+		{
+			"entry": 31935,
+			"direct_bonus": 0.07,
+			"dot_bonus": 0,
+			"ap_bonus": 0.07,
+			"ap_dot_bonus": 0,
+			"comments": "Paladin - Avengers Shiled"
+		},
+		{
+			"entry": 31803,
+			"direct_bonus": 0,
+			"dot_bonus": 0.013,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0.15,
+			"comments": "Paladin - Holy Vengeance"
+		},
+		{
+			"entry": 879,
+			"direct_bonus": 0.15,
+			"dot_bonus": 0,
+			"ap_bonus": 0.15,
+			"ap_dot_bonus": 0,
+			"comments": "Paladin - Exorcism"
+		},
+		{
+			"entry": 24275,
+			"direct_bonus": 0.15,
+			"dot_bonus": 0,
+			"ap_bonus": 0.15,
+			"ap_dot_bonus": 0,
+			"comments": "Paladin - Hammer of Wrath"
+		},
+		{
+			"entry": 20925,
+			"direct_bonus": 0.09,
+			"dot_bonus": 0,
+			"ap_bonus": 0.056,
+			"ap_dot_bonus": 0,
+			"comments": "Paladin - Holy Shield"
+		},
+		{
+			"entry": 2812,
+			"direct_bonus": 0.07,
+			"dot_bonus": 0,
+			"ap_bonus": 0.07,
+			"ap_dot_bonus": 0,
+			"comments": "Paladin - Holy Wrath"
+		},
+		{
+			"entry": 31893,
+			"direct_bonus": 0.25,
+			"dot_bonus": 0,
+			"ap_bonus": 0.16,
+			"ap_dot_bonus": 0,
+			"comments": "Paladin - Seal of Blood Enemy Proc"
+		},
+		{
+			"entry": 32221,
+			"direct_bonus": 0.25,
+			"dot_bonus": 0,
+			"ap_bonus": 0.16,
+			"ap_dot_bonus": 0,
+			"comments": "Paladin - Seal of Blood Self Proc"
+		},
+		{
+			"entry": 20424,
+			"direct_bonus": 0.25,
+			"dot_bonus": 0,
+			"ap_bonus": 0.16,
+			"ap_dot_bonus": 0,
+			"comments": "Paladin - Seal of Command Proc"
+		},
+		{
+			"entry": 379,
+			"direct_bonus": 0,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Earth Shield Triggered"
+		},
+		{
+			"entry": 20167,
+			"direct_bonus": 0.25,
+			"dot_bonus": 0,
+			"ap_bonus": 0.16,
+			"ap_dot_bonus": 0,
+			"comments": "Paladin - Seal of Light Proc"
+		},
+		{
+			"entry": 25742,
+			"direct_bonus": 0.07,
+			"dot_bonus": 0,
+			"ap_bonus": 0.039,
+			"ap_dot_bonus": 0,
+			"comments": "Paladin - Seal of Righteousness Dummy Proc"
+		},
+		{
+			"entry": 26573,
+			"direct_bonus": 0,
+			"dot_bonus": 0.04,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0.04,
+			"comments": "Paladin - Consecration"
+		},
+		{
+			"entry": 755,
+			"direct_bonus": 0,
+			"dot_bonus": 0.2857,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Warlock - Health Funnel"
+		},
+		{
+			"entry": 27805,
+			"direct_bonus": 0.1606,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Priest - Holy Nova Heal Rank 6"
+		},
+		{
+			"entry": 27804,
+			"direct_bonus": 0.1606,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Priest - Holy Nova Heal Rank 5"
+		},
+		{
+			"entry": 27803,
+			"direct_bonus": 0.1606,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Priest - Holy Nova Heal Rank 4"
+		},
+		{
+			"entry": 23459,
+			"direct_bonus": 0.1606,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Priest - Holy Nova Heal Rank 3"
+		},
+		{
+			"entry": 23458,
+			"direct_bonus": 0.1606,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Priest - Holy Nova Heal Rank 2"
+		},
+		{
+			"entry": 5185,
+			"direct_bonus": 1,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Druid - Healing Touch"
+		},
+		{
+			"entry": 774,
+			"direct_bonus": 0,
+			"dot_bonus": 0.16,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Druid - Rejuvenation"
+		},
+		{
+			"entry": 8936,
+			"direct_bonus": 0.3,
+			"dot_bonus": 0.1,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Druid - Regrowth"
+		},
+		{
+			"entry": 44203,
+			"direct_bonus": 0.1825,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Druid - Tranquility Triggered"
+		},
+		{
+			"entry": 23455,
+			"direct_bonus": 0.1606,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Priest - Holy Nova Heal Rank 1"
+		},
+		{
+			"entry": 14914,
+			"direct_bonus": 0.5711,
+			"dot_bonus": 0.024,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Priest - Holy Fire"
+		},
+		{
+			"entry": 15237,
+			"direct_bonus": 0.1606,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Priest - Holy Nova Damage"
+		},
+		{
+			"entry": 8129,
+			"direct_bonus": 0,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Priest - Mana Burn"
+		},
+		{
+			"entry": 34433,
+			"direct_bonus": 0.65,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Priest - Shadowfiend"
+		},
+		{
+			"entry": 585,
+			"direct_bonus": 0.714,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Priest - Smite"
+		},
+		{
+			"entry": 34914,
+			"direct_bonus": 0,
+			"dot_bonus": 0.4,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Priest - Vampiric Touch"
+		},
+		{
+			"entry": 33763,
+			"direct_bonus": 0.3429,
+			"dot_bonus": 0.0742,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Druid - Lifebloom"
+		},
+		{
+			"entry": 8042,
+			"direct_bonus": 0.3858,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Earth Shock"
+		},
+		{
+			"entry": 8443,
+			"direct_bonus": 0.2142,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Fire Nova Totem Casted by Totem Rank 1"
+		},
+		{
+			"entry": 8504,
+			"direct_bonus": 0.2142,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Fire Nova Totem Casted by Totem Rank 2"
+		},
+		{
+			"entry": 8505,
+			"direct_bonus": 0.2142,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Fire Nova Totem Casted by Totem Rank 3"
+		},
+		{
+			"entry": 11310,
+			"direct_bonus": 0.2142,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Fire Nova Totem Casted by Totem Rank 4"
+		},
+		{
+			"entry": 11311,
+			"direct_bonus": 0.2142,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Fire Nova Totem Casted by Totem Rank 5"
+		},
+		{
+			"entry": 25538,
+			"direct_bonus": 0.2142,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Fire Nova Totem Casted by Totem Rank 6"
+		},
+		{
+			"entry": 25539,
+			"direct_bonus": 0.2142,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Fire Nova Totem Casted by Totem Rank 7"
+		},
+		{
+			"entry": 8050,
+			"direct_bonus": 0.2142,
+			"dot_bonus": 0.1,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Flame Shock"
+		},
+		{
+			"entry": 8026,
+			"direct_bonus": 0.1,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Flametongue Weapon Proc Rank 1"
+		},
+		{
+			"entry": 8028,
+			"direct_bonus": 0.1,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Flametongue Weapon Proc Rank 2"
+		},
+		{
+			"entry": 8029,
+			"direct_bonus": 0.1,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Flametongue Weapon Proc Rank 3"
+		},
+		{
+			"entry": 10445,
+			"direct_bonus": 0.1,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Flametongue Weapon Proc Rank 4"
+		},
+		{
+			"entry": 16343,
+			"direct_bonus": 0.1,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Flametongue Weapon Proc Rank 5"
+		},
+		{
+			"entry": 16344,
+			"direct_bonus": 0.1,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Flametongue Weapon Proc Rank 6"
+		},
+		{
+			"entry": 25488,
+			"direct_bonus": 0.1,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Flametongue Weapon Proc Rank 7"
+		},
+		{
+			"entry": 8056,
+			"direct_bonus": 0.3858,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Frost Shock"
+		},
+		{
+			"entry": 8034,
+			"direct_bonus": 0.1,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Frostbrand Attack Rank 1"
+		},
+		{
+			"entry": 5707,
+			"direct_bonus": 0,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Item - Lifestone Regeneration"
+		},
+		{
+			"entry": 38395,
+			"direct_bonus": 0,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Item - Siphon Essence"
+		},
+		{
+			"entry": 31024,
+			"direct_bonus": 0,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Item - Living Ruby Pedant"
+		},
+		{
+			"entry": 18790,
+			"direct_bonus": 0,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Warlock - Fel Stamina"
+		},
+		{
+			"entry": 40293,
+			"direct_bonus": 0,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Item - Siphon Essence"
+		},
+		{
+			"entry": 403,
+			"direct_bonus": 0.7143,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Lightning Bolt"
+		},
+		{
+			"entry": 26364,
+			"direct_bonus": 0.33,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Lightning Shield Proc Rank 1"
+		},
+		{
+			"entry": 26365,
+			"direct_bonus": 0.33,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Lightning Shield Proc Rank 2"
+		},
+		{
+			"entry": 26366,
+			"direct_bonus": 0.33,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Lightning Shield Proc Rank 3"
+		},
+		{
+			"entry": 26367,
+			"direct_bonus": 0.33,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Lightning Shield Proc Rank 4"
+		},
+		{
+			"entry": 26369,
+			"direct_bonus": 0.33,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Lightning Shield Proc Rank 5"
+		},
+		{
+			"entry": 26370,
+			"direct_bonus": 0.33,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Lightning Shield Proc Rank 6"
+		},
+		{
+			"entry": 26363,
+			"direct_bonus": 0.33,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Lightning Shield Proc Rank 7"
+		},
+		{
+			"entry": 26371,
+			"direct_bonus": 0.33,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Lightning Shield Proc Rank 8"
+		},
+		{
+			"entry": 26372,
+			"direct_bonus": 0.33,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Lightning Shield Proc Rank 9"
+		},
+		{
+			"entry": 8188,
+			"direct_bonus": 0.1,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Magma Totam Passive Rank 1"
+		},
+		{
+			"entry": 10582,
+			"direct_bonus": 0.1,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Magma Totam Passive Rank 2"
+		},
+		{
+			"entry": 10583,
+			"direct_bonus": 0.1,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Magma Totam Passive Rank 3"
+		},
+		{
+			"entry": 10584,
+			"direct_bonus": 0.1,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Magma Totam Passive Rank 4"
+		},
+		{
+			"entry": 25551,
+			"direct_bonus": 0.1,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Magma Totam Passive Rank 5"
+		},
+		{
+			"entry": 3606,
+			"direct_bonus": 0.1667,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Searing Totem Attack Rank 1"
+		},
+		{
+			"entry": 6350,
+			"direct_bonus": 0.1667,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Searing Totem Attack Rank 2"
+		},
+		{
+			"entry": 6351,
+			"direct_bonus": 0.1667,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Searing Totem Attack Rank 3"
+		},
+		{
+			"entry": 6352,
+			"direct_bonus": 0.1667,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Searing Totem Attack Rank 4"
+		},
+		{
+			"entry": 10435,
+			"direct_bonus": 0.1667,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Searing Totem Attack Rank 5"
+		},
+		{
+			"entry": 10436,
+			"direct_bonus": 0.1667,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Searing Totem Attack Rank 6"
+		},
+		{
+			"entry": 25530,
+			"direct_bonus": 0.1667,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Searing Totem Attack Rank 7"
+		},
+		{
+			"entry": 980,
+			"direct_bonus": 0,
+			"dot_bonus": 0.1,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Warlock - Curse of Agony"
+		},
+		{
+			"entry": 603,
+			"direct_bonus": 0,
+			"dot_bonus": 2,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Warlock - Curse of Doom"
+		},
+		{
+			"entry": 172,
+			"direct_bonus": 0,
+			"dot_bonus": 0.156,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Warlock - Corruption"
+		},
+		{
+			"entry": 348,
+			"direct_bonus": 0.2,
+			"dot_bonus": 0.2,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Warlock - Immolate"
+		},
+		{
+			"entry": 27243,
+			"direct_bonus": 0.22,
+			"dot_bonus": 0.25,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Warlock - Seed of Corruption"
+		},
+		{
+			"entry": 25329,
+			"direct_bonus": 0.1606,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Priest - Holy Nova Heal Rank 7"
+		},
+		{
+			"entry": 30108,
+			"direct_bonus": 0,
+			"dot_bonus": 0.24,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Warlock - Unstable Affliction"
+		},
+		{
+			"entry": 686,
+			"direct_bonus": 0.8571,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Warlock - Shadow Bolt"
+		},
+		{
+			"entry": 6353,
+			"direct_bonus": 1.15,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Warlock - Soul Fire"
+		},
+		{
+			"entry": 44461,
+			"direct_bonus": 0.4,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Mage - Living Bomb"
+		},
+		{
+			"entry": 5138,
+			"direct_bonus": 0,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Warlock - Drain Mana"
+		},
+		{
+			"entry": 1120,
+			"direct_bonus": 0,
+			"dot_bonus": 0.4286,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Warlock - Drain Soul"
+		},
+		{
+			"entry": 10444,
+			"direct_bonus": 0,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Flametongue Attack"
+		},
+		{
+			"entry": 1949,
+			"direct_bonus": 0,
+			"dot_bonus": 0.0946,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Warlock - Hellfire"
+		},
+		{
+			"entry": 5857,
+			"direct_bonus": 0.1428,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Warlock - Hellfire Effect on Enemy Rank 1"
+		},
+		{
+			"entry": 11681,
+			"direct_bonus": 0.1428,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Warlock - Hellfire Effect on Enemy Rank 2"
+		},
+		{
+			"entry": 11682,
+			"direct_bonus": 0.1428,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Warlock - Hellfire Effect on Enemy Rank 3"
+		},
+		{
+			"entry": 27214,
+			"direct_bonus": 0.1428,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Warlock - Hellfire Effect on Enemy Rank 4"
+		},
+		{
+			"entry": 42223,
+			"direct_bonus": 0.952,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Warlock - Rain of Fire Triggered Rank 1"
+		},
+		{
+			"entry": 42224,
+			"direct_bonus": 0.952,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Warlock - Rain of Fire Triggered Rank 2"
+		},
+		{
+			"entry": 42225,
+			"direct_bonus": 0.952,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Warlock - Rain of Fire Triggered Rank 3"
+		},
+		{
+			"entry": 42226,
+			"direct_bonus": 0.952,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Warlock - Rain of Fire Triggered Rank 4"
+		},
+		{
+			"entry": 42218,
+			"direct_bonus": 0.952,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Warlock - Rain of Fire Triggered Rank 5"
+		},
+		{
+			"entry": 18220,
+			"direct_bonus": 0.96,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Warlock - Dark Pact"
+		},
+		{
+			"entry": 6229,
+			"direct_bonus": 0.3,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Warlock - Shadow Ward"
+		},
+		{
+			"entry": 31117,
+			"direct_bonus": 1.8,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Warlock - Unstable Affliction Dispell"
+		},
+		{
+			"entry": 28176,
+			"direct_bonus": 0,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Warlock - Fel Armor"
+		},
+		{
+			"entry": 34913,
+			"direct_bonus": 0,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Mage - Molten Armor Triggered"
+		},
+		{
+			"entry": 44459,
+			"direct_bonus": 0.4,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Mage - Living Bomb"
+		},
+		{
+			"entry": 15407,
+			"direct_bonus": 0,
+			"dot_bonus": 0.19,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Priest - Mind Flay"
+		},
+		{
+			"entry": 331,
+			"direct_bonus": 0.8571,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Shaman - Healing Wave"
+		},
+		{
+			"entry": 17712,
+			"direct_bonus": 0,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Item - Lifestone Healing"
+		},
+		{
+			"entry": 46567,
+			"direct_bonus": 0,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Item - Goblin Rocket Launcher"
+		},
+		{
+			"entry": 9007,
+			"direct_bonus": 0,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0.03,
+			"comments": "Druid - Pounce Bleed"
+		},
+		{
+			"entry": 1822,
+			"direct_bonus": 0,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0.02,
+			"comments": "Druid - Rake"
+		},
+		{
+			"entry": 33745,
+			"direct_bonus": 0,
+			"dot_bonus": 0,
+			"ap_bonus": 0.01,
+			"ap_dot_bonus": 0.01,
+			"comments": "Druid - Lacerate"
+		},
+		{
+			"entry": 703,
+			"direct_bonus": 0,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0.03,
+			"comments": "Rogue - Garrote"
+		},
+		{
+			"entry": 1495,
+			"direct_bonus": 0,
+			"dot_bonus": 0,
+			"ap_bonus": 0.2,
+			"ap_dot_bonus": 0,
+			"comments": "Hunter - Mongoose Bite"
+		},
+		{
+			"entry": 1978,
+			"direct_bonus": 0,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0.02,
+			"comments": "Hunter - Serpent Sting"
+		},
+		{
+			"entry": 3044,
+			"direct_bonus": 0,
+			"dot_bonus": 0,
+			"ap_bonus": 0.15,
+			"ap_dot_bonus": 0,
+			"comments": "Hunter - Arcane Shot"
+		},
+		{
+			"entry": 13797,
+			"direct_bonus": 0,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0.02,
+			"comments": "Hunter - Immolation Trap"
+		},
+		{
+			"entry": 13812,
+			"direct_bonus": 0,
+			"dot_bonus": 0,
+			"ap_bonus": 0.1,
+			"ap_dot_bonus": 0.1,
+			"comments": "Hunter - Explosive Trap"
+		},
+		{
+			"entry": 43733,
+			"direct_bonus": 0,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Item - Lightning Zap"
+		},
+		{
+			"entry": 15662,
+			"direct_bonus": 0,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Item - Six Demon Bag - Fireball"
+		},
+		{
+			"entry": 11538,
+			"direct_bonus": 0,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Item - Six Demon Bag - Frostbolt"
+		},
+		{
+			"entry": 21179,
+			"direct_bonus": 0,
+			"dot_bonus": 0,
+			"ap_bonus": 0,
+			"ap_dot_bonus": 0,
+			"comments": "Item - Six Demon Bag - Chain Lightning"
+		}
+	]
+}

@@ -1,0 +1,91 @@
+{
+	"table": "skill_discovery_template",
+	"rows":
+	[
+		{
+			"spellId": 28590,
+			"reqSpell": 0,
+			"chance": 0.1
+		},
+		{
+			"spellId": 28587,
+			"reqSpell": 0,
+			"chance": 0.1
+		},
+		{
+			"spellId": 28588,
+			"reqSpell": 0,
+			"chance": 0.1
+		},
+		{
+			"spellId": 28591,
+			"reqSpell": 0,
+			"chance": 0.1
+		},
+		{
+			"spellId": 28589,
+			"reqSpell": 0,
+			"chance": 0.1
+		},
+		{
+			"spellId": 28586,
+			"reqSpell": 0,
+			"chance": 0.1
+		},
+		{
+			"spellId": 28585,
+			"reqSpell": 0,
+			"chance": 0.1
+		},
+		{
+			"spellId": 28584,
+			"reqSpell": 0,
+			"chance": 0.1
+		},
+		{
+			"spellId": 28580,
+			"reqSpell": 0,
+			"chance": 0.1
+		},
+		{
+			"spellId": 28581,
+			"reqSpell": 0,
+			"chance": 0.1
+		},
+		{
+			"spellId": 28583,
+			"reqSpell": 0,
+			"chance": 0.1
+		},
+		{
+			"spellId": 28582,
+			"reqSpell": 0,
+			"chance": 0.1
+		},
+		{
+			"spellId": 41458,
+			"reqSpell": 28575,
+			"chance": 30
+		},
+		{
+			"spellId": 41500,
+			"reqSpell": 28571,
+			"chance": 30
+		},
+		{
+			"spellId": 41501,
+			"reqSpell": 28572,
+			"chance": 30
+		},
+		{
+			"spellId": 41502,
+			"reqSpell": 28573,
+			"chance": 30
+		},
+		{
+			"spellId": 41503,
+			"reqSpell": 28576,
+			"chance": 30
+		}
+	]
+}

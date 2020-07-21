@@ -1,0 +1,816 @@
+{
+	"table": "game_event_creature_data",
+	"rows":
+	[
+		{
+			"guid": 12088,
+			"entry_id": 0,
+			"modelid": 0,
+			"equipment_id": 5374,
+			"spell_start": 0,
+			"spell_end": 0,
+			"event": 27
+		},
+		{
+			"guid": 12093,
+			"entry_id": 0,
+			"modelid": 0,
+			"equipment_id": 5374,
+			"spell_start": 0,
+			"spell_end": 0,
+			"event": 27
+		},
+		{
+			"guid": 12095,
+			"entry_id": 0,
+			"modelid": 0,
+			"equipment_id": 5374,
+			"spell_start": 0,
+			"spell_end": 0,
+			"event": 27
+		},
+		{
+			"guid": 79670,
+			"entry_id": 0,
+			"modelid": 0,
+			"equipment_id": 5374,
+			"spell_start": 0,
+			"spell_end": 0,
+			"event": 27
+		},
+		{
+			"guid": 79675,
+			"entry_id": 0,
+			"modelid": 0,
+			"equipment_id": 5374,
+			"spell_start": 0,
+			"spell_end": 0,
+			"event": 27
+		},
+		{
+			"guid": 79676,
+			"entry_id": 0,
+			"modelid": 0,
+			"equipment_id": 5374,
+			"spell_start": 0,
+			"spell_end": 0,
+			"event": 27
+		},
+		{
+			"guid": 79690,
+			"entry_id": 0,
+			"modelid": 0,
+			"equipment_id": 5374,
+			"spell_start": 0,
+			"spell_end": 0,
+			"event": 27
+		},
+		{
+			"guid": 79792,
+			"entry_id": 0,
+			"modelid": 0,
+			"equipment_id": 5374,
+			"spell_start": 0,
+			"spell_end": 0,
+			"event": 27
+		},
+		{
+			"guid": 79807,
+			"entry_id": 0,
+			"modelid": 0,
+			"equipment_id": 5374,
+			"spell_start": 0,
+			"spell_end": 0,
+			"event": 27
+		},
+		{
+			"guid": 79814,
+			"entry_id": 0,
+			"modelid": 0,
+			"equipment_id": 5374,
+			"spell_start": 0,
+			"spell_end": 0,
+			"event": 27
+		},
+		{
+			"guid": 17663,
+			"entry_id": 1896,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 17905,
+			"entry_id": 1896,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 17908,
+			"entry_id": 1892,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 17910,
+			"entry_id": 1893,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 17911,
+			"entry_id": 1893,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 18220,
+			"entry_id": 1896,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 18221,
+			"entry_id": 1896,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 18235,
+			"entry_id": 3531,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 18236,
+			"entry_id": 1893,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 18237,
+			"entry_id": 1893,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 18238,
+			"entry_id": 1896,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 18239,
+			"entry_id": 1893,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 18291,
+			"entry_id": 1893,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 18306,
+			"entry_id": 1893,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 18307,
+			"entry_id": 3529,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 18309,
+			"entry_id": 3533,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 18310,
+			"entry_id": 1896,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 18350,
+			"entry_id": 1893,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 18354,
+			"entry_id": 1896,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 18355,
+			"entry_id": 1896,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 18400,
+			"entry_id": 1893,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 18404,
+			"entry_id": 1892,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 18405,
+			"entry_id": 1896,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 18407,
+			"entry_id": 1896,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 18408,
+			"entry_id": 1892,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 18409,
+			"entry_id": 1896,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 18411,
+			"entry_id": 1893,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 18413,
+			"entry_id": 1893,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 18996,
+			"entry_id": 1893,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 19002,
+			"entry_id": 1892,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 19005,
+			"entry_id": 1892,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 19007,
+			"entry_id": 1896,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 19008,
+			"entry_id": 1893,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 19012,
+			"entry_id": 1893,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 19015,
+			"entry_id": 1893,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 19019,
+			"entry_id": 1893,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 19084,
+			"entry_id": 1892,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 19219,
+			"entry_id": 1892,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 19220,
+			"entry_id": 1893,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 19222,
+			"entry_id": 1892,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 19223,
+			"entry_id": 1892,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 19224,
+			"entry_id": 1892,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 19227,
+			"entry_id": 1892,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 19228,
+			"entry_id": 1893,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 19229,
+			"entry_id": 1892,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 19316,
+			"entry_id": 1892,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 19343,
+			"entry_id": 1892,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 7671,
+			"spell_end": 7671,
+			"event": 27
+		},
+		{
+			"guid": 98366,
+			"entry_id": 0,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 49672,
+			"spell_end": 0,
+			"event": 45
+		},
+		{
+			"guid": 98367,
+			"entry_id": 0,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 49672,
+			"spell_end": 0,
+			"event": 46
+		},
+		{
+			"guid": 98368,
+			"entry_id": 0,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 49672,
+			"spell_end": 0,
+			"event": 47
+		},
+		{
+			"guid": 98369,
+			"entry_id": 0,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 49672,
+			"spell_end": 0,
+			"event": 48
+		},
+		{
+			"guid": 98370,
+			"entry_id": 0,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 49672,
+			"spell_end": 0,
+			"event": 49
+		},
+		{
+			"guid": 98371,
+			"entry_id": 0,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 49672,
+			"spell_end": 0,
+			"event": 50
+		},
+		{
+			"guid": 98372,
+			"entry_id": 0,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 49672,
+			"spell_end": 0,
+			"event": 51
+		},
+		{
+			"guid": 98373,
+			"entry_id": 0,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 49672,
+			"spell_end": 0,
+			"event": 52
+		},
+		{
+			"guid": 98374,
+			"entry_id": 0,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 49672,
+			"spell_end": 0,
+			"event": 54
+		},
+		{
+			"guid": 98375,
+			"entry_id": 0,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 49672,
+			"spell_end": 0,
+			"event": 55
+		},
+		{
+			"guid": 98376,
+			"entry_id": 0,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 49672,
+			"spell_end": 0,
+			"event": 56
+		},
+		{
+			"guid": 98377,
+			"entry_id": 0,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 49673,
+			"spell_end": 0,
+			"event": 45
+		},
+		{
+			"guid": 98378,
+			"entry_id": 0,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 49673,
+			"spell_end": 0,
+			"event": 46
+		},
+		{
+			"guid": 98379,
+			"entry_id": 0,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 49673,
+			"spell_end": 0,
+			"event": 47
+		},
+		{
+			"guid": 98380,
+			"entry_id": 0,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 49673,
+			"spell_end": 0,
+			"event": 48
+		},
+		{
+			"guid": 98381,
+			"entry_id": 0,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 49673,
+			"spell_end": 0,
+			"event": 49
+		},
+		{
+			"guid": 98382,
+			"entry_id": 0,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 49673,
+			"spell_end": 0,
+			"event": 50
+		},
+		{
+			"guid": 98383,
+			"entry_id": 0,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 49673,
+			"spell_end": 0,
+			"event": 51
+		},
+		{
+			"guid": 98384,
+			"entry_id": 0,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 49673,
+			"spell_end": 0,
+			"event": 52
+		},
+		{
+			"guid": 98385,
+			"entry_id": 0,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 49673,
+			"spell_end": 0,
+			"event": 53
+		},
+		{
+			"guid": 98386,
+			"entry_id": 0,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 49673,
+			"spell_end": 0,
+			"event": 54
+		},
+		{
+			"guid": 98387,
+			"entry_id": 0,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 49673,
+			"spell_end": 0,
+			"event": 55
+		},
+		{
+			"guid": 98388,
+			"entry_id": 0,
+			"modelid": 0,
+			"equipment_id": 0,
+			"spell_start": 49673,
+			"spell_end": 0,
+			"event": 56
+		},
+		{
+			"guid": 54433,
+			"entry_id": 0,
+			"modelid": 15733,
+			"equipment_id": 0,
+			"spell_start": 0,
+			"spell_end": 0,
+			"event": 2
+		},
+		{
+			"guid": 56951,
+			"entry_id": 0,
+			"modelid": 15734,
+			"equipment_id": 0,
+			"spell_start": 0,
+			"spell_end": 0,
+			"event": 2
+		},
+		{
+			"guid": 47613,
+			"entry_id": 0,
+			"modelid": 15735,
+			"equipment_id": 0,
+			"spell_start": 0,
+			"spell_end": 0,
+			"event": 2
+		},
+		{
+			"guid": 45840,
+			"entry_id": 0,
+			"modelid": 15737,
+			"equipment_id": 0,
+			"spell_start": 0,
+			"spell_end": 0,
+			"event": 2
+		},
+		{
+			"guid": 40458,
+			"entry_id": 0,
+			"modelid": 15760,
+			"equipment_id": 0,
+			"spell_start": 0,
+			"spell_end": 0,
+			"event": 2
+		},
+		{
+			"guid": 57853,
+			"entry_id": 0,
+			"modelid": 22800,
+			"equipment_id": 0,
+			"spell_start": 0,
+			"spell_end": 0,
+			"event": 2
+		},
+		{
+			"guid": 67000,
+			"entry_id": 0,
+			"modelid": 22801,
+			"equipment_id": 0,
+			"spell_start": 0,
+			"spell_end": 0,
+			"event": 2
+		},
+		{
+			"guid": 83453,
+			"entry_id": 0,
+			"modelid": 22802,
+			"equipment_id": 0,
+			"spell_start": 0,
+			"spell_end": 0,
+			"event": 2
+		},
+		{
+			"guid": 83230,
+			"entry_id": 0,
+			"modelid": 22804,
+			"equipment_id": 0,
+			"spell_start": 0,
+			"spell_end": 0,
+			"event": 2
+		},
+		{
+			"guid": 82987,
+			"entry_id": 0,
+			"modelid": 22805,
+			"equipment_id": 0,
+			"spell_start": 0,
+			"spell_end": 0,
+			"event": 2
+		}
+	]
+}

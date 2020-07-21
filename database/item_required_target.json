@@ -1,0 +1,306 @@
+{
+	"table": "item_required_target",
+	"rows":
+	[
+		{
+			"entry": 3912,
+			"type": 1,
+			"targetEntry": 2530
+		},
+		{
+			"entry": 4479,
+			"type": 1,
+			"targetEntry": 2762
+		},
+		{
+			"entry": 4480,
+			"type": 1,
+			"targetEntry": 2761
+		},
+		{
+			"entry": 4481,
+			"type": 1,
+			"targetEntry": 2760
+		},
+		{
+			"entry": 8149,
+			"type": 2,
+			"targetEntry": 7318
+		},
+		{
+			"entry": 9328,
+			"type": 1,
+			"targetEntry": 7977
+		},
+		{
+			"entry": 9606,
+			"type": 2,
+			"targetEntry": 7584
+		},
+		{
+			"entry": 9618,
+			"type": 2,
+			"targetEntry": 2927
+		},
+		{
+			"entry": 9618,
+			"type": 2,
+			"targetEntry": 2928
+		},
+		{
+			"entry": 9618,
+			"type": 2,
+			"targetEntry": 2929
+		},
+		{
+			"entry": 9618,
+			"type": 2,
+			"targetEntry": 7808
+		},
+		{
+			"entry": 9619,
+			"type": 2,
+			"targetEntry": 5300
+		},
+		{
+			"entry": 9619,
+			"type": 2,
+			"targetEntry": 5304
+		},
+		{
+			"entry": 9619,
+			"type": 2,
+			"targetEntry": 5305
+		},
+		{
+			"entry": 9619,
+			"type": 2,
+			"targetEntry": 5306
+		},
+		{
+			"entry": 9620,
+			"type": 2,
+			"targetEntry": 5276
+		},
+		{
+			"entry": 9620,
+			"type": 2,
+			"targetEntry": 5278
+		},
+		{
+			"entry": 9621,
+			"type": 2,
+			"targetEntry": 5357
+		},
+		{
+			"entry": 9621,
+			"type": 2,
+			"targetEntry": 5358
+		},
+		{
+			"entry": 9621,
+			"type": 2,
+			"targetEntry": 14604
+		},
+		{
+			"entry": 9621,
+			"type": 2,
+			"targetEntry": 14640
+		},
+		{
+			"entry": 12647,
+			"type": 1,
+			"targetEntry": 4678
+		},
+		{
+			"entry": 12647,
+			"type": 1,
+			"targetEntry": 4681
+		},
+		{
+			"entry": 12647,
+			"type": 1,
+			"targetEntry": 4685
+		},
+		{
+			"entry": 15908,
+			"type": 1,
+			"targetEntry": 1196
+		},
+		{
+			"entry": 15911,
+			"type": 1,
+			"targetEntry": 1126
+		},
+		{
+			"entry": 15913,
+			"type": 1,
+			"targetEntry": 1201
+		},
+		{
+			"entry": 15914,
+			"type": 1,
+			"targetEntry": 2956
+		},
+		{
+			"entry": 15915,
+			"type": 1,
+			"targetEntry": 2959
+		},
+		{
+			"entry": 15916,
+			"type": 1,
+			"targetEntry": 2970
+		},
+		{
+			"entry": 15917,
+			"type": 1,
+			"targetEntry": 3099
+		},
+		{
+			"entry": 15919,
+			"type": 1,
+			"targetEntry": 3107
+		},
+		{
+			"entry": 15920,
+			"type": 1,
+			"targetEntry": 3126
+		},
+		{
+			"entry": 15921,
+			"type": 1,
+			"targetEntry": 1998
+		},
+		{
+			"entry": 15922,
+			"type": 1,
+			"targetEntry": 2043
+		},
+		{
+			"entry": 15923,
+			"type": 1,
+			"targetEntry": 1996
+		},
+		{
+			"entry": 22432,
+			"type": 1,
+			"targetEntry": 6498
+		},
+		{
+			"entry": 22432,
+			"type": 1,
+			"targetEntry": 6499
+		},
+		{
+			"entry": 22432,
+			"type": 1,
+			"targetEntry": 6500
+		},
+		{
+			"entry": 22473,
+			"type": 1,
+			"targetEntry": 15941
+		},
+		{
+			"entry": 22473,
+			"type": 1,
+			"targetEntry": 15945
+		},
+		{
+			"entry": 22783,
+			"type": 1,
+			"targetEntry": 16329
+		},
+		{
+			"entry": 22784,
+			"type": 1,
+			"targetEntry": 16329
+		},
+		{
+			"entry": 22962,
+			"type": 1,
+			"targetEntry": 16518
+		},
+		{
+			"entry": 23697,
+			"type": 1,
+			"targetEntry": 15650
+		},
+		{
+			"entry": 23702,
+			"type": 1,
+			"targetEntry": 15652
+		},
+		{
+			"entry": 23703,
+			"type": 1,
+			"targetEntry": 16353
+		},
+		{
+			"entry": 23896,
+			"type": 1,
+			"targetEntry": 17217
+		},
+		{
+			"entry": 23897,
+			"type": 1,
+			"targetEntry": 17374
+		},
+		{
+			"entry": 23898,
+			"type": 1,
+			"targetEntry": 17203
+		},
+		{
+			"entry": 30175,
+			"type": 1,
+			"targetEntry": 20748
+		},
+		{
+			"entry": 30259,
+			"type": 1,
+			"targetEntry": 20132
+		},
+		{
+			"entry": 30656,
+			"type": 1,
+			"targetEntry": 21729
+		},
+		{
+			"entry": 31129,
+			"type": 1,
+			"targetEntry": 21387
+		},
+		{
+			"entry": 31463,
+			"type": 1,
+			"targetEntry": 19440
+		},
+		{
+			"entry": 32321,
+			"type": 1,
+			"targetEntry": 22979
+		},
+		{
+			"entry": 32825,
+			"type": 1,
+			"targetEntry": 22357
+		},
+		{
+			"entry": 34255,
+			"type": 1,
+			"targetEntry": 24922
+		},
+		{
+			"entry": 34257,
+			"type": 1,
+			"targetEntry": 24918
+		},
+		{
+			"entry": 34368,
+			"type": 2,
+			"targetEntry": 24972
+		}
+	]
+}
