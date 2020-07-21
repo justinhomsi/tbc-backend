@@ -10,14 +10,13 @@ const Creatures = require('../routers/Creatures')
 const Search = require('../routers/Search')
 const Blue = require('../routers/Blue')
 
+app.use(express.static('dist'))
+
 app.use('/item', Items)
 app.use('/quest', Quests)
 app.use('/npc', Creatures)
 app.use('/search', Search)
-app.use('/search?q', Search)
 app.use('/blue', Blue)
-
-app.use(express.static('dist'))
 
 const PORT = process.env.PORT || 3000
 app.listen(PORT, () => {
