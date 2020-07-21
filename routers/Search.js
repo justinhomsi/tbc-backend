@@ -17,4 +17,9 @@ router.get('', (req, res) => {
   }
 })
 
+router.get('?:q', (req, res) => {
+  res.sendFile(__dirname + '/index.html');
+  res.redirect('');
+})
+
 module.exports = router
