@@ -4,8 +4,9 @@ const creature_template = require('../database/creature_template.json');
 const item_template = require('../database/item_template.json');
 const quest_template = require('../database/quest_template.json');
 
+router.use(express.static('dist'))
+
 router.get('', (req, res) => {
-  res.sendFile(__dirname + '/index.html')
   var regex = new RegExp(req.query.q, 'i')
   var creatures = creature_template.rows.filter(e => e.Name.match(regex));
   var items = item_template.rows.filter(e => e.name.match(regex));
