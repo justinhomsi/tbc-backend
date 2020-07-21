@@ -1,28 +1,19 @@
 var express = require('express')
 var router = express.Router()
-
-var mysql = require('mysql')
-var connection = mysql.createConnection({
-  host: 'localhost',
-  user: 'root',
-  password: 'Honeybadger27!',
-  database: 'tbc'
-})
+const creature_template = require('../database/creature_template.json');
+const item_template = require('../database/item_template.json');
+const quest_template = require('../database/quest_template.json');
 
 router.get('', (req, res) => {
-  console.log(req.query.q)
-  connection.query(`SELECT entry AS id, Title, Details AS quality, 'quest' AS type FROM quest_template WHERE Title LIKE '%${req.query.q}%'
-    UNION ALL
-    SELECT entry AS id, name, quality, 'item' FROM item_template WHERE name LIKE '%${req.query.q}%'
-    UNION ALL
-    SELECT entry as id, Name, SubName, 'npc' FROM creature_template WHERE Name LIKE '%${req.query.q}%'`, function (error, results, fields) {
-    if (error) throw error;
-    if (!results.length) {
-      res.sendStatus(404).end()
-    } else {
-      res.send(results)
-    }
-  })
+  var regex = new RegExp(req.query.q, 'i')
+  var creatures = creature_template.rows.filter(e => e.Name.match(regex));
+  var items = item_template.rows.filter(e => e.name.match(regex));
+  var quests = quest_template.rows.filter(e => e.Title.match(regex));
+  if (!creatures && !items && !quests) {
+    res.sendStatus(404).end()
+  } else {
+    res.send({creatures: creatures, items: items, quests: quests})
+  }
 })
 
 module.exports = router
