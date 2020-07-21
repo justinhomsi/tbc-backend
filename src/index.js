@@ -14,6 +14,7 @@ app.use('/item', Items)
 app.use('/quest', Quests)
 app.use('/npc', Creatures)
 app.use('/search', Search)
+app.use('/search?q', Search)
 app.use('/blue', Blue)
 
 app.use(express.static('dist'))
