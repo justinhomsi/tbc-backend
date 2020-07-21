@@ -18,8 +18,9 @@ app.use('/npc', Creatures)
 app.use('/search', Search)
 app.use('/blue', Blue)
 
-app.use('/', express.static('dist'))
-app.use('*', express.static('dist'))
+app.get('/search?q=:query', (req, res) => {
+  res.sendFile(__dirname + '/index.html')
+})
 
 const PORT = process.env.PORT || 3000
 app.listen(PORT, () => {
