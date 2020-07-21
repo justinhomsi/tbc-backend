@@ -5,6 +5,7 @@ const item_template = require('../database/item_template.json');
 const quest_template = require('../database/quest_template.json');
 
 router.get('', (req, res) => {
+  res.sendFile(__dirname + '/index.html')
   var regex = new RegExp(req.query.q, 'i')
   var creatures = creature_template.rows.filter(e => e.Name.match(regex));
   var items = item_template.rows.filter(e => e.name.match(regex));
@@ -13,13 +14,7 @@ router.get('', (req, res) => {
     res.sendStatus(404).end()
   } else {
     res.send({creatures: creatures, items: items, quests: quests})
-    res.sendFile(__dirname + '/index.html')
   }
-})
-
-router.get('?:q', (req, res) => {
-  res.sendFile(__dirname + '/index.html');
-  res.redirect('');
 })
 
 module.exports = router
