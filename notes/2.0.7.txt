@@ -1,0 +1,30 @@
+General
+The amount of haste granted by a point of haste rating has been increased by about 50%.
+20 slot bags are now bind on equip.
+Any effect which benefits the victim of a critical strike will now trigger even if resilience converted the attack from a critical strike to a normal strike; this applies to melee, ranged, and spell. The affected talents, abilities, and items are: "Eye for an Eye", "Blessed Resilience", "Enrage", "Martyrdom", "Blood Craze", "Eye of the Storm", and "Bonespike Shoulder".
+The Crust Bruster has had a loot icon and sound change.
+Players can no longer send gift wrapped packages via COD.
+When sharing a quest, the order logic has changed to check whether or not the player has completed or is ineligible for the quest before checking whether their quest log is full.
+PvP
+Battlegrounds
+If Primalist Thurloga is attacked and pulled off her pathing on the way to summon Lokholar the Ice Lord, she will now properly path back to the summoning ring to complete the event.
+PVP flags and graveyard nodes can no longer be captured through collision.
+Raids and Dungeons
+Players are no longer able to accept the quest "N [70D] The Opening of the Dark Portal" while the Black Morass encounter is engaged.
+In the Black Morass, Chrono Lord Deja will now properly spawn during a Heroic Mode attempt.
+After completing the Black Morass encounter, all the additional mobs in the zone will no longer all aggro.
+Durnholde Lookouts will now properly despawn after all 5 of the Baracks in Caverns of Time: Escape from Durnholde are burned down.
+The items required to complete the Karazhan key quest can now only be looted by the first group in the instance to reach them.
+Berthold the Doorman will now have a gossip option to teleport players to the Shade of Aran's room. This gossip option only becomes available when players have defeated the Shade of Aran.
+The aggro range for players when under the effect of "Incite Chaos" while fighting Blackheart the Inciter in the Shadow Labyrinth has been adjusted.
+Many creatures within Coilfang Reservoir have been slightly retuned.
+Many creatures within the Mana Tombs have been slightly retuned.
+Mac
+Stability improvements in Multi-Threaded OpenGL support on future OS X releases.
+Bug Fixes
+The talent " [Combat Potency]" no longer causes rogues to have a chance to gain energy when other players hit them with off-hand attacks.
+Players with multiple chat windows will no longer have fixed channels (ie. general, trade) added back to the main chat window every time they log on.
+Attempting to prospect less than 5 pieces of ore will no longer cause a game crash. (Spanish Only)
+The Fel Reaver for "It's A Fel Reaver, But With Heart" quest will now respawn properly if you wipe on the quest.
+Fixed a crash that could occur when on a flight path.
+Fixed the local defense channel so that it will properly change based on the player's zone.

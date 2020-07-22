@@ -10,6 +10,7 @@ const Quests = require('../routers/Quests')
 const Creatures = require('../routers/Creatures')
 const Search = require('../routers/Search')
 const Blue = require('../routers/Blue')
+const Notes = require('../routers/Notes')
 
 app.use(history());
 app.use(express.static('dist'))
@@ -19,6 +20,7 @@ app.use('/quest', Quests)
 app.use('/npc', Creatures)
 app.use('/search', Search)
 app.use('/blue', Blue)
+app.use('/notes', Notes)
 
 const PORT = process.env.PORT || 3000
 app.listen(PORT, () => {
