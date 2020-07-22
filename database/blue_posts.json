@@ -2,11 +2,11 @@
   "table": "blue_posts",
   "rows": [
     {
-      "id": 583197,
-      "title": "FEEDBACK: Theater of Pain",
-      "created": "2020-07-14 16:11:04",
-      "url": "/t/feedback-theater-of-pain/583197/1",
-      "user": "Aelthas"
+      "id": 584531,
+      "title": "FEEDBACK: Necrolord Covenant",
+      "created": "2020-07-15 20:19:53",
+      "url": "/t/feedback-necrolord-covenant/584531/1",
+      "user": "Kaivax"
     },
     {
       "id": 490693,
@@ -126,6 +126,27 @@
       "created": "2020-07-17 19:15:42",
       "url": "/t/beta-servers-down/585814/28",
       "user": "Zorbrix"
+    },
+    {
+      "id": 589985,
+      "title": "PvP Medallion Trinkets in Shadowlands",
+      "created": "2020-07-21 21:39:43",
+      "url": "/t/pvp-medallion-trinkets-in-shadowlands/589985/1",
+      "user": "Kaivax"
+    },
+    {
+      "id": 589704,
+      "title": "Raid Testing Schedule - July 23rd & 24th",
+      "created": "2020-07-21 20:57:41",
+      "url": "/t/raid-testing-schedule-july-23rd-24th/589704/5",
+      "user": "Aelthas"
+    },
+    {
+      "id": 589532,
+      "title": "Version 8.3.7 Update Notes",
+      "created": "2020-07-21 15:23:53",
+      "url": "/t/version-837-update-notes/589532/1",
+      "user": "Kaivax"
     }
   ]
 }
