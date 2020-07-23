@@ -28,9 +28,7 @@ function addToDatabaseJSON() {
   bluePosts.forEach(post => {
     var tempObj;
     tempObj = savedPosts
-    var postDate = new Date(post.created_at);
-    var convertedTime = postDate.toJSON().slice(0, 19).replace('T', ' ');
-    var insertVars = {id: post.topic_id, title: post.title, created: convertedTime, url: post.url, user: post.user.name};
+    var insertVars = {id: post.topic_id, title: post.title, created: post.created_at, url: post.url, user: post.user.name};
     if (tempObj.rows.filter(e => e.id == post.topic_id).length > 0) {
       tempObj.rows.splice(0, 1, insertVars);
       var json = JSON.stringify(tempObj, null, 2);
