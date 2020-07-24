@@ -2,11 +2,11 @@
   "table": "blue_posts",
   "rows": [
     {
-      "id": 584612,
-      "title": "FEEDBACK: Mythic Keystone Dungeons",
-      "created": "2020-07-15T22:12:16.511Z",
-      "url": "/t/feedback-mythic-keystone-dungeons/584612/1",
-      "user": "Aelthas"
+      "id": 585814,
+      "title": "Beta Servers down?",
+      "created": "2020-07-17T19:15:42.182Z",
+      "url": "/t/beta-servers-down/585814/28",
+      "user": "Zorbrix"
     },
     {
       "id": 589985,
@@ -97,6 +97,41 @@
       "title": "Gladiator Mounts in Shadowlands",
       "created": "2020-07-15T23:10:09.008Z",
       "url": "/t/gladiator-mounts-in-shadowlands/584639/1",
+      "user": "Kaivax"
+    },
+    {
+      "id": 592122,
+      "title": "AQ Expectations",
+      "created": "2020-07-24T02:12:50.483Z",
+      "url": "/t/aq-expectations/592122/1",
+      "user": "Kaivax"
+    },
+    {
+      "id": 591585,
+      "title": "FEEDBACK: Hungering Destroyer",
+      "created": "2020-07-23T20:33:34.164Z",
+      "url": "/t/feedback-hungering-destroyer/591585/3",
+      "user": "Aelthas"
+    },
+    {
+      "id": 591595,
+      "title": "Time Runs Short: Battle for Azeroth",
+      "created": "2020-07-23T17:55:56.508Z",
+      "url": "/t/time-runs-short-battle-for-azeroth/591595/38",
+      "user": "Phaerix"
+    },
+    {
+      "id": 591590,
+      "title": "FEEDBACK: Lady Inerva Darkvein",
+      "created": "2020-07-23T16:55:05.782Z",
+      "url": "/t/feedback-lady-inerva-darkvein/591590/1",
+      "user": "Aelthas"
+    },
+    {
+      "id": 361448,
+      "title": "WoW Classic Hotfixes -- Updated July 22",
+      "created": "2020-07-23T02:18:54.886Z",
+      "url": "/t/wow-classic-hotfixes-updated-july-22/361448/401",
       "user": "Kaivax"
     }
   ]
