@@ -2,11 +2,11 @@
   "table": "blue_posts",
   "rows": [
     {
-      "id": 585814,
-      "title": "Beta Servers down?",
-      "created": "2020-07-17T19:15:42.182Z",
-      "url": "/t/beta-servers-down/585814/28",
-      "user": "Zorbrix"
+      "id": 589704,
+      "title": "Raid Testing Schedule - July 23rd & 24th",
+      "created": "2020-07-21T19:04:37.083Z",
+      "url": "/t/raid-testing-schedule-july-23rd-24th/589704/1",
+      "user": "Aelthas"
     },
     {
       "id": 589985,
@@ -133,6 +133,27 @@
       "created": "2020-07-23T02:18:54.886Z",
       "url": "/t/wow-classic-hotfixes-updated-july-22/361448/401",
       "user": "Kaivax"
+    },
+    {
+      "id": 592622,
+      "title": "Taunt Bug -- July 24",
+      "created": "2020-07-24T20:22:25.379Z",
+      "url": "/t/taunt-bug-july-24/592622/1",
+      "user": "Kaivax"
+    },
+    {
+      "id": 592492,
+      "title": "FEEDBACK: Sludgefist",
+      "created": "2020-07-24T16:36:17.719Z",
+      "url": "/t/feedback-sludgefist/592492/1",
+      "user": "Aelthas"
+    },
+    {
+      "id": 592491,
+      "title": "FEEDBACK: Sun King's Salvation",
+      "created": "2020-07-24T16:34:29.379Z",
+      "url": "/t/feedback-sun-kings-salvation/592491/1",
+      "user": "Aelthas"
     }
   ]
 }

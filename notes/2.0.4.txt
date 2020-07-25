@@ -1,4 +1,0 @@
-Bug Fixes
-Fixed a bug where flags in Arathi Basin could be captured at extremely long distances.
-Fixed a bug where players who had set dungeons to Heroic difficulty level previous to patch 2.0.3 could no longer enter instances.
-Fixed a bug that was causing multiple LUA errors in the German and French battlegrounds.
