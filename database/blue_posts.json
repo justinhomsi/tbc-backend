@@ -2,11 +2,11 @@
   "table": "blue_posts",
   "rows": [
     {
-      "id": 589704,
-      "title": "Raid Testing Schedule - July 23rd & 24th",
-      "created": "2020-07-21T19:04:37.083Z",
-      "url": "/t/raid-testing-schedule-july-23rd-24th/589704/1",
-      "user": "Aelthas"
+      "id": 594788,
+      "title": "WoW Classic: The Ahn’Qiraj War Effort Has Begun!",
+      "created": "2020-07-27T17:17:38.388Z",
+      "url": "/t/wow-classic-the-ahn%E2%80%99qiraj-war-effort-has-begun/594788/1",
+      "user": "Blizzard Entertainment"
     },
     {
       "id": 589985,
@@ -154,6 +154,97 @@
       "created": "2020-07-24T16:34:29.379Z",
       "url": "/t/feedback-sun-kings-salvation/592491/1",
       "user": "Aelthas"
+    },
+    {
+      "id": 598027,
+      "title": "Realm Connections -- August 4",
+      "created": "2020-07-31T04:00:47.320Z",
+      "url": "/t/realm-connections-august-4/598027/1",
+      "user": "Kaivax"
+    },
+    {
+      "id": 597434,
+      "title": "FEEDBACK: The Council of Blood",
+      "created": "2020-07-30T16:37:08.851Z",
+      "url": "/t/feedback-the-council-of-blood/597434/1",
+      "user": "Aelthas"
+    },
+    {
+      "id": 597432,
+      "title": "FEEDBACK: Huntsman Altimor",
+      "created": "2020-07-30T16:36:04.747Z",
+      "url": "/t/feedback-huntsman-altimor/597432/1",
+      "user": "Aelthas"
+    },
+    {
+      "id": 490669,
+      "title": "Shadowlands Development Update Notes -- July 29",
+      "created": "2020-07-29T22:56:14.964Z",
+      "url": "/t/shadowlands-development-update-notes-july-29/490669/11",
+      "user": "Blizzard Entertainment"
+    },
+    {
+      "id": 584532,
+      "title": "FEEDBACK: Night Fae Covenant",
+      "created": "2020-07-29T17:25:15.799Z",
+      "url": "/t/feedback-night-fae-covenant/584532/29",
+      "user": "Blizzard Entertainment"
+    },
+    {
+      "id": 596481,
+      "title": "Shadowlands Conduits Update",
+      "created": "2020-07-29T15:00:25.327Z",
+      "url": "/t/shadowlands-conduits-update/596481/1",
+      "user": "Kaivax"
+    },
+    {
+      "id": 414943,
+      "title": "Hotfixes - Updated July 28, 2020",
+      "created": "2020-07-29T02:11:37.844Z",
+      "url": "/t/hotfixes-updated-july-28-2020/414943/174",
+      "user": "Blizzard Entertainment"
+    },
+    {
+      "id": 595734,
+      "title": "Raid Testing Schedule - July 30th & 31st",
+      "created": "2020-07-28T19:14:47.721Z",
+      "url": "/t/raid-testing-schedule-july-30th-31st/595734/1",
+      "user": "Aelthas"
+    },
+    {
+      "id": 595594,
+      "title": "The AQ War Effort is Underway!",
+      "created": "2020-07-28T17:37:51.029Z",
+      "url": "/t/the-aq-war-effort-is-underway/595594/14",
+      "user": "Kaivax"
+    },
+    {
+      "id": 592642,
+      "title": "Proc Weapons and the GCD",
+      "created": "2020-07-28T01:25:08.793Z",
+      "url": "/t/proc-weapons-and-the-gcd/592642/40",
+      "user": "Aggrend"
+    },
+    {
+      "id": 595065,
+      "title": "Raid Reset Planned Downtime for July 28",
+      "created": "2020-07-27T23:16:09.641Z",
+      "url": "/t/raid-reset-planned-downtime-for-july-28/595065/1",
+      "user": "Kaivax"
+    },
+    {
+      "id": 594788,
+      "title": "WoW Classic: The Ahn’Qiraj War Effort Has Begun!",
+      "created": "2020-07-27T19:18:22.220Z",
+      "url": "/t/wow-classic-the-ahn%E2%80%99qiraj-war-effort-has-begun/594788/20",
+      "user": "Nethaera"
+    },
+    {
+      "id": 490706,
+      "title": "FEEDBACK: Druid Class Changes",
+      "created": "2020-07-27T19:14:58.804Z",
+      "url": "/t/feedback-druid-class-changes/490706/185",
+      "user": "Sigma"
     }
   ]
 }
