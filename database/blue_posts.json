@@ -2,249 +2,132 @@
   "table": "blue_posts",
   "rows": [
     {
-      "id": 594788,
-      "title": "WoW Classic: The Ahn’Qiraj War Effort Has Begun!",
-      "created": "2020-07-27T17:17:38.388Z",
-      "url": "/t/wow-classic-the-ahn%E2%80%99qiraj-war-effort-has-begun/594788/1",
-      "user": "Blizzard Entertainment"
+      "id": 595594,
+      "title": "The AQ War Effort is Underway!",
+      "created": "2020-07-28T16:44:37.030Z",
+      "url": "/t/the-aq-war-effort-is-underway/595594/1",
+      "user": "Kaivax",
+      "category": 172
     },
     {
-      "id": 589985,
-      "title": "PvP Medallion Trinkets in Shadowlands",
-      "created": "2020-07-22T21:27:41.361Z",
-      "url": "/t/pvp-medallion-trinkets-in-shadowlands/589985/15",
-      "user": "Kaivax"
-    },
-    {
-      "id": 590828,
-      "title": "Feedback: Pet Battles in Shadowlands",
-      "created": "2020-07-22T21:07:19.920Z",
-      "url": "/t/feedback-pet-battles-in-shadowlands/590828/1",
-      "user": "Kaivax"
-    },
-    {
-      "id": 590758,
-      "title": "Spell Variance in Shadowlands",
-      "created": "2020-07-22T19:15:12.179Z",
-      "url": "/t/spell-variance-in-shadowlands/590758/1",
-      "user": "Kaivax"
-    },
-    {
-      "id": 589704,
-      "title": "Raid Testing Schedule - July 23rd & 24th",
-      "created": "2020-07-21T20:57:41.501Z",
-      "url": "/t/raid-testing-schedule-july-23rd-24th/589704/5",
-      "user": "Aelthas"
-    },
-    {
-      "id": 589532,
-      "title": "Version 8.3.7 Update Notes",
-      "created": "2020-07-21T15:23:53.859Z",
-      "url": "/t/version-837-update-notes/589532/1",
-      "user": "Kaivax"
-    },
-    {
-      "id": 585796,
-      "title": "Is dispelling World Buffs now bannable?",
-      "created": "2020-07-17T20:37:41.578Z",
-      "url": "/t/is-dispelling-world-buffs-now-bannable/585796/373",
-      "user": "Kaivax"
-    },
-    {
-      "id": 586355,
-      "title": "Addons Now Usable in Shadowlands Beta",
-      "created": "2020-07-17T19:54:03.849Z",
-      "url": "/t/addons-now-usable-in-shadowlands-beta/586355/1",
-      "user": "Kaivax"
-    },
-    {
-      "id": 585814,
-      "title": "Beta Servers down?",
-      "created": "2020-07-17T19:15:42.182Z",
-      "url": "/t/beta-servers-down/585814/28",
-      "user": "Zorbrix"
-    },
-    {
-      "id": 585530,
-      "title": "Realm Connections -- July 23",
-      "created": "2020-07-17T06:18:16.620Z",
-      "url": "/t/realm-connections-july-23/585530/34",
-      "user": "Kaivax"
-    },
-    {
-      "id": 583471,
-      "title": "No Dragonslayer buff due to Overlord Runthak sapped",
-      "created": "2020-07-16T21:13:56.016Z",
-      "url": "/t/no-dragonslayer-buff-due-to-overlord-runthak-sapped/583471/5",
-      "user": "Aggrend"
-    },
-    {
-      "id": 498548,
-      "title": "FEEDBACK: Torghast, Tower of the Damned",
-      "created": "2020-07-16T01:09:42.243Z",
-      "url": "/t/feedback-torghast-tower-of-the-damned/498548/328",
-      "user": "Kaivax"
-    },
-    {
-      "id": 584612,
-      "title": "FEEDBACK: Mythic Keystone Dungeons",
-      "created": "2020-07-16T00:30:03.889Z",
-      "url": "/t/feedback-mythic-keystone-dungeons/584612/4",
-      "user": "Aelthas"
-    },
-    {
-      "id": 584639,
-      "title": "Gladiator Mounts in Shadowlands",
-      "created": "2020-07-15T23:10:09.008Z",
-      "url": "/t/gladiator-mounts-in-shadowlands/584639/1",
-      "user": "Kaivax"
-    },
-    {
-      "id": 592122,
-      "title": "AQ Expectations",
-      "created": "2020-07-24T02:12:50.483Z",
-      "url": "/t/aq-expectations/592122/1",
-      "user": "Kaivax"
-    },
-    {
-      "id": 591585,
-      "title": "FEEDBACK: Hungering Destroyer",
-      "created": "2020-07-23T20:33:34.164Z",
-      "url": "/t/feedback-hungering-destroyer/591585/3",
-      "user": "Aelthas"
-    },
-    {
-      "id": 591595,
-      "title": "Time Runs Short: Battle for Azeroth",
-      "created": "2020-07-23T17:55:56.508Z",
-      "url": "/t/time-runs-short-battle-for-azeroth/591595/38",
-      "user": "Phaerix"
-    },
-    {
-      "id": 591590,
-      "title": "FEEDBACK: Lady Inerva Darkvein",
-      "created": "2020-07-23T16:55:05.782Z",
-      "url": "/t/feedback-lady-inerva-darkvein/591590/1",
-      "user": "Aelthas"
+      "id": 598333,
+      "title": "AQ Events = It is not okay to grief your own faction",
+      "created": "2020-08-01T21:45:09.626Z",
+      "url": "/t/aq-events-it-is-not-okay-to-grief-your-own-faction/598333/50",
+      "user": "Kaivax",
+      "category": 172
     },
     {
       "id": 361448,
-      "title": "WoW Classic Hotfixes -- Updated July 22",
-      "created": "2020-07-23T02:18:54.886Z",
-      "url": "/t/wow-classic-hotfixes-updated-july-22/361448/401",
-      "user": "Kaivax"
+      "title": "WoW Classic Hotfixes -- Updated July 31",
+      "created": "2020-08-01T01:47:46.763Z",
+      "url": "/t/wow-classic-hotfixes-updated-july-31/361448/422",
+      "user": "Blizzard Entertainment",
+      "category": 172
     },
     {
-      "id": 592622,
-      "title": "Taunt Bug -- July 24",
-      "created": "2020-07-24T20:22:25.379Z",
-      "url": "/t/taunt-bug-july-24/592622/1",
-      "user": "Kaivax"
+      "id": 414943,
+      "title": "Hotfixes - Updated July 31, 2020",
+      "created": "2020-08-01T01:42:37.465Z",
+      "url": "/t/hotfixes-updated-july-31-2020/414943/176",
+      "user": "Blizzard Entertainment",
+      "category": 171
     },
     {
-      "id": 592492,
-      "title": "FEEDBACK: Sludgefist",
-      "created": "2020-07-24T16:36:17.719Z",
-      "url": "/t/feedback-sludgefist/592492/1",
-      "user": "Aelthas"
+      "id": 597531,
+      "title": "Ectoplasmic distiller going to stay how it is?",
+      "created": "2020-07-31T23:55:54.841Z",
+      "url": "/t/ectoplasmic-distiller-going-to-stay-how-it-is/597531/64",
+      "user": "Blizzard Entertainment",
+      "category": 172
     },
     {
-      "id": 592491,
-      "title": "FEEDBACK: Sun King's Salvation",
-      "created": "2020-07-24T16:34:29.379Z",
-      "url": "/t/feedback-sun-kings-salvation/592491/1",
-      "user": "Aelthas"
+      "id": 598364,
+      "title": "FEEDBACK: Shriekwing",
+      "created": "2020-07-31T21:05:52.499Z",
+      "url": "/t/feedback-shriekwing/598364/4",
+      "user": "Aelthas",
+      "category": 249
+    },
+    {
+      "id": 598363,
+      "title": "FEEDBACK: Stone Legion Generals",
+      "created": "2020-07-31T16:25:59.861Z",
+      "url": "/t/feedback-stone-legion-generals/598363/1",
+      "user": "Aelthas",
+      "category": 249
     },
     {
       "id": 598027,
       "title": "Realm Connections -- August 4",
       "created": "2020-07-31T04:00:47.320Z",
       "url": "/t/realm-connections-august-4/598027/1",
-      "user": "Kaivax"
+      "user": "Kaivax",
+      "category": 171
     },
     {
       "id": 597434,
       "title": "FEEDBACK: The Council of Blood",
       "created": "2020-07-30T16:37:08.851Z",
       "url": "/t/feedback-the-council-of-blood/597434/1",
-      "user": "Aelthas"
+      "user": "Aelthas",
+      "category": 249
     },
     {
       "id": 597432,
       "title": "FEEDBACK: Huntsman Altimor",
       "created": "2020-07-30T16:36:04.747Z",
       "url": "/t/feedback-huntsman-altimor/597432/1",
-      "user": "Aelthas"
+      "user": "Aelthas",
+      "category": 249
     },
     {
       "id": 490669,
       "title": "Shadowlands Development Update Notes -- July 29",
       "created": "2020-07-29T22:56:14.964Z",
       "url": "/t/shadowlands-development-update-notes-july-29/490669/11",
-      "user": "Blizzard Entertainment"
+      "user": "Blizzard Entertainment",
+      "category": 244
+    },
+    {
+      "id": 498548,
+      "title": "FEEDBACK: Torghast, Tower of the Damned",
+      "created": "2020-07-29T21:38:09.878Z",
+      "url": "/t/feedback-torghast-tower-of-the-damned/498548/338",
+      "user": "Kaivax",
+      "category": 249
     },
     {
       "id": 584532,
       "title": "FEEDBACK: Night Fae Covenant",
       "created": "2020-07-29T17:25:15.799Z",
       "url": "/t/feedback-night-fae-covenant/584532/29",
-      "user": "Blizzard Entertainment"
+      "user": "Blizzard Entertainment",
+      "category": 246
     },
     {
       "id": 596481,
       "title": "Shadowlands Conduits Update",
       "created": "2020-07-29T15:00:25.327Z",
       "url": "/t/shadowlands-conduits-update/596481/1",
-      "user": "Kaivax"
-    },
-    {
-      "id": 414943,
-      "title": "Hotfixes - Updated July 28, 2020",
-      "created": "2020-07-29T02:11:37.844Z",
-      "url": "/t/hotfixes-updated-july-28-2020/414943/174",
-      "user": "Blizzard Entertainment"
+      "user": "Kaivax",
+      "category": 244
     },
     {
       "id": 595734,
       "title": "Raid Testing Schedule - July 30th & 31st",
       "created": "2020-07-28T19:14:47.721Z",
       "url": "/t/raid-testing-schedule-july-30th-31st/595734/1",
-      "user": "Aelthas"
+      "user": "Aelthas",
+      "category": 249
     },
     {
       "id": 595594,
       "title": "The AQ War Effort is Underway!",
       "created": "2020-07-28T17:37:51.029Z",
       "url": "/t/the-aq-war-effort-is-underway/595594/14",
-      "user": "Kaivax"
-    },
-    {
-      "id": 592642,
-      "title": "Proc Weapons and the GCD",
-      "created": "2020-07-28T01:25:08.793Z",
-      "url": "/t/proc-weapons-and-the-gcd/592642/40",
-      "user": "Aggrend"
-    },
-    {
-      "id": 595065,
-      "title": "Raid Reset Planned Downtime for July 28",
-      "created": "2020-07-27T23:16:09.641Z",
-      "url": "/t/raid-reset-planned-downtime-for-july-28/595065/1",
-      "user": "Kaivax"
-    },
-    {
-      "id": 594788,
-      "title": "WoW Classic: The Ahn’Qiraj War Effort Has Begun!",
-      "created": "2020-07-27T19:18:22.220Z",
-      "url": "/t/wow-classic-the-ahn%E2%80%99qiraj-war-effort-has-begun/594788/20",
-      "user": "Nethaera"
-    },
-    {
-      "id": 490706,
-      "title": "FEEDBACK: Druid Class Changes",
-      "created": "2020-07-27T19:14:58.804Z",
-      "url": "/t/feedback-druid-class-changes/490706/185",
-      "user": "Sigma"
+      "user": "Kaivax",
+      "category": 172
     }
   ]
 }
