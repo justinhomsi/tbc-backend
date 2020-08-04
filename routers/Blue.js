@@ -31,7 +31,8 @@ function addToDatabaseJSON() {
     if (post.user.name == null) {
       post.user.name = "Blizzard Entertainment";
     }
-    var insertVars = {id: post.topic_id, title: post.title, created: post.created_at, url: post.url, user: post.user.name, category: post.category_id};
+    var formattedExcerpt = post.excerpt.replace('&hellip;', '...');
+    var insertVars = {id: post.topic_id, title: post.title, created: post.created_at, url: post.url, user: post.user.name, category: post.category_id, excerpt: formattedExcerpt};
     if (tempObj.rows.filter(e => e.id == post.topic_id).length > 0) {
       tempObj.rows.splice(0, 1, insertVars);
       var json = JSON.stringify(tempObj, null, 2);

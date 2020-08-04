@@ -7,143 +7,8 @@
       "created": "2020-07-29T02:11:37.844Z",
       "url": "/t/hotfixes-updated-august-3-2020/414943/174",
       "user": "Blizzard Entertainment",
-      "category": 171
-    },
-    {
-      "id": 598333,
-      "title": "AQ Events = It is not okay to grief your own faction",
-      "created": "2020-08-01T21:45:09.626Z",
-      "url": "/t/aq-events-it-is-not-okay-to-grief-your-own-faction/598333/50",
-      "user": "Kaivax",
-      "category": 172
-    },
-    {
-      "id": 361448,
-      "title": "WoW Classic Hotfixes -- Updated July 31",
-      "created": "2020-08-01T01:47:46.763Z",
-      "url": "/t/wow-classic-hotfixes-updated-july-31/361448/422",
-      "user": "Blizzard Entertainment",
-      "category": 172
-    },
-    {
-      "id": 414943,
-      "title": "Hotfixes - Updated July 31, 2020",
-      "created": "2020-08-01T01:42:37.465Z",
-      "url": "/t/hotfixes-updated-july-31-2020/414943/176",
-      "user": "Blizzard Entertainment",
-      "category": 171
-    },
-    {
-      "id": 597531,
-      "title": "Ectoplasmic distiller going to stay how it is?",
-      "created": "2020-07-31T23:55:54.841Z",
-      "url": "/t/ectoplasmic-distiller-going-to-stay-how-it-is/597531/64",
-      "user": "Blizzard Entertainment",
-      "category": 172
-    },
-    {
-      "id": 598364,
-      "title": "FEEDBACK: Shriekwing",
-      "created": "2020-07-31T21:05:52.499Z",
-      "url": "/t/feedback-shriekwing/598364/4",
-      "user": "Aelthas",
-      "category": 249
-    },
-    {
-      "id": 598363,
-      "title": "FEEDBACK: Stone Legion Generals",
-      "created": "2020-07-31T16:25:59.861Z",
-      "url": "/t/feedback-stone-legion-generals/598363/1",
-      "user": "Aelthas",
-      "category": 249
-    },
-    {
-      "id": 598027,
-      "title": "Realm Connections -- August 4",
-      "created": "2020-07-31T04:00:47.320Z",
-      "url": "/t/realm-connections-august-4/598027/1",
-      "user": "Kaivax",
-      "category": 171
-    },
-    {
-      "id": 597434,
-      "title": "FEEDBACK: The Council of Blood",
-      "created": "2020-07-30T16:37:08.851Z",
-      "url": "/t/feedback-the-council-of-blood/597434/1",
-      "user": "Aelthas",
-      "category": 249
-    },
-    {
-      "id": 597432,
-      "title": "FEEDBACK: Huntsman Altimor",
-      "created": "2020-07-30T16:36:04.747Z",
-      "url": "/t/feedback-huntsman-altimor/597432/1",
-      "user": "Aelthas",
-      "category": 249
-    },
-    {
-      "id": 490669,
-      "title": "Shadowlands Development Update Notes -- July 29",
-      "created": "2020-07-29T22:56:14.964Z",
-      "url": "/t/shadowlands-development-update-notes-july-29/490669/11",
-      "user": "Blizzard Entertainment",
-      "category": 244
-    },
-    {
-      "id": 498548,
-      "title": "FEEDBACK: Torghast, Tower of the Damned",
-      "created": "2020-07-29T21:38:09.878Z",
-      "url": "/t/feedback-torghast-tower-of-the-damned/498548/338",
-      "user": "Kaivax",
-      "category": 249
-    },
-    {
-      "id": 584532,
-      "title": "FEEDBACK: Night Fae Covenant",
-      "created": "2020-07-29T17:25:15.799Z",
-      "url": "/t/feedback-night-fae-covenant/584532/29",
-      "user": "Blizzard Entertainment",
-      "category": 246
-    },
-    {
-      "id": 596481,
-      "title": "Shadowlands Conduits Update",
-      "created": "2020-07-29T15:00:25.327Z",
-      "url": "/t/shadowlands-conduits-update/596481/1",
-      "user": "Kaivax",
-      "category": 244
-    },
-    {
-      "id": 595734,
-      "title": "Raid Testing Schedule - July 30th & 31st",
-      "created": "2020-07-28T19:14:47.721Z",
-      "url": "/t/raid-testing-schedule-july-30th-31st/595734/1",
-      "user": "Aelthas",
-      "category": 249
-    },
-    {
-      "id": 595594,
-      "title": "The AQ War Effort is Underway!",
-      "created": "2020-07-28T17:37:51.029Z",
-      "url": "/t/the-aq-war-effort-is-underway/595594/14",
-      "user": "Kaivax",
-      "category": 172
-    },
-    {
-      "id": 600003,
-      "title": "Actions to Reduce Disruption",
-      "created": "2020-08-02T02:03:39.781Z",
-      "url": "/t/actions-to-reduce-disruption/600003/1",
-      "user": "Kaivax",
-      "category": 172
-    },
-    {
-      "id": 601683,
-      "title": "Actions Taken Against Gallywix And Gold Selling",
-      "created": "2020-08-04T01:57:39.791Z",
-      "url": "/t/actions-taken-against-gallywix-and-gold-selling/601683/1",
-      "user": "Blizzard Entertainment",
-      "category": 171
+      "category": 171,
+      "excerpt": "Here are today’s hotfixes! \nJuly 28, 2020 \nPlayer versus Player \n\nResolved an issue that delayed the start of the Classic Ashran brawl.\n\nWoW Classic \n\nBaristolth of the Shifting Sands now respawns slightly faster, and attacking Baristolth now flags you for PvP."
     },
     {
       "id": 601657,
@@ -151,7 +16,8 @@
       "created": "2020-08-04T01:11:35.787Z",
       "url": "/t/gong-ringing-soon-on-some-realms/601657/1",
       "user": "Kaivax",
-      "category": 172
+      "category": 172,
+      "excerpt": "Hello! \nSince the Ahn’Qiraj content went live with the last weekly reset, we’ve been closely following the progress made by players on every realm. In particular, we’re looking forward to the ringing of the gong on the five realms in this region that have completed their War Effort and will see supp..."
     },
     {
       "id": 598570,
@@ -159,7 +25,134 @@
       "created": "2020-08-03T21:58:30.206Z",
       "url": "/t/hamstring-reduces-the-proc-rate-of-nightfall-in-2020/598570/12",
       "user": "Aggrend",
-      "category": 172
+      "category": 172,
+      "excerpt": "Thanks everyone for the additional reports and commentary about this over the past few days. I don’t want to go too into the weeds about this, but in an effort to be transparent and accurate, I did want to call out an error that we made in our previous post about this: \n\nThis statement is, simply pu..."
+    },
+    {
+      "id": 600003,
+      "title": "Actions to Reduce Disruption",
+      "created": "2020-08-02T02:03:39.781Z",
+      "url": "/t/actions-to-reduce-disruption/600003/1",
+      "user": "Kaivax",
+      "category": 172,
+      "excerpt": "We’ve seen reports that on some realms, players appear to be disrupting those who are working on the Green Scepter Shard portion of the Scepter of the Shifting Sands questline. Specifically, by bringing uninvolved and low-level characters to engage with a required enemy and buff its stats/abilities. ..."
+    },
+    {
+      "id": 598333,
+      "title": "AQ Events = It is not okay to grief your own faction",
+      "created": "2020-08-01T21:45:09.626Z",
+      "url": "/t/aq-events-it-is-not-okay-to-grief-your-own-faction/598333/50",
+      "user": "Kaivax",
+      "category": 172,
+      "excerpt": "As we’ve said elsewhere: \nThe reporting system is there to help us combat bad behavior, toxicity, and unfair gameplay. Attempts to <a href=\"https://us.battle.net/support/en/article/32221\">trick or defraud a Game Master or abusing the system</a> will result in account actions. \nFor anyone whose account received a suspension or action and would like to appeal,..."
+    },
+    {
+      "id": 361448,
+      "title": "WoW Classic Hotfixes -- Updated August 3",
+      "created": "2020-08-01T01:47:46.763Z",
+      "url": "/t/wow-classic-hotfixes-updated-august-3/361448/422",
+      "user": "Blizzard Entertainment",
+      "category": 172,
+      "excerpt": "Heya! Here are today’s Classic hotfixes. \n\nJuly 31, 2020 \nWoW Classic \n\nThe Ectoplasmic Distiller quest item no longer generates threat.\n\nDevelopers’ note: Ordinarily we err on the side of authenticity when it comes to clever use of mechanics in Classic, even if we believe the original development t..."
+    },
+    {
+      "id": 414943,
+      "title": "Hotfixes - Updated August 3, 2020",
+      "created": "2020-08-01T01:42:37.465Z",
+      "url": "/t/hotfixes-updated-august-3-2020/414943/176",
+      "user": "Blizzard Entertainment",
+      "category": 171,
+      "excerpt": "Hey everyone! Below are the hotfixes from today: \n\nJuly 31, 2020 \nItems and Rewards \n\n\nCorrupted Items\n\nReverted the recent change made on the interaction between Fist of Justice and Ineffable Truth for Holy and Protection Paladins.\n\n\n\nWoW Classic \n\nThe Ectoplasmic Distiller quest item no longer gen..."
+    },
+    {
+      "id": 597531,
+      "title": "Ectoplasmic distiller going to stay how it is?",
+      "created": "2020-07-31T23:55:54.841Z",
+      "url": "/t/ectoplasmic-distiller-going-to-stay-how-it-is/597531/64",
+      "user": "Blizzard Entertainment",
+      "category": 172,
+      "excerpt": "A hotfix was applied late last night that made it so the Ectoplasmic Distiller quest item would no longer generate threat. We made this change because in patch 1.12, dropping this item applied a buff to everybody in range of the item, and since buffs generate threat by default, it could be used to t..."
+    },
+    {
+      "id": 598364,
+      "title": "FEEDBACK: Shriekwing",
+      "created": "2020-07-31T21:05:52.499Z",
+      "url": "/t/feedback-shriekwing/598364/4",
+      "user": "Aelthas",
+      "category": 249,
+      "excerpt": "We are aware of the issues with Shriekwing. \nA hotfix was just applied.  If you leave and reset the instance, when you rezone in Shriekwing will be available."
+    },
+    {
+      "id": 598363,
+      "title": "FEEDBACK: Stone Legion Generals",
+      "created": "2020-07-31T16:25:59.861Z",
+      "url": "/t/feedback-stone-legion-generals/598363/1",
+      "user": "Aelthas",
+      "category": 249,
+      "excerpt": "Please use this thread for feedback and bug reports regarding this encounter, or related issues. Noting the nature of your group (Mythic guild premade, PUG, etc.) is helpful, as are any logs. \nThank you to everyone who has come out to help test!"
+    },
+    {
+      "id": 598027,
+      "title": "Realm Connections -- August 4",
+      "created": "2020-07-31T04:00:47.320Z",
+      "url": "/t/realm-connections-august-4/598027/1",
+      "user": "Kaivax",
+      "category": 171,
+      "excerpt": "During a scheduled maintenance period (currently planned for 8:00 a.m. to 4:00 p.m. PDT on Tuesday, August 4), the following realm connections will be made: \n\nThe Drak’thul and Skywall realms will join the Silvermoon and Mok’Nathal realms.\nThe Cairne and Perenolde realms will join the Cenarius realm..."
+    },
+    {
+      "id": 597434,
+      "title": "FEEDBACK: The Council of Blood",
+      "created": "2020-07-30T16:37:08.851Z",
+      "url": "/t/feedback-the-council-of-blood/597434/1",
+      "user": "Aelthas",
+      "category": 249,
+      "excerpt": "Please use this thread for feedback and bug reports regarding this encounter, or related issues. Noting the nature of your group (Mythic guild premade, PUG, etc.) is helpful, as are any logs. \nThank you to everyone who has come out to help test!"
+    },
+    {
+      "id": 597432,
+      "title": "FEEDBACK: Huntsman Altimor",
+      "created": "2020-07-30T16:36:04.747Z",
+      "url": "/t/feedback-huntsman-altimor/597432/1",
+      "user": "Aelthas",
+      "category": 249,
+      "excerpt": "Please use this thread for feedback and bug reports regarding this encounter, or related issues. Noting the nature of your group (Mythic guild premade, PUG, etc.) is helpful, as are any logs. \nThank you to everyone who has come out to help test!"
+    },
+    {
+      "id": 490669,
+      "title": "Shadowlands Development Update Notes -- July 29",
+      "created": "2020-07-29T22:56:14.964Z",
+      "url": "/t/shadowlands-development-update-notes-july-29/490669/11",
+      "user": "Blizzard Entertainment",
+      "category": 244,
+      "excerpt": "For all available content to test, see the <a href=\"https://us.forums.blizzard.com/en/wow/t/shadowlands-development-update-notes-july-29/490669\">original post</a> in this thread. \nA few other recent call outs to be aware of: \n\nCharacter copy is now available, however, there are issues copying Demon Hunters and Death Knights.\nUpcoming changes planned for Soulbinds and Conduits: <a href=\"https://us.forums.blizzard.com/en/wow/t/shadowlands-conduits-update/596481/1\" class=\"inline-onebox\">Shadowlands Conduits Updat...</a>"
+    },
+    {
+      "id": 498548,
+      "title": "FEEDBACK: Torghast, Tower of the Damned",
+      "created": "2020-07-29T21:38:09.878Z",
+      "url": "/t/feedback-torghast-tower-of-the-damned/498548/338",
+      "user": "Kaivax",
+      "category": 249,
+      "excerpt": "Beta Update July 29\n\nAccess to Torghast is now unlocked on an account-wide basis.\nWhen in a party, your highest accessible layer will be defined by the party member with the lowest layer unlocked.\nAnima Cells have updated to look more visible.\nThe door which allows you to exit Torghast has been upda..."
+    },
+    {
+      "id": 584532,
+      "title": "FEEDBACK: Night Fae Covenant",
+      "created": "2020-07-29T17:25:15.799Z",
+      "url": "/t/feedback-night-fae-covenant/584532/29",
+      "user": "Blizzard Entertainment",
+      "category": 246,
+      "excerpt": "Greetings, friends of the Queen. \nIn the next Beta build, we’ve made some changes to the Night Fae’s Signature Ability, Soulshape. These changes are aimed at addressing the feedback we’ve heard from you, and echoed in our own playtesting, that Soulshape simply doesn’t feel powerful enough. \n\nFlicker..."
+    },
+    {
+      "id": 596481,
+      "title": "Shadowlands Conduits Update",
+      "created": "2020-07-29T15:00:25.327Z",
+      "url": "/t/shadowlands-conduits-update/596481/1",
+      "user": "Kaivax",
+      "category": 244,
+      "excerpt": "Starting next week in the Shadowlands Beta, we will begin introducing a series of updates to the Soulbind system to add a persistent collection system for Conduits. Since the Soulbind system was unveiled in the Alpha and discussed in our Developer Update, we’ve heard consistent feedback about the sh..."
     }
   ]
 }
