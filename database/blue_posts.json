@@ -2,12 +2,12 @@
   "table": "blue_posts",
   "rows": [
     {
-      "id": 595594,
-      "title": "The AQ War Effort is Underway!",
-      "created": "2020-07-28T16:44:37.030Z",
-      "url": "/t/the-aq-war-effort-is-underway/595594/1",
-      "user": "Kaivax",
-      "category": 172
+      "id": 414943,
+      "title": "Hotfixes - Updated August 3, 2020",
+      "created": "2020-07-29T02:11:37.844Z",
+      "url": "/t/hotfixes-updated-august-3-2020/414943/174",
+      "user": "Blizzard Entertainment",
+      "category": 171
     },
     {
       "id": 598333,
@@ -135,6 +135,30 @@
       "created": "2020-08-02T02:03:39.781Z",
       "url": "/t/actions-to-reduce-disruption/600003/1",
       "user": "Kaivax",
+      "category": 172
+    },
+    {
+      "id": 601683,
+      "title": "Actions Taken Against Gallywix And Gold Selling",
+      "created": "2020-08-04T01:57:39.791Z",
+      "url": "/t/actions-taken-against-gallywix-and-gold-selling/601683/1",
+      "user": "Blizzard Entertainment",
+      "category": 171
+    },
+    {
+      "id": 601657,
+      "title": "Gong Ringing Soon on Some Realms",
+      "created": "2020-08-04T01:11:35.787Z",
+      "url": "/t/gong-ringing-soon-on-some-realms/601657/1",
+      "user": "Kaivax",
+      "category": 172
+    },
+    {
+      "id": 598570,
+      "title": "Hamstring Reduces the Proc Rate of Nightfall in 2020",
+      "created": "2020-08-03T21:58:30.206Z",
+      "url": "/t/hamstring-reduces-the-proc-rate-of-nightfall-in-2020/598570/12",
+      "user": "Aggrend",
       "category": 172
     }
   ]
