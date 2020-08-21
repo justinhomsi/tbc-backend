@@ -2,6 +2,7 @@ var express = require('express')
 var router = express.Router()
 const item_template = require('../database/item_template.json');
 
+// Route to retrieve items by id
 router.get('/:id', (req, res) => {
   var results = item_template.rows.find(e => e.entry == req.params.id);
   if (!results) {
@@ -14,6 +15,7 @@ router.get('/:id', (req, res) => {
   }
 })
 
+// Route to retrieve items by id and name (used in case of direct links to ensure URL is correct)
 router.get('/:id/:name', (req, res) => {
   var results = item_template.rows.find(e => e.entry == req.params.id);
   if (!results) {

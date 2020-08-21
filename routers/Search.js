@@ -4,6 +4,7 @@ const creature_template = require('../database/creature_template.json');
 const item_template = require('../database/item_template.json');
 const quest_template = require('../database/quest_template.json');
 
+// Route to retrieve search query
 router.get('', (req, res) => {
   var regex = new RegExp(req.query.q, 'i')
   var creatures = creature_template.rows.filter(e => e.Name.match(regex));

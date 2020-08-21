@@ -2,6 +2,7 @@ var express = require('express')
 var router = express.Router()
 var fs = require('fs');
 
+// Route to retrieve original patch notes by version (e.g. 2.0.1)
 router.get('/original/:patch', (req, res) => {
   var patch = req.params.patch;
   patch = patch.split("_").join(".");
